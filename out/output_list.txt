@@ -8,4 +8,4 @@
 8.521|4.5s|ZOOM 1|0.0s|beoutq5|980|45  STARS 5
 9.504|4.5s|ZOOM 1|0.0s|beoutq5|980|45  LIVE 5
 10.518|4.5s|ZOOM 2|0.0s|beoutq2|980|20  ONE 2 Sport
-11.517|5.0s|ZOOM MAX 1|0.0s|beoutq2|980|20  KAN 11
+11.517|4.5s|ZOOM MAX 2|0.0s|beoutq2|980|20  KAN 11
