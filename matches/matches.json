@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-17T03:01:35+00:00",
+  "last_updated": "2026-08-17T05:34:10+00:00",
   "matches": [
     {
       "league": "Slovakia, 2. Liga",
@@ -60,6 +60,24 @@
       "time": "Monday, 17 August 2026 15:30",
       "channels": [
         {
+          "name": "Arena Sport 3 Croatia HD",
+          "details": {
+            "transponders": [
+              {
+                "Name": "EUTELSAT W2",
+                "Position": "16.0E",
+                "Frequency": "11512.00",
+                "Polarisation": "H",
+                "SR": "30000",
+                "FEC": "3/4",
+                "System": "DVB-S2",
+                "Modulation": "8PSK",
+                "Crypt": "Nagravision 3"
+              }
+            ]
+          }
+        },
+        {
           "name": "Digi Sport 1 Romania",
           "details": {
             "transponders": [
@@ -119,6 +137,24 @@
                 "System": "DVB-S2",
                 "Modulation": "8PSK",
                 "Crypt": "Irdeto 2;VideoGuard"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Sportklub 1 Croatia HD",
+          "details": {
+            "transponders": [
+              {
+                "Name": "EUTELSAT 16A",
+                "Position": "16.0E",
+                "Frequency": "11595.00",
+                "Polarisation": "H",
+                "SR": "30000",
+                "FEC": "3/4",
+                "System": "DVB-S2",
+                "Modulation": "8PSK",
+                "Crypt": "Nagravision 3"
               }
             ]
           }
@@ -191,6 +227,24 @@
           }
         },
         {
+          "name": "Arena Sport 1 Croatia HD",
+          "details": {
+            "transponders": [
+              {
+                "Name": "EUTELSAT W2",
+                "Position": "16.0E",
+                "Frequency": "11678.25",
+                "Polarisation": "H",
+                "SR": "30000",
+                "FEC": "3/4",
+                "System": "DVB-S2",
+                "Modulation": "8PSK",
+                "Crypt": "Nagravision 3"
+              }
+            ]
+          }
+        },
+        {
           "name": "Max Sport 3 Bulgaria HD",
           "details": {
             "transponders": [
@@ -237,26 +291,15 @@
       "time": "Monday, 17 August 2026 16:30",
       "channels": [
         {
-          "name": "Sport TV 2 Portugal HD",
+          "name": "Arena Sport 2 Croatia HD",
           "details": {
             "transponders": [
               {
-                "Name": "HISPASAT 1C, 1D",
-                "Position": "30.0W",
-                "Frequency": "12360.00",
+                "Name": "EUTELSAT W2",
+                "Position": "16.0E",
+                "Frequency": "11595.25",
                 "Polarisation": "H",
-                "SR": "27500",
-                "FEC": "3/4",
-                "System": "DVB-S2",
-                "Modulation": "8PSK",
-                "Crypt": "Nagravision 3"
-              },
-              {
-                "Name": "HISPASAT 1C, 1D",
-                "Position": "30.0W",
-                "Frequency": "12246.00",
-                "Polarisation": "H",
-                "SR": "27500",
+                "SR": "30000",
                 "FEC": "3/4",
                 "System": "DVB-S2",
                 "Modulation": "8PSK",
@@ -266,19 +309,55 @@
           }
         },
         {
-          "name": "Tring Sport 1 Albania HD",
+          "name": "Arena Sport 2 Premium Montenegro",
           "details": {
             "transponders": [
               {
-                "Name": "EUTELSAT 16A",
-                "Position": "16.0E",
-                "Frequency": "11427.00",
-                "Polarisation": "V",
-                "SR": "27500",
-                "FEC": "2/3",
+                "Name": "Internet/Stream",
+                "Position": "0",
+                "Frequency": "0",
+                "Polarisation": "H",
+                "SR": "0",
+                "FEC": "-",
+                "System": "-",
+                "Modulation": "-",
+                "Crypt": "Geoblocked"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Arena Sport 2 Serbia HD",
+          "details": {
+            "transponders": [
+              {
+                "Name": "ASTRA 1E,3A",
+                "Position": "23.5E",
+                "Frequency": "11797.00",
+                "Polarisation": "H",
+                "SR": "30000",
+                "FEC": "3/4",
                 "System": "DVB-S2",
                 "Modulation": "8PSK",
                 "Crypt": "Conax"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Italia 1 HD",
+          "details": {
+            "transponders": [
+              {
+                "Name": "HOTBIRD 6,7A,8",
+                "Position": "13.0E",
+                "Frequency": "11432.00",
+                "Polarisation": "V",
+                "SR": "29900",
+                "FEC": "3/4",
+                "System": "DVB-S2",
+                "Modulation": "QPSK",
+                "Crypt": "Nagravision"
               }
             ]
           }
@@ -428,6 +507,52 @@
       ]
     },
     {
+      "league": "Denmark, Superligaen",
+      "homeTeam": "Brondby IF",
+      "awayTeam": "Sonderjyske",
+      "homeFlag": "https://www.sporteventz.com/components/com_magictable/flags/dk.png",
+      "awayFlag": "https://www.sporteventz.com/components/com_magictable/flags/dk.png",
+      "time": "Monday, 17 August 2026 17:00",
+      "channels": [
+        {
+          "name": "Arena Sport 5 Premium BiH",
+          "details": {
+            "transponders": [
+              {
+                "Name": "EUTELSAT W2",
+                "Position": "16.0E",
+                "Frequency": "10972.17",
+                "Polarisation": "V",
+                "SR": "27500",
+                "FEC": "3/5",
+                "System": "DVB-S2",
+                "Modulation": "8PSK",
+                "Crypt": "VideoGuard"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Sportklub 3 Croatia HD",
+          "details": {
+            "transponders": [
+              {
+                "Name": "EUTELSAT W2",
+                "Position": "16.0E",
+                "Frequency": "11512.00",
+                "Polarisation": "H",
+                "SR": "30000",
+                "FEC": "3/4",
+                "System": "DVB-S2",
+                "Modulation": "8PSK",
+                "Crypt": "Nagravision"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
       "league": "Netherlands, Eerste Divisie",
       "homeTeam": "De Graafschap",
       "awayTeam": "Jong Alkmaar",
@@ -484,6 +609,34 @@
       ]
     },
     {
+      "league": "Serbia, Superliga",
+      "homeTeam": "Novi Pazar",
+      "awayTeam": "FK Vojvodina",
+      "homeFlag": "https://www.sporteventz.com/components/com_magictable/flags/rs.png",
+      "awayFlag": "https://www.sporteventz.com/components/com_magictable/flags/rs.png",
+      "time": "Monday, 17 August 2026 18:00",
+      "channels": [
+        {
+          "name": "Arena Sport 6 Croatia HD",
+          "details": {
+            "transponders": [
+              {
+                "Name": "EUTELSAT 16A",
+                "Position": "16.0E",
+                "Frequency": "11595.00",
+                "Polarisation": "H",
+                "SR": "30000",
+                "FEC": "3/4",
+                "System": "DVB-S2",
+                "Modulation": "8PSK",
+                "Crypt": "Nagravision 3"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
       "league": "Bulgaria, First Professional League",
       "homeTeam": "Arda Kardzhali",
       "awayTeam": "Lok. Sofia",
@@ -519,6 +672,24 @@
       "awayFlag": "https://www.sporteventz.com/components/com_magictable/flags/ro.png",
       "time": "Monday, 17 August 2026 18:30",
       "channels": [
+        {
+          "name": "Arena Sport 5 Croatia HD",
+          "details": {
+            "transponders": [
+              {
+                "Name": "EUTELSAT W2",
+                "Position": "16.0E",
+                "Frequency": "11678.25",
+                "Polarisation": "H",
+                "SR": "30000",
+                "FEC": "3/4",
+                "System": "DVB-S2",
+                "Modulation": "8PSK",
+                "Crypt": "Nagravision 3"
+              }
+            ]
+          }
+        },
         {
           "name": "Digi Sport 1 Romania",
           "details": {
@@ -612,6 +783,24 @@
           }
         },
         {
+          "name": "Arena Sport 3 Croatia HD",
+          "details": {
+            "transponders": [
+              {
+                "Name": "EUTELSAT W2",
+                "Position": "16.0E",
+                "Frequency": "11512.00",
+                "Polarisation": "H",
+                "SR": "30000",
+                "FEC": "3/4",
+                "System": "DVB-S2",
+                "Modulation": "8PSK",
+                "Crypt": "Nagravision 3"
+              }
+            ]
+          }
+        },
+        {
           "name": "Tring Sport 2 Albania HD",
           "details": {
             "transponders": [
@@ -639,6 +828,24 @@
       "awayFlag": "https://www.sporteventz.com/components/com_magictable/flags/es.png",
       "time": "Monday, 17 August 2026 19:00",
       "channels": [
+        {
+          "name": "DAZN 1 Bar Germany HD",
+          "details": {
+            "transponders": [
+              {
+                "Name": "ASTRA 1F,1G,1H,1KR,1L",
+                "Position": "19.2E",
+                "Frequency": "11170.50",
+                "Polarisation": "H",
+                "SR": "22000",
+                "FEC": "3/4",
+                "System": "DVB-S2",
+                "Modulation": "QPSK",
+                "Crypt": "Videoguard"
+              }
+            ]
+          }
+        },
         {
           "name": "Digi Sport 3 Romania",
           "details": {
@@ -694,6 +901,24 @@
           }
         },
         {
+          "name": "Sportklub 1 Croatia HD",
+          "details": {
+            "transponders": [
+              {
+                "Name": "EUTELSAT 16A",
+                "Position": "16.0E",
+                "Frequency": "11595.00",
+                "Polarisation": "H",
+                "SR": "30000",
+                "FEC": "3/4",
+                "System": "DVB-S2",
+                "Modulation": "8PSK",
+                "Crypt": "Nagravision 3"
+              }
+            ]
+          }
+        },
+        {
           "name": "Ziggo Sport 1 Netherlands HD",
           "details": {
             "transponders": [
@@ -721,6 +946,24 @@
       "awayFlag": "https://www.sporteventz.com/components/com_magictable/flags/wal.png",
       "time": "Monday, 17 August 2026 19:00",
       "channels": [
+        {
+          "name": "Arena Sport 2 Croatia HD",
+          "details": {
+            "transponders": [
+              {
+                "Name": "EUTELSAT W2",
+                "Position": "16.0E",
+                "Frequency": "11595.25",
+                "Polarisation": "H",
+                "SR": "30000",
+                "FEC": "3/4",
+                "System": "DVB-S2",
+                "Modulation": "8PSK",
+                "Crypt": "Nagravision 3"
+              }
+            ]
+          }
+        },
         {
           "name": "Diema Sport 2 Bulgaria HD",
           "details": {
@@ -943,6 +1186,24 @@
               }
             ]
           }
+        },
+        {
+          "name": "Sportdigital Germany HD",
+          "details": {
+            "transponders": [
+              {
+                "Name": "ASTRA 1F,1G,1H,1KR,1L",
+                "Position": "19.2E",
+                "Frequency": "11656.00",
+                "Polarisation": "V",
+                "SR": "22000",
+                "FEC": "2/3",
+                "System": "DVB-S2",
+                "Modulation": "8PSK",
+                "Crypt": "Cryptoworks ; Irdeto 2 ; Nagravision 3 ; Viaccess 5.0"
+              }
+            ]
+          }
         }
       ]
     },
@@ -954,6 +1215,42 @@
       "awayFlag": "https://www.sporteventz.com/components/com_magictable/flags/it.png",
       "time": "Monday, 17 August 2026 19:15",
       "channels": [
+        {
+          "name": "Arena Sport 1 Croatia HD",
+          "details": {
+            "transponders": [
+              {
+                "Name": "EUTELSAT W2",
+                "Position": "16.0E",
+                "Frequency": "11678.25",
+                "Polarisation": "H",
+                "SR": "30000",
+                "FEC": "3/4",
+                "System": "DVB-S2",
+                "Modulation": "8PSK",
+                "Crypt": "Nagravision 3"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Arena Sport 5 Premium BiH",
+          "details": {
+            "transponders": [
+              {
+                "Name": "EUTELSAT W2",
+                "Position": "16.0E",
+                "Frequency": "10972.17",
+                "Polarisation": "V",
+                "SR": "27500",
+                "FEC": "3/5",
+                "System": "DVB-S2",
+                "Modulation": "8PSK",
+                "Crypt": "VideoGuard"
+              }
+            ]
+          }
+        },
         {
           "name": "Max Sport 3 Bulgaria HD",
           "details": {
@@ -1065,6 +1362,24 @@
       "awayFlag": "https://www.sporteventz.com/components/com_magictable/flags/ar.png",
       "time": "Monday, 17 August 2026 20:00",
       "channels": [
+        {
+          "name": "Arena Sport 4 Croatia HD",
+          "details": {
+            "transponders": [
+              {
+                "Name": "EUTELSAT W2",
+                "Position": "16.0E",
+                "Frequency": "11512.00",
+                "Polarisation": "H",
+                "SR": "30000",
+                "FEC": "3/4",
+                "System": "DVB-S2",
+                "Modulation": "8PSK",
+                "Crypt": "Nagravision 3"
+              }
+            ]
+          }
+        },
         {
           "name": "Sport TV 6 Portugal HD",
           "details": {
