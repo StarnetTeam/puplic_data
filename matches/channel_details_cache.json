@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-17T03:01:35+00:00",
-  "channel_count": 32,
+  "last_updated": "2026-08-17T05:34:10+00:00",
+  "channel_count": 46,
   "channels": {
     "arena 4 hungary hd": {
       "name": "Arena 4 Hungary HD",
@@ -20,6 +20,177 @@
         ]
       },
       "cached_at": "2026-08-17T03:01:29+00:00"
+    },
+    "arena sport 1 croatia hd": {
+      "name": "Arena Sport 1 Croatia HD",
+      "details": {
+        "transponders": [
+          {
+            "Name": "EUTELSAT W2",
+            "Position": "16.0E",
+            "Frequency": "11678.25",
+            "Polarisation": "H",
+            "SR": "30000",
+            "FEC": "3/4",
+            "System": "DVB-S2",
+            "Modulation": "8PSK",
+            "Crypt": "Nagravision 3"
+          }
+        ]
+      },
+      "cached_at": "2026-08-17T05:34:07+00:00"
+    },
+    "arena sport 2 croatia hd": {
+      "name": "Arena Sport 2 Croatia HD",
+      "details": {
+        "transponders": [
+          {
+            "Name": "EUTELSAT W2",
+            "Position": "16.0E",
+            "Frequency": "11595.25",
+            "Polarisation": "H",
+            "SR": "30000",
+            "FEC": "3/4",
+            "System": "DVB-S2",
+            "Modulation": "8PSK",
+            "Crypt": "Nagravision 3"
+          }
+        ]
+      },
+      "cached_at": "2026-08-17T05:34:07+00:00"
+    },
+    "arena sport 2 premium montenegro": {
+      "name": "Arena Sport 2 Premium Montenegro",
+      "details": {
+        "transponders": [
+          {
+            "Name": "Internet/Stream",
+            "Position": "0",
+            "Frequency": "0",
+            "Polarisation": "H",
+            "SR": "0",
+            "FEC": "-",
+            "System": "-",
+            "Modulation": "-",
+            "Crypt": "Geoblocked"
+          }
+        ]
+      },
+      "cached_at": "2026-08-17T05:34:07+00:00"
+    },
+    "arena sport 2 serbia hd": {
+      "name": "Arena Sport 2 Serbia HD",
+      "details": {
+        "transponders": [
+          {
+            "Name": "ASTRA 1E,3A",
+            "Position": "23.5E",
+            "Frequency": "11797.00",
+            "Polarisation": "H",
+            "SR": "30000",
+            "FEC": "3/4",
+            "System": "DVB-S2",
+            "Modulation": "8PSK",
+            "Crypt": "Conax"
+          }
+        ]
+      },
+      "cached_at": "2026-08-17T05:34:07+00:00"
+    },
+    "arena sport 3 croatia hd": {
+      "name": "Arena Sport 3 Croatia HD",
+      "details": {
+        "transponders": [
+          {
+            "Name": "EUTELSAT W2",
+            "Position": "16.0E",
+            "Frequency": "11512.00",
+            "Polarisation": "H",
+            "SR": "30000",
+            "FEC": "3/4",
+            "System": "DVB-S2",
+            "Modulation": "8PSK",
+            "Crypt": "Nagravision 3"
+          }
+        ]
+      },
+      "cached_at": "2026-08-17T05:34:06+00:00"
+    },
+    "arena sport 4 croatia hd": {
+      "name": "Arena Sport 4 Croatia HD",
+      "details": {
+        "transponders": [
+          {
+            "Name": "EUTELSAT W2",
+            "Position": "16.0E",
+            "Frequency": "11512.00",
+            "Polarisation": "H",
+            "SR": "30000",
+            "FEC": "3/4",
+            "System": "DVB-S2",
+            "Modulation": "8PSK",
+            "Crypt": "Nagravision 3"
+          }
+        ]
+      },
+      "cached_at": "2026-08-17T05:34:10+00:00"
+    },
+    "arena sport 5 croatia hd": {
+      "name": "Arena Sport 5 Croatia HD",
+      "details": {
+        "transponders": [
+          {
+            "Name": "EUTELSAT W2",
+            "Position": "16.0E",
+            "Frequency": "11678.25",
+            "Polarisation": "H",
+            "SR": "30000",
+            "FEC": "3/4",
+            "System": "DVB-S2",
+            "Modulation": "8PSK",
+            "Crypt": "Nagravision 3"
+          }
+        ]
+      },
+      "cached_at": "2026-08-17T05:34:09+00:00"
+    },
+    "arena sport 5 premium bih": {
+      "name": "Arena Sport 5 Premium BiH",
+      "details": {
+        "transponders": [
+          {
+            "Name": "EUTELSAT W2",
+            "Position": "16.0E",
+            "Frequency": "10972.17",
+            "Polarisation": "V",
+            "SR": "27500",
+            "FEC": "3/5",
+            "System": "DVB-S2",
+            "Modulation": "8PSK",
+            "Crypt": "VideoGuard"
+          }
+        ]
+      },
+      "cached_at": "2026-08-17T05:34:08+00:00"
+    },
+    "arena sport 6 croatia hd": {
+      "name": "Arena Sport 6 Croatia HD",
+      "details": {
+        "transponders": [
+          {
+            "Name": "EUTELSAT 16A",
+            "Position": "16.0E",
+            "Frequency": "11595.00",
+            "Polarisation": "H",
+            "SR": "30000",
+            "FEC": "3/4",
+            "System": "DVB-S2",
+            "Modulation": "8PSK",
+            "Crypt": "Nagravision 3"
+          }
+        ]
+      },
+      "cached_at": "2026-08-17T05:34:08+00:00"
     },
     "ct sport czech hd": {
       "name": "CT Sport Czech HD",
@@ -50,6 +221,25 @@
         ]
       },
       "cached_at": "2026-08-17T03:01:29+00:00"
+    },
+    "dazn 1 bar germany hd": {
+      "name": "DAZN 1 Bar Germany HD",
+      "details": {
+        "transponders": [
+          {
+            "Name": "ASTRA 1F,1G,1H,1KR,1L",
+            "Position": "19.2E",
+            "Frequency": "11170.50",
+            "Polarisation": "H",
+            "SR": "22000",
+            "FEC": "3/4",
+            "System": "DVB-S2",
+            "Modulation": "QPSK",
+            "Crypt": "Videoguard"
+          }
+        ]
+      },
+      "cached_at": "2026-08-17T05:34:09+00:00"
     },
     "diema sport 1 bulgaria hd": {
       "name": "Diema Sport 1 Bulgaria HD",
@@ -221,6 +411,25 @@
         ]
       },
       "cached_at": "2026-08-17T03:01:31+00:00"
+    },
+    "italia 1 hd": {
+      "name": "Italia 1 HD",
+      "details": {
+        "transponders": [
+          {
+            "Name": "HOTBIRD 6,7A,8",
+            "Position": "13.0E",
+            "Frequency": "11432.00",
+            "Polarisation": "V",
+            "SR": "29900",
+            "FEC": "3/4",
+            "System": "DVB-S2",
+            "Modulation": "QPSK",
+            "Crypt": "Nagravision"
+          }
+        ]
+      },
+      "cached_at": "2026-08-17T05:34:08+00:00"
     },
     "match 4 hd hungary": {
       "name": "Match 4 HD Hungary",
@@ -583,6 +792,63 @@
         ]
       },
       "cached_at": "2026-08-17T03:01:31+00:00"
+    },
+    "sportdigital germany hd": {
+      "name": "Sportdigital Germany HD",
+      "details": {
+        "transponders": [
+          {
+            "Name": "ASTRA 1F,1G,1H,1KR,1L",
+            "Position": "19.2E",
+            "Frequency": "11656.00",
+            "Polarisation": "V",
+            "SR": "22000",
+            "FEC": "2/3",
+            "System": "DVB-S2",
+            "Modulation": "8PSK",
+            "Crypt": "Cryptoworks ; Irdeto 2 ; Nagravision 3 ; Viaccess 5.0"
+          }
+        ]
+      },
+      "cached_at": "2026-08-17T05:34:09+00:00"
+    },
+    "sportklub 1 croatia hd": {
+      "name": "Sportklub 1 Croatia HD",
+      "details": {
+        "transponders": [
+          {
+            "Name": "EUTELSAT 16A",
+            "Position": "16.0E",
+            "Frequency": "11595.00",
+            "Polarisation": "H",
+            "SR": "30000",
+            "FEC": "3/4",
+            "System": "DVB-S2",
+            "Modulation": "8PSK",
+            "Crypt": "Nagravision 3"
+          }
+        ]
+      },
+      "cached_at": "2026-08-17T05:34:06+00:00"
+    },
+    "sportklub 3 croatia hd": {
+      "name": "Sportklub 3 Croatia HD",
+      "details": {
+        "transponders": [
+          {
+            "Name": "EUTELSAT W2",
+            "Position": "16.0E",
+            "Frequency": "11512.00",
+            "Polarisation": "H",
+            "SR": "30000",
+            "FEC": "3/4",
+            "System": "DVB-S2",
+            "Modulation": "8PSK",
+            "Crypt": "Nagravision"
+          }
+        ]
+      },
+      "cached_at": "2026-08-17T05:34:08+00:00"
     },
     "tring sport 1 albania hd": {
       "name": "Tring Sport 1 Albania HD",
