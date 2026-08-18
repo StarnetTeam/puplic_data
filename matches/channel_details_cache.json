@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-17T05:34:10+00:00",
-  "channel_count": 46,
+  "last_updated": "2026-08-18T05:27:10+00:00",
+  "channel_count": 55,
   "channels": {
     "arena 4 hungary hd": {
       "name": "Arena 4 Hungary HD",
@@ -192,6 +192,36 @@
       },
       "cached_at": "2026-08-17T05:34:08+00:00"
     },
+    "canal 11 portugal hd": {
+      "name": "Canal 11 Portugal HD",
+      "details": {
+        "transponders": [
+          {
+            "Name": "HISPASAT 1C, 1D",
+            "Position": "30.0W",
+            "Frequency": "12168.00",
+            "Polarisation": "H",
+            "SR": "27500",
+            "FEC": "3/4",
+            "System": "DVB-S2",
+            "Modulation": "8PSK",
+            "Crypt": "Nagravision 3"
+          },
+          {
+            "Name": "HISPASAT 1C, 1D",
+            "Position": "30.0W",
+            "Frequency": "12437.00",
+            "Polarisation": "H",
+            "SR": "27500",
+            "FEC": "3/4",
+            "System": "DVB-S2",
+            "Modulation": "8PSK",
+            "Crypt": "Nagravision 3"
+          }
+        ]
+      },
+      "cached_at": "2026-08-18T05:27:08+00:00"
+    },
     "ct sport czech hd": {
       "name": "CT Sport Czech HD",
       "details": {
@@ -240,6 +270,25 @@
         ]
       },
       "cached_at": "2026-08-17T05:34:09+00:00"
+    },
+    "dazn 2 bar germany hd": {
+      "name": "DAZN 2 Bar Germany HD",
+      "details": {
+        "transponders": [
+          {
+            "Name": "ASTRA 1F,1G,1H,1KR,1L",
+            "Position": "19.2E",
+            "Frequency": "11797.50",
+            "Polarisation": "H",
+            "SR": "27500",
+            "FEC": "9/10",
+            "System": "DVB-S2",
+            "Modulation": "QPSK",
+            "Crypt": "Videoguard"
+          }
+        ]
+      },
+      "cached_at": "2026-08-18T05:27:08+00:00"
     },
     "diema sport 1 bulgaria hd": {
       "name": "Diema Sport 1 Bulgaria HD",
@@ -469,6 +518,25 @@
       },
       "cached_at": "2026-08-17T03:01:33+00:00"
     },
+    "max sport 2 bulgaria hd": {
+      "name": "Max Sport 2 Bulgaria HD",
+      "details": {
+        "transponders": [
+          {
+            "Name": "HOTBIRD 13F",
+            "Position": "13.0E",
+            "Frequency": "11804.00",
+            "Polarisation": "V",
+            "SR": "29700",
+            "FEC": "3/4",
+            "System": "DVB-S2",
+            "Modulation": "8PSK",
+            "Crypt": "Irdeto 2;VideoGuard"
+          }
+        ]
+      },
+      "cached_at": "2026-08-18T05:27:08+00:00"
+    },
     "max sport 3 bulgaria hd": {
       "name": "Max Sport 3 Bulgaria HD",
       "details": {
@@ -583,6 +651,25 @@
       },
       "cached_at": "2026-08-17T03:01:35+00:00"
     },
+    "rtl plug hd belgium": {
+      "name": "RTL Plug HD Belgium",
+      "details": {
+        "transponders": [
+          {
+            "Name": "HOTBIRD 6,7A,8",
+            "Position": "13.0E",
+            "Frequency": "10930.00",
+            "Polarisation": "H",
+            "SR": "30000",
+            "FEC": "2/3",
+            "System": "DVB-S2",
+            "Modulation": "QPSK",
+            "Crypt": "Mediaguard ; Viaccess"
+          }
+        ]
+      },
+      "cached_at": "2026-08-18T05:27:09+00:00"
+    },
     "rtvs sport slovakia hd": {
       "name": "RTVS Sport Slovakia HD",
       "details": {
@@ -623,6 +710,44 @@
         ]
       },
       "cached_at": "2026-08-17T03:01:27+00:00"
+    },
+    "sky sport 3 austria hd": {
+      "name": "Sky Sport 3 Austria HD",
+      "details": {
+        "transponders": [
+          {
+            "Name": "ASTRA 1F,1G,1H,1KR,1L",
+            "Position": "19.2E",
+            "Frequency": "11797.50",
+            "Polarisation": "H",
+            "SR": "27500",
+            "FEC": "9/10",
+            "System": "DVB-S2",
+            "Modulation": "QPSK",
+            "Crypt": "Videoguard"
+          }
+        ]
+      },
+      "cached_at": "2026-08-18T05:27:09+00:00"
+    },
+    "sky sport 4 austria hd": {
+      "name": "Sky Sport 4 Austria HD",
+      "details": {
+        "transponders": [
+          {
+            "Name": "ASTRA 1F,1G,1H,1KR,1L",
+            "Position": "19.2E",
+            "Frequency": "12382.50",
+            "Polarisation": "H",
+            "SR": "27500",
+            "FEC": "3/4",
+            "System": "DVB-S2",
+            "Modulation": "8PSK",
+            "Crypt": "Videoguard"
+          }
+        ]
+      },
+      "cached_at": "2026-08-18T05:27:08+00:00"
     },
     "sport 1 hungary hd": {
       "name": "Sport 1 Hungary HD",
@@ -732,6 +857,36 @@
         ]
       },
       "cached_at": "2026-08-17T03:01:34+00:00"
+    },
+    "sport tv 5 portugal hd": {
+      "name": "Sport TV 5 Portugal HD",
+      "details": {
+        "transponders": [
+          {
+            "Name": "HISPASAT 1C, 1D",
+            "Position": "not available",
+            "Frequency": "not available",
+            "Polarisation": "not available",
+            "SR": "not available",
+            "FEC": "3/4",
+            "System": "DVB-S2",
+            "Modulation": "not available",
+            "Crypt": "not available"
+          },
+          {
+            "Name": "HISPASAT 1C, 1D",
+            "Position": "not available",
+            "Frequency": "not available",
+            "Polarisation": "not available",
+            "SR": "not available",
+            "FEC": "3/4",
+            "System": "DVB-S2",
+            "Modulation": "not available",
+            "Crypt": "not available"
+          }
+        ]
+      },
+      "cached_at": "2026-08-18T05:27:09+00:00"
     },
     "sport tv 6 portugal hd": {
       "name": "Sport TV 6 Portugal HD",
@@ -888,6 +1043,25 @@
       },
       "cached_at": "2026-08-17T03:01:32+00:00"
     },
+    "tring sport 3 albania hd": {
+      "name": "Tring Sport 3 Albania HD",
+      "details": {
+        "transponders": [
+          {
+            "Name": "EUTELSAT 16A",
+            "Position": "16.0E",
+            "Frequency": "11427.00",
+            "Polarisation": "V",
+            "SR": "27500",
+            "FEC": "2/3",
+            "System": "DVB-S2",
+            "Modulation": "8PSK",
+            "Crypt": "Conax"
+          }
+        ]
+      },
+      "cached_at": "2026-08-18T05:27:09+00:00"
+    },
     "trt spor hd": {
       "name": "TRT Spor HD",
       "details": {
@@ -925,6 +1099,36 @@
         ]
       },
       "cached_at": "2026-08-17T03:01:30+00:00"
+    },
+    "vtm 2 hd": {
+      "name": "VTM 2 HD",
+      "details": {
+        "transponders": [
+          {
+            "Name": "HISPASAT 1C, 1D",
+            "Position": "not available",
+            "Frequency": "not available",
+            "Polarisation": "not available",
+            "SR": "not available",
+            "FEC": "3/4",
+            "System": "DVB-S2",
+            "Modulation": "not available",
+            "Crypt": "not available"
+          },
+          {
+            "Name": "HISPASAT 1C, 1D",
+            "Position": "not available",
+            "Frequency": "not available",
+            "Polarisation": "not available",
+            "SR": "not available",
+            "FEC": "3/4",
+            "System": "DVB-S2",
+            "Modulation": "not available",
+            "Crypt": "not available"
+          }
+        ]
+      },
+      "cached_at": "2026-08-18T05:27:10+00:00"
     },
     "ziggo sport 1 netherlands hd": {
       "name": "Ziggo Sport 1 Netherlands HD",
