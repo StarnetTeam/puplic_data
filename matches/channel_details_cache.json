@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-18T05:27:10+00:00",
-  "channel_count": 55,
+  "last_updated": "2026-08-19T05:28:23+00:00",
+  "channel_count": 63,
   "channels": {
     "arena 4 hungary hd": {
       "name": "Arena 4 Hungary HD",
@@ -192,6 +192,25 @@
       },
       "cached_at": "2026-08-17T05:34:08+00:00"
     },
+    "btv action hd": {
+      "name": "BTV Action HD",
+      "details": {
+        "transponders": [
+          {
+            "Name": "HOTBIRD 13F",
+            "Position": "13.0E",
+            "Frequency": "11804.00",
+            "Polarisation": "V",
+            "SR": "29700",
+            "FEC": "3/4",
+            "System": "DVB-S2",
+            "Modulation": "8PSK",
+            "Crypt": "Irdeto 2;VideoGuard"
+          }
+        ]
+      },
+      "cached_at": "2026-08-19T05:28:22+00:00"
+    },
     "canal 11 portugal hd": {
       "name": "Canal 11 Portugal HD",
       "details": {
@@ -270,6 +289,36 @@
         ]
       },
       "cached_at": "2026-08-17T05:34:09+00:00"
+    },
+    "dazn 1 portugal hd": {
+      "name": "Dazn 1 Portugal HD",
+      "details": {
+        "transponders": [
+          {
+            "Name": "HISPASAT 1C, 1D",
+            "Position": "30.0W",
+            "Frequency": "12398.00",
+            "Polarisation": "H",
+            "SR": "27500",
+            "FEC": "3/4",
+            "System": "DVB-S2",
+            "Modulation": "8PSK",
+            "Crypt": "Nagravision 3"
+          },
+          {
+            "Name": "HISPASAT 1C, 1D",
+            "Position": "30.0W",
+            "Frequency": "12398.00",
+            "Polarisation": "H",
+            "SR": "27500",
+            "FEC": "3/4",
+            "System": "DVB-S2",
+            "Modulation": "8PSK",
+            "Crypt": "Nagravision 3"
+          }
+        ]
+      },
+      "cached_at": "2026-08-19T05:28:21+00:00"
     },
     "dazn 2 bar germany hd": {
       "name": "DAZN 2 Bar Germany HD",
@@ -423,6 +472,25 @@
       },
       "cached_at": "2026-08-17T03:01:31+00:00"
     },
+    "digi sport 4 romania": {
+      "name": "Digi Sport 4 Romania",
+      "details": {
+        "transponders": [
+          {
+            "Name": "INTELSAT 10",
+            "Position": "0.8W",
+            "Frequency": "12687.00",
+            "Polarisation": "H",
+            "SR": "27500",
+            "FEC": "3/4",
+            "System": "DVB-S",
+            "Modulation": "QPSK",
+            "Crypt": "Nagravision 3"
+          }
+        ]
+      },
+      "cached_at": "2026-08-19T05:28:21+00:00"
+    },
     "espn 2 netherlands hd": {
       "name": "ESPN 2 Netherlands HD",
       "details": {
@@ -460,6 +528,25 @@
         ]
       },
       "cached_at": "2026-08-17T03:01:31+00:00"
+    },
+    "hrt 2 croatia hd": {
+      "name": "HRT 2 Croatia HD",
+      "details": {
+        "transponders": [
+          {
+            "Name": "EUTELSAT W2",
+            "Position": "not available",
+            "Frequency": "not available",
+            "Polarisation": "not available",
+            "SR": "not available",
+            "FEC": "2/3",
+            "System": "DVB-S2",
+            "Modulation": "not available",
+            "Crypt": "not available"
+          }
+        ]
+      },
+      "cached_at": "2026-08-19T05:28:22+00:00"
     },
     "italia 1 hd": {
       "name": "Italia 1 HD",
@@ -613,6 +700,25 @@
       },
       "cached_at": "2026-08-17T03:01:32+00:00"
     },
+    "nova sport 5 czechia hd": {
+      "name": "Nova Sport 5 Czechia HD",
+      "details": {
+        "transponders": [
+          {
+            "Name": "ASTRA 3B",
+            "Position": "23.5E",
+            "Frequency": "11934.00",
+            "Polarisation": "V",
+            "SR": "27500",
+            "FEC": "3/4",
+            "System": "DVB-S2",
+            "Modulation": "8PSK",
+            "Crypt": "Conax ; Irdeto 2 ; Nagravision 3 ; Viaccess 5.0"
+          }
+        ]
+      },
+      "cached_at": "2026-08-19T05:28:22+00:00"
+    },
     "nova sport 6 czechia hd": {
       "name": "Nova Sport 6 Czechia HD",
       "details": {
@@ -650,6 +756,25 @@
         ]
       },
       "cached_at": "2026-08-17T03:01:35+00:00"
+    },
+    "ring bg hd": {
+      "name": "Ring BG HD",
+      "details": {
+        "transponders": [
+          {
+            "Name": "HOTBIRD 13F",
+            "Position": "13.0E",
+            "Frequency": "11804.00",
+            "Polarisation": "V",
+            "SR": "29700",
+            "FEC": "3/4",
+            "System": "DVB-S2",
+            "Modulation": "8PSK",
+            "Crypt": "Irdeto 2;VideoGuard"
+          }
+        ]
+      },
+      "cached_at": "2026-08-19T05:28:22+00:00"
     },
     "rtl plug hd belgium": {
       "name": "RTL Plug HD Belgium",
@@ -748,6 +873,36 @@
         ]
       },
       "cached_at": "2026-08-18T05:27:08+00:00"
+    },
+    "spiler 2 tv hungary": {
+      "name": "Spiler 2 TV Hungary",
+      "details": {
+        "transponders": [
+          {
+            "Name": "Thor 6",
+            "Position": "0.8W",
+            "Frequency": "11785.00",
+            "Polarisation": "H",
+            "SR": "28000",
+            "FEC": "7/8",
+            "System": "DVB-S",
+            "Modulation": "QPSK",
+            "Crypt": "Conax"
+          },
+          {
+            "Name": "Thor 6",
+            "Position": "not available",
+            "Frequency": "not available",
+            "Polarisation": "not available",
+            "SR": "not available",
+            "FEC": "7/8",
+            "System": "DVB-S",
+            "Modulation": "not available",
+            "Crypt": "not available"
+          }
+        ]
+      },
+      "cached_at": "2026-08-19T05:28:21+00:00"
     },
     "sport 1 hungary hd": {
       "name": "Sport 1 Hungary HD",
@@ -1061,6 +1216,25 @@
         ]
       },
       "cached_at": "2026-08-18T05:27:09+00:00"
+    },
+    "tring sport 4 albania hd": {
+      "name": "Tring Sport 4 Albania HD",
+      "details": {
+        "transponders": [
+          {
+            "Name": "EUTELSAT 16A",
+            "Position": "16.0E",
+            "Frequency": "11427.00",
+            "Polarisation": "V",
+            "SR": "27500",
+            "FEC": "2/3",
+            "System": "DVB-S2",
+            "Modulation": "8PSK",
+            "Crypt": "Conax"
+          }
+        ]
+      },
+      "cached_at": "2026-08-19T05:28:21+00:00"
     },
     "trt spor hd": {
       "name": "TRT Spor HD",
