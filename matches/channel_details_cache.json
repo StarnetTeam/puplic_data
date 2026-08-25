@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-24T05:37:00+00:00",
-  "channel_count": 122,
+  "last_updated": "2026-08-25T05:29:54+00:00",
+  "channel_count": 124,
   "channels": {
     "arena 4 hungary hd": {
       "name": "Arena 4 Hungary HD",
@@ -922,6 +922,25 @@
         ]
       },
       "cached_at": "2026-08-17T03:01:33+00:00"
+    },
+    "max sport 1 bulgaria hd": {
+      "name": "Max Sport 1 Bulgaria HD",
+      "details": {
+        "transponders": [
+          {
+            "Name": "HOTBIRD 13F",
+            "Position": "13.0E",
+            "Frequency": "11804.00",
+            "Polarisation": "V",
+            "SR": "29700",
+            "FEC": "3/4",
+            "System": "DVB-S2",
+            "Modulation": "8PSK",
+            "Crypt": "Irdeto 2;VideoGuard"
+          }
+        ]
+      },
+      "cached_at": "2026-08-25T05:29:52+00:00"
     },
     "max sport 1 croatia hd": {
       "name": "Max Sport 1 Croatia HD",
@@ -2186,6 +2205,25 @@
         ]
       },
       "cached_at": "2026-08-17T05:34:09+00:00"
+    },
+    "sporting tv": {
+      "name": "Sporting TV",
+      "details": {
+        "transponders": [
+          {
+            "Name": "HISPASAT 1C, 1D",
+            "Position": "30.0W",
+            "Frequency": "12169.00",
+            "Polarisation": "H",
+            "SR": "27500",
+            "FEC": "3/4",
+            "System": "DVB-S2",
+            "Modulation": "8PSK",
+            "Crypt": "Mediaguard 2:Nagravision 3"
+          }
+        ]
+      },
+      "cached_at": "2026-08-25T05:29:53+00:00"
     },
     "sportklub 1 croatia hd": {
       "name": "Sportklub 1 Croatia HD",
