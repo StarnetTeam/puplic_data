@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-25T05:29:54+00:00",
-  "channel_count": 124,
+  "last_updated": "2026-08-26T05:32:37+00:00",
+  "channel_count": 127,
   "channels": {
     "arena 4 hungary hd": {
       "name": "Arena 4 Hungary HD",
@@ -336,6 +336,25 @@
       },
       "cached_at": "2026-08-19T05:28:22+00:00"
     },
+    "btv hd": {
+      "name": "BTV HD",
+      "details": {
+        "transponders": [
+          {
+            "Name": "HOTBIRD 13F",
+            "Position": "13.0E",
+            "Frequency": "11804.00",
+            "Polarisation": "V",
+            "SR": "29700",
+            "FEC": "3/4",
+            "System": "DVB-S2",
+            "Modulation": "8PSK",
+            "Crypt": "Irdeto 2;VideoGuard"
+          }
+        ]
+      },
+      "cached_at": "2026-08-26T05:32:36+00:00"
+    },
     "canal 11 portugal hd": {
       "name": "Canal 11 Portugal HD",
       "details": {
@@ -365,6 +384,44 @@
         ]
       },
       "cached_at": "2026-08-18T05:27:08+00:00"
+    },
+    "canal plus sport poland hd": {
+      "name": "Canal Plus Sport Poland HD",
+      "details": {
+        "transponders": [
+          {
+            "Name": "HOTBIRD 6,7A,8",
+            "Position": "13.0E",
+            "Frequency": "11278.36",
+            "Polarisation": "V",
+            "SR": "27500",
+            "FEC": "3/4",
+            "System": "DVB-S2",
+            "Modulation": "8PSK",
+            "Crypt": "Mediaguard 3:Nagravision 3"
+          }
+        ]
+      },
+      "cached_at": "2026-08-26T05:32:36+00:00"
+    },
+    "club rtl belgium": {
+      "name": "Club RTL Belgium",
+      "details": {
+        "transponders": [
+          {
+            "Name": "HOTBIRD 6,7A,8",
+            "Position": "13.0E",
+            "Frequency": "10930.00",
+            "Polarisation": "H",
+            "SR": "27500",
+            "FEC": "3/4",
+            "System": "DVB-S2",
+            "Modulation": "8PSK",
+            "Crypt": "Mediaguard ; Viaccess"
+          }
+        ]
+      },
+      "cached_at": "2026-08-26T05:32:37+00:00"
     },
     "ct sport czech hd": {
       "name": "CT Sport Czech HD",
