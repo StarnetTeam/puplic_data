@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-27T04:53:55+00:00",
-  "channel_count": 140,
+  "last_updated": "2026-08-27T16:19:42+00:00",
+  "channel_count": 145,
   "channels": {
     "arena 4 hungary hd": {
       "name": "Arena 4 Hungary HD",
@@ -1656,6 +1656,25 @@
       },
       "cached_at": "2026-08-18T05:27:09+00:00"
     },
+    "rtrs": {
+      "name": "RTRS",
+      "details": {
+        "transponders": [
+          {
+            "Name": "EUTELSAT W2",
+            "Position": "16.0E",
+            "Frequency": "11262.25",
+            "Polarisation": "H",
+            "SR": "30000",
+            "FEC": "2/3",
+            "System": "DVB-S",
+            "Modulation": "QPSK",
+            "Crypt": "Frei:Biss"
+          }
+        ]
+      },
+      "cached_at": "2026-08-27T16:19:41+00:00"
+    },
     "rts 2 switzerland hd": {
       "name": "RTS 2 Switzerland HD",
       "details": {
@@ -1674,6 +1693,44 @@
         ]
       },
       "cached_at": "2026-08-20T05:28:40+00:00"
+    },
+    "rtsh 1 albania hd": {
+      "name": "RTSH 1 Albania HD",
+      "details": {
+        "transponders": [
+          {
+            "Name": "EUTELSAT W2",
+            "Position": "not available",
+            "Frequency": "not available",
+            "Polarisation": "not available",
+            "SR": "not available",
+            "FEC": "3/5",
+            "System": "DVB-S2",
+            "Modulation": "not available",
+            "Crypt": "not available"
+          }
+        ]
+      },
+      "cached_at": "2026-08-27T16:19:40+00:00"
+    },
+    "rtsh sport hd": {
+      "name": "RTSH Sport HD",
+      "details": {
+        "transponders": [
+          {
+            "Name": "EUTELSAT W2",
+            "Position": "not available",
+            "Frequency": "not available",
+            "Polarisation": "not available",
+            "SR": "not available",
+            "FEC": "3/5",
+            "System": "DVB-S2",
+            "Modulation": "not available",
+            "Crypt": "not available"
+          }
+        ]
+      },
+      "cached_at": "2026-08-27T16:19:40+00:00"
     },
     "rtvs sport slovakia hd": {
       "name": "RTVS Sport Slovakia HD",
@@ -2559,6 +2616,25 @@
       },
       "cached_at": "2026-08-27T04:53:53+00:00"
     },
+    "super polsat hd": {
+      "name": "Super Polsat HD",
+      "details": {
+        "transponders": [
+          {
+            "Name": "HOTBIRD 6,7A,8",
+            "Position": "13.0E",
+            "Frequency": "11158.00",
+            "Polarisation": "V",
+            "SR": "27500",
+            "FEC": "5/6",
+            "System": "DVB-S",
+            "Modulation": "QPSK",
+            "Crypt": "Conax:Mediaguard 3:Nagravision 3:Viaccess 3.0"
+          }
+        ]
+      },
+      "cached_at": "2026-08-27T16:19:39+00:00"
+    },
     "supersport 1 albania hd": {
       "name": "SuperSport 1 Albania HD",
       "details": {
@@ -2786,6 +2862,25 @@
         ]
       },
       "cached_at": "2026-08-17T03:01:32+00:00"
+    },
+    "tv 8 italia hd": {
+      "name": "TV 8 Italia HD",
+      "details": {
+        "transponders": [
+          {
+            "Name": "HOTBIRD 6,7A,8",
+            "Position": "not available",
+            "Frequency": "not available",
+            "Polarisation": "not available",
+            "SR": "not available",
+            "FEC": "5/6",
+            "System": "DVB-S2",
+            "Modulation": "not available",
+            "Crypt": "not available"
+          }
+        ]
+      },
+      "cached_at": "2026-08-27T16:19:41+00:00"
     },
     "tvp 2 hd": {
       "name": "TVP 2 HD",
