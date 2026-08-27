@@ -1,23 +1,7 @@
 {
   "source": "https://jdwel.com/today/",
-  "generated_at_utc": "2026-08-27T05:01:52.485515+00:00",
+  "generated_at_utc": "2026-08-27T13:21:55.693679+00:00",
   "matches": [
-    {
-      "competition": "الدوري الإسباني",
-      "home_team": "برشلونة",
-      "away_team": "أتلتيك بيلباو",
-      "home_logo": "https://jdwel.com/image/teams/3337.png",
-      "away_logo": "https://jdwel.com/image/teams/2033.png",
-      "match_time": "27 أغسطس 2026، 22:00",
-      "audio_original": [
-        "beIN SPORTS 1 (خليل البلوشي)"
-      ],
-      "audio": [
-        "الصوتية الأولى — Audio 1 (خليل البلوشي)"
-      ],
-      "audio_text": "الصوتية الأولى — Audio 1 (خليل البلوشي)",
-      "channel_names_mode": "custom"
-    },
     {
       "competition": "الدوري الإسباني",
       "home_team": "سيلتا فيغو",
@@ -35,6 +19,22 @@
       "channel_names_mode": "custom"
     },
     {
+      "competition": "الدوري الإسباني",
+      "home_team": "برشلونة",
+      "away_team": "أتلتيك بيلباو",
+      "home_logo": "https://jdwel.com/image/teams/3337.png",
+      "away_logo": "https://jdwel.com/image/teams/2033.png",
+      "match_time": "27 أغسطس 2026، 22:00",
+      "audio_original": [
+        "beIN SPORTS 1 (خليل البلوشي)"
+      ],
+      "audio": [
+        "الصوتية الأولى — Audio 1 (خليل البلوشي)"
+      ],
+      "audio_text": "الصوتية الأولى — Audio 1 (خليل البلوشي)",
+      "channel_names_mode": "custom"
+    },
+    {
       "competition": "الدوري الأوروبي",
       "home_team": "فيرينتسفاروشي",
       "away_team": "طرابزون سبور",
@@ -48,6 +48,22 @@
         "أون سبورت بلس (هشام معمر)"
       ],
       "audio_text": "أون سبورت بلس (هشام معمر)",
+      "channel_names_mode": "custom"
+    },
+    {
+      "competition": "الدوري الكويتي",
+      "home_team": "الساحل",
+      "away_team": "الصليبيخات",
+      "home_logo": "https://jdwel.com/image/teams/2914.png",
+      "away_logo": "https://jdwel.com/image/teams/kuw_al_sulaibikhat.png",
+      "match_time": "27 أغسطس 2026، 18:45",
+      "audio_original": [
+        "الكويت الرياضية (بدر شداد)"
+      ],
+      "audio": [
+        "الكويت الرياضية (بدر شداد)"
+      ],
+      "audio_text": "الكويت الرياضية (بدر شداد)",
       "channel_names_mode": "custom"
     }
   ]
