@@ -1,0 +1,54 @@
+{
+  "source": "https://jdwel.com/today/",
+  "generated_at_utc": "2026-08-27T05:00:39.602418+00:00",
+  "matches": [
+    {
+      "competition": "الدوري الإسباني",
+      "home_team": "برشلونة",
+      "away_team": "أتلتيك بيلباو",
+      "home_logo": "https://jdwel.com/image/teams/3337.png",
+      "away_logo": "https://jdwel.com/image/teams/2033.png",
+      "match_time": "27 أغسطس 2026، 22:00",
+      "audio_original": [
+        "beIN SPORTS 1 (خليل البلوشي)"
+      ],
+      "audio": [
+        "الصوتية الأولى — Audio 1 (خليل البلوشي)"
+      ],
+      "audio_text": "الصوتية الأولى — Audio 1 (خليل البلوشي)",
+      "channel_names_mode": "custom"
+    },
+    {
+      "competition": "الدوري الإسباني",
+      "home_team": "سيلتا فيغو",
+      "away_team": "أوساسونا",
+      "home_logo": "https://jdwel.com/image/teams/1163.png",
+      "away_logo": "https://jdwel.com/image/teams/1556.png",
+      "match_time": "27 أغسطس 2026، 21:30",
+      "audio_original": [
+        "beIN SPORTS 2 (منتصر الأزهري)"
+      ],
+      "audio": [
+        "الصوتية الثانية — Audio 2 (منتصر الأزهري)"
+      ],
+      "audio_text": "الصوتية الثانية — Audio 2 (منتصر الأزهري)",
+      "channel_names_mode": "custom"
+    },
+    {
+      "competition": "الدوري الأوروبي",
+      "home_team": "فيرينتسفاروشي",
+      "away_team": "طرابزون سبور",
+      "home_logo": "https://jdwel.com/image/teams/3164.png",
+      "away_logo": "https://jdwel.com/image/teams/4730.png",
+      "match_time": "27 أغسطس 2026، 21:30",
+      "audio_original": [
+        "أون سبورت بلس (هشام معمر)"
+      ],
+      "audio": [
+        "أون سبورت بلس (هشام معمر)"
+      ],
+      "audio_text": "أون سبورت بلس (هشام معمر)",
+      "channel_names_mode": "custom"
+    }
+  ]
+}
