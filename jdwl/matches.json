@@ -1,69 +1,135 @@
 {
   "source": "https://jdwel.com/today/",
-  "generated_at_utc": "2026-08-27T13:21:55.693679+00:00",
+  "generated_at_utc": "2026-08-27T23:06:55.976905+00:00",
   "matches": [
     {
-      "competition": "الدوري الإسباني",
-      "home_team": "سيلتا فيغو",
-      "away_team": "أوساسونا",
-      "home_logo": "https://jdwel.com/image/teams/1163.png",
-      "away_logo": "https://jdwel.com/image/teams/1556.png",
-      "match_time": "27 أغسطس 2026، 21:30",
+      "competition": "الدوري الإنجليزي",
+      "home_team": "كريستال بالاس",
+      "away_team": "مانشستر سيتي",
+      "home_logo": "https://jdwel.com/image/teams/1279.png",
+      "away_logo": "https://jdwel.com/image/teams/2185.png",
+      "match_time": "28 أغسطس 2026، 22:00",
       "audio_original": [
-        "beIN SPORTS 2 (منتصر الأزهري)"
+        "beIN SPORTS 2 (حفيظ دراجي)"
       ],
       "audio": [
-        "الصوتية الثانية — Audio 2 (منتصر الأزهري)"
+        "الصوتية الثانية — Audio 2 (حفيظ دراجي)"
       ],
-      "audio_text": "الصوتية الثانية — Audio 2 (منتصر الأزهري)",
+      "audio_text": "الصوتية الثانية — Audio 2 (حفيظ دراجي)",
       "channel_names_mode": "custom"
     },
     {
-      "competition": "الدوري الإسباني",
-      "home_team": "برشلونة",
-      "away_team": "أتلتيك بيلباو",
-      "home_logo": "https://jdwel.com/image/teams/3337.png",
-      "away_logo": "https://jdwel.com/image/teams/2033.png",
-      "match_time": "27 أغسطس 2026، 22:00",
+      "competition": "دوري روشن السعودي",
+      "home_team": "الخليج",
+      "away_team": "الهلال",
+      "home_logo": "https://jdwel.com/image/teams/2840.png",
+      "away_logo": "https://jdwel.com/image/teams/2761.png",
+      "match_time": "28 أغسطس 2026، 21:00",
       "audio_original": [
-        "beIN SPORTS 1 (خليل البلوشي)"
+        "ثمانية 2 (راشد الدوسري)"
       ],
       "audio": [
-        "الصوتية الأولى — Audio 1 (خليل البلوشي)"
+        "Thamanya 2 — ثمانية 2 (راشد الدوسري)"
       ],
-      "audio_text": "الصوتية الأولى — Audio 1 (خليل البلوشي)",
+      "audio_text": "Thamanya 2 — ثمانية 2 (راشد الدوسري)",
       "channel_names_mode": "custom"
     },
     {
-      "competition": "الدوري الأوروبي",
-      "home_team": "فيرينتسفاروشي",
-      "away_team": "طرابزون سبور",
-      "home_logo": "https://jdwel.com/image/teams/3164.png",
-      "away_logo": "https://jdwel.com/image/teams/4730.png",
-      "match_time": "27 أغسطس 2026، 21:30",
+      "competition": "دوري روشن السعودي",
+      "home_team": "النصر",
+      "away_team": "التعاون",
+      "home_logo": "https://jdwel.com/image/teams/3169.png",
+      "away_logo": "https://jdwel.com/image/teams/5338.png",
+      "match_time": "28 أغسطس 2026، 21:00",
       "audio_original": [
-        "أون سبورت بلس (هشام معمر)"
+        "ثمانية 1 (فهد العتيبي)"
       ],
       "audio": [
-        "أون سبورت بلس (هشام معمر)"
+        "Thamanya 1 — ثمانية 1 (فهد العتيبي)"
       ],
-      "audio_text": "أون سبورت بلس (هشام معمر)",
+      "audio_text": "Thamanya 1 — ثمانية 1 (فهد العتيبي)",
       "channel_names_mode": "custom"
     },
     {
-      "competition": "الدوري الكويتي",
-      "home_team": "الساحل",
-      "away_team": "الصليبيخات",
-      "home_logo": "https://jdwel.com/image/teams/2914.png",
-      "away_logo": "https://jdwel.com/image/teams/kuw_al_sulaibikhat.png",
-      "match_time": "27 أغسطس 2026، 18:45",
+      "competition": "الدوري الإيطالي",
+      "home_team": "ميلان",
+      "away_team": "فينيزيا",
+      "home_logo": "https://jdwel.com/image/teams/2433.png",
+      "away_logo": "https://jdwel.com/image/teams/3358.png",
+      "match_time": "28 أغسطس 2026، 21:45",
       "audio_original": [
-        "الكويت الرياضية (بدر شداد)"
+        "STARZPLAY",
+        "STC TV"
       ],
       "audio": [
-        "الكويت الرياضية (بدر شداد)"
+        "الإيطالية — Italy",
+        "الإيطالية — Italy"
       ],
-      "audio_text": "الكويت الرياضية (بدر شداد)",
+      "audio_text": "الإيطالية — Italy | الإيطالية — Italy",
+      "channel_names_mode": "custom"
+    },
+    {
+      "competition": "دوري روشن السعودي",
+      "home_team": "الفيحاء",
+      "away_team": "أبها",
+      "home_logo": "https://jdwel.com/image/teams/3067.png",
+      "away_logo": "https://jdwel.com/image/teams/2451.png",
+      "match_time": "28 أغسطس 2026، 19:00",
+      "audio_original": [
+        "ثمانية 3 (سليمان الشريف)"
+      ],
+      "audio": [
+        "Thamanya 3 — ثمانية 3 (سليمان الشريف)"
+      ],
+      "audio_text": "Thamanya 3 — ثمانية 3 (سليمان الشريف)",
+      "channel_names_mode": "custom"
+    },
+    {
+      "competition": "دوري روشن السعودي",
+      "home_team": "الرياض",
+      "away_team": "نيوم",
+      "home_logo": "https://jdwel.com/image/teams/1810.png",
+      "away_logo": "https://jdwel.com/image/teams/298.png",
+      "match_time": "28 أغسطس 2026، 18:50",
+      "audio_original": [
+        "تطبيق ثمانية (خالد المديفر)"
+      ],
+      "audio": [
+        "Thamanya — تطبيق ثمانية (خالد المديفر)"
+      ],
+      "audio_text": "Thamanya — تطبيق ثمانية (خالد المديفر)",
+      "channel_names_mode": "custom"
+    },
+    {
+      "competition": "الدوري الفرنسي",
+      "home_team": "ليل",
+      "away_team": "باريس سان جيرمان",
+      "home_logo": "https://jdwel.com/image/teams/3190.png",
+      "away_logo": "https://jdwel.com/image/teams/2347.png",
+      "match_time": "28 أغسطس 2026، 21:45",
+      "audio_original": [
+        "beIN SPORTS 1 (أحمد البلوشي)"
+      ],
+      "audio": [
+        "الصوتية الأولى — Audio 1 (أحمد البلوشي)"
+      ],
+      "audio_text": "الصوتية الأولى — Audio 1 (أحمد البلوشي)",
+      "channel_names_mode": "custom"
+    },
+    {
+      "competition": "الدوري الألماني",
+      "home_team": "بايرن ميونخ",
+      "away_team": "شتوتغارت",
+      "home_logo": "https://jdwel.com/image/teams/1300.png",
+      "away_logo": "https://jdwel.com/image/teams/2036.png",
+      "match_time": "28 أغسطس 2026، 21:30",
+      "audio_original": [
+        "MBC Action (عصام عبده)"
+      ],
+      "audio": [
+        "MBC Action (عصام عبده)"
+      ],
+      "audio_text": "MBC Action (عصام عبده)",
       "channel_names_mode": "custom"
     }
   ]
