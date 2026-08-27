@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-27T04:53:55+00:00",
+  "last_updated": "2026-08-27T16:19:42+00:00",
   "matches": [
     {
       "league": "International Clubs, UEFA Europa League, Playoff Round",
@@ -83,6 +83,24 @@
               }
             ]
           }
+        },
+        {
+          "name": "Super Polsat HD",
+          "details": {
+            "transponders": [
+              {
+                "Name": "HOTBIRD 6,7A,8",
+                "Position": "13.0E",
+                "Frequency": "11158.00",
+                "Polarisation": "V",
+                "SR": "27500",
+                "FEC": "5/6",
+                "System": "DVB-S",
+                "Modulation": "QPSK",
+                "Crypt": "Conax:Mediaguard 3:Nagravision 3:Viaccess 3.0"
+              }
+            ]
+          }
         }
       ]
     },
@@ -137,6 +155,34 @@
                 "System": "DVB-S2",
                 "Modulation": "8PSK",
                 "Crypt": "Nagravision 3"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "league": "International Clubs, UEFA Conference League, Playoff Round",
+      "homeTeam": "Jablonec",
+      "awayTeam": "Rangers",
+      "homeFlag": "https://www.sporteventz.com/components/com_magictable/flags/cz.png",
+      "awayFlag": "https://www.sporteventz.com/components/com_magictable/flags/sco.png",
+      "time": "Thursday, 27 August 2026 16:00",
+      "channels": [
+        {
+          "name": "Arena Sport 5 Premium BiH",
+          "details": {
+            "transponders": [
+              {
+                "Name": "EUTELSAT W2",
+                "Position": "16.0E",
+                "Frequency": "10972.17",
+                "Polarisation": "V",
+                "SR": "27500",
+                "FEC": "3/5",
+                "System": "DVB-S2",
+                "Modulation": "8PSK",
+                "Crypt": "VideoGuard"
               }
             ]
           }
@@ -303,6 +349,52 @@
                 "System": "DVB-S2",
                 "Modulation": "8PSK",
                 "Crypt": "Cryptoworks ; Irdeto 2"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "league": "International Clubs, UEFA Europa League, Playoff Round",
+      "homeTeam": "Lillestrom",
+      "awayTeam": "KF Egnatia Rrogozhine",
+      "homeFlag": "https://www.sporteventz.com/components/com_magictable/flags/no.png",
+      "awayFlag": "https://www.sporteventz.com/components/com_magictable/flags/al.png",
+      "time": "Thursday, 27 August 2026 17:00",
+      "channels": [
+        {
+          "name": "RTSH 1 Albania HD",
+          "details": {
+            "transponders": [
+              {
+                "Name": "EUTELSAT W2",
+                "Position": "not available",
+                "Frequency": "not available",
+                "Polarisation": "not available",
+                "SR": "not available",
+                "FEC": "3/5",
+                "System": "DVB-S2",
+                "Modulation": "not available",
+                "Crypt": "not available"
+              }
+            ]
+          }
+        },
+        {
+          "name": "RTSH Sport HD",
+          "details": {
+            "transponders": [
+              {
+                "Name": "EUTELSAT W2",
+                "Position": "not available",
+                "Frequency": "not available",
+                "Polarisation": "not available",
+                "SR": "not available",
+                "FEC": "3/5",
+                "System": "DVB-S2",
+                "Modulation": "not available",
+                "Crypt": "not available"
               }
             ]
           }
@@ -681,6 +773,34 @@
       ]
     },
     {
+      "league": "International Clubs, UEFA Conference League, Playoff Round",
+      "homeTeam": "Hap. Tel Aviv",
+      "awayTeam": "Atalanta",
+      "homeFlag": "https://www.sporteventz.com/components/com_magictable/flags/il.png",
+      "awayFlag": "https://www.sporteventz.com/components/com_magictable/flags/it.png",
+      "time": "Thursday, 27 August 2026 18:00",
+      "channels": [
+        {
+          "name": "TV 8 Italia HD",
+          "details": {
+            "transponders": [
+              {
+                "Name": "HOTBIRD 6,7A,8",
+                "Position": "not available",
+                "Frequency": "not available",
+                "Polarisation": "not available",
+                "SR": "not available",
+                "FEC": "5/6",
+                "System": "DVB-S2",
+                "Modulation": "not available",
+                "Crypt": "not available"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
       "league": "International Clubs, UEFA Europa League, Playoff Round",
       "homeTeam": "Anderlecht",
       "awayTeam": "Kairat Almaty",
@@ -853,6 +973,34 @@
                 "System": "DVB-S2",
                 "Modulation": "8PSK",
                 "Crypt": "Cyptoworks; Irdeto 2; Nagravision 3"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "league": "International Clubs, UEFA Conference League, Playoff Round",
+      "homeTeam": "Borac Banja Luka",
+      "awayTeam": "Vikingur Reykjavik",
+      "homeFlag": "https://www.sporteventz.com/components/com_magictable/flags/ba.png",
+      "awayFlag": "https://www.sporteventz.com/components/com_magictable/flags/is.png",
+      "time": "Thursday, 27 August 2026 18:30",
+      "channels": [
+        {
+          "name": "RTRS",
+          "details": {
+            "transponders": [
+              {
+                "Name": "EUTELSAT W2",
+                "Position": "16.0E",
+                "Frequency": "11262.25",
+                "Polarisation": "H",
+                "SR": "30000",
+                "FEC": "2/3",
+                "System": "DVB-S",
+                "Modulation": "QPSK",
+                "Crypt": "Frei:Biss"
               }
             ]
           }
@@ -1185,6 +1333,42 @@
                 "System": "DVB-S2",
                 "Modulation": "8PSK",
                 "Crypt": "Cryptoworks ; Irdeto 2 ; Viaccess 5.0"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Sky Sport Premier League HD",
+          "details": {
+            "transponders": [
+              {
+                "Name": "ASTRA 1N",
+                "Position": "19.2E",
+                "Frequency": "12032.00",
+                "Polarisation": "H",
+                "SR": "27500",
+                "FEC": "9/10",
+                "System": "DVB-S2",
+                "Modulation": "QPSK",
+                "Crypt": "VideoGuard"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Sky Sport Top Event HD",
+          "details": {
+            "transponders": [
+              {
+                "Name": "ASTRA 1N",
+                "Position": "19.2E",
+                "Frequency": "11915.00",
+                "Polarisation": "H",
+                "SR": "27500",
+                "FEC": "9/10",
+                "System": "DVB-S2",
+                "Modulation": "QPSK",
+                "Crypt": "VideoGuard"
               }
             ]
           }
