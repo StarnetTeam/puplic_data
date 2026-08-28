@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-27T16:19:42+00:00",
-  "channel_count": 145,
+  "last_updated": "2026-08-28T17:16:23+00:00",
+  "channel_count": 152,
   "channels": {
     "arena 4 hungary hd": {
       "name": "Arena 4 Hungary HD",
@@ -441,6 +441,25 @@
         ]
       },
       "cached_at": "2026-08-18T05:27:08+00:00"
+    },
+    "canal plus sport 3 poland hd": {
+      "name": "Canal Plus Sport 3 Poland HD",
+      "details": {
+        "transponders": [
+          {
+            "Name": "HOTBIRD 6,7A,8",
+            "Position": "not available",
+            "Frequency": "not available",
+            "Polarisation": "not available",
+            "SR": "not available",
+            "FEC": "3/4",
+            "System": "DVB-S2",
+            "Modulation": "not available",
+            "Crypt": "not available"
+          }
+        ]
+      },
+      "cached_at": "2026-08-28T17:16:20+00:00"
     },
     "canal plus sport poland hd": {
       "name": "Canal Plus Sport Poland HD",
@@ -1466,6 +1485,25 @@
       },
       "cached_at": "2026-08-17T03:01:35+00:00"
     },
+    "polsat sport 3 hd": {
+      "name": "Polsat Sport 3 HD",
+      "details": {
+        "transponders": [
+          {
+            "Name": "HOTBIRD 6,7A,8",
+            "Position": "13.0E",
+            "Frequency": "12284.00",
+            "Polarisation": "H",
+            "SR": "27500",
+            "FEC": "3/4",
+            "System": "DVB-S2",
+            "Modulation": "8PSK",
+            "Crypt": "Irdeto2;Nagravision3"
+          }
+        ]
+      },
+      "cached_at": "2026-08-28T17:16:22+00:00"
+    },
     "polsat sport extra 1": {
       "name": "Polsat Sport Extra 1",
       "details": {
@@ -1773,6 +1811,25 @@
       },
       "cached_at": "2026-08-17T03:01:27+00:00"
     },
+    "sat 1 hd germany": {
+      "name": "Sat 1 HD Germany",
+      "details": {
+        "transponders": [
+          {
+            "Name": "ASTRA 1F,1G,1H,1KR,1L",
+            "Position": "19.2E",
+            "Frequency": "11464.25",
+            "Polarisation": "H",
+            "SR": "22000",
+            "FEC": "2/3",
+            "System": "DVB-S2",
+            "Modulation": "8PSK",
+            "Crypt": "Nagravision 3:VideoGuard"
+          }
+        ]
+      },
+      "cached_at": "2026-08-28T17:16:22+00:00"
+    },
     "servus tv austria hd": {
       "name": "Servus TV Austria HD",
       "details": {
@@ -1791,6 +1848,63 @@
         ]
       },
       "cached_at": "2026-08-27T04:53:53+00:00"
+    },
+    "sky bundesliga 1 hd": {
+      "name": "Sky Bundesliga 1 HD",
+      "details": {
+        "transponders": [
+          {
+            "Name": "ASTRA 1F,1G,1H,1KR,1L",
+            "Position": "19.2E",
+            "Frequency": "12304.50",
+            "Polarisation": "H",
+            "SR": "27500",
+            "FEC": "9/10",
+            "System": "DVB-S2",
+            "Modulation": "QPSK",
+            "Crypt": "Nagravision 3:VideoGuard"
+          }
+        ]
+      },
+      "cached_at": "2026-08-28T17:16:22+00:00"
+    },
+    "sky bundesliga 3 hd": {
+      "name": "Sky Bundesliga 3 HD",
+      "details": {
+        "transponders": [
+          {
+            "Name": "ASTRA 1F,1G,1H,1KR,1L",
+            "Position": "19.2E",
+            "Frequency": "12304.50",
+            "Polarisation": "H",
+            "SR": "27500",
+            "FEC": "9/10",
+            "System": "DVB-S2",
+            "Modulation": "QPSK",
+            "Crypt": "Nagravision 3:VideoGuard"
+          }
+        ]
+      },
+      "cached_at": "2026-08-28T17:16:21+00:00"
+    },
+    "sky bundesliga 4 hd": {
+      "name": "Sky Bundesliga 4 HD",
+      "details": {
+        "transponders": [
+          {
+            "Name": "ASTRA 1F,1G,1H,1KR,1L",
+            "Position": "19.2E",
+            "Frequency": "12304.50",
+            "Polarisation": "H",
+            "SR": "27500",
+            "FEC": "9/10",
+            "System": "DVB-S2",
+            "Modulation": "QPSK",
+            "Crypt": "Nagravision 3:VideoGuard"
+          }
+        ]
+      },
+      "cached_at": "2026-08-28T17:16:21+00:00"
     },
     "sky bundesliga hd": {
       "name": "Sky Bundesliga HD",
@@ -2057,6 +2171,25 @@
         ]
       },
       "cached_at": "2026-08-22T05:25:12+00:00"
+    },
+    "sky sport mix germany hd": {
+      "name": "Sky Sport Mix Germany HD",
+      "details": {
+        "transponders": [
+          {
+            "Name": "ASTRA 1KR",
+            "Position": "19.2E",
+            "Frequency": "11758",
+            "Polarisation": "H",
+            "SR": "27500",
+            "FEC": "9/10",
+            "System": "DVB-S2",
+            "Modulation": "QPSK",
+            "Crypt": "VideoGuard"
+          }
+        ]
+      },
+      "cached_at": "2026-08-28T17:16:23+00:00"
     },
     "sky sport premier league hd": {
       "name": "Sky Sport Premier League HD",
