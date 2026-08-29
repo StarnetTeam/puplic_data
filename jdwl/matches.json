@@ -1,73 +1,53 @@
 {
   "source": "https://jdwel.com/today/",
-  "generated_at_utc": "2026-08-28T20:29:47.565860+00:00",
+  "generated_at_utc": "2026-08-29T02:56:50.999559+00:00",
   "matches": [
     {
-      "competition": "الدوري الإيطالي",
-      "home_team": "ميلان",
-      "away_team": "فينيزيا",
-      "home_logo": "https://jdwel.com/image/teams/2433.png",
-      "away_logo": "https://jdwel.com/image/teams/3358.png",
-      "match_time": "28 أغسطس 2026، 21:45",
+      "competition": "دوري روشن السعودي",
+      "home_team": "الاتفاق",
+      "away_team": "الدرعية",
+      "home_logo": "https://jdwel.com/image/teams/2215.png",
+      "away_logo": "https://jdwel.com/image/teams/4203.png",
+      "match_time": "29 أغسطس 2026، 21:00",
       "audio_original": [
-        "STARZPLAY (محمد الشامسي)",
-        "منصة شاشا (مشاري القرني)",
-        "STC TV (محمد الشامسي)"
+        "ثمانية 3 (راشد الدوسري)"
       ],
       "audio": [
-        "الإيطالية — Italy (محمد الشامسي)",
-        "الإيطالية — Italy (مشاري القرني)",
-        "الإيطالية — Italy (محمد الشامسي)"
+        "Thamanya 3 — ثمانية 3 (راشد الدوسري)"
       ],
-      "audio_text": "الإيطالية — Italy (محمد الشامسي) | الإيطالية — Italy (مشاري القرني) | الإيطالية — Italy (محمد الشامسي)",
+      "audio_text": "Thamanya 3 — ثمانية 3 (راشد الدوسري)",
       "channel_names_mode": "custom"
     },
     {
-      "competition": "الدوري الإنجليزي",
-      "home_team": "كريستال بالاس",
-      "away_team": "مانشستر سيتي",
-      "home_logo": "https://jdwel.com/image/teams/1279.png",
-      "away_logo": "https://jdwel.com/image/teams/2185.png",
-      "match_time": "28 أغسطس 2026، 22:00",
+      "competition": "دوري روشن السعودي",
+      "home_team": "الفتح",
+      "away_team": "الاتحاد",
+      "home_logo": "https://jdwel.com/image/teams/1105.png",
+      "away_logo": "https://jdwel.com/image/teams/2839.png",
+      "match_time": "29 أغسطس 2026، 21:00",
       "audio_original": [
-        "beIN SPORTS 2 (حفيظ دراجي)"
+        "ثمانية 1 (جعفر الصليح)"
       ],
       "audio": [
-        "الصوتية الثانية — Audio 2 (حفيظ دراجي)"
+        "Thamanya 1 — ثمانية 1 (جعفر الصليح)"
       ],
-      "audio_text": "الصوتية الثانية — Audio 2 (حفيظ دراجي)",
+      "audio_text": "Thamanya 1 — ثمانية 1 (جعفر الصليح)",
       "channel_names_mode": "custom"
     },
     {
-      "competition": "الدوري الإسباني",
-      "home_team": "ديبورتيفو ألافيس",
-      "away_team": "فياريال",
-      "home_logo": "https://jdwel.com/image/teams/4507.png",
-      "away_logo": "https://jdwel.com/image/teams/1680.png",
-      "match_time": "28 أغسطس 2026، 22:30",
+      "competition": "دوري روشن السعودي",
+      "home_team": "الخلود",
+      "away_team": "الأهلي",
+      "home_logo": "https://jdwel.com/image/teams/6436.png",
+      "away_logo": "https://jdwel.com/image/teams/3404.png",
+      "match_time": "29 أغسطس 2026، 19:05",
       "audio_original": [
-        "beIN SPORTS 3 (أحمد عبده)"
+        "ثمانية 2 (فارس عوض)"
       ],
       "audio": [
-        "الصوتية الثالثة — Audio 3 (أحمد عبده)"
+        "Thamanya 2 — ثمانية 2 (فارس عوض)"
       ],
-      "audio_text": "الصوتية الثالثة — Audio 3 (أحمد عبده)",
-      "channel_names_mode": "custom"
-    },
-    {
-      "competition": "الدوري الفرنسي",
-      "home_team": "ليل",
-      "away_team": "باريس سان جيرمان",
-      "home_logo": "https://jdwel.com/image/teams/3190.png",
-      "away_logo": "https://jdwel.com/image/teams/2347.png",
-      "match_time": "28 أغسطس 2026، 22:00",
-      "audio_original": [
-        "beIN SPORTS 1 (أحمد البلوشي)"
-      ],
-      "audio": [
-        "الصوتية الأولى — Audio 1 (أحمد البلوشي)"
-      ],
-      "audio_text": "الصوتية الأولى — Audio 1 (أحمد البلوشي)",
+      "audio_text": "Thamanya 2 — ثمانية 2 (فارس عوض)",
       "channel_names_mode": "custom"
     }
   ]
