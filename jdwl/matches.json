@@ -1,6 +1,6 @@
 {
   "source": "https://jdwel.com/today/",
-  "generated_at_utc": "2026-08-29T23:43:35.870282+00:00",
+  "generated_at_utc": "2026-08-30T02:32:19.022306+00:00",
   "matches": [
     {
       "competition": "الدوري الإنجليزي",
@@ -35,6 +35,70 @@
       "channel_names_mode": "custom"
     },
     {
+      "competition": "الدوري الإنجليزي",
+      "home_team": "مانشستر يونايتد",
+      "away_team": "إيبسويتش تاون",
+      "home_logo": "https://jdwel.com/image/teams/3092.png",
+      "away_logo": "https://jdwel.com/image/teams/1756.png",
+      "match_time": "30 أغسطس 2026، 18:30",
+      "audio_original": [
+        "beIN SPORTS 1 (علي الكعبي)"
+      ],
+      "audio": [
+        "الصوتية الأولى — Audio 1 (علي الكعبي)"
+      ],
+      "audio_text": "الصوتية الأولى — Audio 1 (علي الكعبي)",
+      "channel_names_mode": "custom"
+    },
+    {
+      "competition": "الدوري الإسباني",
+      "home_team": "ديبورتيفو أكورونيا",
+      "away_team": "فالنسيا",
+      "home_logo": "https://jdwel.com/image/teams/7004.png",
+      "away_logo": "https://jdwel.com/image/teams/1025.png",
+      "match_time": "30 أغسطس 2026، 20:30",
+      "audio_original": [
+        "beIN SPORTS 4 (أحمد عبده)"
+      ],
+      "audio": [
+        "الصوتية الرابعة — Audio 4 (أحمد عبده)"
+      ],
+      "audio_text": "الصوتية الرابعة — Audio 4 (أحمد عبده)",
+      "channel_names_mode": "custom"
+    },
+    {
+      "competition": "الدوري الإنجليزي",
+      "home_team": "ليدز يونايتد",
+      "away_team": "برينتفورد",
+      "home_logo": "https://jdwel.com/image/teams/1675.png",
+      "away_logo": "https://jdwel.com/image/teams/2650.png",
+      "match_time": "30 أغسطس 2026، 16:00",
+      "audio_original": [
+        "beIN SPORTS 4 (محمد مبروكي)"
+      ],
+      "audio": [
+        "الصوتية الرابعة — Audio 4 (محمد مبروكي)"
+      ],
+      "audio_text": "الصوتية الرابعة — Audio 4 (محمد مبروكي)",
+      "channel_names_mode": "custom"
+    },
+    {
+      "competition": "الدوري الإسباني",
+      "home_team": "سيلتا فيغو",
+      "away_team": "أتلتيك بيلباو",
+      "home_logo": "https://jdwel.com/image/teams/1163.png",
+      "away_logo": "https://jdwel.com/image/teams/2033.png",
+      "match_time": "30 أغسطس 2026، 22:30",
+      "audio_original": [
+        "beIN SPORTS 3 (عبدالله الغامدي)"
+      ],
+      "audio": [
+        "الصوتية الثالثة — Audio 3 (عبدالله الغامدي)"
+      ],
+      "audio_text": "الصوتية الثالثة — Audio 3 (عبدالله الغامدي)",
+      "channel_names_mode": "custom"
+    },
+    {
       "competition": "الدوري الإيطالي",
       "home_team": "نابولي",
       "away_team": "كومو",
@@ -56,38 +120,6 @@
     },
     {
       "competition": "الدوري الإنجليزي",
-      "home_team": "مانشستر يونايتد",
-      "away_team": "إيبسويتش تاون",
-      "home_logo": "https://jdwel.com/image/teams/3092.png",
-      "away_logo": "https://jdwel.com/image/teams/1756.png",
-      "match_time": "30 أغسطس 2026، 18:30",
-      "audio_original": [
-        "beIN SPORTS 1 (علي الكعبي)"
-      ],
-      "audio": [
-        "الصوتية الأولى — Audio 1 (علي الكعبي)"
-      ],
-      "audio_text": "الصوتية الأولى — Audio 1 (علي الكعبي)",
-      "channel_names_mode": "custom"
-    },
-    {
-      "competition": "الدوري الإنجليزي",
-      "home_team": "ليدز يونايتد",
-      "away_team": "برينتفورد",
-      "home_logo": "https://jdwel.com/image/teams/1675.png",
-      "away_logo": "https://jdwel.com/image/teams/2650.png",
-      "match_time": "30 أغسطس 2026، 16:00",
-      "audio_original": [
-        "beIN SPORTS 4 (محمد مبروكي)"
-      ],
-      "audio": [
-        "الصوتية الرابعة — Audio 4 (محمد مبروكي)"
-      ],
-      "audio_text": "الصوتية الرابعة — Audio 4 (محمد مبروكي)",
-      "channel_names_mode": "custom"
-    },
-    {
-      "competition": "الدوري الإنجليزي",
       "home_team": "سندرلاند",
       "away_team": "فولهام",
       "home_logo": "https://jdwel.com/image/teams/3206.png",
@@ -100,38 +132,6 @@
         "الصوتية الثالثة — Audio 3 (نوفل باشي)"
       ],
       "audio_text": "الصوتية الثالثة — Audio 3 (نوفل باشي)",
-      "channel_names_mode": "custom"
-    },
-    {
-      "competition": "الدوري الإسباني",
-      "home_team": "ديبورتيفو أكورونيا",
-      "away_team": "فالنسيا",
-      "home_logo": "https://jdwel.com/image/teams/7004.png",
-      "away_logo": "https://jdwel.com/image/teams/1025.png",
-      "match_time": "30 أغسطس 2026، 20:30",
-      "audio_original": [
-        "beIN SPORTS 4 (أحمد عبده)"
-      ],
-      "audio": [
-        "الصوتية الرابعة — Audio 4 (أحمد عبده)"
-      ],
-      "audio_text": "الصوتية الرابعة — Audio 4 (أحمد عبده)",
-      "channel_names_mode": "custom"
-    },
-    {
-      "competition": "الدوري الإسباني",
-      "home_team": "سيلتا فيغو",
-      "away_team": "أتلتيك بيلباو",
-      "home_logo": "https://jdwel.com/image/teams/1163.png",
-      "away_logo": "https://jdwel.com/image/teams/2033.png",
-      "match_time": "30 أغسطس 2026، 22:30",
-      "audio_original": [
-        "beIN SPORTS 3 (عبدالله الغامدي)"
-      ],
-      "audio": [
-        "الصوتية الثالثة — Audio 3 (عبدالله الغامدي)"
-      ],
-      "audio_text": "الصوتية الثالثة — Audio 3 (عبدالله الغامدي)",
       "channel_names_mode": "custom"
     },
     {
@@ -155,35 +155,19 @@
       "channel_names_mode": "custom"
     },
     {
-      "competition": "الدوري الفرنسي",
-      "home_team": "موناكو",
-      "away_team": "مارسيليا",
-      "home_logo": "https://jdwel.com/image/teams/1129.png",
-      "away_logo": "https://jdwel.com/image/teams/6246.png",
-      "match_time": "30 أغسطس 2026، 21:45",
+      "competition": "دوري روشن السعودي",
+      "home_team": "القادسية",
+      "away_team": "الفيصلي",
+      "home_logo": "https://jdwel.com/image/teams/2216.png",
+      "away_logo": "https://jdwel.com/image/teams/3215.png",
+      "match_time": "30 أغسطس 2026، 21:00",
       "audio_original": [
-        "beIN SPORTS 1 (علي محمد علي)"
+        "ثمانية 1 (مشاري القرني)"
       ],
       "audio": [
-        "الصوتية الأولى — Audio 1 (علي محمد علي)"
+        "Thamanya 1 — ثمانية 1 (مشاري القرني)"
       ],
-      "audio_text": "الصوتية الأولى — Audio 1 (علي محمد علي)",
-      "channel_names_mode": "custom"
-    },
-    {
-      "competition": "الدوري الفرنسي",
-      "home_team": "رين",
-      "away_team": "لومان",
-      "home_logo": "https://jdwel.com/image/teams/2037.png",
-      "away_logo": "https://jdwel.com/image/teams/fra_le_mans.png",
-      "match_time": "30 أغسطس 2026، 18:15",
-      "audio_original": [
-        "beIN SPORTS 5 (محمد بركات)"
-      ],
-      "audio": [
-        "الصوتية الخامسة — Audio 5 (محمد بركات)"
-      ],
-      "audio_text": "الصوتية الخامسة — Audio 5 (محمد بركات)",
+      "audio_text": "Thamanya 1 — ثمانية 1 (مشاري القرني)",
       "channel_names_mode": "custom"
     },
     {
@@ -223,35 +207,19 @@
       "channel_names_mode": "custom"
     },
     {
-      "competition": "دوري روشن السعودي",
-      "home_team": "القادسية",
-      "away_team": "الفيصلي",
-      "home_logo": "https://jdwel.com/image/teams/2216.png",
-      "away_logo": "https://jdwel.com/image/teams/3215.png",
-      "match_time": "30 أغسطس 2026، 21:00",
+      "competition": "الدوري الفرنسي",
+      "home_team": "موناكو",
+      "away_team": "مارسيليا",
+      "home_logo": "https://jdwel.com/image/teams/1129.png",
+      "away_logo": "https://jdwel.com/image/teams/6246.png",
+      "match_time": "30 أغسطس 2026، 21:45",
       "audio_original": [
-        "ثمانية 1 (مشاري القرني)"
+        "beIN SPORTS 1 (علي محمد علي)"
       ],
       "audio": [
-        "Thamanya 1 — ثمانية 1 (مشاري القرني)"
+        "الصوتية الأولى — Audio 1 (علي محمد علي)"
       ],
-      "audio_text": "Thamanya 1 — ثمانية 1 (مشاري القرني)",
-      "channel_names_mode": "custom"
-    },
-    {
-      "competition": "الدوري الألماني",
-      "home_team": "فرايبورغ",
-      "away_team": "فيردر بريمن",
-      "home_logo": "https://jdwel.com/image/teams/3453.png",
-      "away_logo": "https://jdwel.com/image/teams/2633.png",
-      "match_time": "30 أغسطس 2026، 16:30",
-      "audio_original": [
-        "MBC شاهد (عبدالله الشهري)"
-      ],
-      "audio": [
-        "MBC شاهد (عبدالله الشهري)"
-      ],
-      "audio_text": "MBC شاهد (عبدالله الشهري)",
+      "audio_text": "الصوتية الأولى — Audio 1 (علي محمد علي)",
       "channel_names_mode": "custom"
     },
     {
@@ -271,6 +239,38 @@
       "channel_names_mode": "custom"
     },
     {
+      "competition": "الدوري الفرنسي",
+      "home_team": "رين",
+      "away_team": "لومان",
+      "home_logo": "https://jdwel.com/image/teams/2037.png",
+      "away_logo": "https://jdwel.com/image/teams/fra_le_mans.png",
+      "match_time": "30 أغسطس 2026، 18:15",
+      "audio_original": [
+        "beIN SPORTS 5 (محمد بركات)"
+      ],
+      "audio": [
+        "الصوتية الخامسة — Audio 5 (محمد بركات)"
+      ],
+      "audio_text": "الصوتية الخامسة — Audio 5 (محمد بركات)",
+      "channel_names_mode": "custom"
+    },
+    {
+      "competition": "الدوري الألماني",
+      "home_team": "فرايبورغ",
+      "away_team": "فيردر بريمن",
+      "home_logo": "https://jdwel.com/image/teams/3453.png",
+      "away_logo": "https://jdwel.com/image/teams/2633.png",
+      "match_time": "30 أغسطس 2026، 16:30",
+      "audio_original": [
+        "MBC شاهد (عبدالله الشهري)"
+      ],
+      "audio": [
+        "MBC شاهد (عبدالله الشهري)"
+      ],
+      "audio_text": "MBC شاهد (عبدالله الشهري)",
+      "channel_names_mode": "custom"
+    },
+    {
       "competition": "الدوري الألماني",
       "home_team": "أوغسبورغ",
       "away_team": "شالكه 04",
@@ -284,6 +284,22 @@
         "MBC Action (عبدالعزيز الزيد)"
       ],
       "audio_text": "MBC Action (عبدالعزيز الزيد)",
+      "channel_names_mode": "custom"
+    },
+    {
+      "competition": "الدوري التونسي",
+      "home_team": "شبيبة بالعمران",
+      "away_team": "الترجي التونسي",
+      "home_logo": "https://jdwel.com/image/teams/4515.png",
+      "away_logo": "https://jdwel.com/image/teams/1182.png",
+      "match_time": "30 أغسطس 2026، 18:30",
+      "audio_original": [
+        "الوطنية 1"
+      ],
+      "audio": [
+        "الوطنية 1"
+      ],
+      "audio_text": "الوطنية 1",
       "channel_names_mode": "custom"
     },
     {
