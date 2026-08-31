@@ -1,21 +1,37 @@
 {
   "source": "https://jdwel.com/today/",
-  "generated_at_utc": "2026-08-31T00:02:59.364119+00:00",
+  "generated_at_utc": "2026-08-31T06:25:48.432251+00:00",
   "matches": [
     {
       "competition": "الدوري الإسباني",
-      "home_team": "برشلونة",
-      "away_team": "رايو فايكانو",
-      "home_logo": "https://jdwel.com/image/teams/3337.png",
-      "away_logo": "https://jdwel.com/image/teams/1082.png",
-      "match_time": "31 أغسطس 2026، 22:30",
+      "home_team": "أوساسونا",
+      "away_team": "خيتافي",
+      "home_logo": "https://jdwel.com/image/teams/1556.png",
+      "away_logo": "https://jdwel.com/image/teams/1081.png",
+      "match_time": "31 أغسطس 2026، 20:30",
       "audio_original": [
-        "beIN SPORTS 2 (علي الكعبي)"
+        "beIN SPORTS 5 (محمد مبروكي)"
       ],
       "audio": [
-        "الصوتية الثانية — Audio 2 (علي الكعبي)"
+        "الصوتية الخامسة — Audio 5 (محمد مبروكي)"
       ],
-      "audio_text": "الصوتية الثانية — Audio 2 (علي الكعبي)",
+      "audio_text": "الصوتية الخامسة — Audio 5 (محمد مبروكي)",
+      "channel_names_mode": "custom"
+    },
+    {
+      "competition": "الدوري المصري",
+      "home_team": "بترول أسيوط",
+      "away_team": "البنك الأهلي",
+      "home_logo": "https://jdwel.com/image/teams/312.png",
+      "away_logo": "https://jdwel.com/image/teams/2457.png",
+      "match_time": "31 أغسطس 2026، 17:00",
+      "audio_original": [
+        "أون سبورت بلس (محمد محمود عفيفي)"
+      ],
+      "audio": [
+        "أون سبورت بلس (محمد محمود عفيفي)"
+      ],
+      "audio_text": "أون سبورت بلس (محمد محمود عفيفي)",
       "channel_names_mode": "custom"
     },
     {
@@ -32,40 +48,6 @@
         "الصوتية الأولى — Audio 1 (أحمد البلوشي)"
       ],
       "audio_text": "الصوتية الأولى — Audio 1 (أحمد البلوشي)",
-      "channel_names_mode": "custom"
-    },
-    {
-      "competition": "الدوري الإيطالي",
-      "home_team": "أتالانتا",
-      "away_team": "بولونيا",
-      "home_logo": "https://jdwel.com/image/teams/6400.png",
-      "away_logo": "https://jdwel.com/image/teams/2845.png",
-      "match_time": "31 أغسطس 2026، 21:45",
-      "audio_original": [
-        "STARZPLAY (عيسى الحربين)",
-        "STC TV (عيسى الحربين)"
-      ],
-      "audio": [
-        "الإيطالية — Italy (عيسى الحربين)",
-        "الإيطالية — Italy (عيسى الحربين)"
-      ],
-      "audio_text": "الإيطالية — Italy (عيسى الحربين) | الإيطالية — Italy (عيسى الحربين)",
-      "channel_names_mode": "custom"
-    },
-    {
-      "competition": "الدوري الإسباني",
-      "home_team": "أوساسونا",
-      "away_team": "خيتافي",
-      "home_logo": "https://jdwel.com/image/teams/1556.png",
-      "away_logo": "https://jdwel.com/image/teams/1081.png",
-      "match_time": "31 أغسطس 2026، 20:30",
-      "audio_original": [
-        "beIN SPORTS 5 (محمد مبروكي)"
-      ],
-      "audio": [
-        "الصوتية الخامسة — Audio 5 (محمد مبروكي)"
-      ],
-      "audio_text": "الصوتية الخامسة — Audio 5 (محمد مبروكي)",
       "channel_names_mode": "custom"
     },
     {
@@ -89,19 +71,37 @@
       "channel_names_mode": "custom"
     },
     {
-      "competition": "الدوري المصري",
-      "home_team": "بترول أسيوط",
-      "away_team": "البنك الأهلي",
-      "home_logo": "https://jdwel.com/image/teams/312.png",
-      "away_logo": "https://jdwel.com/image/teams/2457.png",
-      "match_time": "31 أغسطس 2026، 17:00",
+      "competition": "الدوري الإسباني",
+      "home_team": "برشلونة",
+      "away_team": "رايو فايكانو",
+      "home_logo": "https://jdwel.com/image/teams/3337.png",
+      "away_logo": "https://jdwel.com/image/teams/1082.png",
+      "match_time": "31 أغسطس 2026، 22:30",
       "audio_original": [
-        "أون سبورت بلس (محمد محمود عفيفي)"
+        "beIN SPORTS 2 (علي الكعبي)"
       ],
       "audio": [
-        "أون سبورت بلس (محمد محمود عفيفي)"
+        "الصوتية الثانية — Audio 2 (علي الكعبي)"
       ],
-      "audio_text": "أون سبورت بلس (محمد محمود عفيفي)",
+      "audio_text": "الصوتية الثانية — Audio 2 (علي الكعبي)",
+      "channel_names_mode": "custom"
+    },
+    {
+      "competition": "الدوري الإيطالي",
+      "home_team": "أتالانتا",
+      "away_team": "بولونيا",
+      "home_logo": "https://jdwel.com/image/teams/6400.png",
+      "away_logo": "https://jdwel.com/image/teams/2845.png",
+      "match_time": "31 أغسطس 2026، 21:45",
+      "audio_original": [
+        "STARZPLAY (عيسى الحربين)",
+        "STC TV (عيسى الحربين)"
+      ],
+      "audio": [
+        "الإيطالية — Italy (عيسى الحربين)",
+        "الإيطالية — Italy (عيسى الحربين)"
+      ],
+      "audio_text": "الإيطالية — Italy (عيسى الحربين) | الإيطالية — Italy (عيسى الحربين)",
       "channel_names_mode": "custom"
     },
     {
@@ -118,6 +118,38 @@
         "أون سبورت 1 (حاتم بطيشة)"
       ],
       "audio_text": "أون سبورت 1 (حاتم بطيشة)",
+      "channel_names_mode": "custom"
+    },
+    {
+      "competition": "دوري الدرجة الأولى السعودي",
+      "home_team": "الصقر",
+      "away_team": "الأخدود",
+      "home_logo": "https://jdwel.com/image/teams/371.png",
+      "away_logo": "https://jdwel.com/image/teams/823.png",
+      "match_time": "31 أغسطس 2026، 19:05",
+      "audio_original": [
+        "تطبيق ثمانية (سعد يحيى)"
+      ],
+      "audio": [
+        "Thamanya — تطبيق ثمانية (سعد يحيى)"
+      ],
+      "audio_text": "Thamanya — تطبيق ثمانية (سعد يحيى)",
+      "channel_names_mode": "custom"
+    },
+    {
+      "competition": "دوري الدرجة الأولى السعودي",
+      "home_team": "البكيرية",
+      "away_team": "العدالة",
+      "home_logo": "https://jdwel.com/image/teams/2877.png",
+      "away_logo": "https://jdwel.com/image/teams/2450.png",
+      "match_time": "31 أغسطس 2026، 19:05",
+      "audio_original": [
+        "تطبيق ثمانية (سلطان الحربي)"
+      ],
+      "audio": [
+        "Thamanya — تطبيق ثمانية (سلطان الحربي)"
+      ],
+      "audio_text": "Thamanya — تطبيق ثمانية (سلطان الحربي)",
       "channel_names_mode": "custom"
     },
     {
@@ -154,18 +186,18 @@
     },
     {
       "competition": "دوري الدرجة الأولى السعودي",
-      "home_team": "الصقر",
-      "away_team": "الأخدود",
-      "home_logo": "https://jdwel.com/image/teams/371.png",
-      "away_logo": "https://jdwel.com/image/teams/823.png",
-      "match_time": "31 أغسطس 2026، 19:05",
+      "home_team": "الطائي",
+      "away_team": "الجندل",
+      "home_logo": "https://jdwel.com/image/teams/sau_altaee_v3.png",
+      "away_logo": "https://jdwel.com/image/teams/10.png",
+      "match_time": "31 أغسطس 2026، 20:40",
       "audio_original": [
-        "تطبيق ثمانية (سعد يحيى)"
+        "تطبيق ثمانية (مشعل الشمري)"
       ],
       "audio": [
-        "Thamanya — تطبيق ثمانية (سعد يحيى)"
+        "Thamanya — تطبيق ثمانية (مشعل الشمري)"
       ],
-      "audio_text": "Thamanya — تطبيق ثمانية (سعد يحيى)",
+      "audio_text": "Thamanya — تطبيق ثمانية (مشعل الشمري)",
       "channel_names_mode": "custom"
     },
     {
@@ -185,22 +217,6 @@
       "channel_names_mode": "custom"
     },
     {
-      "competition": "دوري الدرجة الأولى السعودي",
-      "home_team": "الطائي",
-      "away_team": "الجندل",
-      "home_logo": "https://jdwel.com/image/teams/sau_altaee_v3.png",
-      "away_logo": "https://jdwel.com/image/teams/10.png",
-      "match_time": "31 أغسطس 2026، 20:40",
-      "audio_original": [
-        "تطبيق ثمانية (مشعل الشمري)"
-      ],
-      "audio": [
-        "Thamanya — تطبيق ثمانية (مشعل الشمري)"
-      ],
-      "audio_text": "Thamanya — تطبيق ثمانية (مشعل الشمري)",
-      "channel_names_mode": "custom"
-    },
-    {
       "competition": "الدوري البرتغالي",
       "home_team": "بنفيكا",
       "away_team": "إشتوريل",
@@ -217,22 +233,6 @@
       "channel_names_mode": "custom"
     },
     {
-      "competition": "دوري الدرجة الأولى السعودي",
-      "home_team": "البكيرية",
-      "away_team": "العدالة",
-      "home_logo": "https://jdwel.com/image/teams/2877.png",
-      "away_logo": "https://jdwel.com/image/teams/2450.png",
-      "match_time": "31 أغسطس 2026، 19:05",
-      "audio_original": [
-        "تطبيق ثمانية (سلطان الحربي)"
-      ],
-      "audio": [
-        "Thamanya — تطبيق ثمانية (سلطان الحربي)"
-      ],
-      "audio_text": "Thamanya — تطبيق ثمانية (سلطان الحربي)",
-      "channel_names_mode": "custom"
-    },
-    {
       "competition": "الدوري العراقي",
       "home_team": "الطلبة",
       "away_team": "النفط",
@@ -246,6 +246,22 @@
         "العراقية الرياضية (علي لفته)"
       ],
       "audio_text": "العراقية الرياضية (علي لفته)",
+      "channel_names_mode": "custom"
+    },
+    {
+      "competition": "تصفيات كأس آسيا للشباب",
+      "home_team": "السعودية",
+      "away_team": "هونغ كونغ",
+      "home_logo": "https://jdwel.com/image/teams/2502.png",
+      "away_logo": "https://jdwel.com/image/teams/73.png",
+      "match_time": "31 أغسطس 2026، 19:00",
+      "audio_original": [
+        "الكاس 5 (هيكل الصغير)"
+      ],
+      "audio": [
+        "الكاس 5 (هيكل الصغير)"
+      ],
+      "audio_text": "الكاس 5 (هيكل الصغير)",
       "channel_names_mode": "custom"
     }
   ]
