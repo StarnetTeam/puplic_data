@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-28T17:16:23+00:00",
-  "channel_count": 152,
+  "last_updated": "2026-08-31T11:30:45+00:00",
+  "channel_count": 165,
   "channels": {
     "arena 4 hungary hd": {
       "name": "Arena 4 Hungary HD",
@@ -39,6 +39,25 @@
         ]
       },
       "cached_at": "2026-08-17T05:34:07+00:00"
+    },
+    "arena sport 1 premium bih": {
+      "name": "Arena Sport 1 Premium BiH",
+      "details": {
+        "transponders": [
+          {
+            "Name": "Internet/Stream",
+            "Position": "0",
+            "Frequency": "0",
+            "Polarisation": "H",
+            "SR": "0",
+            "FEC": "-",
+            "System": "-",
+            "Modulation": "-",
+            "Crypt": "Geoblocked"
+          }
+        ]
+      },
+      "cached_at": "2026-08-30T10:26:14+00:00"
     },
     "arena sport 1 slovakia hd": {
       "name": "Arena Sport 1 Slovakia HD",
@@ -374,6 +393,74 @@
       },
       "cached_at": "2026-08-27T04:53:54+00:00"
     },
+    "bayerisches fernsehen nord hd": {
+      "name": "Bayerisches Fernsehen Nord HD",
+      "details": {
+        "transponders": [
+          {
+            "Name": "ASTRA 1F,1G,1H,1KR,1L",
+            "Position": "19.2E",
+            "Frequency": "11582.25",
+            "Polarisation": "H",
+            "SR": "22000",
+            "FEC": "2/3",
+            "System": "DVB-S2",
+            "Modulation": "8PSK",
+            "Crypt": "Frei"
+          }
+        ]
+      },
+      "cached_at": "2026-08-29T11:33:37+00:00"
+    },
+    "bayerisches fernsehen süd hd": {
+      "name": "Bayerisches Fernsehen Süd HD",
+      "details": {
+        "transponders": [
+          {
+            "Name": "ASTRA 1F,1G,1H,1KR,1L",
+            "Position": "19.2E",
+            "Frequency": "11582.25",
+            "Polarisation": "H",
+            "SR": "22000",
+            "FEC": "2/3",
+            "System": "DVB-S2",
+            "Modulation": "8PSK",
+            "Crypt": "Frei"
+          }
+        ]
+      },
+      "cached_at": "2026-08-29T11:33:37+00:00"
+    },
+    "btv 1 portugal hd": {
+      "name": "BTV 1 Portugal HD",
+      "details": {
+        "transponders": [
+          {
+            "Name": "HISPASAT 1C, 1D",
+            "Position": "30.0W",
+            "Frequency": "12246.00",
+            "Polarisation": "H",
+            "SR": "27500",
+            "FEC": "3/4",
+            "System": "DVB-S2",
+            "Modulation": "8PSK",
+            "Crypt": "Nagravision 3"
+          },
+          {
+            "Name": "HISPASAT 1C, 1D",
+            "Position": "30.0W",
+            "Frequency": "12246.00",
+            "Polarisation": "H",
+            "SR": "27500",
+            "FEC": "3/4",
+            "System": "DVB-S2",
+            "Modulation": "8PSK",
+            "Crypt": "Nagravision 3"
+          }
+        ]
+      },
+      "cached_at": "2026-08-31T11:30:45+00:00"
+    },
     "btv action hd": {
       "name": "BTV Action HD",
       "details": {
@@ -479,6 +566,25 @@
         ]
       },
       "cached_at": "2026-08-26T05:32:36+00:00"
+    },
+    "canal sport czech hd": {
+      "name": "Canal Sport Czech HD",
+      "details": {
+        "transponders": [
+          {
+            "Name": "ASTRA 3B",
+            "Position": "23.5E",
+            "Frequency": "11973.00",
+            "Polarisation": "V",
+            "SR": "29900",
+            "FEC": "2/3",
+            "System": "DVB-S2",
+            "Modulation": "8PSK",
+            "Crypt": "Conax:Irdeto2;Viaccess5.0;Nagravision 3"
+          }
+        ]
+      },
+      "cached_at": "2026-08-29T11:33:37+00:00"
     },
     "club rtl belgium": {
       "name": "Club RTL Belgium",
@@ -1219,6 +1325,63 @@
       },
       "cached_at": "2026-08-17T03:01:32+00:00"
     },
+    "mdr sachsen hd": {
+      "name": "MDR Sachsen HD",
+      "details": {
+        "transponders": [
+          {
+            "Name": "ASTRA 1F,1G,1H,1KR,1L",
+            "Position": "not available",
+            "Frequency": "not available",
+            "Polarisation": "not available",
+            "SR": "not available",
+            "FEC": "2/3",
+            "System": "DVB-S2",
+            "Modulation": "not available",
+            "Crypt": "not available"
+          }
+        ]
+      },
+      "cached_at": "2026-08-29T11:33:37+00:00"
+    },
+    "mdr sachsen-anhalt hd": {
+      "name": "MDR Sachsen-Anhalt HD",
+      "details": {
+        "transponders": [
+          {
+            "Name": "ASTRA 1F,1G,1H,1KR,1L",
+            "Position": "not available",
+            "Frequency": "not available",
+            "Polarisation": "not available",
+            "SR": "not available",
+            "FEC": "2/3",
+            "System": "DVB-S2",
+            "Modulation": "not available",
+            "Crypt": "not available"
+          }
+        ]
+      },
+      "cached_at": "2026-08-29T11:33:37+00:00"
+    },
+    "mdr thüringen hd": {
+      "name": "MDR Thüringen HD",
+      "details": {
+        "transponders": [
+          {
+            "Name": "ASTRA 1F,1G,1H,1KR,1L",
+            "Position": "not available",
+            "Frequency": "not available",
+            "Polarisation": "not available",
+            "SR": "not available",
+            "FEC": "2/3",
+            "System": "DVB-S2",
+            "Modulation": "not available",
+            "Crypt": "not available"
+          }
+        ]
+      },
+      "cached_at": "2026-08-29T11:33:38+00:00"
+    },
     "nova sport 1 czech hd": {
       "name": "Nova Sport 1 Czech HD",
       "details": {
@@ -1675,6 +1838,25 @@
       },
       "cached_at": "2026-08-24T05:36:57+00:00"
     },
+    "rtl nitro germany hd": {
+      "name": "RTL Nitro Germany HD",
+      "details": {
+        "transponders": [
+          {
+            "Name": "ASTRA 1F,1G,1H,1KR,1L",
+            "Position": "19.2E",
+            "Frequency": "11082.00",
+            "Polarisation": "H",
+            "SR": "22000",
+            "FEC": "3/4",
+            "System": "DVB-S2",
+            "Modulation": "8PSK",
+            "Crypt": "Irdeto ; Nagravision ; Viaccess ; Videoguard"
+          }
+        ]
+      },
+      "cached_at": "2026-08-29T11:33:40+00:00"
+    },
     "rtl plug hd belgium": {
       "name": "RTL Plug HD Belgium",
       "details": {
@@ -1868,6 +2050,25 @@
       },
       "cached_at": "2026-08-28T17:16:22+00:00"
     },
+    "sky bundesliga 2 hd": {
+      "name": "Sky Bundesliga 2 HD",
+      "details": {
+        "transponders": [
+          {
+            "Name": "ASTRA 1F,1G,1H,1KR,1L",
+            "Position": "19.2E",
+            "Frequency": "11914.50",
+            "Polarisation": "H",
+            "SR": "27500",
+            "FEC": "9/10",
+            "System": "DVB-S2",
+            "Modulation": "QPSK",
+            "Crypt": "Nagravision 3:VideoGuard"
+          }
+        ]
+      },
+      "cached_at": "2026-08-29T11:33:38+00:00"
+    },
     "sky bundesliga 3 hd": {
       "name": "Sky Bundesliga 3 HD",
       "details": {
@@ -1905,6 +2106,25 @@
         ]
       },
       "cached_at": "2026-08-28T17:16:21+00:00"
+    },
+    "sky bundesliga 5 hd": {
+      "name": "Sky Bundesliga 5 HD",
+      "details": {
+        "transponders": [
+          {
+            "Name": "ASTRA 1F,1G,1H,1KR,1L",
+            "Position": "19.2E",
+            "Frequency": "12304.50",
+            "Polarisation": "H",
+            "SR": "27500",
+            "FEC": "9/10",
+            "System": "DVB-S2",
+            "Modulation": "QPSK",
+            "Crypt": "Nagravision 3:VideoGuard"
+          }
+        ]
+      },
+      "cached_at": "2026-08-29T11:33:37+00:00"
     },
     "sky bundesliga hd": {
       "name": "Sky Bundesliga HD",
@@ -2730,6 +2950,25 @@
       },
       "cached_at": "2026-08-23T05:27:24+00:00"
     },
+    "srf 2 switzerland hd": {
+      "name": "SRF 2 Switzerland HD",
+      "details": {
+        "transponders": [
+          {
+            "Name": "HOTBIRD 6,7A,8",
+            "Position": "13.0E",
+            "Frequency": "10971.00",
+            "Polarisation": "H",
+            "SR": "29700",
+            "FEC": "2/3",
+            "System": "DVB-S2",
+            "Modulation": "8PSK",
+            "Crypt": "Viaccess 4.0:Viaccess 5.0;Viaccess6.0"
+          }
+        ]
+      },
+      "cached_at": "2026-08-29T11:33:40+00:00"
+    },
     "srf info switzerland hd": {
       "name": "SRF Info Switzerland HD",
       "details": {
@@ -2862,6 +3101,25 @@
         ]
       },
       "cached_at": "2026-08-23T05:27:26+00:00"
+    },
+    "supersport 6 albania hd": {
+      "name": "SuperSport 6 Albania HD",
+      "details": {
+        "transponders": [
+          {
+            "Name": "EUTELSAT W2",
+            "Position": "16.0E",
+            "Frequency": "10803.75",
+            "Polarisation": "H",
+            "SR": "29950",
+            "FEC": "2/3",
+            "System": "DVB-S2",
+            "Modulation": "8PSK",
+            "Crypt": "Conax"
+          }
+        ]
+      },
+      "cached_at": "2026-08-30T10:26:13+00:00"
     },
     "swr fernsehen baden-württemberg hd": {
       "name": "SWR Fernsehen Baden-Württemberg HD",
