@@ -1,21 +1,21 @@
 {
   "source": "https://jdwel.com/today/",
-  "generated_at_utc": "2026-09-01T10:48:12.841815+00:00",
+  "generated_at_utc": "2026-09-01T15:19:05.264535+00:00",
   "matches": [
     {
-      "competition": "الدوري المصري",
-      "home_team": "طلائع الجيش",
-      "away_team": "زد إف سي",
-      "home_logo": "https://jdwel.com/image/teams/357.png",
-      "away_logo": "https://jdwel.com/image/teams/egy_zed.png",
-      "match_time": "1 سبتمبر 2026، 17:00",
+      "competition": "دوري روشن السعودي",
+      "home_team": "الهلال",
+      "away_team": "الأهلي",
+      "home_logo": "https://jdwel.com/image/teams/2761.png",
+      "away_logo": "https://jdwel.com/image/teams/3404.png",
+      "match_time": "1 سبتمبر 2026، 21:00",
       "audio_original": [
-        "أون سبورت بلس (محمد الكواليني)"
+        "ثمانية 1 (فارس عوض و مشاري القرني)"
       ],
       "audio": [
-        "أون سبورت بلس (محمد الكواليني)"
+        "Thamanya 1 — ثمانية 1 (فارس عوض و مشاري القرني)"
       ],
-      "audio_text": "أون سبورت بلس (محمد الكواليني)",
+      "audio_text": "Thamanya 1 — ثمانية 1 (فارس عوض و مشاري القرني)",
       "channel_names_mode": "custom"
     },
     {
@@ -35,19 +35,35 @@
       "channel_names_mode": "custom"
     },
     {
-      "competition": "دوري روشن السعودي",
-      "home_team": "الهلال",
-      "away_team": "الأهلي",
-      "home_logo": "https://jdwel.com/image/teams/2761.png",
-      "away_logo": "https://jdwel.com/image/teams/3404.png",
-      "match_time": "1 سبتمبر 2026، 21:00",
+      "competition": "الدوري المصري",
+      "home_team": "غزل المحلة",
+      "away_team": "الشرقية إنبي",
+      "home_logo": "https://jdwel.com/image/teams/1284.png",
+      "away_logo": "https://jdwel.com/image/teams/6834.png",
+      "match_time": "1 سبتمبر 2026، 17:00",
       "audio_original": [
-        "ثمانية 1 (فارس عوض و مشاري القرني)"
+        "أون سبورت ماكس (أيمن الكاشف)"
       ],
       "audio": [
-        "Thamanya 1 — ثمانية 1 (فارس عوض و مشاري القرني)"
+        "أون سبورت ماكس (أيمن الكاشف)"
       ],
-      "audio_text": "Thamanya 1 — ثمانية 1 (فارس عوض و مشاري القرني)",
+      "audio_text": "أون سبورت ماكس (أيمن الكاشف)",
+      "channel_names_mode": "custom"
+    },
+    {
+      "competition": "الدوري المصري",
+      "home_team": "طلائع الجيش",
+      "away_team": "زد إف سي",
+      "home_logo": "https://jdwel.com/image/teams/357.png",
+      "away_logo": "https://jdwel.com/image/teams/egy_zed.png",
+      "match_time": "1 سبتمبر 2026، 17:00",
+      "audio_original": [
+        "أون سبورت بلس (محمد الكواليني)"
+      ],
+      "audio": [
+        "أون سبورت بلس (محمد الكواليني)"
+      ],
+      "audio_text": "أون سبورت بلس (محمد الكواليني)",
       "channel_names_mode": "custom"
     },
     {
@@ -64,22 +80,6 @@
         "Thamanya — تطبيق ثمانية (محمد معنوزة)"
       ],
       "audio_text": "Thamanya — تطبيق ثمانية (محمد معنوزة)",
-      "channel_names_mode": "custom"
-    },
-    {
-      "competition": "الدوري المصري",
-      "home_team": "غزل المحلة",
-      "away_team": "الشرقية إنبي",
-      "home_logo": "https://jdwel.com/image/teams/1284.png",
-      "away_logo": "https://jdwel.com/image/teams/6834.png",
-      "match_time": "1 سبتمبر 2026، 17:00",
-      "audio_original": [
-        "أون سبورت ماكس (أيمن الكاشف)"
-      ],
-      "audio": [
-        "أون سبورت ماكس (أيمن الكاشف)"
-      ],
-      "audio_text": "أون سبورت ماكس (أيمن الكاشف)",
       "channel_names_mode": "custom"
     },
     {
