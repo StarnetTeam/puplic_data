@@ -1,103 +1,7 @@
 {
   "source": "https://jdwel.com/today/",
-  "generated_at_utc": "2026-09-01T15:19:05.264535+00:00",
+  "generated_at_utc": "2026-09-01T19:00:58.406104+00:00",
   "matches": [
-    {
-      "competition": "دوري روشن السعودي",
-      "home_team": "الهلال",
-      "away_team": "الأهلي",
-      "home_logo": "https://jdwel.com/image/teams/2761.png",
-      "away_logo": "https://jdwel.com/image/teams/3404.png",
-      "match_time": "1 سبتمبر 2026، 21:00",
-      "audio_original": [
-        "ثمانية 1 (فارس عوض و مشاري القرني)"
-      ],
-      "audio": [
-        "Thamanya 1 — ثمانية 1 (فارس عوض و مشاري القرني)"
-      ],
-      "audio_text": "Thamanya 1 — ثمانية 1 (فارس عوض و مشاري القرني)",
-      "channel_names_mode": "custom"
-    },
-    {
-      "competition": "الدوري المصري",
-      "home_team": "وادي دجلة",
-      "away_team": "القناة",
-      "home_logo": "https://jdwel.com/image/teams/2741.png",
-      "away_logo": "https://jdwel.com/image/teams/4706.png",
-      "match_time": "1 سبتمبر 2026، 20:00",
-      "audio_original": [
-        "أون سبورت 1 (هشام معمر)"
-      ],
-      "audio": [
-        "أون سبورت 1 (هشام معمر)"
-      ],
-      "audio_text": "أون سبورت 1 (هشام معمر)",
-      "channel_names_mode": "custom"
-    },
-    {
-      "competition": "الدوري المصري",
-      "home_team": "غزل المحلة",
-      "away_team": "الشرقية إنبي",
-      "home_logo": "https://jdwel.com/image/teams/1284.png",
-      "away_logo": "https://jdwel.com/image/teams/6834.png",
-      "match_time": "1 سبتمبر 2026، 17:00",
-      "audio_original": [
-        "أون سبورت ماكس (أيمن الكاشف)"
-      ],
-      "audio": [
-        "أون سبورت ماكس (أيمن الكاشف)"
-      ],
-      "audio_text": "أون سبورت ماكس (أيمن الكاشف)",
-      "channel_names_mode": "custom"
-    },
-    {
-      "competition": "الدوري المصري",
-      "home_team": "طلائع الجيش",
-      "away_team": "زد إف سي",
-      "home_logo": "https://jdwel.com/image/teams/357.png",
-      "away_logo": "https://jdwel.com/image/teams/egy_zed.png",
-      "match_time": "1 سبتمبر 2026، 17:00",
-      "audio_original": [
-        "أون سبورت بلس (محمد الكواليني)"
-      ],
-      "audio": [
-        "أون سبورت بلس (محمد الكواليني)"
-      ],
-      "audio_text": "أون سبورت بلس (محمد الكواليني)",
-      "channel_names_mode": "custom"
-    },
-    {
-      "competition": "دوري الدرجة الأولى السعودي",
-      "home_team": "الجيل",
-      "away_team": "جدة",
-      "home_logo": "https://jdwel.com/image/teams/951.png",
-      "away_logo": "https://jdwel.com/image/teams/3237.png",
-      "match_time": "1 سبتمبر 2026، 18:40",
-      "audio_original": [
-        "تطبيق ثمانية (محمد معنوزة)"
-      ],
-      "audio": [
-        "Thamanya — تطبيق ثمانية (محمد معنوزة)"
-      ],
-      "audio_text": "Thamanya — تطبيق ثمانية (محمد معنوزة)",
-      "channel_names_mode": "custom"
-    },
-    {
-      "competition": "دوري الدرجة الأولى السعودي",
-      "home_team": "العروبة",
-      "away_team": "الزلفي",
-      "home_logo": "https://jdwel.com/image/teams/776.png",
-      "away_logo": "https://jdwel.com/image/teams/sau_al_zulfi.png",
-      "match_time": "1 سبتمبر 2026، 19:20",
-      "audio_original": [
-        "ثمانية 2 (محمد مصباح)"
-      ],
-      "audio": [
-        "Thamanya 2 — ثمانية 2 (محمد مصباح)"
-      ],
-      "audio_text": "Thamanya 2 — ثمانية 2 (محمد مصباح)",
-      "channel_names_mode": "custom"
-    },
     {
       "competition": "دوري الدرجة الأولى السعودي",
       "home_team": "النجمة",
@@ -112,6 +16,22 @@
         "Thamanya 3 — ثمانية 3 (سلطان الحربي)"
       ],
       "audio_text": "Thamanya 3 — ثمانية 3 (سلطان الحربي)",
+      "channel_names_mode": "custom"
+    },
+    {
+      "competition": "دوري روشن السعودي",
+      "home_team": "الهلال",
+      "away_team": "الأهلي",
+      "home_logo": "https://jdwel.com/image/teams/2761.png",
+      "away_logo": "https://jdwel.com/image/teams/3404.png",
+      "match_time": "1 سبتمبر 2026، 21:00",
+      "audio_original": [
+        "ثمانية 1 (فارس عوض و مشاري القرني)"
+      ],
+      "audio": [
+        "Thamanya 1 — ثمانية 1 (فارس عوض و مشاري القرني)"
+      ],
+      "audio_text": "Thamanya 1 — ثمانية 1 (فارس عوض و مشاري القرني)",
       "channel_names_mode": "custom"
     },
     {
