@@ -1,54 +1,5 @@
 {
   "source": "https://jdwel.com/today/",
-  "generated_at_utc": "2026-09-01T19:00:58.406104+00:00",
-  "matches": [
-    {
-      "competition": "دوري الدرجة الأولى السعودي",
-      "home_team": "النجمة",
-      "away_team": "الجبلين",
-      "home_logo": "https://jdwel.com/image/teams/3218.png",
-      "away_logo": "https://jdwel.com/image/teams/2452.png",
-      "match_time": "1 سبتمبر 2026، 20:40",
-      "audio_original": [
-        "ثمانية 3 (سلطان الحربي)"
-      ],
-      "audio": [
-        "Thamanya 3 — ثمانية 3 (سلطان الحربي)"
-      ],
-      "audio_text": "Thamanya 3 — ثمانية 3 (سلطان الحربي)",
-      "channel_names_mode": "custom"
-    },
-    {
-      "competition": "دوري روشن السعودي",
-      "home_team": "الهلال",
-      "away_team": "الأهلي",
-      "home_logo": "https://jdwel.com/image/teams/2761.png",
-      "away_logo": "https://jdwel.com/image/teams/3404.png",
-      "match_time": "1 سبتمبر 2026، 21:00",
-      "audio_original": [
-        "ثمانية 1 (فارس عوض و مشاري القرني)"
-      ],
-      "audio": [
-        "Thamanya 1 — ثمانية 1 (فارس عوض و مشاري القرني)"
-      ],
-      "audio_text": "Thamanya 1 — ثمانية 1 (فارس عوض و مشاري القرني)",
-      "channel_names_mode": "custom"
-    },
-    {
-      "competition": "تشامبيونشيب",
-      "home_team": "ستوك سيتي",
-      "away_team": "نورويتش سيتي",
-      "home_logo": "https://jdwel.com/image/teams/6491.png",
-      "away_logo": "https://jdwel.com/image/teams/2225.png",
-      "match_time": "1 سبتمبر 2026، 22:00",
-      "audio_original": [
-        "beIN SPORTS 1 (عبدالله الغامدي)"
-      ],
-      "audio": [
-        "الصوتية الأولى — Audio 1 (عبدالله الغامدي)"
-      ],
-      "audio_text": "الصوتية الأولى — Audio 1 (عبدالله الغامدي)",
-      "channel_names_mode": "custom"
-    }
-  ]
+  "generated_at_utc": "2026-09-01T22:11:59.520872+00:00",
+  "matches": []
 }
