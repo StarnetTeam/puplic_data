@@ -1,87 +1,133 @@
 {
   "source": "https://jdwel.com/today/",
-  "generated_at_utc": "2026-08-31T20:30:12.389311+00:00",
+  "generated_at_utc": "2026-09-01T00:13:03.135446+00:00",
   "matches": [
     {
-      "competition": "الدوري الإيطالي",
-      "home_team": "أتالانتا",
-      "away_team": "بولونيا",
-      "home_logo": "https://jdwel.com/image/teams/6400.png",
-      "away_logo": "https://jdwel.com/image/teams/2845.png",
-      "match_time": "31 أغسطس 2026، 21:45",
+      "competition": "الدوري المصري",
+      "home_team": "وادي دجلة",
+      "away_team": "القناة",
+      "home_logo": "https://jdwel.com/image/teams/2741.png",
+      "away_logo": "https://jdwel.com/image/teams/4706.png",
+      "match_time": "1 سبتمبر 2026، 20:00",
       "audio_original": [
-        "STARZPLAY (عيسى الحربين)",
-        "STC TV (عيسى الحربين)"
+        "أون سبورت 1 (هشام معمر)"
       ],
       "audio": [
-        "الإيطالية — Italy (عيسى الحربين)",
-        "الإيطالية — Italy (عيسى الحربين)"
+        "أون سبورت 1 (هشام معمر)"
       ],
-      "audio_text": "الإيطالية — Italy (عيسى الحربين) | الإيطالية — Italy (عيسى الحربين)",
+      "audio_text": "أون سبورت 1 (هشام معمر)",
       "channel_names_mode": "custom"
     },
     {
-      "competition": "الدوري الإسباني",
-      "home_team": "برشلونة",
-      "away_team": "رايو فايكانو",
-      "home_logo": "https://jdwel.com/image/teams/3337.png",
-      "away_logo": "https://jdwel.com/image/teams/1082.png",
-      "match_time": "31 أغسطس 2026، 22:30",
+      "competition": "دوري روشن السعودي",
+      "home_team": "الهلال",
+      "away_team": "الأهلي",
+      "home_logo": "https://jdwel.com/image/teams/2761.png",
+      "away_logo": "https://jdwel.com/image/teams/3404.png",
+      "match_time": "1 سبتمبر 2026، 21:00",
       "audio_original": [
-        "beIN SPORTS 2 (علي الكعبي)"
+        "ثمانية 1 (فارس عوض و مشاري القرني)"
       ],
       "audio": [
-        "الصوتية الثانية — Audio 2 (علي الكعبي)"
+        "Thamanya 1 — ثمانية 1 (فارس عوض و مشاري القرني)"
       ],
-      "audio_text": "الصوتية الثانية — Audio 2 (علي الكعبي)",
+      "audio_text": "Thamanya 1 — ثمانية 1 (فارس عوض و مشاري القرني)",
       "channel_names_mode": "custom"
     },
     {
-      "competition": "الدوري الإنجليزي",
-      "home_team": "أستون فيلا",
-      "away_team": "آرسنال",
-      "home_logo": "https://jdwel.com/image/teams/767.png",
-      "away_logo": "https://jdwel.com/image/teams/2999.png",
-      "match_time": "31 أغسطس 2026، 22:00",
+      "competition": "دوري الدرجة الأولى السعودي",
+      "home_team": "الجيل",
+      "away_team": "جدة",
+      "home_logo": "https://jdwel.com/image/teams/951.png",
+      "away_logo": "https://jdwel.com/image/teams/3237.png",
+      "match_time": "1 سبتمبر 2026، 18:40",
       "audio_original": [
-        "beIN SPORTS 1 (أحمد البلوشي)"
+        "تطبيق ثمانية (محمد معنوزة)"
       ],
       "audio": [
-        "الصوتية الأولى — Audio 1 (أحمد البلوشي)"
+        "Thamanya — تطبيق ثمانية (محمد معنوزة)"
       ],
-      "audio_text": "الصوتية الأولى — Audio 1 (أحمد البلوشي)",
+      "audio_text": "Thamanya — تطبيق ثمانية (محمد معنوزة)",
       "channel_names_mode": "custom"
     },
     {
-      "competition": "الدوري التركي",
-      "home_team": "آميد سبورتيف",
-      "away_team": "طرابزون سبور",
-      "home_logo": "https://jdwel.com/image/teams/6917.png",
-      "away_logo": "https://jdwel.com/image/teams/4730.png",
-      "match_time": "31 أغسطس 2026، 21:30",
+      "competition": "الدوري المصري",
+      "home_team": "طلائع الجيش",
+      "away_team": "زد إف سي",
+      "home_logo": "https://jdwel.com/image/teams/357.png",
+      "away_logo": "https://jdwel.com/image/teams/egy_zed.png",
+      "match_time": "1 سبتمبر 2026، 17:00",
       "audio_original": [
-        "beIN SPORTS 3 (محمد بركات)"
+        "أون سبورت بلس (محمد الكواليني)"
       ],
       "audio": [
-        "الصوتية الثالثة — Audio 3 (محمد بركات)"
+        "أون سبورت بلس (محمد الكواليني)"
       ],
-      "audio_text": "الصوتية الثالثة — Audio 3 (محمد بركات)",
+      "audio_text": "أون سبورت بلس (محمد الكواليني)",
       "channel_names_mode": "custom"
     },
     {
-      "competition": "الدوري البرتغالي",
-      "home_team": "بنفيكا",
-      "away_team": "إشتوريل",
-      "home_logo": "https://jdwel.com/image/teams/1442.png",
-      "away_logo": "https://jdwel.com/image/teams/2396.png",
-      "match_time": "31 أغسطس 2026، 22:15",
+      "competition": "الدوري المصري",
+      "home_team": "غزل المحلة",
+      "away_team": "الشرقية إنبي",
+      "home_logo": "https://jdwel.com/image/teams/1284.png",
+      "away_logo": "https://jdwel.com/image/teams/6834.png",
+      "match_time": "1 سبتمبر 2026، 17:00",
       "audio_original": [
-        "منصة شاشا (أحمد وحيد)"
+        "أون سبورت ماكس (أيمن الكاشف)"
       ],
       "audio": [
-        "الإيطالية — Italy (أحمد وحيد)"
+        "أون سبورت ماكس (أيمن الكاشف)"
       ],
-      "audio_text": "الإيطالية — Italy (أحمد وحيد)",
+      "audio_text": "أون سبورت ماكس (أيمن الكاشف)",
+      "channel_names_mode": "custom"
+    },
+    {
+      "competition": "دوري الدرجة الأولى السعودي",
+      "home_team": "النجمة",
+      "away_team": "الجبلين",
+      "home_logo": "https://jdwel.com/image/teams/3218.png",
+      "away_logo": "https://jdwel.com/image/teams/2452.png",
+      "match_time": "1 سبتمبر 2026، 20:40",
+      "audio_original": [
+        "ثمانية 3 (سلطان الحربي)"
+      ],
+      "audio": [
+        "Thamanya 3 — ثمانية 3 (سلطان الحربي)"
+      ],
+      "audio_text": "Thamanya 3 — ثمانية 3 (سلطان الحربي)",
+      "channel_names_mode": "custom"
+    },
+    {
+      "competition": "دوري الدرجة الأولى السعودي",
+      "home_team": "العروبة",
+      "away_team": "الزلفي",
+      "home_logo": "https://jdwel.com/image/teams/776.png",
+      "away_logo": "https://jdwel.com/image/teams/sau_al_zulfi.png",
+      "match_time": "1 سبتمبر 2026، 19:20",
+      "audio_original": [
+        "ثمانية 2 (محمد مصباح)"
+      ],
+      "audio": [
+        "Thamanya 2 — ثمانية 2 (محمد مصباح)"
+      ],
+      "audio_text": "Thamanya 2 — ثمانية 2 (محمد مصباح)",
+      "channel_names_mode": "custom"
+    },
+    {
+      "competition": "تشامبيونشيب",
+      "home_team": "ستوك سيتي",
+      "away_team": "نورويتش سيتي",
+      "home_logo": "https://jdwel.com/image/teams/6491.png",
+      "away_logo": "https://jdwel.com/image/teams/2225.png",
+      "match_time": "1 سبتمبر 2026، 22:00",
+      "audio_original": [
+        "beIN SPORTS 1 (عبدالله الغامدي)"
+      ],
+      "audio": [
+        "الصوتية الأولى — Audio 1 (عبدالله الغامدي)"
+      ],
+      "audio_text": "الصوتية الأولى — Audio 1 (عبدالله الغامدي)",
       "channel_names_mode": "custom"
     }
   ]
