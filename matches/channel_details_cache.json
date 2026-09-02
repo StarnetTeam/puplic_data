@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-01T09:53:04+00:00",
-  "channel_count": 168,
+  "last_updated": "2026-09-02T09:24:56+00:00",
+  "channel_count": 170,
   "channels": {
     "arena 4 hungary hd": {
       "name": "Arena 4 Hungary HD",
@@ -782,6 +782,25 @@
       },
       "cached_at": "2026-08-21T05:30:17+00:00"
     },
+    "df1 hd": {
+      "name": "DF1 HD",
+      "details": {
+        "transponders": [
+          {
+            "Name": "ASTRA 1F,1G,1H,1KR,1L",
+            "Position": "19.2E",
+            "Frequency": "11302.75",
+            "Polarisation": "H",
+            "SR": "22000",
+            "FEC": "2/3",
+            "System": "DVB-S2",
+            "Modulation": "8PSK",
+            "Crypt": "BetaCrypt:Cryptoworks:Irdeto 2:Nagravision 3:VideoGuard"
+          }
+        ]
+      },
+      "cached_at": "2026-09-02T09:24:54+00:00"
+    },
     "diema sport 1 bulgaria hd": {
       "name": "Diema Sport 1 Bulgaria HD",
       "details": {
@@ -1123,6 +1142,25 @@
         ]
       },
       "cached_at": "2026-08-17T05:34:08+00:00"
+    },
+    "ketnet hd": {
+      "name": "Ketnet HD",
+      "details": {
+        "transponders": [
+          {
+            "Name": "ASTRA 1E,3A",
+            "Position": "23.5E",
+            "Frequency": "12129.00",
+            "Polarisation": "V",
+            "SR": "29900",
+            "FEC": "2/3",
+            "System": "DVB-S2",
+            "Modulation": "8PSK",
+            "Crypt": "Mediaguard 3:Nagravision 3:Viaccess 4.0"
+          }
+        ]
+      },
+      "cached_at": "2026-09-02T09:24:55+00:00"
     },
     "m4 sport hungary": {
       "name": "M4 Sport Hungary",
