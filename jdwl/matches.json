@@ -1,71 +1,21 @@
 {
   "source": "https://jdwel.com/today/",
-  "generated_at_utc": "2026-09-03T16:45:48.823837+00:00",
+  "generated_at_utc": "2026-09-03T19:30:19.707375+00:00",
   "matches": [
     {
-      "competition": "الدوري المصري",
-      "home_team": "الأهلي",
-      "away_team": "سموحة",
-      "home_logo": "https://jdwel.com/image/teams/1253.png",
-      "away_logo": "https://jdwel.com/image/teams/2523.png",
-      "match_time": "3 سبتمبر 2026، 20:00",
+      "competition": "الدوري الفرنسي",
+      "home_team": "تولوز",
+      "away_team": "ليل",
+      "home_logo": "https://jdwel.com/image/teams/2966.png",
+      "away_logo": "https://jdwel.com/image/teams/3190.png",
+      "match_time": "3 سبتمبر 2026، 21:45",
       "audio_original": [
-        "أون سبورت 1 (بلال علام)"
+        "beIN SPORTS 1 (أحمد عبده)"
       ],
       "audio": [
-        "أون سبورت 1 (بلال علام)"
+        "الصوتية الأولى — Audio 1 (أحمد عبده)"
       ],
-      "audio_text": "أون سبورت 1 (بلال علام)",
-      "channel_names_mode": "custom"
-    },
-    {
-      "competition": "دوري روشن السعودي",
-      "home_team": "الفيحاء",
-      "away_team": "الخلود",
-      "home_logo": "https://jdwel.com/image/teams/3067.png",
-      "away_logo": "https://jdwel.com/image/teams/6436.png",
-      "match_time": "3 سبتمبر 2026، 18:55",
-      "audio_original": [
-        "ثمانية 2 (سعد يحيى)"
-      ],
-      "audio": [
-        "Thamanya 2 — ثمانية 2 (سعد يحيى)"
-      ],
-      "audio_text": "Thamanya 2 — ثمانية 2 (سعد يحيى)",
-      "channel_names_mode": "custom"
-    },
-    {
-      "competition": "دوري روشن السعودي",
-      "home_team": "نيوم",
-      "away_team": "الخليج",
-      "home_logo": "https://jdwel.com/image/teams/298.png",
-      "away_logo": "https://jdwel.com/image/teams/2840.png",
-      "match_time": "3 سبتمبر 2026، 19:30",
-      "audio_original": [
-        "ثمانية 3 (جعفر الصليح)"
-      ],
-      "audio": [
-        "Thamanya 3 — ثمانية 3 (جعفر الصليح)"
-      ],
-      "audio_text": "Thamanya 3 — ثمانية 3 (جعفر الصليح)",
-      "channel_names_mode": "custom"
-    },
-    {
-      "competition": "الدوري الجزائري",
-      "home_team": "شبيبة الأبيار",
-      "away_team": "أولمبيك أقبو",
-      "home_logo": "https://jdwel.com/image/teams/6913.png",
-      "away_logo": "https://jdwel.com/image/teams/3099.png",
-      "match_time": "3 سبتمبر 2026، 23:00",
-      "audio_original": [
-        "الجزائرية 1 (أرضي)",
-        "الجزائرية 4"
-      ],
-      "audio": [
-        "الجزائرية 1 (أرضي)",
-        "الجزائرية 4"
-      ],
-      "audio_text": "الجزائرية 1 (أرضي) | الجزائرية 4",
+      "audio_text": "الصوتية الأولى — Audio 1 (أحمد عبده)",
       "channel_names_mode": "custom"
     },
     {
@@ -82,22 +32,6 @@
         "Thamanya 1 — ثمانية 1 (عبدالله الحربي)"
       ],
       "audio_text": "Thamanya 1 — ثمانية 1 (عبدالله الحربي)",
-      "channel_names_mode": "custom"
-    },
-    {
-      "competition": "الدوري الفرنسي",
-      "home_team": "تولوز",
-      "away_team": "ليل",
-      "home_logo": "https://jdwel.com/image/teams/2966.png",
-      "away_logo": "https://jdwel.com/image/teams/3190.png",
-      "match_time": "3 سبتمبر 2026، 21:45",
-      "audio_original": [
-        "beIN SPORTS 1 (أحمد عبده)"
-      ],
-      "audio": [
-        "الصوتية الأولى — Audio 1 (أحمد عبده)"
-      ],
-      "audio_text": "الصوتية الأولى — Audio 1 (أحمد عبده)",
       "channel_names_mode": "custom"
     },
     {
@@ -133,51 +67,21 @@
       "channel_names_mode": "custom"
     },
     {
-      "competition": "كأس إيطاليا",
-      "home_team": "باليرمو",
-      "away_team": "مانتوفا",
-      "home_logo": "https://jdwel.com/image/teams/1116.png",
-      "away_logo": "https://jdwel.com/image/teams/ita_mantova.png",
-      "match_time": "3 سبتمبر 2026، 19:00",
+      "competition": "الدوري الجزائري",
+      "home_team": "شبيبة الأبيار",
+      "away_team": "أولمبيك أقبو",
+      "home_logo": "https://jdwel.com/image/teams/6913.png",
+      "away_logo": "https://jdwel.com/image/teams/3099.png",
+      "match_time": "3 سبتمبر 2026، 23:00",
       "audio_original": [
-        "MBC شاهد (محمد أبوكبدة)"
+        "الجزائرية 1 (أرضي)",
+        "الجزائرية 4"
       ],
       "audio": [
-        "MBC شاهد (محمد أبوكبدة)"
+        "الجزائرية 1 (أرضي)",
+        "الجزائرية 4"
       ],
-      "audio_text": "MBC شاهد (محمد أبوكبدة)",
-      "channel_names_mode": "custom"
-    },
-    {
-      "competition": "الدوري الأردني",
-      "home_team": "البقعة",
-      "away_team": "دوقرة",
-      "home_logo": "https://jdwel.com/image/teams/jor_al_buqaa.png",
-      "away_logo": "https://jdwel.com/image/teams/4633.png",
-      "match_time": "3 سبتمبر 2026، 19:00",
-      "audio_original": [
-        "الأردن الرياضية (حمزة الشاويش)"
-      ],
-      "audio": [
-        "الأردن الرياضية (حمزة الشاويش)"
-      ],
-      "audio_text": "الأردن الرياضية (حمزة الشاويش)",
-      "channel_names_mode": "custom"
-    },
-    {
-      "competition": "الدوري القطري",
-      "home_team": "السيلية",
-      "away_team": "العربي",
-      "home_logo": "https://jdwel.com/image/teams/4852.png",
-      "away_logo": "https://jdwel.com/image/teams/5435.png",
-      "match_time": "3 سبتمبر 2026، 19:15",
-      "audio_original": [
-        "الكاس 6 (أحمد الطيب)"
-      ],
-      "audio": [
-        "الكاس 6 (أحمد الطيب)"
-      ],
-      "audio_text": "الكاس 6 (أحمد الطيب)",
+      "audio_text": "الجزائرية 1 (أرضي) | الجزائرية 4",
       "channel_names_mode": "custom"
     },
     {
@@ -198,34 +102,18 @@
     },
     {
       "competition": "الدوري العراقي",
-      "home_team": "ديالى",
-      "away_team": "الكرمة",
-      "home_logo": "https://jdwel.com/image/teams/983.png",
-      "away_logo": "https://jdwel.com/image/teams/984.png",
-      "match_time": "3 سبتمبر 2026، 18:45",
+      "home_team": "دهوك",
+      "away_team": "القوة الجوية",
+      "home_logo": "https://jdwel.com/image/teams/3281.png",
+      "away_logo": "https://jdwel.com/image/teams/2346.png",
+      "match_time": "3 سبتمبر 2026، 21:00",
       "audio_original": [
-        "العراقية الرياضية (علي عنب)"
+        "العراقية الرياضية (علاء الزهيري)"
       ],
       "audio": [
-        "العراقية الرياضية (علي عنب)"
+        "العراقية الرياضية (علاء الزهيري)"
       ],
-      "audio_text": "العراقية الرياضية (علي عنب)",
-      "channel_names_mode": "custom"
-    },
-    {
-      "competition": "الدوري العراقي",
-      "home_team": "الموصل",
-      "away_team": "الزوراء",
-      "home_logo": "https://jdwel.com/image/teams/6184.png",
-      "away_logo": "https://jdwel.com/image/teams/617.png",
-      "match_time": "3 سبتمبر 2026، 18:45",
-      "audio_original": [
-        "العراقية السريانية (علي الشمري)"
-      ],
-      "audio": [
-        "العراقية السريانية (علي الشمري)"
-      ],
-      "audio_text": "العراقية السريانية (علي الشمري)",
+      "audio_text": "العراقية الرياضية (علاء الزهيري)",
       "channel_names_mode": "custom"
     }
   ]
