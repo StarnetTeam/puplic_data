@@ -1,37 +1,21 @@
 {
   "source": "https://jdwel.com/today/",
-  "generated_at_utc": "2026-09-04T00:32:25.202234+00:00",
+  "generated_at_utc": "2026-09-04T05:14:59.942785+00:00",
   "matches": [
     {
-      "competition": "دوري روشن السعودي",
-      "home_team": "الشباب",
-      "away_team": "الهلال",
-      "home_logo": "https://jdwel.com/image/teams/2213.png",
-      "away_logo": "https://jdwel.com/image/teams/2761.png",
-      "match_time": "4 سبتمبر 2026، 21:00",
+      "competition": "الدوري الإسباني",
+      "home_team": "ريال بيتيس",
+      "away_team": "ريال مدريد",
+      "home_logo": "https://jdwel.com/image/teams/2776.png",
+      "away_logo": "https://jdwel.com/image/teams/2605.png",
+      "match_time": "4 سبتمبر 2026، 22:00",
       "audio_original": [
-        "ثمانية 1 (مشاري القرني)"
+        "beIN SPORTS 3 (عصام الشوالي)"
       ],
       "audio": [
-        "Thamanya 1 — ثمانية 1 (مشاري القرني)"
+        "الصوتية الثالثة — Audio 3 (عصام الشوالي)"
       ],
-      "audio_text": "Thamanya 1 — ثمانية 1 (مشاري القرني)",
-      "channel_names_mode": "custom"
-    },
-    {
-      "competition": "الدوري الفرنسي",
-      "home_team": "ليون",
-      "away_team": "أوكسير",
-      "home_logo": "https://jdwel.com/image/teams/5695.png",
-      "away_logo": "https://jdwel.com/image/teams/341.png",
-      "match_time": "4 سبتمبر 2026، 20:00",
-      "audio_original": [
-        "beIN SPORTS 4 (محمد بركات)"
-      ],
-      "audio": [
-        "الصوتية الرابعة — Audio 4 (محمد بركات)"
-      ],
-      "audio_text": "الصوتية الرابعة — Audio 4 (محمد بركات)",
+      "audio_text": "الصوتية الثالثة — Audio 3 (عصام الشوالي)",
       "channel_names_mode": "custom"
     },
     {
@@ -51,6 +35,54 @@
       "channel_names_mode": "custom"
     },
     {
+      "competition": "الدوري الفرنسي",
+      "home_team": "ليون",
+      "away_team": "أوكسير",
+      "home_logo": "https://jdwel.com/image/teams/5695.png",
+      "away_logo": "https://jdwel.com/image/teams/341.png",
+      "match_time": "4 سبتمبر 2026، 20:00",
+      "audio_original": [
+        "beIN SPORTS 4 (محمد بركات)"
+      ],
+      "audio": [
+        "الصوتية الرابعة — Audio 4 (محمد بركات)"
+      ],
+      "audio_text": "الصوتية الرابعة — Audio 4 (محمد بركات)",
+      "channel_names_mode": "custom"
+    },
+    {
+      "competition": "دوري روشن السعودي",
+      "home_team": "أبها",
+      "away_team": "الاتفاق",
+      "home_logo": "https://jdwel.com/image/teams/2451.png",
+      "away_logo": "https://jdwel.com/image/teams/2215.png",
+      "match_time": "4 سبتمبر 2026، 19:00",
+      "audio_original": [
+        "ثمانية 2 (خالد المديفر)"
+      ],
+      "audio": [
+        "Thamanya 2 — ثمانية 2 (خالد المديفر)"
+      ],
+      "audio_text": "Thamanya 2 — ثمانية 2 (خالد المديفر)",
+      "channel_names_mode": "custom"
+    },
+    {
+      "competition": "دوري روشن السعودي",
+      "home_team": "الشباب",
+      "away_team": "الهلال",
+      "home_logo": "https://jdwel.com/image/teams/2213.png",
+      "away_logo": "https://jdwel.com/image/teams/2761.png",
+      "match_time": "4 سبتمبر 2026، 21:00",
+      "audio_original": [
+        "ثمانية 1 (مشاري القرني)"
+      ],
+      "audio": [
+        "Thamanya 1 — ثمانية 1 (مشاري القرني)"
+      ],
+      "audio_text": "Thamanya 1 — ثمانية 1 (مشاري القرني)",
+      "channel_names_mode": "custom"
+    },
+    {
       "competition": "دوري روشن السعودي",
       "home_team": "الأهلي",
       "away_team": "الرياض",
@@ -64,22 +96,6 @@
         "Thamanya 3 — ثمانية 3 (سليمان الشريف)"
       ],
       "audio_text": "Thamanya 3 — ثمانية 3 (سليمان الشريف)",
-      "channel_names_mode": "custom"
-    },
-    {
-      "competition": "الدوري الإسباني",
-      "home_team": "ريال بيتيس",
-      "away_team": "ريال مدريد",
-      "home_logo": "https://jdwel.com/image/teams/2776.png",
-      "away_logo": "https://jdwel.com/image/teams/2605.png",
-      "match_time": "4 سبتمبر 2026، 22:00",
-      "audio_original": [
-        "beIN SPORTS 3 (عصام الشوالي)"
-      ],
-      "audio": [
-        "الصوتية الثالثة — Audio 3 (عصام الشوالي)"
-      ],
-      "audio_text": "الصوتية الثالثة — Audio 3 (عصام الشوالي)",
       "channel_names_mode": "custom"
     },
     {
@@ -119,22 +135,6 @@
       "channel_names_mode": "custom"
     },
     {
-      "competition": "دوري روشن السعودي",
-      "home_team": "أبها",
-      "away_team": "الاتفاق",
-      "home_logo": "https://jdwel.com/image/teams/2451.png",
-      "away_logo": "https://jdwel.com/image/teams/2215.png",
-      "match_time": "4 سبتمبر 2026، 19:00",
-      "audio_original": [
-        "ثمانية 2 (خالد المديفر)"
-      ],
-      "audio": [
-        "Thamanya 2 — ثمانية 2 (خالد المديفر)"
-      ],
-      "audio_text": "Thamanya 2 — ثمانية 2 (خالد المديفر)",
-      "channel_names_mode": "custom"
-    },
-    {
       "competition": "الدوري الألماني",
       "home_team": "شتوتغارت",
       "away_team": "كولن",
@@ -148,22 +148,6 @@
         "MBC Action (فهد عريشي)"
       ],
       "audio_text": "MBC Action (فهد عريشي)",
-      "channel_names_mode": "custom"
-    },
-    {
-      "competition": "دوري أبطال أفريقيا",
-      "home_team": "بورت",
-      "away_team": "الزمالك",
-      "home_logo": "https://jdwel.com/image/teams/3912.png",
-      "away_logo": "https://jdwel.com/image/teams/339.png",
-      "match_time": "4 سبتمبر 2026، 20:00",
-      "audio_original": [
-        "أون سبورت 1 (عصام عبده)"
-      ],
-      "audio": [
-        "أون سبورت 1 (عصام عبده)"
-      ],
-      "audio_text": "أون سبورت 1 (عصام عبده)",
       "channel_names_mode": "custom"
     },
     {
@@ -196,6 +180,22 @@
         "ليبيا الرياضية (خليل البلوشي)"
       ],
       "audio_text": "ليبيا الرياضية (خليل البلوشي)",
+      "channel_names_mode": "custom"
+    },
+    {
+      "competition": "دوري أبطال أفريقيا",
+      "home_team": "بورت",
+      "away_team": "الزمالك",
+      "home_logo": "https://jdwel.com/image/teams/3912.png",
+      "away_logo": "https://jdwel.com/image/teams/339.png",
+      "match_time": "4 سبتمبر 2026، 20:00",
+      "audio_original": [
+        "أون سبورت 1 (عصام عبده)"
+      ],
+      "audio": [
+        "أون سبورت 1 (عصام عبده)"
+      ],
+      "audio_text": "أون سبورت 1 (عصام عبده)",
       "channel_names_mode": "custom"
     },
     {
