@@ -1,23 +1,7 @@
 {
   "source": "https://jdwel.com/today/",
-  "generated_at_utc": "2026-09-05T05:04:39.988951+00:00",
+  "generated_at_utc": "2026-09-05T09:40:21.131673+00:00",
   "matches": [
-    {
-      "competition": "الدوري الإنجليزي",
-      "home_team": "فولهام",
-      "away_team": "كريستال بالاس",
-      "home_logo": "https://jdwel.com/image/teams/280.png",
-      "away_logo": "https://jdwel.com/image/teams/1279.png",
-      "match_time": "5 سبتمبر 2026، 17:00",
-      "audio_original": [
-        "beIN SPORTS 4 (بكر علوان)"
-      ],
-      "audio": [
-        "الصوتية الرابعة — Audio 4 (بكر علوان)"
-      ],
-      "audio_text": "الصوتية الرابعة — Audio 4 (بكر علوان)",
-      "channel_names_mode": "custom"
-    },
     {
       "competition": "الدوري الإنجليزي",
       "home_team": "مانشستر سيتي",
@@ -36,18 +20,18 @@
     },
     {
       "competition": "الدوري الإنجليزي",
-      "home_team": "برايتون",
-      "away_team": "ليدز يونايتد",
-      "home_logo": "https://jdwel.com/image/teams/5088.png",
-      "away_logo": "https://jdwel.com/image/teams/1675.png",
+      "home_team": "نوتينغهام فورست",
+      "away_team": "توتنهام",
+      "home_logo": "https://jdwel.com/image/teams/2969.png",
+      "away_logo": "https://jdwel.com/image/teams/1018.png",
       "match_time": "5 سبتمبر 2026، 17:00",
       "audio_original": [
-        "beIN SPORTS 3 (أحمد فؤاد)"
+        "beIN SPORTS 2 (أحمد البلوشي)"
       ],
       "audio": [
-        "الصوتية الثالثة — Audio 3 (أحمد فؤاد)"
+        "الصوتية الثانية — Audio 2 (أحمد البلوشي)"
       ],
-      "audio_text": "الصوتية الثالثة — Audio 3 (أحمد فؤاد)",
+      "audio_text": "الصوتية الثانية — Audio 2 (أحمد البلوشي)",
       "channel_names_mode": "custom"
     },
     {
@@ -84,6 +68,22 @@
     },
     {
       "competition": "الدوري الإنجليزي",
+      "home_team": "برايتون",
+      "away_team": "ليدز يونايتد",
+      "home_logo": "https://jdwel.com/image/teams/5088.png",
+      "away_logo": "https://jdwel.com/image/teams/1675.png",
+      "match_time": "5 سبتمبر 2026، 17:00",
+      "audio_original": [
+        "beIN SPORTS 3 (أحمد فؤاد)"
+      ],
+      "audio": [
+        "الصوتية الثالثة — Audio 3 (أحمد فؤاد)"
+      ],
+      "audio_text": "الصوتية الثالثة — Audio 3 (أحمد فؤاد)",
+      "channel_names_mode": "custom"
+    },
+    {
+      "competition": "الدوري الإنجليزي",
       "home_team": "هال سيتي",
       "away_team": "أستون فيلا",
       "home_logo": "https://jdwel.com/image/teams/2626.png",
@@ -100,18 +100,18 @@
     },
     {
       "competition": "الدوري الإنجليزي",
-      "home_team": "نوتينغهام فورست",
-      "away_team": "توتنهام",
-      "home_logo": "https://jdwel.com/image/teams/2969.png",
-      "away_logo": "https://jdwel.com/image/teams/1018.png",
+      "home_team": "فولهام",
+      "away_team": "كريستال بالاس",
+      "home_logo": "https://jdwel.com/image/teams/280.png",
+      "away_logo": "https://jdwel.com/image/teams/1279.png",
       "match_time": "5 سبتمبر 2026، 17:00",
       "audio_original": [
-        "beIN SPORTS 2 (أحمد البلوشي)"
+        "beIN SPORTS 4 (بكر علوان)"
       ],
       "audio": [
-        "الصوتية الثانية — Audio 2 (أحمد البلوشي)"
+        "الصوتية الرابعة — Audio 4 (بكر علوان)"
       ],
-      "audio_text": "الصوتية الثانية — Audio 2 (أحمد البلوشي)",
+      "audio_text": "الصوتية الرابعة — Audio 4 (بكر علوان)",
       "channel_names_mode": "custom"
     },
     {
@@ -131,42 +131,6 @@
       "channel_names_mode": "custom"
     },
     {
-      "competition": "الدوري الإيطالي",
-      "home_team": "روما",
-      "away_team": "أتالانتا",
-      "home_logo": "https://jdwel.com/image/teams/2435.png",
-      "away_logo": "https://jdwel.com/image/teams/6400.png",
-      "match_time": "5 سبتمبر 2026، 21:45",
-      "audio_original": [
-        "STARZPLAY (عبدالله السعدي)",
-        "منصة شاشا (علي دراج)",
-        "STC TV (عبدالله السعدي)"
-      ],
-      "audio": [
-        "الإيطالية — Italy (عبدالله السعدي)",
-        "الإيطالية — Italy (علي دراج)",
-        "الإيطالية — Italy (عبدالله السعدي)"
-      ],
-      "audio_text": "الإيطالية — Italy (عبدالله السعدي) | الإيطالية — Italy (علي دراج) | الإيطالية — Italy (عبدالله السعدي)",
-      "channel_names_mode": "custom"
-    },
-    {
-      "competition": "دوري روشن السعودي",
-      "home_team": "الفيصلي",
-      "away_team": "الحزم",
-      "home_logo": "https://jdwel.com/image/teams/3215.png",
-      "away_logo": "https://jdwel.com/image/teams/sau_al_hazm_v2.png",
-      "match_time": "5 سبتمبر 2026، 18:50",
-      "audio_original": [
-        "ثمانية 3 (راشد الدوسري)"
-      ],
-      "audio": [
-        "Thamanya 3 — ثمانية 3 (راشد الدوسري)"
-      ],
-      "audio_text": "Thamanya 3 — ثمانية 3 (راشد الدوسري)",
-      "channel_names_mode": "custom"
-    },
-    {
       "competition": "الدوري الإسباني",
       "home_team": "رايو فايكانو",
       "away_team": "راسينغ سانتاندير",
@@ -180,24 +144,6 @@
         "الصوتية الثانية — Audio 2 (محمد نضال)"
       ],
       "audio_text": "الصوتية الثانية — Audio 2 (محمد نضال)",
-      "channel_names_mode": "custom"
-    },
-    {
-      "competition": "الدوري الإيطالي",
-      "home_team": "فيورنتينا",
-      "away_team": "تورينو",
-      "home_logo": "https://jdwel.com/image/teams/ita_fiorentina_v2.png",
-      "away_logo": "https://jdwel.com/image/teams/4573.png",
-      "match_time": "5 سبتمبر 2026، 16:00",
-      "audio_original": [
-        "STARZPLAY (فيصل الهندي)",
-        "STC TV (فيصل الهندي)"
-      ],
-      "audio": [
-        "الإيطالية — Italy (فيصل الهندي)",
-        "الإيطالية — Italy (فيصل الهندي)"
-      ],
-      "audio_text": "الإيطالية — Italy (فيصل الهندي) | الإيطالية — Italy (فيصل الهندي)",
       "channel_names_mode": "custom"
     },
     {
@@ -237,6 +183,40 @@
       "channel_names_mode": "custom"
     },
     {
+      "competition": "الدوري الإيطالي",
+      "home_team": "فيورنتينا",
+      "away_team": "تورينو",
+      "home_logo": "https://jdwel.com/image/teams/ita_fiorentina_v2.png",
+      "away_logo": "https://jdwel.com/image/teams/4573.png",
+      "match_time": "5 سبتمبر 2026، 16:00",
+      "audio_original": [
+        "STARZPLAY (فيصل الهندي)",
+        "STC TV (فيصل الهندي)"
+      ],
+      "audio": [
+        "الإيطالية — Italy (فيصل الهندي)",
+        "الإيطالية — Italy (فيصل الهندي)"
+      ],
+      "audio_text": "الإيطالية — Italy (فيصل الهندي) | الإيطالية — Italy (فيصل الهندي)",
+      "channel_names_mode": "custom"
+    },
+    {
+      "competition": "دوري روشن السعودي",
+      "home_team": "الفيصلي",
+      "away_team": "الحزم",
+      "home_logo": "https://jdwel.com/image/teams/3215.png",
+      "away_logo": "https://jdwel.com/image/teams/sau_al_hazm_v2.png",
+      "match_time": "5 سبتمبر 2026، 18:50",
+      "audio_original": [
+        "ثمانية 3 (راشد الدوسري)"
+      ],
+      "audio": [
+        "Thamanya 3 — ثمانية 3 (راشد الدوسري)"
+      ],
+      "audio_text": "Thamanya 3 — ثمانية 3 (راشد الدوسري)",
+      "channel_names_mode": "custom"
+    },
+    {
       "competition": "دوري روشن السعودي",
       "home_team": "الاتحاد",
       "away_team": "النصر",
@@ -250,6 +230,42 @@
         "Thamanya 1 — ثمانية 1 (سليمان الشريف و عبدالله الحربي)"
       ],
       "audio_text": "Thamanya 1 — ثمانية 1 (سليمان الشريف و عبدالله الحربي)",
+      "channel_names_mode": "custom"
+    },
+    {
+      "competition": "الدوري الإيطالي",
+      "home_team": "روما",
+      "away_team": "أتالانتا",
+      "home_logo": "https://jdwel.com/image/teams/2435.png",
+      "away_logo": "https://jdwel.com/image/teams/6400.png",
+      "match_time": "5 سبتمبر 2026، 21:45",
+      "audio_original": [
+        "STARZPLAY (عبدالله السعدي)",
+        "منصة شاشا (علي دراج)",
+        "STC TV (عبدالله السعدي)"
+      ],
+      "audio": [
+        "الإيطالية — Italy (عبدالله السعدي)",
+        "الإيطالية — Italy (علي دراج)",
+        "الإيطالية — Italy (عبدالله السعدي)"
+      ],
+      "audio_text": "الإيطالية — Italy (عبدالله السعدي) | الإيطالية — Italy (علي دراج) | الإيطالية — Italy (عبدالله السعدي)",
+      "channel_names_mode": "custom"
+    },
+    {
+      "competition": "الدوري الفرنسي",
+      "home_team": "لانس",
+      "away_team": "لوريان",
+      "home_logo": "https://jdwel.com/image/teams/fra_lens.png",
+      "away_logo": "https://jdwel.com/image/teams/1662.png",
+      "match_time": "5 سبتمبر 2026، 18:15",
+      "audio_original": [
+        "beIN SPORTS XTRA 1 (منتصر الأزهري)"
+      ],
+      "audio": [
+        "beIN SPORTS XTRA 1 (منتصر الأزهري)"
+      ],
+      "audio_text": "beIN SPORTS XTRA 1 (منتصر الأزهري)",
       "channel_names_mode": "custom"
     },
     {
@@ -270,22 +286,6 @@
     },
     {
       "competition": "الدوري الفرنسي",
-      "home_team": "لانس",
-      "away_team": "لوريان",
-      "home_logo": "https://jdwel.com/image/teams/fra_lens.png",
-      "away_logo": "https://jdwel.com/image/teams/1662.png",
-      "match_time": "5 سبتمبر 2026، 18:15",
-      "audio_original": [
-        "beIN SPORTS XTRA 1 (منتصر الأزهري)"
-      ],
-      "audio": [
-        "beIN SPORTS XTRA 1 (منتصر الأزهري)"
-      ],
-      "audio_text": "beIN SPORTS XTRA 1 (منتصر الأزهري)",
-      "channel_names_mode": "custom"
-    },
-    {
-      "competition": "الدوري الفرنسي",
       "home_team": "نيس",
       "away_team": "لومان",
       "home_logo": "https://jdwel.com/image/teams/6405.png",
@@ -301,19 +301,19 @@
       "channel_names_mode": "custom"
     },
     {
-      "competition": "الدوري الألماني",
-      "home_team": "فيردر بريمن",
-      "away_team": "لايبزيغ",
-      "home_logo": "https://jdwel.com/image/teams/2633.png",
-      "away_logo": "https://jdwel.com/image/teams/2849.png",
-      "match_time": "5 سبتمبر 2026، 16:30",
+      "competition": "الدوري الفرنسي",
+      "home_team": "لوهافر",
+      "away_team": "بريست",
+      "home_logo": "https://jdwel.com/image/teams/3189.png",
+      "away_logo": "https://jdwel.com/image/teams/1502.png",
+      "match_time": "5 سبتمبر 2026، 21:45",
       "audio_original": [
-        "MBC شاهد (عائد العصيمي)"
+        "beIN SPORTS 4 (محمد بركات)"
       ],
       "audio": [
-        "MBC شاهد (عائد العصيمي)"
+        "الصوتية الرابعة — Audio 4 (محمد بركات)"
       ],
-      "audio_text": "MBC شاهد (عائد العصيمي)",
+      "audio_text": "الصوتية الرابعة — Audio 4 (محمد بركات)",
       "channel_names_mode": "custom"
     },
     {
