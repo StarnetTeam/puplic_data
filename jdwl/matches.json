@@ -1,6 +1,6 @@
 {
   "source": "https://jdwel.com/today/",
-  "generated_at_utc": "2026-09-05T18:40:36.809885+00:00",
+  "generated_at_utc": "2026-09-05T20:49:51.517535+00:00",
   "matches": [
     {
       "competition": "الدوري الإسباني",
@@ -16,90 +16,6 @@
         "الصوتية الثانية — Audio 2 (مصطفى علوان)"
       ],
       "audio_text": "الصوتية الثانية — Audio 2 (مصطفى علوان)",
-      "channel_names_mode": "custom"
-    },
-    {
-      "competition": "دوري روشن السعودي",
-      "home_team": "الاتحاد",
-      "away_team": "النصر",
-      "home_logo": "https://jdwel.com/image/teams/2839.png",
-      "away_logo": "https://jdwel.com/image/teams/3169.png",
-      "match_time": "5 سبتمبر 2026، 21:00",
-      "audio_original": [
-        "ثمانية 1 (سليمان الشريف و عبدالله الحربي)"
-      ],
-      "audio": [
-        "Thamanya 1 — ثمانية 1 (سليمان الشريف و عبدالله الحربي)"
-      ],
-      "audio_text": "Thamanya 1 — ثمانية 1 (سليمان الشريف و عبدالله الحربي)",
-      "channel_names_mode": "custom"
-    },
-    {
-      "competition": "الدوري الإيطالي",
-      "home_team": "روما",
-      "away_team": "أتالانتا",
-      "home_logo": "https://jdwel.com/image/teams/2435.png",
-      "away_logo": "https://jdwel.com/image/teams/6400.png",
-      "match_time": "5 سبتمبر 2026، 21:45",
-      "audio_original": [
-        "STARZPLAY (عبدالله السعدي)",
-        "منصة شاشا (علي دراج)",
-        "STC TV (عبدالله السعدي)"
-      ],
-      "audio": [
-        "الإيطالية — Italy (عبدالله السعدي)",
-        "الإيطالية — Italy (علي دراج)",
-        "الإيطالية — Italy (عبدالله السعدي)"
-      ],
-      "audio_text": "الإيطالية — Italy (عبدالله السعدي) | الإيطالية — Italy (علي دراج) | الإيطالية — Italy (عبدالله السعدي)",
-      "channel_names_mode": "custom"
-    },
-    {
-      "competition": "الدوري الفرنسي",
-      "home_team": "نيس",
-      "away_team": "لومان",
-      "home_logo": "https://jdwel.com/image/teams/6405.png",
-      "away_logo": "https://jdwel.com/image/teams/fra_le_mans.png",
-      "match_time": "5 سبتمبر 2026، 21:45",
-      "audio_original": [
-        "beIN SPORTS 3 (نوفل باشي)"
-      ],
-      "audio": [
-        "الصوتية الثالثة — Audio 3 (نوفل باشي)"
-      ],
-      "audio_text": "الصوتية الثالثة — Audio 3 (نوفل باشي)",
-      "channel_names_mode": "custom"
-    },
-    {
-      "competition": "الدوري الفرنسي",
-      "home_team": "لوهافر",
-      "away_team": "بريست",
-      "home_logo": "https://jdwel.com/image/teams/3189.png",
-      "away_logo": "https://jdwel.com/image/teams/1502.png",
-      "match_time": "5 سبتمبر 2026، 21:45",
-      "audio_original": [
-        "beIN SPORTS 4 (محمد بركات)"
-      ],
-      "audio": [
-        "الصوتية الرابعة — Audio 4 (محمد بركات)"
-      ],
-      "audio_text": "الصوتية الرابعة — Audio 4 (محمد بركات)",
-      "channel_names_mode": "custom"
-    },
-    {
-      "competition": "الدوري الأرجنتيني",
-      "home_team": "فيليز سارسفيلد",
-      "away_team": "إستوديانتس",
-      "home_logo": "https://jdwel.com/image/teams/2866.png",
-      "away_logo": "https://jdwel.com/image/teams/4740.png",
-      "match_time": "6 سبتمبر 2026، 03:15",
-      "audio_original": [
-        "دبي الرياضية"
-      ],
-      "audio": [
-        "دبي الرياضية"
-      ],
-      "audio_text": "دبي الرياضية",
       "channel_names_mode": "custom"
     }
   ]
