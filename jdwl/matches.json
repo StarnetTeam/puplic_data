@@ -1,22 +1,5 @@
 {
   "source": "https://jdwel.com/today/",
-  "generated_at_utc": "2026-09-05T20:49:51.517535+00:00",
-  "matches": [
-    {
-      "competition": "الدوري الإسباني",
-      "home_team": "فياريال",
-      "away_team": "ديبورتيفو أكورونيا",
-      "home_logo": "https://jdwel.com/image/teams/1680.png",
-      "away_logo": "https://jdwel.com/image/teams/7004.png",
-      "match_time": "5 سبتمبر 2026، 22:00",
-      "audio_original": [
-        "beIN SPORTS 2 (مصطفى علوان)"
-      ],
-      "audio": [
-        "الصوتية الثانية — Audio 2 (مصطفى علوان)"
-      ],
-      "audio_text": "الصوتية الثانية — Audio 2 (مصطفى علوان)",
-      "channel_names_mode": "custom"
-    }
-  ]
+  "generated_at_utc": "2026-09-05T22:29:21.463317+00:00",
+  "matches": []
 }
