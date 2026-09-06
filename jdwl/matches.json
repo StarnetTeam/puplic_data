@@ -1,7 +1,39 @@
 {
   "source": "https://jdwel.com/today/",
-  "generated_at_utc": "2026-09-06T00:23:43.455522+00:00",
+  "generated_at_utc": "2026-09-06T05:18:59.624849+00:00",
   "matches": [
+    {
+      "competition": "الدوري الإسباني",
+      "home_team": "إسبانيول",
+      "away_team": "إشبيلية",
+      "home_logo": "https://jdwel.com/image/teams/1164.png",
+      "away_logo": "https://jdwel.com/image/teams/1679.png",
+      "match_time": "6 سبتمبر 2026، 22:00",
+      "audio_original": [
+        "beIN SPORTS 2 (عامر الخوذيري)"
+      ],
+      "audio": [
+        "الصوتية الثانية — Audio 2 (عامر الخوذيري)"
+      ],
+      "audio_text": "الصوتية الثانية — Audio 2 (عامر الخوذيري)",
+      "channel_names_mode": "custom"
+    },
+    {
+      "competition": "الدوري الإنجليزي",
+      "home_team": "آرسنال",
+      "away_team": "تشيلسي",
+      "home_logo": "https://jdwel.com/image/teams/2999.png",
+      "away_logo": "https://jdwel.com/image/teams/6577.png",
+      "match_time": "6 سبتمبر 2026، 18:30",
+      "audio_original": [
+        "beIN SPORTS 1 (حسن العيدروس)"
+      ],
+      "audio": [
+        "الصوتية الأولى — Audio 1 (حسن العيدروس)"
+      ],
+      "audio_text": "الصوتية الأولى — Audio 1 (حسن العيدروس)",
+      "channel_names_mode": "custom"
+    },
     {
       "competition": "الدوري الإسباني",
       "home_team": "مالقا",
@@ -20,40 +52,6 @@
     },
     {
       "competition": "الدوري الإيطالي",
-      "home_team": "فروسينوني",
-      "away_team": "فينيزيا",
-      "home_logo": "https://jdwel.com/image/teams/1124.png",
-      "away_logo": "https://jdwel.com/image/teams/3358.png",
-      "match_time": "6 سبتمبر 2026، 16:00",
-      "audio_original": [
-        "STARZPLAY (أحمد الخير)",
-        "STC TV (أحمد الخير)"
-      ],
-      "audio": [
-        "الإيطالية — Italy (أحمد الخير)",
-        "الإيطالية — Italy (أحمد الخير)"
-      ],
-      "audio_text": "الإيطالية — Italy (أحمد الخير) | الإيطالية — Italy (أحمد الخير)",
-      "channel_names_mode": "custom"
-    },
-    {
-      "competition": "الدوري الإسباني",
-      "home_team": "إسبانيول",
-      "away_team": "إشبيلية",
-      "home_logo": "https://jdwel.com/image/teams/1164.png",
-      "away_logo": "https://jdwel.com/image/teams/1679.png",
-      "match_time": "6 سبتمبر 2026، 22:00",
-      "audio_original": [
-        "beIN SPORTS 2 (عامر الخوذيري)"
-      ],
-      "audio": [
-        "الصوتية الثانية — Audio 2 (عامر الخوذيري)"
-      ],
-      "audio_text": "الصوتية الثانية — Audio 2 (عامر الخوذيري)",
-      "channel_names_mode": "custom"
-    },
-    {
-      "competition": "الدوري الإيطالي",
       "home_team": "بارما",
       "away_team": "مونزا",
       "home_logo": "https://jdwel.com/image/teams/3335.png",
@@ -68,38 +66,6 @@
         "الإيطالية — Italy (فيصل الهندي)"
       ],
       "audio_text": "الإيطالية — Italy (فيصل الهندي) | الإيطالية — Italy (فيصل الهندي)",
-      "channel_names_mode": "custom"
-    },
-    {
-      "competition": "الدوري الإسباني",
-      "home_team": "فالنسيا",
-      "away_team": "برشلونة",
-      "home_logo": "https://jdwel.com/image/teams/1025.png",
-      "away_logo": "https://jdwel.com/image/teams/3337.png",
-      "match_time": "6 سبتمبر 2026، 17:15",
-      "audio_original": [
-        "beIN SPORTS 2 (حفيظ دراجي)"
-      ],
-      "audio": [
-        "الصوتية الثانية — Audio 2 (حفيظ دراجي)"
-      ],
-      "audio_text": "الصوتية الثانية — Audio 2 (حفيظ دراجي)",
-      "channel_names_mode": "custom"
-    },
-    {
-      "competition": "الدوري الإنجليزي",
-      "home_team": "آرسنال",
-      "away_team": "تشيلسي",
-      "home_logo": "https://jdwel.com/image/teams/2999.png",
-      "away_logo": "https://jdwel.com/image/teams/6577.png",
-      "match_time": "6 سبتمبر 2026، 18:30",
-      "audio_original": [
-        "beIN SPORTS 1 (حسن العيدروس)"
-      ],
-      "audio": [
-        "الصوتية الأولى — Audio 1 (حسن العيدروس)"
-      ],
-      "audio_text": "الصوتية الأولى — Audio 1 (حسن العيدروس)",
       "channel_names_mode": "custom"
     },
     {
@@ -135,19 +101,53 @@
       "channel_names_mode": "custom"
     },
     {
-      "competition": "الدوري الفرنسي",
-      "home_team": "تروا",
-      "away_team": "ستراسبورغ",
-      "home_logo": "https://jdwel.com/image/teams/6492.png",
-      "away_logo": "https://jdwel.com/image/teams/fra_strasbourg.png",
+      "competition": "الدوري الإيطالي",
+      "home_team": "فروسينوني",
+      "away_team": "فينيزيا",
+      "home_logo": "https://jdwel.com/image/teams/1124.png",
+      "away_logo": "https://jdwel.com/image/teams/3358.png",
       "match_time": "6 سبتمبر 2026، 16:00",
       "audio_original": [
-        "beIN SPORTS 3 (مصطفى علوان)"
+        "STARZPLAY (أحمد الخير)",
+        "STC TV (أحمد الخير)"
       ],
       "audio": [
-        "الصوتية الثالثة — Audio 3 (مصطفى علوان)"
+        "الإيطالية — Italy (أحمد الخير)",
+        "الإيطالية — Italy (أحمد الخير)"
       ],
-      "audio_text": "الصوتية الثالثة — Audio 3 (مصطفى علوان)",
+      "audio_text": "الإيطالية — Italy (أحمد الخير) | الإيطالية — Italy (أحمد الخير)",
+      "channel_names_mode": "custom"
+    },
+    {
+      "competition": "الدوري الإسباني",
+      "home_team": "فالنسيا",
+      "away_team": "برشلونة",
+      "home_logo": "https://jdwel.com/image/teams/1025.png",
+      "away_logo": "https://jdwel.com/image/teams/3337.png",
+      "match_time": "6 سبتمبر 2026، 17:15",
+      "audio_original": [
+        "beIN SPORTS 2 (حفيظ دراجي)"
+      ],
+      "audio": [
+        "الصوتية الثانية — Audio 2 (حفيظ دراجي)"
+      ],
+      "audio_text": "الصوتية الثانية — Audio 2 (حفيظ دراجي)",
+      "channel_names_mode": "custom"
+    },
+    {
+      "competition": "الدوري الألماني",
+      "home_team": "هامبورغ",
+      "away_team": "ماينز 05",
+      "home_logo": "https://jdwel.com/image/teams/1302.png",
+      "away_logo": "https://jdwel.com/image/teams/1304.png",
+      "match_time": "6 سبتمبر 2026، 16:30",
+      "audio_original": [
+        "MBC Action (فهد عريشي)"
+      ],
+      "audio": [
+        "MBC Action (فهد عريشي)"
+      ],
+      "audio_text": "MBC Action (فهد عريشي)",
       "channel_names_mode": "custom"
     },
     {
@@ -184,22 +184,6 @@
         "الإيطالية — Italy (فارس عوض)"
       ],
       "audio_text": "الإيطالية — Italy (فارس عوض) | الإيطالية — Italy (فارس عوض)",
-      "channel_names_mode": "custom"
-    },
-    {
-      "competition": "الدوري الألماني",
-      "home_team": "هامبورغ",
-      "away_team": "ماينز 05",
-      "home_logo": "https://jdwel.com/image/teams/1302.png",
-      "away_logo": "https://jdwel.com/image/teams/1304.png",
-      "match_time": "6 سبتمبر 2026، 16:30",
-      "audio_original": [
-        "MBC Action (فهد عريشي)"
-      ],
-      "audio": [
-        "MBC Action (فهد عريشي)"
-      ],
-      "audio_text": "MBC Action (فهد عريشي)",
       "channel_names_mode": "custom"
     },
     {
@@ -248,6 +232,38 @@
         "الصوتية الرابعة — Audio 4 (أحمد البلوشي)"
       ],
       "audio_text": "الصوتية الرابعة — Audio 4 (أحمد البلوشي)",
+      "channel_names_mode": "custom"
+    },
+    {
+      "competition": "الدوري الفرنسي",
+      "home_team": "تروا",
+      "away_team": "ستراسبورغ",
+      "home_logo": "https://jdwel.com/image/teams/6492.png",
+      "away_logo": "https://jdwel.com/image/teams/fra_strasbourg.png",
+      "match_time": "6 سبتمبر 2026، 16:00",
+      "audio_original": [
+        "beIN SPORTS 3 (مصطفى علوان)"
+      ],
+      "audio": [
+        "الصوتية الثالثة — Audio 3 (مصطفى علوان)"
+      ],
+      "audio_text": "الصوتية الثالثة — Audio 3 (مصطفى علوان)",
+      "channel_names_mode": "custom"
+    },
+    {
+      "competition": "دوري أبطال أفريقيا",
+      "home_team": "غور ماهيا",
+      "away_team": "بيراميدز",
+      "home_logo": "https://jdwel.com/image/teams/992.png",
+      "away_logo": "https://jdwel.com/image/teams/2524.png",
+      "match_time": "6 سبتمبر 2026، 15:00",
+      "audio_original": [
+        "أون سبورت 1 (محمد الكواليني)"
+      ],
+      "audio": [
+        "أون سبورت 1 (محمد الكواليني)"
+      ],
+      "audio_text": "أون سبورت 1 (محمد الكواليني)",
       "channel_names_mode": "custom"
     }
   ]
