@@ -1,22 +1,5 @@
 {
   "source": "https://jdwel.com/today/",
-  "generated_at_utc": "2026-09-06T20:57:30.905259+00:00",
-  "matches": [
-    {
-      "competition": "الدوري الإسباني",
-      "home_team": "إسبانيول",
-      "away_team": "إشبيلية",
-      "home_logo": "https://jdwel.com/image/teams/1164.png",
-      "away_logo": "https://jdwel.com/image/teams/1679.png",
-      "match_time": "6 سبتمبر 2026، 22:00",
-      "audio_original": [
-        "beIN SPORTS 2 (عامر الخوذيري)"
-      ],
-      "audio": [
-        "الصوتية الثانية — Audio 2 (عامر الخوذيري)"
-      ],
-      "audio_text": "الصوتية الثانية — Audio 2 (عامر الخوذيري)",
-      "channel_names_mode": "custom"
-    }
-  ]
+  "generated_at_utc": "2026-09-06T22:39:33.248087+00:00",
+  "matches": []
 }
