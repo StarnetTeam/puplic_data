@@ -1,6 +1,6 @@
 {
   "source": "https://jdwel.com/today/",
-  "generated_at_utc": "2026-09-06T18:44:47.454626+00:00",
+  "generated_at_utc": "2026-09-06T20:57:30.905259+00:00",
   "matches": [
     {
       "competition": "الدوري الإسباني",
@@ -16,40 +16,6 @@
         "الصوتية الثانية — Audio 2 (عامر الخوذيري)"
       ],
       "audio_text": "الصوتية الثانية — Audio 2 (عامر الخوذيري)",
-      "channel_names_mode": "custom"
-    },
-    {
-      "competition": "الدوري الإيطالي",
-      "home_team": "يوفنتوس",
-      "away_team": "ميلان",
-      "home_logo": "https://jdwel.com/image/teams/882.png",
-      "away_logo": "https://jdwel.com/image/teams/2433.png",
-      "match_time": "6 سبتمبر 2026، 21:45",
-      "audio_original": [
-        "STARZPLAY (فارس عوض)",
-        "STC TV (فارس عوض)"
-      ],
-      "audio": [
-        "الإيطالية — Italy (فارس عوض)",
-        "الإيطالية — Italy (فارس عوض)"
-      ],
-      "audio_text": "الإيطالية — Italy (فارس عوض) | الإيطالية — Italy (فارس عوض)",
-      "channel_names_mode": "custom"
-    },
-    {
-      "competition": "الدوري الفرنسي",
-      "home_team": "مارسيليا",
-      "away_team": "باريس",
-      "home_logo": "https://jdwel.com/image/teams/6246.png",
-      "away_logo": "https://jdwel.com/image/teams/3560.png",
-      "match_time": "6 سبتمبر 2026، 21:45",
-      "audio_original": [
-        "beIN SPORTS 4 (أحمد البلوشي)"
-      ],
-      "audio": [
-        "الصوتية الرابعة — Audio 4 (أحمد البلوشي)"
-      ],
-      "audio_text": "الصوتية الرابعة — Audio 4 (أحمد البلوشي)",
       "channel_names_mode": "custom"
     }
   ]
