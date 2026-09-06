@@ -1,39 +1,7 @@
 {
   "source": "https://jdwel.com/today/",
-  "generated_at_utc": "2026-09-06T16:34:42.832757+00:00",
+  "generated_at_utc": "2026-09-06T18:44:47.454626+00:00",
   "matches": [
-    {
-      "competition": "الدوري الإنجليزي",
-      "home_team": "آرسنال",
-      "away_team": "تشيلسي",
-      "home_logo": "https://jdwel.com/image/teams/2999.png",
-      "away_logo": "https://jdwel.com/image/teams/6577.png",
-      "match_time": "6 سبتمبر 2026، 18:30",
-      "audio_original": [
-        "beIN SPORTS 1 (حسن العيدروس)"
-      ],
-      "audio": [
-        "الصوتية الأولى — Audio 1 (حسن العيدروس)"
-      ],
-      "audio_text": "الصوتية الأولى — Audio 1 (حسن العيدروس)",
-      "channel_names_mode": "custom"
-    },
-    {
-      "competition": "الدوري الإسباني",
-      "home_team": "مالقا",
-      "away_team": "ليفانتي",
-      "home_logo": "https://jdwel.com/image/teams/1084.png",
-      "away_logo": "https://jdwel.com/image/teams/spa_levante.png",
-      "match_time": "6 سبتمبر 2026، 19:30",
-      "audio_original": [
-        "beIN SPORTS 3 (سمير اليعقوبي)"
-      ],
-      "audio": [
-        "الصوتية الثالثة — Audio 3 (سمير اليعقوبي)"
-      ],
-      "audio_text": "الصوتية الثالثة — Audio 3 (سمير اليعقوبي)",
-      "channel_names_mode": "custom"
-    },
     {
       "competition": "الدوري الإسباني",
       "home_team": "إسبانيول",
@@ -48,56 +16,6 @@
         "الصوتية الثانية — Audio 2 (عامر الخوذيري)"
       ],
       "audio_text": "الصوتية الثانية — Audio 2 (عامر الخوذيري)",
-      "channel_names_mode": "custom"
-    },
-    {
-      "competition": "الدوري الإسباني",
-      "home_team": "ديبورتيفو ألافيس",
-      "away_team": "أوساسونا",
-      "home_logo": "https://jdwel.com/image/teams/4507.png",
-      "away_logo": "https://jdwel.com/image/teams/1556.png",
-      "match_time": "6 سبتمبر 2026، 19:30",
-      "audio_original": [
-        "beIN SPORTS 2 (محمد مبروكي)"
-      ],
-      "audio": [
-        "الصوتية الثانية — Audio 2 (محمد مبروكي)"
-      ],
-      "audio_text": "الصوتية الثانية — Audio 2 (محمد مبروكي)",
-      "channel_names_mode": "custom"
-    },
-    {
-      "competition": "الدوري الإيطالي",
-      "home_team": "بولونيا",
-      "away_team": "ساسولو",
-      "home_logo": "https://jdwel.com/image/teams/2845.png",
-      "away_logo": "https://jdwel.com/image/teams/3886.png",
-      "match_time": "6 سبتمبر 2026، 19:00",
-      "audio_original": [
-        "STARZPLAY (عيسى الحربين)",
-        "STC TV (عيسى الحربين)"
-      ],
-      "audio": [
-        "الإيطالية — Italy (عيسى الحربين)",
-        "الإيطالية — Italy (عيسى الحربين)"
-      ],
-      "audio_text": "الإيطالية — Italy (عيسى الحربين) | الإيطالية — Italy (عيسى الحربين)",
-      "channel_names_mode": "custom"
-    },
-    {
-      "competition": "الدوري الفرنسي",
-      "home_team": "أنجيه",
-      "away_team": "رين",
-      "home_logo": "https://jdwel.com/image/teams/5696.png",
-      "away_logo": "https://jdwel.com/image/teams/2037.png",
-      "match_time": "6 سبتمبر 2026، 18:15",
-      "audio_original": [
-        "beIN SPORTS 4 (نوفل باشي)"
-      ],
-      "audio": [
-        "الصوتية الرابعة — Audio 4 (نوفل باشي)"
-      ],
-      "audio_text": "الصوتية الرابعة — Audio 4 (نوفل باشي)",
       "channel_names_mode": "custom"
     },
     {
@@ -119,22 +37,6 @@
       "channel_names_mode": "custom"
     },
     {
-      "competition": "الدوري الألماني",
-      "home_team": "آينتراخت فرانكفورت",
-      "away_team": "أوغسبورغ",
-      "home_logo": "https://jdwel.com/image/teams/6402.png",
-      "away_logo": "https://jdwel.com/image/teams/2630.png",
-      "match_time": "6 سبتمبر 2026، 18:30",
-      "audio_original": [
-        "MBC Action (محمد حسين)"
-      ],
-      "audio": [
-        "MBC Action (محمد حسين)"
-      ],
-      "audio_text": "MBC Action (محمد حسين)",
-      "channel_names_mode": "custom"
-    },
-    {
       "competition": "الدوري الفرنسي",
       "home_team": "مارسيليا",
       "away_team": "باريس",
@@ -148,22 +50,6 @@
         "الصوتية الرابعة — Audio 4 (أحمد البلوشي)"
       ],
       "audio_text": "الصوتية الرابعة — Audio 4 (أحمد البلوشي)",
-      "channel_names_mode": "custom"
-    },
-    {
-      "competition": "دوري جوي للنخبة السعودي تحت 21",
-      "home_team": "الفتح",
-      "away_team": "النصر",
-      "home_logo": "https://jdwel.com/image/teams/1105.png",
-      "away_logo": "https://jdwel.com/image/teams/3169.png",
-      "match_time": "6 سبتمبر 2026، 18:35",
-      "audio_original": [
-        "STC Sports HD4 (أحمد النفيسة)"
-      ],
-      "audio": [
-        "الإيطالية — Italy (أحمد النفيسة)"
-      ],
-      "audio_text": "الإيطالية — Italy (أحمد النفيسة)",
       "channel_names_mode": "custom"
     }
   ]
