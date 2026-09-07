@@ -1,6 +1,6 @@
 {
   "source": "https://jdwel.com/today/",
-  "generated_at_utc": "2026-09-07T00:30:24.527736+00:00",
+  "generated_at_utc": "2026-09-07T05:28:18.236831+00:00",
   "matches": [
     {
       "competition": "دوري روشن السعودي",
@@ -19,19 +19,51 @@
       "channel_names_mode": "custom"
     },
     {
-      "competition": "الدوري المصري",
-      "home_team": "الاتحاد السكندري",
-      "away_team": "بترول أسيوط",
-      "home_logo": "https://jdwel.com/image/teams/egy_al_ittihad_v2.png",
-      "away_logo": "https://jdwel.com/image/teams/312.png",
-      "match_time": "7 سبتمبر 2026، 17:00",
+      "competition": "الدوري الإسباني",
+      "home_team": "خيتافي",
+      "away_team": "سيلتا فيغو",
+      "home_logo": "https://jdwel.com/image/teams/1081.png",
+      "away_logo": "https://jdwel.com/image/teams/1163.png",
+      "match_time": "7 سبتمبر 2026، 20:00",
       "audio_original": [
-        "أون سبورت بلس (محمد الكواليني)"
+        "beIN SPORTS 1 (عبدالله الغامدي)"
       ],
       "audio": [
-        "أون سبورت بلس (محمد الكواليني)"
+        "الصوتية الأولى — Audio 1 (عبدالله الغامدي)"
       ],
-      "audio_text": "أون سبورت بلس (محمد الكواليني)",
+      "audio_text": "الصوتية الأولى — Audio 1 (عبدالله الغامدي)",
+      "channel_names_mode": "custom"
+    },
+    {
+      "competition": "الدوري الإسباني",
+      "home_team": "إلتشي",
+      "away_team": "ريال سوسيداد",
+      "home_logo": "https://jdwel.com/image/teams/2151.png",
+      "away_logo": "https://jdwel.com/image/teams/2777.png",
+      "match_time": "7 سبتمبر 2026، 22:30",
+      "audio_original": [
+        "beIN SPORTS 1 (حسن العيدروس)"
+      ],
+      "audio": [
+        "الصوتية الأولى — Audio 1 (حسن العيدروس)"
+      ],
+      "audio_text": "الصوتية الأولى — Audio 1 (حسن العيدروس)",
+      "channel_names_mode": "custom"
+    },
+    {
+      "competition": "دوري روشن السعودي",
+      "home_team": "الخليج",
+      "away_team": "الرياض",
+      "home_logo": "https://jdwel.com/image/teams/2840.png",
+      "away_logo": "https://jdwel.com/image/teams/1810.png",
+      "match_time": "7 سبتمبر 2026، 18:30",
+      "audio_original": [
+        "ثمانية 2 (سليمان الشريف)"
+      ],
+      "audio": [
+        "Thamanya 2 — ثمانية 2 (سليمان الشريف)"
+      ],
+      "audio_text": "Thamanya 2 — ثمانية 2 (سليمان الشريف)",
       "channel_names_mode": "custom"
     },
     {
@@ -53,19 +85,35 @@
       "channel_names_mode": "custom"
     },
     {
-      "competition": "الدوري الإسباني",
-      "home_team": "إلتشي",
-      "away_team": "ريال سوسيداد",
-      "home_logo": "https://jdwel.com/image/teams/2151.png",
-      "away_logo": "https://jdwel.com/image/teams/2777.png",
-      "match_time": "7 سبتمبر 2026، 22:30",
+      "competition": "الدوري المصري",
+      "home_team": "الاتحاد السكندري",
+      "away_team": "بترول أسيوط",
+      "home_logo": "https://jdwel.com/image/teams/egy_al_ittihad_v2.png",
+      "away_logo": "https://jdwel.com/image/teams/312.png",
+      "match_time": "7 سبتمبر 2026، 17:00",
       "audio_original": [
-        "beIN SPORTS 1 (حسن العيدروس)"
+        "أون سبورت بلس (محمد الكواليني)"
       ],
       "audio": [
-        "الصوتية الأولى — Audio 1 (حسن العيدروس)"
+        "أون سبورت بلس (محمد الكواليني)"
       ],
-      "audio_text": "الصوتية الأولى — Audio 1 (حسن العيدروس)",
+      "audio_text": "أون سبورت بلس (محمد الكواليني)",
+      "channel_names_mode": "custom"
+    },
+    {
+      "competition": "الدوري المصري",
+      "home_team": "القناة",
+      "away_team": "طلائع الجيش",
+      "home_logo": "https://jdwel.com/image/teams/4706.png",
+      "away_logo": "https://jdwel.com/image/teams/357.png",
+      "match_time": "7 سبتمبر 2026، 17:00",
+      "audio_original": [
+        "أون سبورت ماكس (طارق الأدور)"
+      ],
+      "audio": [
+        "أون سبورت ماكس (طارق الأدور)"
+      ],
+      "audio_text": "أون سبورت ماكس (طارق الأدور)",
       "channel_names_mode": "custom"
     },
     {
@@ -87,54 +135,6 @@
       "channel_names_mode": "custom"
     },
     {
-      "competition": "الدوري الإسباني",
-      "home_team": "خيتافي",
-      "away_team": "سيلتا فيغو",
-      "home_logo": "https://jdwel.com/image/teams/1081.png",
-      "away_logo": "https://jdwel.com/image/teams/1163.png",
-      "match_time": "7 سبتمبر 2026، 20:00",
-      "audio_original": [
-        "beIN SPORTS 1 (عبدالله الغامدي)"
-      ],
-      "audio": [
-        "الصوتية الأولى — Audio 1 (عبدالله الغامدي)"
-      ],
-      "audio_text": "الصوتية الأولى — Audio 1 (عبدالله الغامدي)",
-      "channel_names_mode": "custom"
-    },
-    {
-      "competition": "دوري روشن السعودي",
-      "home_team": "الخليج",
-      "away_team": "الرياض",
-      "home_logo": "https://jdwel.com/image/teams/2840.png",
-      "away_logo": "https://jdwel.com/image/teams/1810.png",
-      "match_time": "7 سبتمبر 2026، 18:30",
-      "audio_original": [
-        "ثمانية 2 (سليمان الشريف)"
-      ],
-      "audio": [
-        "Thamanya 2 — ثمانية 2 (سليمان الشريف)"
-      ],
-      "audio_text": "Thamanya 2 — ثمانية 2 (سليمان الشريف)",
-      "channel_names_mode": "custom"
-    },
-    {
-      "competition": "الدوري المصري",
-      "home_team": "القناة",
-      "away_team": "طلائع الجيش",
-      "home_logo": "https://jdwel.com/image/teams/4706.png",
-      "away_logo": "https://jdwel.com/image/teams/357.png",
-      "match_time": "7 سبتمبر 2026، 17:00",
-      "audio_original": [
-        "أون سبورت ماكس (طارق الأدور)"
-      ],
-      "audio": [
-        "أون سبورت ماكس (طارق الأدور)"
-      ],
-      "audio_text": "أون سبورت ماكس (طارق الأدور)",
-      "channel_names_mode": "custom"
-    },
-    {
       "competition": "الدوري المصري",
       "home_team": "البنك الأهلي",
       "away_team": "غزل المحلة",
@@ -152,34 +152,18 @@
     },
     {
       "competition": "دوري الدرجة الأولى السعودي",
-      "home_team": "الجبلين",
-      "away_team": "الوحدة",
-      "home_logo": "https://jdwel.com/image/teams/2452.png",
-      "away_logo": "https://jdwel.com/image/teams/sau_al_wahda.png",
-      "match_time": "7 سبتمبر 2026، 19:05",
+      "home_team": "العدالة",
+      "away_team": "الصقر",
+      "home_logo": "https://jdwel.com/image/teams/2450.png",
+      "away_logo": "https://jdwel.com/image/teams/371.png",
+      "match_time": "7 سبتمبر 2026، 18:30",
       "audio_original": [
-        "تطبيق ثمانية (مشعل الشمري)"
+        "تطبيق ثمانية (عبدالإله العمري)"
       ],
       "audio": [
-        "Thamanya — تطبيق ثمانية (مشعل الشمري)"
+        "Thamanya — تطبيق ثمانية (عبدالإله العمري)"
       ],
-      "audio_text": "Thamanya — تطبيق ثمانية (مشعل الشمري)",
-      "channel_names_mode": "custom"
-    },
-    {
-      "competition": "دوري الدرجة الأولى السعودي",
-      "home_team": "الأخدود",
-      "away_team": "النجمة",
-      "home_logo": "https://jdwel.com/image/teams/823.png",
-      "away_logo": "https://jdwel.com/image/teams/3218.png",
-      "match_time": "7 سبتمبر 2026، 20:30",
-      "audio_original": [
-        "تطبيق ثمانية (هاني الشهري)"
-      ],
-      "audio": [
-        "Thamanya — تطبيق ثمانية (هاني الشهري)"
-      ],
-      "audio_text": "Thamanya — تطبيق ثمانية (هاني الشهري)",
+      "audio_text": "Thamanya — تطبيق ثمانية (عبدالإله العمري)",
       "channel_names_mode": "custom"
     },
     {
@@ -199,6 +183,38 @@
       "channel_names_mode": "custom"
     },
     {
+      "competition": "دوري الدرجة الأولى السعودي",
+      "home_team": "الأخدود",
+      "away_team": "النجمة",
+      "home_logo": "https://jdwel.com/image/teams/823.png",
+      "away_logo": "https://jdwel.com/image/teams/3218.png",
+      "match_time": "7 سبتمبر 2026، 20:30",
+      "audio_original": [
+        "تطبيق ثمانية (هاني الشهري)"
+      ],
+      "audio": [
+        "Thamanya — تطبيق ثمانية (هاني الشهري)"
+      ],
+      "audio_text": "Thamanya — تطبيق ثمانية (هاني الشهري)",
+      "channel_names_mode": "custom"
+    },
+    {
+      "competition": "دوري الدرجة الأولى السعودي",
+      "home_team": "الجبلين",
+      "away_team": "الوحدة",
+      "home_logo": "https://jdwel.com/image/teams/2452.png",
+      "away_logo": "https://jdwel.com/image/teams/sau_al_wahda.png",
+      "match_time": "7 سبتمبر 2026، 19:05",
+      "audio_original": [
+        "تطبيق ثمانية (مشعل الشمري)"
+      ],
+      "audio": [
+        "Thamanya — تطبيق ثمانية (مشعل الشمري)"
+      ],
+      "audio_text": "Thamanya — تطبيق ثمانية (مشعل الشمري)",
+      "channel_names_mode": "custom"
+    },
+    {
       "competition": "الدوري التركي",
       "home_team": "جوزتيبي",
       "away_team": "غازي عنتاب",
@@ -212,22 +228,6 @@
         "الصوتية الثالثة — Audio 3 (أحمد فؤاد)"
       ],
       "audio_text": "الصوتية الثالثة — Audio 3 (أحمد فؤاد)",
-      "channel_names_mode": "custom"
-    },
-    {
-      "competition": "دوري الدرجة الأولى السعودي",
-      "home_team": "العدالة",
-      "away_team": "الصقر",
-      "home_logo": "https://jdwel.com/image/teams/2450.png",
-      "away_logo": "https://jdwel.com/image/teams/371.png",
-      "match_time": "7 سبتمبر 2026، 18:30",
-      "audio_original": [
-        "تطبيق ثمانية (عبدالإله العمري)"
-      ],
-      "audio": [
-        "Thamanya — تطبيق ثمانية (عبدالإله العمري)"
-      ],
-      "audio_text": "Thamanya — تطبيق ثمانية (عبدالإله العمري)",
       "channel_names_mode": "custom"
     },
     {
