@@ -1,23 +1,7 @@
 {
   "source": "https://jdwel.com/today/",
-  "generated_at_utc": "2026-09-09T10:25:49.256613+00:00",
+  "generated_at_utc": "2026-09-09T14:55:24.506367+00:00",
   "matches": [
-    {
-      "competition": "دوري أبطال أوروبا",
-      "home_team": "ليفربول",
-      "away_team": "أتلتيكو مدريد",
-      "home_logo": "https://jdwel.com/image/teams/1512.png",
-      "away_logo": "https://jdwel.com/image/teams/6403.png",
-      "match_time": "9 سبتمبر 2026، 22:00",
-      "audio_original": [
-        "beIN SPORTS 3 (علي الكعبي)"
-      ],
-      "audio": [
-        "الصوتية الثالثة — Audio 3 (علي الكعبي)"
-      ],
-      "audio_text": "الصوتية الثالثة — Audio 3 (علي الكعبي)",
-      "channel_names_mode": "custom"
-    },
     {
       "competition": "دوري أبطال أوروبا",
       "home_team": "شتوتغارت",
@@ -67,6 +51,22 @@
       "channel_names_mode": "custom"
     },
     {
+      "competition": "دوري روشن السعودي",
+      "home_team": "الخلود",
+      "away_team": "الشباب",
+      "home_logo": "https://jdwel.com/image/teams/6436.png",
+      "away_logo": "https://jdwel.com/image/teams/2213.png",
+      "match_time": "9 سبتمبر 2026، 18:55",
+      "audio_original": [
+        "ثمانية 2 (خالد المديفر)"
+      ],
+      "audio": [
+        "Thamanya 2 — ثمانية 2 (خالد المديفر)"
+      ],
+      "audio_text": "Thamanya 2 — ثمانية 2 (خالد المديفر)",
+      "channel_names_mode": "custom"
+    },
+    {
       "competition": "دوري أبطال أوروبا",
       "home_team": "باريس سان جيرمان",
       "away_team": "سلوفان براتيسلافا",
@@ -100,34 +100,18 @@
     },
     {
       "competition": "دوري أبطال أوروبا",
-      "home_team": "سبورتينغ لشبونة",
-      "away_team": "غلطة سراي",
-      "home_logo": "https://jdwel.com/image/teams/5958.png",
-      "away_logo": "https://jdwel.com/image/teams/1416.png",
+      "home_team": "ليفربول",
+      "away_team": "أتلتيكو مدريد",
+      "home_logo": "https://jdwel.com/image/teams/1512.png",
+      "away_logo": "https://jdwel.com/image/teams/6403.png",
       "match_time": "9 سبتمبر 2026، 22:00",
       "audio_original": [
-        "beIN SPORTS 4 (محمد مبروكي)"
+        "beIN SPORTS 3 (علي الكعبي)"
       ],
       "audio": [
-        "الصوتية الرابعة — Audio 4 (محمد مبروكي)"
+        "الصوتية الثالثة — Audio 3 (علي الكعبي)"
       ],
-      "audio_text": "الصوتية الرابعة — Audio 4 (محمد مبروكي)",
-      "channel_names_mode": "custom"
-    },
-    {
-      "competition": "دوري روشن السعودي",
-      "home_team": "الخلود",
-      "away_team": "الشباب",
-      "home_logo": "https://jdwel.com/image/teams/6436.png",
-      "away_logo": "https://jdwel.com/image/teams/2213.png",
-      "match_time": "9 سبتمبر 2026، 18:55",
-      "audio_original": [
-        "ثمانية 2 (خالد المديفر)"
-      ],
-      "audio": [
-        "Thamanya 2 — ثمانية 2 (خالد المديفر)"
-      ],
-      "audio_text": "Thamanya 2 — ثمانية 2 (خالد المديفر)",
+      "audio_text": "الصوتية الثالثة — Audio 3 (علي الكعبي)",
       "channel_names_mode": "custom"
     },
     {
@@ -147,6 +131,22 @@
       "channel_names_mode": "custom"
     },
     {
+      "competition": "الدوري المصري",
+      "home_team": "المقاولون العرب",
+      "away_team": "الأهلي",
+      "home_logo": "https://jdwel.com/image/teams/2455.png",
+      "away_logo": "https://jdwel.com/image/teams/1253.png",
+      "match_time": "9 سبتمبر 2026، 20:00",
+      "audio_original": [
+        "أون سبورت 1 (محمد عفيفي)"
+      ],
+      "audio": [
+        "أون سبورت 1 (محمد عفيفي)"
+      ],
+      "audio_text": "أون سبورت 1 (محمد عفيفي)",
+      "channel_names_mode": "custom"
+    },
+    {
       "competition": "كأس الرابطة الإنجليزية",
       "home_team": "تشيلسي",
       "away_team": "ليدز يونايتد",
@@ -160,6 +160,22 @@
         "الصوتية الخامسة — Audio 5 (محمد بركات)"
       ],
       "audio_text": "الصوتية الخامسة — Audio 5 (محمد بركات)",
+      "channel_names_mode": "custom"
+    },
+    {
+      "competition": "دوري الدرجة الأولى السعودي",
+      "home_team": "الرائد",
+      "away_team": "الجيل",
+      "home_logo": "https://jdwel.com/image/teams/2797.png",
+      "away_logo": "https://jdwel.com/image/teams/951.png",
+      "match_time": "9 سبتمبر 2026، 18:50",
+      "audio_original": [
+        "تطبيق ثمانية (سلطان الحربي)"
+      ],
+      "audio": [
+        "Thamanya — تطبيق ثمانية (سلطان الحربي)"
+      ],
+      "audio_text": "Thamanya — تطبيق ثمانية (سلطان الحربي)",
       "channel_names_mode": "custom"
     },
     {
@@ -180,22 +196,6 @@
     },
     {
       "competition": "الدوري المصري",
-      "home_team": "بيراميدز",
-      "away_team": "الجونة",
-      "home_logo": "https://jdwel.com/image/teams/2524.png",
-      "away_logo": "https://jdwel.com/image/teams/egy_el_gounah_v2.png",
-      "match_time": "9 سبتمبر 2026، 17:00",
-      "audio_original": [
-        "أون سبورت ماكس (أيمن الكاشف)"
-      ],
-      "audio": [
-        "أون سبورت ماكس (أيمن الكاشف)"
-      ],
-      "audio_text": "أون سبورت ماكس (أيمن الكاشف)",
-      "channel_names_mode": "custom"
-    },
-    {
-      "competition": "الدوري المصري",
       "home_team": "الشرقية إنبي",
       "away_team": "زد إف سي",
       "home_logo": "https://jdwel.com/image/teams/6834.png",
@@ -212,34 +212,34 @@
     },
     {
       "competition": "الدوري المصري",
-      "home_team": "المقاولون العرب",
-      "away_team": "الأهلي",
-      "home_logo": "https://jdwel.com/image/teams/2455.png",
-      "away_logo": "https://jdwel.com/image/teams/1253.png",
-      "match_time": "9 سبتمبر 2026، 20:00",
+      "home_team": "بيراميدز",
+      "away_team": "الجونة",
+      "home_logo": "https://jdwel.com/image/teams/2524.png",
+      "away_logo": "https://jdwel.com/image/teams/egy_el_gounah_v2.png",
+      "match_time": "9 سبتمبر 2026، 17:00",
       "audio_original": [
-        "أون سبورت 1 (محمد عفيفي)"
+        "أون سبورت ماكس (أيمن الكاشف)"
       ],
       "audio": [
-        "أون سبورت 1 (محمد عفيفي)"
+        "أون سبورت ماكس (أيمن الكاشف)"
       ],
-      "audio_text": "أون سبورت 1 (محمد عفيفي)",
+      "audio_text": "أون سبورت ماكس (أيمن الكاشف)",
       "channel_names_mode": "custom"
     },
     {
       "competition": "دوري الدرجة الأولى السعودي",
-      "home_team": "الرائد",
-      "away_team": "الجيل",
-      "home_logo": "https://jdwel.com/image/teams/2797.png",
-      "away_logo": "https://jdwel.com/image/teams/951.png",
-      "match_time": "9 سبتمبر 2026، 18:50",
+      "home_team": "الجندل",
+      "away_team": "البكيرية",
+      "home_logo": "https://jdwel.com/image/teams/10.png",
+      "away_logo": "https://jdwel.com/image/teams/2877.png",
+      "match_time": "9 سبتمبر 2026، 19:10",
       "audio_original": [
-        "تطبيق ثمانية (سلطان الحربي)"
+        "تطبيق ثمانية (محمد مصباح)"
       ],
       "audio": [
-        "Thamanya — تطبيق ثمانية (سلطان الحربي)"
+        "Thamanya — تطبيق ثمانية (محمد مصباح)"
       ],
-      "audio_text": "Thamanya — تطبيق ثمانية (سلطان الحربي)",
+      "audio_text": "Thamanya — تطبيق ثمانية (محمد مصباح)",
       "channel_names_mode": "custom"
     },
     {
@@ -259,19 +259,179 @@
       "channel_names_mode": "custom"
     },
     {
-      "competition": "دوري الدرجة الأولى السعودي",
-      "home_team": "الجندل",
-      "away_team": "البكيرية",
-      "home_logo": "https://jdwel.com/image/teams/10.png",
-      "away_logo": "https://jdwel.com/image/teams/2877.png",
-      "match_time": "9 سبتمبر 2026، 19:10",
+      "competition": "تشامبيونشيب",
+      "home_team": "تشارلتون أثلتيك",
+      "away_team": "كوينز بارك رينجرز",
+      "home_logo": "https://jdwel.com/image/teams/eng_charlton_athletic.png",
+      "away_logo": "https://jdwel.com/image/teams/1122.png",
+      "match_time": "9 سبتمبر 2026، 22:00",
       "audio_original": [
-        "تطبيق ثمانية (محمد مصباح)"
+        "beIN SPORTS XTRA 1 (تعليق إنجليزي)"
       ],
       "audio": [
-        "Thamanya — تطبيق ثمانية (محمد مصباح)"
+        "beIN SPORTS XTRA 1 (تعليق إنجليزي)"
       ],
-      "audio_text": "Thamanya — تطبيق ثمانية (محمد مصباح)",
+      "audio_text": "beIN SPORTS XTRA 1 (تعليق إنجليزي)",
+      "channel_names_mode": "custom"
+    },
+    {
+      "competition": "دوري أبطال أوروبا",
+      "home_team": "سبورتينغ لشبونة",
+      "away_team": "غلطة سراي",
+      "home_logo": "https://jdwel.com/image/teams/5958.png",
+      "away_logo": "https://jdwel.com/image/teams/1416.png",
+      "match_time": "9 سبتمبر 2026، 22:00",
+      "audio_original": [
+        "beIN SPORTS 4 (محمد مبروكي)"
+      ],
+      "audio": [
+        "الصوتية الرابعة — Audio 4 (محمد مبروكي)"
+      ],
+      "audio_text": "الصوتية الرابعة — Audio 4 (محمد مبروكي)",
+      "channel_names_mode": "custom"
+    },
+    {
+      "competition": "الدوري العراقي",
+      "home_team": "الجولان",
+      "away_team": "زاخو",
+      "home_logo": "https://jdwel.com/image/teams/6915.png",
+      "away_logo": "https://jdwel.com/image/teams/6974.png",
+      "match_time": "9 سبتمبر 2026، 18:00",
+      "audio_original": [
+        "العراقية السريانية (علي لفته)"
+      ],
+      "audio": [
+        "العراقية السريانية (علي لفته)"
+      ],
+      "audio_text": "العراقية السريانية (علي لفته)",
+      "channel_names_mode": "custom"
+    },
+    {
+      "competition": "الدوري البرتغالي",
+      "home_team": "موريرنسي",
+      "away_team": "بنفيكا",
+      "home_logo": "https://jdwel.com/image/teams/por_moreirense.png",
+      "away_logo": "https://jdwel.com/image/teams/1442.png",
+      "match_time": "9 سبتمبر 2026، 22:45",
+      "audio_original": [
+        "منصة شاشا (أحمد وحيد)"
+      ],
+      "audio": [
+        "الإيطالية — Italy (أحمد وحيد)"
+      ],
+      "audio_text": "الإيطالية — Italy (أحمد وحيد)",
+      "channel_names_mode": "custom"
+    },
+    {
+      "competition": "الدوري العراقي",
+      "home_team": "الطلبة",
+      "away_team": "الكرخ",
+      "home_logo": "https://jdwel.com/image/teams/628.png",
+      "away_logo": "https://jdwel.com/image/teams/2220.png",
+      "match_time": "9 سبتمبر 2026، 18:45",
+      "audio_original": [
+        "العراقية الرياضية (علي الشمري)"
+      ],
+      "audio": [
+        "العراقية الرياضية (علي الشمري)"
+      ],
+      "audio_text": "العراقية الرياضية (علي الشمري)",
+      "channel_names_mode": "custom"
+    },
+    {
+      "competition": "الدوري العراقي",
+      "home_team": "نوروز",
+      "away_team": "الموصل",
+      "home_logo": "https://jdwel.com/image/teams/5243.png",
+      "away_logo": "https://jdwel.com/image/teams/6184.png",
+      "match_time": "9 سبتمبر 2026، 21:00",
+      "audio_original": [
+        "العراقية الرياضية (حسين الساعدي)"
+      ],
+      "audio": [
+        "العراقية الرياضية (حسين الساعدي)"
+      ],
+      "audio_text": "العراقية الرياضية (حسين الساعدي)",
+      "channel_names_mode": "custom"
+    },
+    {
+      "competition": "الدوري العراقي",
+      "home_team": "الميناء",
+      "away_team": "نفط ميسان",
+      "home_logo": "https://jdwel.com/image/teams/128.png",
+      "away_logo": "https://jdwel.com/image/teams/3282.png",
+      "match_time": "9 سبتمبر 2026، 21:00",
+      "audio_original": [
+        "العراقية السريانية (يوسف جميل)"
+      ],
+      "audio": [
+        "العراقية السريانية (يوسف جميل)"
+      ],
+      "audio_text": "العراقية السريانية (يوسف جميل)",
+      "channel_names_mode": "custom"
+    },
+    {
+      "competition": "الدوري العراقي",
+      "home_team": "الكرمة",
+      "away_team": "النفط",
+      "home_logo": "https://jdwel.com/image/teams/984.png",
+      "away_logo": "https://jdwel.com/image/teams/4512.png",
+      "match_time": "9 سبتمبر 2026، 22:00",
+      "audio_original": [
+        "العراقية العامة (فراس الذهبي)"
+      ],
+      "audio": [
+        "العراقية العامة (فراس الذهبي)"
+      ],
+      "audio_text": "العراقية العامة (فراس الذهبي)",
+      "channel_names_mode": "custom"
+    },
+    {
+      "competition": "الدوري الإسكتلندي",
+      "home_team": "سانت جونستون",
+      "away_team": "سيلتك",
+      "home_logo": "https://jdwel.com/image/teams/3477.png",
+      "away_logo": "https://jdwel.com/image/teams/4380.png",
+      "match_time": "9 سبتمبر 2026، 22:00",
+      "audio_original": [
+        "الشارقة الرياضية 1 (محمد الهناني)"
+      ],
+      "audio": [
+        "الشارقة الرياضية 1 (محمد الهناني)"
+      ],
+      "audio_text": "الشارقة الرياضية 1 (محمد الهناني)",
+      "channel_names_mode": "custom"
+    },
+    {
+      "competition": "كوبا ليبرتادوريس",
+      "home_team": "بالميراس",
+      "away_team": "إل دي يو كيتو",
+      "home_logo": "https://jdwel.com/image/teams/2762.png",
+      "away_logo": "https://jdwel.com/image/teams/3144.png",
+      "match_time": "10 سبتمبر 2026، 01:00",
+      "audio_original": [
+        "beIN SPORTS 3 (سمير اليعقوبي)"
+      ],
+      "audio": [
+        "الصوتية الثالثة — Audio 3 (سمير اليعقوبي)"
+      ],
+      "audio_text": "الصوتية الثالثة — Audio 3 (سمير اليعقوبي)",
+      "channel_names_mode": "custom"
+    },
+    {
+      "competition": "كأس العالم للسيدات تحت 20 سنة",
+      "home_team": "اليابان",
+      "away_team": "الولايات المتحدة",
+      "home_logo": "https://jdwel.com/image/teams/flag_japan_v2.png",
+      "away_logo": "https://jdwel.com/image/teams/flag_united_states.png",
+      "match_time": "9 سبتمبر 2026، 19:00",
+      "audio_original": [
+        "beIN SPORTS 5 (أحمد البلوشي)"
+      ],
+      "audio": [
+        "الصوتية الخامسة — Audio 5 (أحمد البلوشي)"
+      ],
+      "audio_text": "الصوتية الخامسة — Audio 5 (أحمد البلوشي)",
       "channel_names_mode": "custom"
     }
   ]
