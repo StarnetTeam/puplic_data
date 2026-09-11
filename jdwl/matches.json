@@ -1,96 +1,14 @@
 {
   "source": "https://jdwel.com/today/",
-  "generated_at_utc": "2026-09-11T18:00:55.527318+00:00",
+  "generated_at_utc": "2026-09-11T21:27:19.152213+00:00",
   "matches": [
-    {
-      "competition": "الدوري الإيطالي",
-      "home_team": "فينيزيا",
-      "away_team": "فيورنتينا",
-      "home_logo": "https://jdwel.com/image/teams/3358.png",
-      "away_logo": "https://jdwel.com/image/teams/ita_fiorentina_v2.png",
-      "match_time": "11 سبتمبر 2026، 21:45 6:45 م",
-      "audio_original": [
-        "STARZPLAY (أحمد الحامد)",
-        "STC TV (أحمد الحامد)"
-      ],
-      "audio": [
-        "الإيطالية — Italy (أحمد الحامد)",
-        "الإيطالية — Italy (أحمد الحامد)"
-      ],
-      "audio_text": "الإيطالية — Italy (أحمد الحامد) | الإيطالية — Italy (أحمد الحامد)",
-      "channel_names_mode": "custom"
-    },
-    {
-      "competition": "الدوري الفرنسي",
-      "home_team": "رين",
-      "away_team": "مارسيليا",
-      "home_logo": "https://jdwel.com/image/teams/2037.png",
-      "away_logo": "https://jdwel.com/image/teams/6246.png",
-      "match_time": "11 سبتمبر 2026، 21:45 6:45 م",
-      "audio_original": [
-        "beIN SPORTS 2 (عامر الخوذيري)"
-      ],
-      "audio": [
-        "الصوتية الثانية — Audio 2 (عامر الخوذيري)"
-      ],
-      "audio_text": "الصوتية الثانية — Audio 2 (عامر الخوذيري)",
-      "channel_names_mode": "custom"
-    },
-    {
-      "competition": "دوري روشن السعودي",
-      "home_team": "الأهلي",
-      "away_team": "الحزم",
-      "home_logo": "https://jdwel.com/image/teams/3404.png",
-      "away_logo": "https://jdwel.com/image/teams/sau_al_hazm_v2.png",
-      "match_time": "11 سبتمبر 2026، 21:00 6:00 م",
-      "audio_original": [
-        "ثمانية 1 (فهد العتيبي)"
-      ],
-      "audio": [
-        "Thamanya 1 — ثمانية 1 (فهد العتيبي)"
-      ],
-      "audio_text": "Thamanya 1 — ثمانية 1 (فهد العتيبي)",
-      "channel_names_mode": "custom"
-    },
-    {
-      "competition": "الدوري الألماني",
-      "home_team": "يونيون برلين",
-      "away_team": "شالكه 04",
-      "home_logo": "https://jdwel.com/image/teams/2632.png",
-      "away_logo": "https://jdwel.com/image/teams/3263.png",
-      "match_time": "11 سبتمبر 2026، 21:30 6:30 م",
-      "audio_original": [
-        "MBC Action (عصام عبده)"
-      ],
-      "audio": [
-        "MBC Action (عصام عبده)"
-      ],
-      "audio_text": "MBC Action (عصام عبده)",
-      "channel_names_mode": "custom"
-    },
-    {
-      "competition": "الدوري الإسباني",
-      "home_team": "إشبيلية",
-      "away_team": "فالنسيا",
-      "home_logo": "https://jdwel.com/image/teams/1679.png",
-      "away_logo": "https://jdwel.com/image/teams/1025.png",
-      "match_time": "11 سبتمبر 2026، 22:00 7:00 م",
-      "audio_original": [
-        "beIN SPORTS 4 (محمد بركات)"
-      ],
-      "audio": [
-        "الصوتية الرابعة — Audio 4 (محمد بركات)"
-      ],
-      "audio_text": "الصوتية الرابعة — Audio 4 (محمد بركات)",
-      "channel_names_mode": "custom"
-    },
     {
       "competition": "الدوري الجزائري",
       "home_team": "شباب بلوزداد",
       "away_team": "وفاق سطيف",
       "home_logo": "https://jdwel.com/image/teams/7006.png",
       "away_logo": "https://jdwel.com/image/teams/5044.png",
-      "match_time": "11 سبتمبر 2026، 23:00 8:00 م",
+      "match_time": "11 سبتمبر 2026، 23:00",
       "audio_original": [
         "الجزائرية 1 (أرضي)"
       ],
@@ -98,92 +16,6 @@
         "الجزائرية 1 (أرضي)"
       ],
       "audio_text": "الجزائرية 1 (أرضي)",
-      "channel_names_mode": "custom"
-    },
-    {
-      "competition": "الدوري التركي",
-      "home_team": "بشكتاش",
-      "away_team": "أرضروم سبور",
-      "home_logo": "https://jdwel.com/image/teams/2149.png",
-      "away_logo": "https://jdwel.com/image/teams/6916.png",
-      "match_time": "11 سبتمبر 2026، 20:00 5:00 م",
-      "audio_original": [
-        "beIN SPORTS 1",
-        "beIN SPORTS 1 TR"
-      ],
-      "audio": [
-        "الصوتية الأولى — Audio 1",
-        "الصوتية الأولى — Audio 1"
-      ],
-      "audio_text": "الصوتية الأولى — Audio 1 | الصوتية الأولى — Audio 1",
-      "channel_names_mode": "custom"
-    },
-    {
-      "competition": "الدوري الجزائري",
-      "home_team": "مولودية وهران",
-      "away_team": "شباب عين تيموشنت",
-      "home_logo": "https://jdwel.com/image/teams/3102.png",
-      "away_logo": "https://jdwel.com/image/teams/4194.png",
-      "match_time": "11 سبتمبر 2026، 21:00 6:00 م",
-      "audio_original": [
-        "الجزائرية 6"
-      ],
-      "audio": [
-        "الجزائرية 6"
-      ],
-      "audio_text": "الجزائرية 6",
-      "channel_names_mode": "custom"
-    },
-    {
-      "competition": "الدوري الهولندي",
-      "home_team": "إي زد ألكمار",
-      "away_team": "فيلم تو تيلبورغ",
-      "home_logo": "https://jdwel.com/image/teams/net_az.png",
-      "away_logo": "https://jdwel.com/image/teams/1297.png",
-      "match_time": "11 سبتمبر 2026، 21:00 6:00 م",
-      "audio_original": [
-        "دبي الرياضية 1 (حماد العنزي)"
-      ],
-      "audio": [
-        "دبي الرياضية 1 (حماد العنزي)"
-      ],
-      "audio_text": "دبي الرياضية 1 (حماد العنزي)",
-      "channel_names_mode": "custom"
-    },
-    {
-      "competition": "تشامبيونشيب",
-      "home_team": "وست هام يونايتد",
-      "away_team": "ريكسهام",
-      "home_logo": "https://jdwel.com/image/teams/6910.png",
-      "away_logo": "https://jdwel.com/image/teams/3130.png",
-      "match_time": "11 سبتمبر 2026، 22:00 7:00 م",
-      "audio_original": [
-        "beIN SPORTS 3 (مصطفى علوان)"
-      ],
-      "audio": [
-        "الصوتية الثالثة — Audio 3 (مصطفى علوان)"
-      ],
-      "audio_text": "الصوتية الثالثة — Audio 3 (مصطفى علوان)",
-      "channel_names_mode": "custom"
-    },
-    {
-      "competition": "الدوري الإماراتي",
-      "home_team": "الوحدة",
-      "away_team": "الشارقة",
-      "home_logo": "https://jdwel.com/image/teams/1270.png",
-      "away_logo": "https://jdwel.com/image/teams/1166.png",
-      "match_time": "11 سبتمبر 2026، 19:15 4:15 م",
-      "audio_original": [
-        "أبوظبي الرياضية 1 (محمد الشامسي)",
-        "دبي الرياضية 1 (عبدالحميد الجسمي)",
-        "الشارقة الرياضية 1 (محمد الهناني)"
-      ],
-      "audio": [
-        "أبوظبي الرياضية 1 (محمد الشامسي)",
-        "دبي الرياضية 1 (عبدالحميد الجسمي)",
-        "الشارقة الرياضية 1 (محمد الهناني)"
-      ],
-      "audio_text": "أبوظبي الرياضية 1 (محمد الشامسي) | دبي الرياضية 1 (عبدالحميد الجسمي) | الشارقة الرياضية 1 (محمد الهناني)",
       "channel_names_mode": "custom"
     }
   ]
