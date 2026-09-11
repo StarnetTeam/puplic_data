@@ -1,5 +1,186 @@
 {
   "source": "https://jdwel.com/today/",
-  "generated_at_utc": "2026-09-10T22:05:55.416698+00:00",
-  "matches": []
+  "generated_at_utc": "2026-09-11T00:41:19.980676+00:00",
+  "matches": [
+    {
+      "competition": "دوري روشن السعودي",
+      "home_team": "القادسية",
+      "away_team": "الاتفاق",
+      "home_logo": "https://jdwel.com/image/teams/2216.png",
+      "away_logo": "https://jdwel.com/image/teams/2215.png",
+      "match_time": "11 سبتمبر 2026، 18:25",
+      "audio_original": [
+        "ثمانية 1 (جعفر الصليح)"
+      ],
+      "audio": [
+        "Thamanya 1 — ثمانية 1 (جعفر الصليح)"
+      ],
+      "audio_text": "Thamanya 1 — ثمانية 1 (جعفر الصليح)",
+      "channel_names_mode": "custom"
+    },
+    {
+      "competition": "الدوري الفرنسي",
+      "home_team": "رين",
+      "away_team": "مارسيليا",
+      "home_logo": "https://jdwel.com/image/teams/2037.png",
+      "away_logo": "https://jdwel.com/image/teams/6246.png",
+      "match_time": "11 سبتمبر 2026، 21:45",
+      "audio_original": [
+        "beIN SPORTS 2 (عامر الخوذيري)"
+      ],
+      "audio": [
+        "الصوتية الثانية — Audio 2 (عامر الخوذيري)"
+      ],
+      "audio_text": "الصوتية الثانية — Audio 2 (عامر الخوذيري)",
+      "channel_names_mode": "custom"
+    },
+    {
+      "competition": "الدوري الألماني",
+      "home_team": "يونيون برلين",
+      "away_team": "شالكه 04",
+      "home_logo": "https://jdwel.com/image/teams/2632.png",
+      "away_logo": "https://jdwel.com/image/teams/3263.png",
+      "match_time": "11 سبتمبر 2026، 21:30",
+      "audio_original": [
+        "MBC Action (عصام عبده)"
+      ],
+      "audio": [
+        "MBC Action (عصام عبده)"
+      ],
+      "audio_text": "MBC Action (عصام عبده)",
+      "channel_names_mode": "custom"
+    },
+    {
+      "competition": "دوري روشن السعودي",
+      "home_team": "الأهلي",
+      "away_team": "الحزم",
+      "home_logo": "https://jdwel.com/image/teams/3404.png",
+      "away_logo": "https://jdwel.com/image/teams/sau_al_hazm_v2.png",
+      "match_time": "11 سبتمبر 2026، 21:00",
+      "audio_original": [
+        "ثمانية 1 (فهد العتيبي)"
+      ],
+      "audio": [
+        "Thamanya 1 — ثمانية 1 (فهد العتيبي)"
+      ],
+      "audio_text": "Thamanya 1 — ثمانية 1 (فهد العتيبي)",
+      "channel_names_mode": "custom"
+    },
+    {
+      "competition": "الدوري الإسباني",
+      "home_team": "إشبيلية",
+      "away_team": "فالنسيا",
+      "home_logo": "https://jdwel.com/image/teams/1679.png",
+      "away_logo": "https://jdwel.com/image/teams/1025.png",
+      "match_time": "11 سبتمبر 2026، 22:00",
+      "audio_original": [
+        "beIN SPORTS 4 (محمد بركات)"
+      ],
+      "audio": [
+        "الصوتية الرابعة — Audio 4 (محمد بركات)"
+      ],
+      "audio_text": "الصوتية الرابعة — Audio 4 (محمد بركات)",
+      "channel_names_mode": "custom"
+    },
+    {
+      "competition": "دوري روشن السعودي",
+      "home_team": "الفيصلي",
+      "away_team": "الاتحاد",
+      "home_logo": "https://jdwel.com/image/teams/3215.png",
+      "away_logo": "https://jdwel.com/image/teams/2839.png",
+      "match_time": "11 سبتمبر 2026، 18:45",
+      "audio_original": [
+        "ثمانية 2 (خالد المديفر)"
+      ],
+      "audio": [
+        "Thamanya 2 — ثمانية 2 (خالد المديفر)"
+      ],
+      "audio_text": "Thamanya 2 — ثمانية 2 (خالد المديفر)",
+      "channel_names_mode": "custom"
+    },
+    {
+      "competition": "الدوري الإيطالي",
+      "home_team": "فينيزيا",
+      "away_team": "فيورنتينا",
+      "home_logo": "https://jdwel.com/image/teams/3358.png",
+      "away_logo": "https://jdwel.com/image/teams/ita_fiorentina_v2.png",
+      "match_time": "11 سبتمبر 2026، 21:45",
+      "audio_original": [
+        "STARZPLAY (أحمد الحامد)",
+        "STC TV (أحمد الحامد)"
+      ],
+      "audio": [
+        "الإيطالية — Italy (أحمد الحامد)",
+        "الإيطالية — Italy (أحمد الحامد)"
+      ],
+      "audio_text": "الإيطالية — Italy (أحمد الحامد) | الإيطالية — Italy (أحمد الحامد)",
+      "channel_names_mode": "custom"
+    },
+    {
+      "competition": "الدوري الجزائري",
+      "home_team": "شباب بلوزداد",
+      "away_team": "وفاق سطيف",
+      "home_logo": "https://jdwel.com/image/teams/7006.png",
+      "away_logo": "https://jdwel.com/image/teams/5044.png",
+      "match_time": "11 سبتمبر 2026، 23:00",
+      "audio_original": [
+        "الجزائرية 1 (أرضي)"
+      ],
+      "audio": [
+        "الجزائرية 1 (أرضي)"
+      ],
+      "audio_text": "الجزائرية 1 (أرضي)",
+      "channel_names_mode": "custom"
+    },
+    {
+      "competition": "الدوري الجزائري",
+      "home_team": "مولودية وهران",
+      "away_team": "شباب عين تيموشنت",
+      "home_logo": "https://jdwel.com/image/teams/3102.png",
+      "away_logo": "https://jdwel.com/image/teams/4194.png",
+      "match_time": "11 سبتمبر 2026، 21:00",
+      "audio_original": [
+        "الجزائرية 6"
+      ],
+      "audio": [
+        "الجزائرية 6"
+      ],
+      "audio_text": "الجزائرية 6",
+      "channel_names_mode": "custom"
+    },
+    {
+      "competition": "الدوري التركي",
+      "home_team": "بشكتاش",
+      "away_team": "أرضروم سبور",
+      "home_logo": "https://jdwel.com/image/teams/2149.png",
+      "away_logo": "https://jdwel.com/image/teams/6916.png",
+      "match_time": "11 سبتمبر 2026، 20:00",
+      "audio_original": [
+        "beIN SPORTS 1",
+        "beIN SPORTS 1 TR"
+      ],
+      "audio": [
+        "الصوتية الأولى — Audio 1",
+        "الصوتية الأولى — Audio 1"
+      ],
+      "audio_text": "الصوتية الأولى — Audio 1 | الصوتية الأولى — Audio 1",
+      "channel_names_mode": "custom"
+    },
+    {
+      "competition": "تشامبيونشيب",
+      "home_team": "وست هام يونايتد",
+      "away_team": "ريكسهام",
+      "home_logo": "https://jdwel.com/image/teams/6910.png",
+      "away_logo": "https://jdwel.com/image/teams/3130.png",
+      "match_time": "11 سبتمبر 2026، 22:00",
+      "audio_original": [
+        "beIN SPORTS 3 (مصطفى علوان)"
+      ],
+      "audio": [
+        "الصوتية الثالثة — Audio 3 (مصطفى علوان)"
+      ],
+      "audio_text": "الصوتية الثالثة — Audio 3 (مصطفى علوان)",
+      "channel_names_mode": "custom"
+    }
+  ]
 }
