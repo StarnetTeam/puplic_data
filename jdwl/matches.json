@@ -1,23 +1,7 @@
 {
   "source": "https://jdwel.com/today/",
-  "generated_at_utc": "2026-09-11T00:41:19.980676+00:00",
+  "generated_at_utc": "2026-09-11T05:26:34.463324+00:00",
   "matches": [
-    {
-      "competition": "دوري روشن السعودي",
-      "home_team": "القادسية",
-      "away_team": "الاتفاق",
-      "home_logo": "https://jdwel.com/image/teams/2216.png",
-      "away_logo": "https://jdwel.com/image/teams/2215.png",
-      "match_time": "11 سبتمبر 2026، 18:25",
-      "audio_original": [
-        "ثمانية 1 (جعفر الصليح)"
-      ],
-      "audio": [
-        "Thamanya 1 — ثمانية 1 (جعفر الصليح)"
-      ],
-      "audio_text": "Thamanya 1 — ثمانية 1 (جعفر الصليح)",
-      "channel_names_mode": "custom"
-    },
     {
       "competition": "الدوري الفرنسي",
       "home_team": "رين",
@@ -35,6 +19,24 @@
       "channel_names_mode": "custom"
     },
     {
+      "competition": "الدوري الإيطالي",
+      "home_team": "فينيزيا",
+      "away_team": "فيورنتينا",
+      "home_logo": "https://jdwel.com/image/teams/3358.png",
+      "away_logo": "https://jdwel.com/image/teams/ita_fiorentina_v2.png",
+      "match_time": "11 سبتمبر 2026، 21:45",
+      "audio_original": [
+        "STARZPLAY (أحمد الحامد)",
+        "STC TV (أحمد الحامد)"
+      ],
+      "audio": [
+        "الإيطالية — Italy (أحمد الحامد)",
+        "الإيطالية — Italy (أحمد الحامد)"
+      ],
+      "audio_text": "الإيطالية — Italy (أحمد الحامد) | الإيطالية — Italy (أحمد الحامد)",
+      "channel_names_mode": "custom"
+    },
+    {
       "competition": "الدوري الألماني",
       "home_team": "يونيون برلين",
       "away_team": "شالكه 04",
@@ -48,22 +50,6 @@
         "MBC Action (عصام عبده)"
       ],
       "audio_text": "MBC Action (عصام عبده)",
-      "channel_names_mode": "custom"
-    },
-    {
-      "competition": "دوري روشن السعودي",
-      "home_team": "الأهلي",
-      "away_team": "الحزم",
-      "home_logo": "https://jdwel.com/image/teams/3404.png",
-      "away_logo": "https://jdwel.com/image/teams/sau_al_hazm_v2.png",
-      "match_time": "11 سبتمبر 2026، 21:00",
-      "audio_original": [
-        "ثمانية 1 (فهد العتيبي)"
-      ],
-      "audio": [
-        "Thamanya 1 — ثمانية 1 (فهد العتيبي)"
-      ],
-      "audio_text": "Thamanya 1 — ثمانية 1 (فهد العتيبي)",
       "channel_names_mode": "custom"
     },
     {
@@ -99,37 +85,35 @@
       "channel_names_mode": "custom"
     },
     {
-      "competition": "الدوري الإيطالي",
-      "home_team": "فينيزيا",
-      "away_team": "فيورنتينا",
-      "home_logo": "https://jdwel.com/image/teams/3358.png",
-      "away_logo": "https://jdwel.com/image/teams/ita_fiorentina_v2.png",
-      "match_time": "11 سبتمبر 2026، 21:45",
+      "competition": "دوري روشن السعودي",
+      "home_team": "القادسية",
+      "away_team": "الاتفاق",
+      "home_logo": "https://jdwel.com/image/teams/2216.png",
+      "away_logo": "https://jdwel.com/image/teams/2215.png",
+      "match_time": "11 سبتمبر 2026، 18:25",
       "audio_original": [
-        "STARZPLAY (أحمد الحامد)",
-        "STC TV (أحمد الحامد)"
+        "ثمانية 1 (جعفر الصليح)"
       ],
       "audio": [
-        "الإيطالية — Italy (أحمد الحامد)",
-        "الإيطالية — Italy (أحمد الحامد)"
+        "Thamanya 1 — ثمانية 1 (جعفر الصليح)"
       ],
-      "audio_text": "الإيطالية — Italy (أحمد الحامد) | الإيطالية — Italy (أحمد الحامد)",
+      "audio_text": "Thamanya 1 — ثمانية 1 (جعفر الصليح)",
       "channel_names_mode": "custom"
     },
     {
-      "competition": "الدوري الجزائري",
-      "home_team": "شباب بلوزداد",
-      "away_team": "وفاق سطيف",
-      "home_logo": "https://jdwel.com/image/teams/7006.png",
-      "away_logo": "https://jdwel.com/image/teams/5044.png",
-      "match_time": "11 سبتمبر 2026، 23:00",
+      "competition": "دوري روشن السعودي",
+      "home_team": "الأهلي",
+      "away_team": "الحزم",
+      "home_logo": "https://jdwel.com/image/teams/3404.png",
+      "away_logo": "https://jdwel.com/image/teams/sau_al_hazm_v2.png",
+      "match_time": "11 سبتمبر 2026، 21:00",
       "audio_original": [
-        "الجزائرية 1 (أرضي)"
+        "ثمانية 1 (فهد العتيبي)"
       ],
       "audio": [
-        "الجزائرية 1 (أرضي)"
+        "Thamanya 1 — ثمانية 1 (فهد العتيبي)"
       ],
-      "audio_text": "الجزائرية 1 (أرضي)",
+      "audio_text": "Thamanya 1 — ثمانية 1 (فهد العتيبي)",
       "channel_names_mode": "custom"
     },
     {
@@ -164,6 +148,38 @@
         "الصوتية الأولى — Audio 1"
       ],
       "audio_text": "الصوتية الأولى — Audio 1 | الصوتية الأولى — Audio 1",
+      "channel_names_mode": "custom"
+    },
+    {
+      "competition": "الدوري الجزائري",
+      "home_team": "شباب بلوزداد",
+      "away_team": "وفاق سطيف",
+      "home_logo": "https://jdwel.com/image/teams/7006.png",
+      "away_logo": "https://jdwel.com/image/teams/5044.png",
+      "match_time": "11 سبتمبر 2026، 23:00",
+      "audio_original": [
+        "الجزائرية 1 (أرضي)"
+      ],
+      "audio": [
+        "الجزائرية 1 (أرضي)"
+      ],
+      "audio_text": "الجزائرية 1 (أرضي)",
+      "channel_names_mode": "custom"
+    },
+    {
+      "competition": "الدوري الهولندي",
+      "home_team": "إي زد ألكمار",
+      "away_team": "فيلم تو تيلبورغ",
+      "home_logo": "https://jdwel.com/image/teams/net_az.png",
+      "away_logo": "https://jdwel.com/image/teams/1297.png",
+      "match_time": "11 سبتمبر 2026، 21:00",
+      "audio_original": [
+        "دبي الرياضية 1 (حماد العنزي)"
+      ],
+      "audio": [
+        "دبي الرياضية 1 (حماد العنزي)"
+      ],
+      "audio_text": "دبي الرياضية 1 (حماد العنزي)",
       "channel_names_mode": "custom"
     },
     {
