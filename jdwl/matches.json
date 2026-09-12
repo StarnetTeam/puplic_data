@@ -1,23 +1,7 @@
 {
   "source": "https://jdwel.com/today/",
-  "generated_at_utc": "2026-09-12T17:32:34.886620+00:00",
+  "generated_at_utc": "2026-09-12T19:53:02.457312+00:00",
   "matches": [
-    {
-      "competition": "الدوري الإنجليزي",
-      "home_team": "توتنهام",
-      "away_team": "إيفرتون",
-      "home_logo": "https://jdwel.com/image/teams/1018.png",
-      "away_logo": "https://jdwel.com/image/teams/1684.png",
-      "match_time": "12 سبتمبر 2026، 19:30 4:30 م",
-      "audio_original": [
-        "beIN SPORTS 1 (حفيظ دراجي)"
-      ],
-      "audio": [
-        "الصوتية الأولى — Audio 1 (حفيظ دراجي)"
-      ],
-      "audio_text": "الصوتية الأولى — Audio 1 (حفيظ دراجي)",
-      "channel_names_mode": "custom"
-    },
     {
       "competition": "الدوري الإنجليزي",
       "home_team": "سندرلاند",
@@ -32,38 +16,6 @@
         "الصوتية الأولى — Audio 1 (خليل البلوشي)"
       ],
       "audio_text": "الصوتية الأولى — Audio 1 (خليل البلوشي)",
-      "channel_names_mode": "custom"
-    },
-    {
-      "competition": "الدوري الإسباني",
-      "home_team": "أتلتيك بيلباو",
-      "away_team": "إلتشي",
-      "home_logo": "https://jdwel.com/image/teams/2033.png",
-      "away_logo": "https://jdwel.com/image/teams/2151.png",
-      "match_time": "12 سبتمبر 2026، 19:30 4:30 م",
-      "audio_original": [
-        "beIN SPORTS 2 (أحمد فؤاد)"
-      ],
-      "audio": [
-        "الصوتية الثانية — Audio 2 (أحمد فؤاد)"
-      ],
-      "audio_text": "الصوتية الثانية — Audio 2 (أحمد فؤاد)",
-      "channel_names_mode": "custom"
-    },
-    {
-      "competition": "دوري روشن السعودي",
-      "home_team": "التعاون",
-      "away_team": "الهلال",
-      "home_logo": "https://jdwel.com/image/teams/5338.png",
-      "away_logo": "https://jdwel.com/image/teams/2761.png",
-      "match_time": "12 سبتمبر 2026، 18:50 3:50 م",
-      "audio_original": [
-        "ثمانية 2 (فارس عوض)"
-      ],
-      "audio": [
-        "Thamanya 2 — ثمانية 2 (فارس عوض)"
-      ],
-      "audio_text": "Thamanya 2 — ثمانية 2 (فارس عوض)",
       "channel_names_mode": "custom"
     },
     {
@@ -101,21 +53,19 @@
       "channel_names_mode": "custom"
     },
     {
-      "competition": "الدوري الإيطالي",
-      "home_team": "لاتسيو",
-      "away_team": "ميلان",
-      "home_logo": "https://jdwel.com/image/teams/ita_lazio.png",
-      "away_logo": "https://jdwel.com/image/teams/2433.png",
-      "match_time": "12 سبتمبر 2026، 19:00 4:00 م",
+      "competition": "الدوري الفرنسي",
+      "home_team": "لوريان",
+      "away_team": "تولوز",
+      "home_logo": "https://jdwel.com/image/teams/1662.png",
+      "away_logo": "https://jdwel.com/image/teams/2966.png",
+      "match_time": "12 سبتمبر 2026، 21:45 6:45 م",
       "audio_original": [
-        "STARZPLAY (عامر عبدالله)",
-        "STC TV (عامر عبدالله)"
+        "beIN SPORTS 6 (أحمد سوكو)"
       ],
       "audio": [
-        "الإيطالية — Italy (عامر عبدالله)",
-        "الإيطالية — Italy (عامر عبدالله)"
+        "الصوتية السادسة — Audio 6 (أحمد سوكو)"
       ],
-      "audio_text": "الإيطالية — Italy (عامر عبدالله) | الإيطالية — Italy (عامر عبدالله)",
+      "audio_text": "الصوتية السادسة — Audio 6 (أحمد سوكو)",
       "channel_names_mode": "custom"
     },
     {
@@ -135,35 +85,19 @@
       "channel_names_mode": "custom"
     },
     {
-      "competition": "دوري روشن السعودي",
-      "home_team": "الشباب",
-      "away_team": "الفيحاء",
-      "home_logo": "https://jdwel.com/image/teams/2213.png",
-      "away_logo": "https://jdwel.com/image/teams/3067.png",
-      "match_time": "12 سبتمبر 2026، 21:00 6:00 م",
-      "audio_original": [
-        "ثمانية 3 (سليمان الشريف)"
-      ],
-      "audio": [
-        "Thamanya 3 — ثمانية 3 (سليمان الشريف)"
-      ],
-      "audio_text": "Thamanya 3 — ثمانية 3 (سليمان الشريف)",
-      "channel_names_mode": "custom"
-    },
-    {
       "competition": "الدوري الفرنسي",
-      "home_team": "لوهافر",
-      "away_team": "أنجيه",
-      "home_logo": "https://jdwel.com/image/teams/3189.png",
-      "away_logo": "https://jdwel.com/image/teams/5696.png",
+      "home_team": "باريس",
+      "away_team": "ليون",
+      "home_logo": "https://jdwel.com/image/teams/3560.png",
+      "away_logo": "https://jdwel.com/image/teams/5695.png",
       "match_time": "12 سبتمبر 2026، 21:45 6:45 م",
       "audio_original": [
-        "beIN SPORTS 9 (مصطفى علوان)"
+        "beIN SPORTS 4 (أحمد عبده)"
       ],
       "audio": [
-        "الصوتية التاسعة — Audio 9 (مصطفى علوان)"
+        "الصوتية الرابعة — Audio 4 (أحمد عبده)"
       ],
-      "audio_text": "الصوتية التاسعة — Audio 9 (مصطفى علوان)",
+      "audio_text": "الصوتية الرابعة — Audio 4 (أحمد عبده)",
       "channel_names_mode": "custom"
     }
   ]
