@@ -1,57 +1,7 @@
 {
   "source": "https://jdwel.com/today/",
-  "generated_at_utc": "2026-09-13T16:49:12.232437+00:00",
+  "generated_at_utc": "2026-09-13T19:07:33.065584+00:00",
   "matches": [
-    {
-      "competition": "الدوري الإنجليزي",
-      "home_team": "مانشستر يونايتد",
-      "away_team": "مانشستر سيتي",
-      "home_logo": "https://jdwel.com/image/teams/3092.png",
-      "away_logo": "https://jdwel.com/image/teams/2185.png",
-      "match_time": "13 سبتمبر 2026، 18:30",
-      "audio_original": [
-        "beIN SPORTS 1 (حفيظ دراجي)"
-      ],
-      "audio": [
-        "الصوتية الأولى — Audio 1 (حفيظ دراجي)"
-      ],
-      "audio_text": "الصوتية الأولى — Audio 1 (حفيظ دراجي)",
-      "channel_names_mode": "custom"
-    },
-    {
-      "competition": "الدوري الإسباني",
-      "home_team": "خيتافي",
-      "away_team": "ديبورتيفو أكورونيا",
-      "home_logo": "https://jdwel.com/image/teams/1081.png",
-      "away_logo": "https://jdwel.com/image/teams/7004.png",
-      "match_time": "13 سبتمبر 2026، 19:30",
-      "audio_original": [
-        "beIN SPORTS 5 (حسن العيدروس)"
-      ],
-      "audio": [
-        "الصوتية الخامسة — Audio 5 (حسن العيدروس)"
-      ],
-      "audio_text": "الصوتية الخامسة — Audio 5 (حسن العيدروس)",
-      "channel_names_mode": "custom"
-    },
-    {
-      "competition": "الدوري الإيطالي",
-      "home_team": "نابولي",
-      "away_team": "بولونيا",
-      "home_logo": "https://jdwel.com/image/teams/3854.png",
-      "away_logo": "https://jdwel.com/image/teams/2845.png",
-      "match_time": "13 سبتمبر 2026، 19:00",
-      "audio_original": [
-        "STARZPLAY (محمد الشامسي)",
-        "STC TV (محمد الشامسي)"
-      ],
-      "audio": [
-        "الإيطالية — Italy (محمد الشامسي)",
-        "الإيطالية — Italy (محمد الشامسي)"
-      ],
-      "audio_text": "الإيطالية — Italy (محمد الشامسي) | الإيطالية — Italy (محمد الشامسي)",
-      "channel_names_mode": "custom"
-    },
     {
       "competition": "الدوري الإسباني",
       "home_team": "ريال سوسيداد",
@@ -119,22 +69,6 @@
       "channel_names_mode": "custom"
     },
     {
-      "competition": "الدوري الفرنسي",
-      "home_team": "لومان",
-      "away_team": "لانس",
-      "home_logo": "https://jdwel.com/image/teams/fra_le_mans.png",
-      "away_logo": "https://jdwel.com/image/teams/fra_lens.png",
-      "match_time": "13 سبتمبر 2026، 18:15",
-      "audio_original": [
-        "beIN SPORTS 3 (نوفل باشي)"
-      ],
-      "audio": [
-        "الصوتية الثالثة — Audio 3 (نوفل باشي)"
-      ],
-      "audio_text": "الصوتية الثالثة — Audio 3 (نوفل باشي)",
-      "channel_names_mode": "custom"
-    },
-    {
       "competition": "دوري روشن السعودي",
       "home_team": "الرياض",
       "away_team": "الخلود",
@@ -151,35 +85,19 @@
       "channel_names_mode": "custom"
     },
     {
-      "competition": "دوري روشن السعودي",
-      "home_team": "نيوم",
-      "away_team": "الفتح",
-      "home_logo": "https://jdwel.com/image/teams/298.png",
-      "away_logo": "https://jdwel.com/image/teams/1105.png",
-      "match_time": "13 سبتمبر 2026، 19:20",
+      "competition": "دوري الدرجة الأولى السعودي",
+      "home_team": "الطائي",
+      "away_team": "الزلفي",
+      "home_logo": "https://jdwel.com/image/teams/sau_altaee_v3.png",
+      "away_logo": "https://jdwel.com/image/teams/sau_al_zulfi.png",
+      "match_time": "13 سبتمبر 2026، 20:20",
       "audio_original": [
-        "ثمانية 2 (سعد يحيى)"
+        "تطبيق ثمانية (مشعل الشمري)"
       ],
       "audio": [
-        "Thamanya 2 — ثمانية 2 (سعد يحيى)"
+        "Thamanya — تطبيق ثمانية (مشعل الشمري)"
       ],
-      "audio_text": "Thamanya 2 — ثمانية 2 (سعد يحيى)",
-      "channel_names_mode": "custom"
-    },
-    {
-      "competition": "الدوري الألماني",
-      "home_team": "إلفيرسبيرغ",
-      "away_team": "بايرن ميونخ",
-      "home_logo": "https://jdwel.com/image/teams/1017.png",
-      "away_logo": "https://jdwel.com/image/teams/1300.png",
-      "match_time": "13 سبتمبر 2026، 18:30",
-      "audio_original": [
-        "MBC Action (أحمد النفيسة)"
-      ],
-      "audio": [
-        "MBC Action (أحمد النفيسة)"
-      ],
-      "audio_text": "MBC Action (أحمد النفيسة)",
+      "audio_text": "Thamanya — تطبيق ثمانية (مشعل الشمري)",
       "channel_names_mode": "custom"
     }
   ]
