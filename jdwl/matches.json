@@ -1,23 +1,7 @@
 {
   "source": "https://jdwel.com/today/",
-  "generated_at_utc": "2026-09-15T23:50:14.719416+00:00",
+  "generated_at_utc": "2026-09-16T02:26:52.631157+00:00",
   "matches": [
-    {
-      "competition": "الدوري الإسباني",
-      "home_team": "برشلونة",
-      "away_team": "راسينغ سانتاندير",
-      "home_logo": "https://jdwel.com/image/teams/3337.png",
-      "away_logo": "https://jdwel.com/image/teams/1554.png",
-      "match_time": "16 سبتمبر 2026، 22:30",
-      "audio_original": [
-        "beIN SPORTS 2 (عامر الخوذيري)"
-      ],
-      "audio": [
-        "الصوتية الثانية — Audio 2 (عامر الخوذيري)"
-      ],
-      "audio_text": "الصوتية الثانية — Audio 2 (عامر الخوذيري)",
-      "channel_names_mode": "custom"
-    },
     {
       "competition": "دوري أبطال آسيا للنخبة",
       "home_team": "بورت",
@@ -32,54 +16,6 @@
         "الصوتية الثالثة — Audio 3 (أحمد البلوشي)"
       ],
       "audio_text": "الصوتية الثالثة — Audio 3 (أحمد البلوشي)",
-      "channel_names_mode": "custom"
-    },
-    {
-      "competition": "الدوري الأوروبي",
-      "home_team": "آرارات أرمينيا",
-      "away_team": "سبارتا براغ",
-      "home_logo": "https://jdwel.com/image/teams/3380.png",
-      "away_logo": "https://jdwel.com/image/teams/3150.png",
-      "match_time": "16 سبتمبر 2026، 19:45",
-      "audio_original": [
-        "beIN SPORTS 8 (أحمد فؤاد)"
-      ],
-      "audio": [
-        "الصوتية الثامنة — Audio 8 (أحمد فؤاد)"
-      ],
-      "audio_text": "الصوتية الثامنة — Audio 8 (أحمد فؤاد)",
-      "channel_names_mode": "custom"
-    },
-    {
-      "competition": "الدوري الإسباني",
-      "home_team": "أتلتيكو مدريد",
-      "away_team": "أوساسونا",
-      "home_logo": "https://jdwel.com/image/teams/6403.png",
-      "away_logo": "https://jdwel.com/image/teams/1556.png",
-      "match_time": "16 سبتمبر 2026، 20:00",
-      "audio_original": [
-        "beIN SPORTS 2 (علي محمد علي)"
-      ],
-      "audio": [
-        "الصوتية الثانية — Audio 2 (علي محمد علي)"
-      ],
-      "audio_text": "الصوتية الثانية — Audio 2 (علي محمد علي)",
-      "channel_names_mode": "custom"
-    },
-    {
-      "competition": "الدوري الأوروبي",
-      "home_team": "أومونيا",
-      "away_team": "سيلتا فيغو",
-      "home_logo": "https://jdwel.com/image/teams/1234.png",
-      "away_logo": "https://jdwel.com/image/teams/1163.png",
-      "match_time": "16 سبتمبر 2026، 19:45",
-      "audio_original": [
-        "beIN SPORTS 1 (نوفل باشي)"
-      ],
-      "audio": [
-        "الصوتية الأولى — Audio 1 (نوفل باشي)"
-      ],
-      "audio_text": "الصوتية الأولى — Audio 1 (نوفل باشي)",
       "channel_names_mode": "custom"
     },
     {
@@ -100,18 +36,18 @@
     },
     {
       "competition": "الدوري الإسباني",
-      "home_team": "ليفانتي",
-      "away_team": "أتلتيك بيلباو",
-      "home_logo": "https://jdwel.com/image/teams/spa_levante.png",
-      "away_logo": "https://jdwel.com/image/teams/2033.png",
+      "home_team": "برشلونة",
+      "away_team": "راسينغ سانتاندير",
+      "home_logo": "https://jdwel.com/image/teams/3337.png",
+      "away_logo": "https://jdwel.com/image/teams/1554.png",
       "match_time": "16 سبتمبر 2026، 22:30",
       "audio_original": [
-        "beIN SPORTS XTRA 1 (محمد فوزي)"
+        "beIN SPORTS 2 (عامر الخوذيري)"
       ],
       "audio": [
-        "beIN SPORTS XTRA 1 (محمد فوزي)"
+        "الصوتية الثانية — Audio 2 (عامر الخوذيري)"
       ],
-      "audio_text": "beIN SPORTS XTRA 1 (محمد فوزي)",
+      "audio_text": "الصوتية الثانية — Audio 2 (عامر الخوذيري)",
       "channel_names_mode": "custom"
     },
     {
@@ -132,18 +68,82 @@
     },
     {
       "competition": "الدوري الأوروبي",
-      "home_team": "ميلان",
-      "away_team": "بنفيكا",
-      "home_logo": "https://jdwel.com/image/teams/2433.png",
-      "away_logo": "https://jdwel.com/image/teams/1442.png",
-      "match_time": "16 سبتمبر 2026، 22:00",
+      "home_team": "آرارات أرمينيا",
+      "away_team": "سبارتا براغ",
+      "home_logo": "https://jdwel.com/image/teams/3380.png",
+      "away_logo": "https://jdwel.com/image/teams/3150.png",
+      "match_time": "16 سبتمبر 2026، 19:45",
       "audio_original": [
-        "beIN SPORTS 1 (خليل البلوشي)"
+        "beIN SPORTS 8 (أحمد فؤاد)"
       ],
       "audio": [
-        "الصوتية الأولى — Audio 1 (خليل البلوشي)"
+        "الصوتية الثامنة — Audio 8 (أحمد فؤاد)"
       ],
-      "audio_text": "الصوتية الأولى — Audio 1 (خليل البلوشي)",
+      "audio_text": "الصوتية الثامنة — Audio 8 (أحمد فؤاد)",
+      "channel_names_mode": "custom"
+    },
+    {
+      "competition": "الدوري الإسباني",
+      "home_team": "ليفانتي",
+      "away_team": "أتلتيك بيلباو",
+      "home_logo": "https://jdwel.com/image/teams/spa_levante.png",
+      "away_logo": "https://jdwel.com/image/teams/2033.png",
+      "match_time": "16 سبتمبر 2026، 22:30",
+      "audio_original": [
+        "beIN SPORTS XTRA 1 (محمد فوزي)"
+      ],
+      "audio": [
+        "beIN SPORTS XTRA 1 (محمد فوزي)"
+      ],
+      "audio_text": "beIN SPORTS XTRA 1 (محمد فوزي)",
+      "channel_names_mode": "custom"
+    },
+    {
+      "competition": "الدوري الأوروبي",
+      "home_team": "أومونيا",
+      "away_team": "سيلتا فيغو",
+      "home_logo": "https://jdwel.com/image/teams/1234.png",
+      "away_logo": "https://jdwel.com/image/teams/1163.png",
+      "match_time": "16 سبتمبر 2026، 19:45",
+      "audio_original": [
+        "beIN SPORTS 1 (نوفل باشي)"
+      ],
+      "audio": [
+        "الصوتية الأولى — Audio 1 (نوفل باشي)"
+      ],
+      "audio_text": "الصوتية الأولى — Audio 1 (نوفل باشي)",
+      "channel_names_mode": "custom"
+    },
+    {
+      "competition": "الدوري الإسباني",
+      "home_team": "أتلتيكو مدريد",
+      "away_team": "أوساسونا",
+      "home_logo": "https://jdwel.com/image/teams/6403.png",
+      "away_logo": "https://jdwel.com/image/teams/1556.png",
+      "match_time": "16 سبتمبر 2026، 20:00",
+      "audio_original": [
+        "beIN SPORTS 2 (علي محمد علي)"
+      ],
+      "audio": [
+        "الصوتية الثانية — Audio 2 (علي محمد علي)"
+      ],
+      "audio_text": "الصوتية الثانية — Audio 2 (علي محمد علي)",
+      "channel_names_mode": "custom"
+    },
+    {
+      "competition": "الدوري الأوروبي",
+      "home_team": "باير ليفركوزن",
+      "away_team": "تسيليه",
+      "home_logo": "https://jdwel.com/image/teams/2146.png",
+      "away_logo": "https://jdwel.com/image/teams/1476.png",
+      "match_time": "16 سبتمبر 2026، 22:00",
+      "audio_original": [
+        "beIN SPORTS XTRA 3 (تعليق إنجليزي)"
+      ],
+      "audio": [
+        "beIN SPORTS XTRA 3 (تعليق إنجليزي)"
+      ],
+      "audio_text": "beIN SPORTS XTRA 3 (تعليق إنجليزي)",
       "channel_names_mode": "custom"
     },
     {
@@ -164,22 +164,6 @@
     },
     {
       "competition": "الدوري الأوروبي",
-      "home_team": "شتورم غراتس",
-      "away_team": "رين",
-      "home_logo": "https://jdwel.com/image/teams/1121.png",
-      "away_logo": "https://jdwel.com/image/teams/2037.png",
-      "match_time": "16 سبتمبر 2026، 22:00",
-      "audio_original": [
-        "beIN SPORTS XTRA 2 (محمد مبروكي)"
-      ],
-      "audio": [
-        "beIN SPORTS XTRA 2 (محمد مبروكي)"
-      ],
-      "audio_text": "beIN SPORTS XTRA 2 (محمد مبروكي)",
-      "channel_names_mode": "custom"
-    },
-    {
-      "competition": "الدوري الأوروبي",
       "home_team": "سندرلاند",
       "away_team": "إي زد ألكمار",
       "home_logo": "https://jdwel.com/image/teams/3206.png",
@@ -196,6 +180,38 @@
     },
     {
       "competition": "الدوري الأوروبي",
+      "home_team": "شتورم غراتس",
+      "away_team": "رين",
+      "home_logo": "https://jdwel.com/image/teams/1121.png",
+      "away_logo": "https://jdwel.com/image/teams/2037.png",
+      "match_time": "16 سبتمبر 2026، 22:00",
+      "audio_original": [
+        "beIN SPORTS XTRA 2 (محمد مبروكي)"
+      ],
+      "audio": [
+        "beIN SPORTS XTRA 2 (محمد مبروكي)"
+      ],
+      "audio_text": "beIN SPORTS XTRA 2 (محمد مبروكي)",
+      "channel_names_mode": "custom"
+    },
+    {
+      "competition": "الدوري الأوروبي",
+      "home_team": "ميلان",
+      "away_team": "بنفيكا",
+      "home_logo": "https://jdwel.com/image/teams/2433.png",
+      "away_logo": "https://jdwel.com/image/teams/1442.png",
+      "match_time": "16 سبتمبر 2026، 22:00",
+      "audio_original": [
+        "beIN SPORTS 1 (خليل البلوشي)"
+      ],
+      "audio": [
+        "الصوتية الأولى — Audio 1 (خليل البلوشي)"
+      ],
+      "audio_text": "الصوتية الأولى — Audio 1 (خليل البلوشي)",
+      "channel_names_mode": "custom"
+    },
+    {
+      "competition": "الدوري الأوروبي",
       "home_team": "أولمبياكوس",
       "away_team": "ياغيلونيا بياويستوك",
       "home_logo": "https://jdwel.com/image/teams/1407.png",
@@ -208,22 +224,6 @@
         "beIN SPORTS XTRA 4 (تعليق إنجليزي)"
       ],
       "audio_text": "beIN SPORTS XTRA 4 (تعليق إنجليزي)",
-      "channel_names_mode": "custom"
-    },
-    {
-      "competition": "الدوري الأوروبي",
-      "home_team": "باير ليفركوزن",
-      "away_team": "تسيليه",
-      "home_logo": "https://jdwel.com/image/teams/2146.png",
-      "away_logo": "https://jdwel.com/image/teams/1476.png",
-      "match_time": "16 سبتمبر 2026، 22:00",
-      "audio_original": [
-        "beIN SPORTS XTRA 3 (تعليق إنجليزي)"
-      ],
-      "audio": [
-        "beIN SPORTS XTRA 3 (تعليق إنجليزي)"
-      ],
-      "audio_text": "beIN SPORTS XTRA 3 (تعليق إنجليزي)",
       "channel_names_mode": "custom"
     },
     {
@@ -260,6 +260,24 @@
     },
     {
       "competition": "دوري أبطال آسيا 2",
+      "home_team": "الخالدية",
+      "away_team": "ناساف",
+      "home_logo": "https://jdwel.com/image/teams/2917.png",
+      "away_logo": "https://jdwel.com/image/teams/1249.png",
+      "match_time": "16 سبتمبر 2026، 19:00",
+      "audio_original": [
+        "beIN SPORTS 5 (أحمد عبده)",
+        "الكاس 7 (جابر المري)"
+      ],
+      "audio": [
+        "الصوتية الخامسة — Audio 5 (أحمد عبده)",
+        "الكاس 7 (جابر المري)"
+      ],
+      "audio_text": "الصوتية الخامسة — Audio 5 (أحمد عبده) | الكاس 7 (جابر المري)",
+      "channel_names_mode": "custom"
+    },
+    {
+      "competition": "دوري أبطال آسيا 2",
       "home_team": "النهضة",
       "away_team": "التعاون",
       "home_logo": "https://jdwel.com/image/teams/2895.png",
@@ -277,21 +295,19 @@
       "channel_names_mode": "custom"
     },
     {
-      "competition": "دوري أبطال آسيا 2",
-      "home_team": "الوحدة",
-      "away_team": "نادي الكويت",
-      "home_logo": "https://jdwel.com/image/teams/1270.png",
-      "away_logo": "https://jdwel.com/image/teams/5946.png",
-      "match_time": "16 سبتمبر 2026، 19:00",
+      "competition": "كوبا ليبرتادوريس",
+      "home_team": "كورينثيانز",
+      "away_team": "إستوديانتس",
+      "home_logo": "https://jdwel.com/image/teams/900.png",
+      "away_logo": "https://jdwel.com/image/teams/4740.png",
+      "match_time": "17 سبتمبر 2026، 03:30",
       "audio_original": [
-        "beIN SPORTS 3 (عبدالله الغامدي)",
-        "الكاس 5 (سعود الحريري)"
+        "beIN SPORTS 3 (حسن العيدروس)"
       ],
       "audio": [
-        "الصوتية الثالثة — Audio 3 (عبدالله الغامدي)",
-        "الكاس 5 (سعود الحريري)"
+        "الصوتية الثالثة — Audio 3 (حسن العيدروس)"
       ],
-      "audio_text": "الصوتية الثالثة — Audio 3 (عبدالله الغامدي) | الكاس 5 (سعود الحريري)",
+      "audio_text": "الصوتية الثالثة — Audio 3 (حسن العيدروس)",
       "channel_names_mode": "custom"
     }
   ]
