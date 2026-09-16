@@ -1,7 +1,39 @@
 {
   "source": "https://jdwel.com/today/",
-  "generated_at_utc": "2026-09-16T13:53:42.117769+00:00",
+  "generated_at_utc": "2026-09-16T17:51:56.487998+00:00",
   "matches": [
+    {
+      "competition": "الدوري الإسباني",
+      "home_team": "ديبورتيفو أكورونيا",
+      "away_team": "إشبيلية",
+      "home_logo": "https://jdwel.com/image/teams/7004.png",
+      "away_logo": "https://jdwel.com/image/teams/1679.png",
+      "match_time": "16 سبتمبر 2026، 20:00",
+      "audio_original": [
+        "beIN SPORTS XTRA 1 (سمير اليعقوبي)"
+      ],
+      "audio": [
+        "beIN SPORTS XTRA 1 (سمير اليعقوبي)"
+      ],
+      "audio_text": "beIN SPORTS XTRA 1 (سمير اليعقوبي)",
+      "channel_names_mode": "custom"
+    },
+    {
+      "competition": "الدوري الأوروبي",
+      "home_team": "أومونيا",
+      "away_team": "سيلتا فيغو",
+      "home_logo": "https://jdwel.com/image/teams/1234.png",
+      "away_logo": "https://jdwel.com/image/teams/1163.png",
+      "match_time": "16 سبتمبر 2026، 19:45",
+      "audio_original": [
+        "beIN SPORTS 1 (نوفل باشي)"
+      ],
+      "audio": [
+        "الصوتية الأولى — Audio 1 (نوفل باشي)"
+      ],
+      "audio_text": "الصوتية الأولى — Audio 1 (نوفل باشي)",
+      "channel_names_mode": "custom"
+    },
     {
       "competition": "الدوري الإسباني",
       "home_team": "برشلونة",
@@ -68,54 +100,6 @@
     },
     {
       "competition": "الدوري الأوروبي",
-      "home_team": "أومونيا",
-      "away_team": "سيلتا فيغو",
-      "home_logo": "https://jdwel.com/image/teams/1234.png",
-      "away_logo": "https://jdwel.com/image/teams/1163.png",
-      "match_time": "16 سبتمبر 2026، 19:45",
-      "audio_original": [
-        "beIN SPORTS 1 (نوفل باشي)"
-      ],
-      "audio": [
-        "الصوتية الأولى — Audio 1 (نوفل باشي)"
-      ],
-      "audio_text": "الصوتية الأولى — Audio 1 (نوفل باشي)",
-      "channel_names_mode": "custom"
-    },
-    {
-      "competition": "الدوري الإسباني",
-      "home_team": "ديبورتيفو أكورونيا",
-      "away_team": "إشبيلية",
-      "home_logo": "https://jdwel.com/image/teams/7004.png",
-      "away_logo": "https://jdwel.com/image/teams/1679.png",
-      "match_time": "16 سبتمبر 2026، 20:00",
-      "audio_original": [
-        "beIN SPORTS XTRA 1 (سمير اليعقوبي)"
-      ],
-      "audio": [
-        "beIN SPORTS XTRA 1 (سمير اليعقوبي)"
-      ],
-      "audio_text": "beIN SPORTS XTRA 1 (سمير اليعقوبي)",
-      "channel_names_mode": "custom"
-    },
-    {
-      "competition": "دوري أبطال آسيا للنخبة",
-      "home_team": "بورت",
-      "away_team": "فيسيل كوبي",
-      "home_logo": "https://jdwel.com/image/teams/tha_port.png",
-      "away_logo": "https://jdwel.com/image/teams/1984.png",
-      "match_time": "16 سبتمبر 2026، 15:15",
-      "audio_original": [
-        "beIN SPORTS 3 (أحمد البلوشي)"
-      ],
-      "audio": [
-        "الصوتية الثالثة — Audio 3 (أحمد البلوشي)"
-      ],
-      "audio_text": "الصوتية الثالثة — Audio 3 (أحمد البلوشي)",
-      "channel_names_mode": "custom"
-    },
-    {
-      "competition": "الدوري الأوروبي",
       "home_team": "ميلان",
       "away_team": "بنفيكا",
       "home_logo": "https://jdwel.com/image/teams/2433.png",
@@ -128,54 +112,6 @@
         "الصوتية الأولى — Audio 1 (خليل البلوشي)"
       ],
       "audio_text": "الصوتية الأولى — Audio 1 (خليل البلوشي)",
-      "channel_names_mode": "custom"
-    },
-    {
-      "competition": "الدوري الأوروبي",
-      "home_team": "سندرلاند",
-      "away_team": "إي زد ألكمار",
-      "home_logo": "https://jdwel.com/image/teams/3206.png",
-      "away_logo": "https://jdwel.com/image/teams/net_az.png",
-      "match_time": "16 سبتمبر 2026، 22:00",
-      "audio_original": [
-        "beIN SPORTS 9 (محمد السعدي)"
-      ],
-      "audio": [
-        "الصوتية التاسعة — Audio 9 (محمد السعدي)"
-      ],
-      "audio_text": "الصوتية التاسعة — Audio 9 (محمد السعدي)",
-      "channel_names_mode": "custom"
-    },
-    {
-      "competition": "الدوري الأوروبي",
-      "home_team": "باير ليفركوزن",
-      "away_team": "تسيليه",
-      "home_logo": "https://jdwel.com/image/teams/2146.png",
-      "away_logo": "https://jdwel.com/image/teams/1476.png",
-      "match_time": "16 سبتمبر 2026، 22:00",
-      "audio_original": [
-        "beIN SPORTS XTRA 3 (تعليق إنجليزي)"
-      ],
-      "audio": [
-        "beIN SPORTS XTRA 3 (تعليق إنجليزي)"
-      ],
-      "audio_text": "beIN SPORTS XTRA 3 (تعليق إنجليزي)",
-      "channel_names_mode": "custom"
-    },
-    {
-      "competition": "الدوري الأوروبي",
-      "home_team": "أندرلخت",
-      "away_team": "ليون",
-      "home_logo": "https://jdwel.com/image/teams/1290.png",
-      "away_logo": "https://jdwel.com/image/teams/5695.png",
-      "match_time": "16 سبتمبر 2026، 22:00",
-      "audio_original": [
-        "beIN SPORTS 8 (محمد نضال)"
-      ],
-      "audio": [
-        "الصوتية الثامنة — Audio 8 (محمد نضال)"
-      ],
-      "audio_text": "الصوتية الثامنة — Audio 8 (محمد نضال)",
       "channel_names_mode": "custom"
     },
     {
@@ -211,6 +147,54 @@
       "channel_names_mode": "custom"
     },
     {
+      "competition": "الدوري الأوروبي",
+      "home_team": "أندرلخت",
+      "away_team": "ليون",
+      "home_logo": "https://jdwel.com/image/teams/1290.png",
+      "away_logo": "https://jdwel.com/image/teams/5695.png",
+      "match_time": "16 سبتمبر 2026، 22:00",
+      "audio_original": [
+        "beIN SPORTS 8 (محمد نضال)"
+      ],
+      "audio": [
+        "الصوتية الثامنة — Audio 8 (محمد نضال)"
+      ],
+      "audio_text": "الصوتية الثامنة — Audio 8 (محمد نضال)",
+      "channel_names_mode": "custom"
+    },
+    {
+      "competition": "الدوري الأوروبي",
+      "home_team": "باير ليفركوزن",
+      "away_team": "تسيليه",
+      "home_logo": "https://jdwel.com/image/teams/2146.png",
+      "away_logo": "https://jdwel.com/image/teams/1476.png",
+      "match_time": "16 سبتمبر 2026، 22:00",
+      "audio_original": [
+        "beIN SPORTS XTRA 3 (تعليق إنجليزي)"
+      ],
+      "audio": [
+        "beIN SPORTS XTRA 3 (تعليق إنجليزي)"
+      ],
+      "audio_text": "beIN SPORTS XTRA 3 (تعليق إنجليزي)",
+      "channel_names_mode": "custom"
+    },
+    {
+      "competition": "الدوري الأوروبي",
+      "home_team": "سندرلاند",
+      "away_team": "إي زد ألكمار",
+      "home_logo": "https://jdwel.com/image/teams/3206.png",
+      "away_logo": "https://jdwel.com/image/teams/net_az.png",
+      "match_time": "16 سبتمبر 2026، 22:00",
+      "audio_original": [
+        "beIN SPORTS 9 (محمد السعدي)"
+      ],
+      "audio": [
+        "الصوتية التاسعة — Audio 9 (محمد السعدي)"
+      ],
+      "audio_text": "الصوتية التاسعة — Audio 9 (محمد السعدي)",
+      "channel_names_mode": "custom"
+    },
+    {
       "competition": "دوري أبطال آسيا 2",
       "home_team": "الوحدة",
       "away_team": "نادي الكويت",
@@ -230,36 +214,20 @@
     },
     {
       "competition": "دوري أبطال آسيا 2",
-      "home_team": "النهضة",
-      "away_team": "التعاون",
-      "home_logo": "https://jdwel.com/image/teams/2895.png",
-      "away_logo": "https://jdwel.com/image/teams/5338.png",
+      "home_team": "الحسين",
+      "away_team": "إيست بنغال",
+      "home_logo": "https://jdwel.com/image/teams/3604.png",
+      "away_logo": "https://jdwel.com/image/teams/4006.png",
       "match_time": "16 سبتمبر 2026، 19:00",
       "audio_original": [
-        "beIN SPORTS 4 (حسن العيدروس)",
-        "الكاس 6 (مصطفى علوان)"
+        "beIN SPORTS 6 (محمد مبروكي)",
+        "الكاس 8 (يزن لبابنه)"
       ],
       "audio": [
-        "الصوتية الرابعة — Audio 4 (حسن العيدروس)",
-        "الكاس 6 (مصطفى علوان)"
+        "الصوتية السادسة — Audio 6 (محمد مبروكي)",
+        "الكاس 8 (يزن لبابنه)"
       ],
-      "audio_text": "الصوتية الرابعة — Audio 4 (حسن العيدروس) | الكاس 6 (مصطفى علوان)",
-      "channel_names_mode": "custom"
-    },
-    {
-      "competition": "دوري أبطال آسيا 2",
-      "home_team": "فيتيل",
-      "away_team": "ميلبورن فيكتوري",
-      "home_logo": "https://jdwel.com/image/teams/450.png",
-      "away_logo": "https://jdwel.com/image/teams/1766.png",
-      "match_time": "16 سبتمبر 2026، 15:15",
-      "audio_original": [
-        "beIN SPORTS 2 (أحمد فؤاد)"
-      ],
-      "audio": [
-        "الصوتية الثانية — Audio 2 (أحمد فؤاد)"
-      ],
-      "audio_text": "الصوتية الثانية — Audio 2 (أحمد فؤاد)",
+      "audio_text": "الصوتية السادسة — Audio 6 (محمد مبروكي) | الكاس 8 (يزن لبابنه)",
       "channel_names_mode": "custom"
     }
   ]
