@@ -1,7 +1,39 @@
 {
   "source": "https://jdwel.com/today/",
-  "generated_at_utc": "2026-09-17T02:31:00.050878+00:00",
+  "generated_at_utc": "2026-09-17T08:11:09.316241+00:00",
   "matches": [
+    {
+      "competition": "الدوري الأوروبي",
+      "home_team": "ليلستروم",
+      "away_team": "تورينسي",
+      "home_logo": "https://jdwel.com/image/teams/nor_lillestrom.png",
+      "away_logo": "https://jdwel.com/image/teams/2400.png",
+      "match_time": "17 سبتمبر 2026، 22:00",
+      "audio_original": [
+        "beIN SPORTS XTRA 1 (تعليق إنجليزي)"
+      ],
+      "audio": [
+        "beIN SPORTS XTRA 1 (تعليق إنجليزي)"
+      ],
+      "audio_text": "beIN SPORTS XTRA 1 (تعليق إنجليزي)",
+      "channel_names_mode": "custom"
+    },
+    {
+      "competition": "الدوري الإسباني",
+      "home_team": "مالقا",
+      "away_team": "فياريال",
+      "home_logo": "https://jdwel.com/image/teams/1084.png",
+      "away_logo": "https://jdwel.com/image/teams/1680.png",
+      "match_time": "17 سبتمبر 2026، 22:30",
+      "audio_original": [
+        "beIN SPORTS 6 (حسن العيدروس)"
+      ],
+      "audio": [
+        "الصوتية السادسة — Audio 6 (حسن العيدروس)"
+      ],
+      "audio_text": "الصوتية السادسة — Audio 6 (حسن العيدروس)",
+      "channel_names_mode": "custom"
+    },
     {
       "competition": "الدوري الأوروبي",
       "home_team": "فيكتوريا بلزن",
@@ -36,54 +68,6 @@
     },
     {
       "competition": "الدوري الأوروبي",
-      "home_team": "ليلستروم",
-      "away_team": "تورينسي",
-      "home_logo": "https://jdwel.com/image/teams/nor_lillestrom.png",
-      "away_logo": "https://jdwel.com/image/teams/2400.png",
-      "match_time": "17 سبتمبر 2026، 22:00",
-      "audio_original": [
-        "beIN SPORTS XTRA 1 (تعليق إنجليزي)"
-      ],
-      "audio": [
-        "beIN SPORTS XTRA 1 (تعليق إنجليزي)"
-      ],
-      "audio_text": "beIN SPORTS XTRA 1 (تعليق إنجليزي)",
-      "channel_names_mode": "custom"
-    },
-    {
-      "competition": "الدوري الإسباني",
-      "home_team": "ريال بيتيس",
-      "away_team": "خيتافي",
-      "home_logo": "https://jdwel.com/image/teams/2776.png",
-      "away_logo": "https://jdwel.com/image/teams/1081.png",
-      "match_time": "17 سبتمبر 2026، 20:00",
-      "audio_original": [
-        "beIN SPORTS 6 (محمد السعدي)"
-      ],
-      "audio": [
-        "الصوتية السادسة — Audio 6 (محمد السعدي)"
-      ],
-      "audio_text": "الصوتية السادسة — Audio 6 (محمد السعدي)",
-      "channel_names_mode": "custom"
-    },
-    {
-      "competition": "الدوري الأوروبي",
-      "home_team": "أوميلوس هراكليوس",
-      "away_team": "هوفنهايم",
-      "home_logo": "https://jdwel.com/image/teams/2310.png",
-      "away_logo": "https://jdwel.com/image/teams/3224.png",
-      "match_time": "17 سبتمبر 2026، 19:45",
-      "audio_original": [
-        "beIN SPORTS 7 (نوفل باشي)"
-      ],
-      "audio": [
-        "الصوتية السابعة — Audio 7 (نوفل باشي)"
-      ],
-      "audio_text": "الصوتية السابعة — Audio 7 (نوفل باشي)",
-      "channel_names_mode": "custom"
-    },
-    {
-      "competition": "الدوري الأوروبي",
       "home_team": "سيلتك",
       "away_team": "فيرينتسفاروشي",
       "home_logo": "https://jdwel.com/image/teams/4380.png",
@@ -96,6 +80,22 @@
         "الصوتية الخامسة — Audio 5 (أحمد عبده)"
       ],
       "audio_text": "الصوتية الخامسة — Audio 5 (أحمد عبده)",
+      "channel_names_mode": "custom"
+    },
+    {
+      "competition": "الدوري الأوروبي",
+      "home_team": "أوميلوس هراكليوس",
+      "away_team": "هوفنهايم",
+      "home_logo": "https://jdwel.com/image/teams/2310.png",
+      "away_logo": "https://jdwel.com/image/teams/3224.png",
+      "match_time": "17 سبتمبر 2026، 19:45",
+      "audio_original": [
+        "beIN SPORTS 7 (منتصر الأزهري)"
+      ],
+      "audio": [
+        "الصوتية السابعة — Audio 7 (منتصر الأزهري)"
+      ],
+      "audio_text": "الصوتية السابعة — Audio 7 (منتصر الأزهري)",
       "channel_names_mode": "custom"
     },
     {
@@ -116,50 +116,18 @@
     },
     {
       "competition": "الدوري الإسباني",
-      "home_team": "مالقا",
-      "away_team": "فياريال",
-      "home_logo": "https://jdwel.com/image/teams/1084.png",
-      "away_logo": "https://jdwel.com/image/teams/1680.png",
-      "match_time": "17 سبتمبر 2026، 22:30",
+      "home_team": "ريال بيتيس",
+      "away_team": "خيتافي",
+      "home_logo": "https://jdwel.com/image/teams/2776.png",
+      "away_logo": "https://jdwel.com/image/teams/1081.png",
+      "match_time": "17 سبتمبر 2026، 20:00",
       "audio_original": [
-        "beIN SPORTS 6 (حسن العيدروس)"
+        "beIN SPORTS 6 (محمد السعدي)"
       ],
       "audio": [
-        "الصوتية السادسة — Audio 6 (حسن العيدروس)"
+        "الصوتية السادسة — Audio 6 (محمد السعدي)"
       ],
-      "audio_text": "الصوتية السادسة — Audio 6 (حسن العيدروس)",
-      "channel_names_mode": "custom"
-    },
-    {
-      "competition": "الدوري الأوروبي",
-      "home_team": "ريال سوسيداد",
-      "away_team": "بورنموث",
-      "home_logo": "https://jdwel.com/image/teams/2777.png",
-      "away_logo": "https://jdwel.com/image/teams/1555.png",
-      "match_time": "17 سبتمبر 2026، 22:00",
-      "audio_original": [
-        "beIN SPORTS 8 (مصطفى علوان)"
-      ],
-      "audio": [
-        "الصوتية الثامنة — Audio 8 (مصطفى علوان)"
-      ],
-      "audio_text": "الصوتية الثامنة — Audio 8 (مصطفى علوان)",
-      "channel_names_mode": "custom"
-    },
-    {
-      "competition": "الدوري الأوروبي",
-      "home_team": "يوفنتوس",
-      "away_team": "إن إي سي نيميخن",
-      "home_logo": "https://jdwel.com/image/teams/882.png",
-      "away_logo": "https://jdwel.com/image/teams/1664.png",
-      "match_time": "17 سبتمبر 2026، 22:00",
-      "audio_original": [
-        "beIN SPORTS 1 (حفيظ دراجي)"
-      ],
-      "audio": [
-        "الصوتية الأولى — Audio 1 (حفيظ دراجي)"
-      ],
-      "audio_text": "الصوتية الأولى — Audio 1 (حفيظ دراجي)",
+      "audio_text": "الصوتية السادسة — Audio 6 (محمد السعدي)",
       "channel_names_mode": "custom"
     },
     {
@@ -179,6 +147,38 @@
       "channel_names_mode": "custom"
     },
     {
+      "competition": "الدوري الأوروبي",
+      "home_team": "يوفنتوس",
+      "away_team": "إن إي سي نيميخن",
+      "home_logo": "https://jdwel.com/image/teams/882.png",
+      "away_logo": "https://jdwel.com/image/teams/1664.png",
+      "match_time": "17 سبتمبر 2026، 22:00",
+      "audio_original": [
+        "beIN SPORTS 1 (حفيظ دراجي)"
+      ],
+      "audio": [
+        "الصوتية الأولى — Audio 1 (حفيظ دراجي)"
+      ],
+      "audio_text": "الصوتية الأولى — Audio 1 (حفيظ دراجي)",
+      "channel_names_mode": "custom"
+    },
+    {
+      "competition": "دوري أبطال آسيا 2",
+      "home_team": "ليون سيتي سيلورز",
+      "away_team": "بانكوك باثوم",
+      "home_logo": "https://jdwel.com/image/teams/sin_lion_city_sailors.png",
+      "away_logo": "https://jdwel.com/image/teams/2091.png",
+      "match_time": "17 سبتمبر 2026، 13:00",
+      "audio_original": [
+        "beIN SPORTS 7 (أحمد فؤاد)"
+      ],
+      "audio": [
+        "الصوتية السابعة — Audio 7 (أحمد فؤاد)"
+      ],
+      "audio_text": "الصوتية السابعة — Audio 7 (أحمد فؤاد)",
+      "channel_names_mode": "custom"
+    },
+    {
       "competition": "دوري أبطال آسيا 2",
       "home_team": "ماتشيدا زيلفيا",
       "away_team": "سفاي راينج",
@@ -195,19 +195,19 @@
       "channel_names_mode": "custom"
     },
     {
-      "competition": "دوري أبطال آسيا 2",
-      "home_team": "كيتشي",
-      "away_team": "غانغوون",
-      "home_logo": "https://jdwel.com/image/teams/4007.png",
-      "away_logo": "https://jdwel.com/image/teams/kor_gangwon.png",
-      "match_time": "17 سبتمبر 2026، 15:15",
+      "competition": "الدوري الأوروبي",
+      "home_team": "ريال سوسيداد",
+      "away_team": "بورنموث",
+      "home_logo": "https://jdwel.com/image/teams/2777.png",
+      "away_logo": "https://jdwel.com/image/teams/1555.png",
+      "match_time": "17 سبتمبر 2026، 22:00",
       "audio_original": [
-        "beIN SPORTS 2 (محمد بركات)"
+        "beIN SPORTS 8 (مصطفى علوان)"
       ],
       "audio": [
-        "الصوتية الثانية — Audio 2 (محمد بركات)"
+        "الصوتية الثامنة — Audio 8 (مصطفى علوان)"
       ],
-      "audio_text": "الصوتية الثانية — Audio 2 (محمد بركات)",
+      "audio_text": "الصوتية الثامنة — Audio 8 (مصطفى علوان)",
       "channel_names_mode": "custom"
     },
     {
@@ -243,35 +243,19 @@
       "channel_names_mode": "custom"
     },
     {
-      "competition": "الدوري المصري",
-      "home_team": "زد إف سي",
-      "away_team": "القناة",
-      "home_logo": "https://jdwel.com/image/teams/egy_zed.png",
-      "away_logo": "https://jdwel.com/image/teams/4706.png",
-      "match_time": "17 سبتمبر 2026، 17:00",
+      "competition": "دوري أبطال آسيا 2",
+      "home_team": "كيتشي",
+      "away_team": "غانغوون",
+      "home_logo": "https://jdwel.com/image/teams/4007.png",
+      "away_logo": "https://jdwel.com/image/teams/kor_gangwon.png",
+      "match_time": "17 سبتمبر 2026، 15:15",
       "audio_original": [
-        "أون سبورت بلس (زياد الدكروري)"
+        "beIN SPORTS 2 (محمد بركات)"
       ],
       "audio": [
-        "أون سبورت بلس (زياد الدكروري)"
+        "الصوتية الثانية — Audio 2 (محمد بركات)"
       ],
-      "audio_text": "أون سبورت بلس (زياد الدكروري)",
-      "channel_names_mode": "custom"
-    },
-    {
-      "competition": "كأس الرابطة الإنجليزية",
-      "home_team": "مانشستر سيتي",
-      "away_team": "نورويتش سيتي",
-      "home_logo": "https://jdwel.com/image/teams/2185.png",
-      "away_logo": "https://jdwel.com/image/teams/2225.png",
-      "match_time": "17 سبتمبر 2026، 21:30",
-      "audio_original": [
-        "beIN SPORTS 2 (خليل البلوشي)"
-      ],
-      "audio": [
-        "الصوتية الثانية — Audio 2 (خليل البلوشي)"
-      ],
-      "audio_text": "الصوتية الثانية — Audio 2 (خليل البلوشي)",
+      "audio_text": "الصوتية الثانية — Audio 2 (محمد بركات)",
       "channel_names_mode": "custom"
     },
     {
@@ -288,6 +272,22 @@
         "الصوتية السادسة — Audio 6 (أحمد البلوشي)"
       ],
       "audio_text": "الصوتية السادسة — Audio 6 (أحمد البلوشي)",
+      "channel_names_mode": "custom"
+    },
+    {
+      "competition": "كأس الرابطة الإنجليزية",
+      "home_team": "مانشستر سيتي",
+      "away_team": "نورويتش سيتي",
+      "home_logo": "https://jdwel.com/image/teams/2185.png",
+      "away_logo": "https://jdwel.com/image/teams/2225.png",
+      "match_time": "17 سبتمبر 2026، 21:30",
+      "audio_original": [
+        "beIN SPORTS 2 (خليل البلوشي)"
+      ],
+      "audio": [
+        "الصوتية الثانية — Audio 2 (خليل البلوشي)"
+      ],
+      "audio_text": "الصوتية الثانية — Audio 2 (خليل البلوشي)",
       "channel_names_mode": "custom"
     }
   ]
