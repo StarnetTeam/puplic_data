@@ -1,53 +1,21 @@
 {
   "source": "https://jdwel.com/today/",
-  "generated_at_utc": "2026-09-17T08:11:09.316241+00:00",
+  "generated_at_utc": "2026-09-17T13:57:17.152258+00:00",
   "matches": [
     {
       "competition": "الدوري الأوروبي",
-      "home_team": "ليلستروم",
-      "away_team": "تورينسي",
-      "home_logo": "https://jdwel.com/image/teams/nor_lillestrom.png",
-      "away_logo": "https://jdwel.com/image/teams/2400.png",
+      "home_team": "كريستال بالاس",
+      "away_team": "لخ بوزنان",
+      "home_logo": "https://jdwel.com/image/teams/1279.png",
+      "away_logo": "https://jdwel.com/image/teams/2317.png",
       "match_time": "17 سبتمبر 2026، 22:00",
       "audio_original": [
-        "beIN SPORTS XTRA 1 (تعليق إنجليزي)"
+        "beIN SPORTS 4 (بكر علوان)"
       ],
       "audio": [
-        "beIN SPORTS XTRA 1 (تعليق إنجليزي)"
+        "الصوتية الرابعة — Audio 4 (بكر علوان)"
       ],
-      "audio_text": "beIN SPORTS XTRA 1 (تعليق إنجليزي)",
-      "channel_names_mode": "custom"
-    },
-    {
-      "competition": "الدوري الإسباني",
-      "home_team": "مالقا",
-      "away_team": "فياريال",
-      "home_logo": "https://jdwel.com/image/teams/1084.png",
-      "away_logo": "https://jdwel.com/image/teams/1680.png",
-      "match_time": "17 سبتمبر 2026، 22:30",
-      "audio_original": [
-        "beIN SPORTS 6 (حسن العيدروس)"
-      ],
-      "audio": [
-        "الصوتية السادسة — Audio 6 (حسن العيدروس)"
-      ],
-      "audio_text": "الصوتية السادسة — Audio 6 (حسن العيدروس)",
-      "channel_names_mode": "custom"
-    },
-    {
-      "competition": "الدوري الأوروبي",
-      "home_team": "فيكتوريا بلزن",
-      "away_team": "سانت خيلويزي",
-      "home_logo": "https://jdwel.com/image/teams/1457.png",
-      "away_logo": "https://jdwel.com/image/teams/5960.png",
-      "match_time": "17 سبتمبر 2026، 22:00",
-      "audio_original": [
-        "beIN SPORTS 9 (أحمد فؤاد)"
-      ],
-      "audio": [
-        "الصوتية التاسعة — Audio 9 (أحمد فؤاد)"
-      ],
-      "audio_text": "الصوتية التاسعة — Audio 9 (أحمد فؤاد)",
+      "audio_text": "الصوتية الرابعة — Audio 4 (بكر علوان)",
       "channel_names_mode": "custom"
     },
     {
@@ -64,6 +32,22 @@
         "الصوتية الثالثة — Audio 3 (نوفل باشي)"
       ],
       "audio_text": "الصوتية الثالثة — Audio 3 (نوفل باشي)",
+      "channel_names_mode": "custom"
+    },
+    {
+      "competition": "الدوري الأوروبي",
+      "home_team": "فيكتوريا بلزن",
+      "away_team": "سانت خيلويزي",
+      "home_logo": "https://jdwel.com/image/teams/1457.png",
+      "away_logo": "https://jdwel.com/image/teams/5960.png",
+      "match_time": "17 سبتمبر 2026، 22:00",
+      "audio_original": [
+        "beIN SPORTS 9 (أحمد فؤاد)"
+      ],
+      "audio": [
+        "الصوتية التاسعة — Audio 9 (أحمد فؤاد)"
+      ],
+      "audio_text": "الصوتية التاسعة — Audio 9 (أحمد فؤاد)",
       "channel_names_mode": "custom"
     },
     {
@@ -99,19 +83,19 @@
       "channel_names_mode": "custom"
     },
     {
-      "competition": "الدوري الأوروبي",
-      "home_team": "كريستال بالاس",
-      "away_team": "لخ بوزنان",
-      "home_logo": "https://jdwel.com/image/teams/1279.png",
-      "away_logo": "https://jdwel.com/image/teams/2317.png",
-      "match_time": "17 سبتمبر 2026، 22:00",
+      "competition": "الدوري الإسباني",
+      "home_team": "مالقا",
+      "away_team": "فياريال",
+      "home_logo": "https://jdwel.com/image/teams/1084.png",
+      "away_logo": "https://jdwel.com/image/teams/1680.png",
+      "match_time": "17 سبتمبر 2026، 22:30",
       "audio_original": [
-        "beIN SPORTS 4 (بكر علوان)"
+        "beIN SPORTS 6 (حسن العيدروس)"
       ],
       "audio": [
-        "الصوتية الرابعة — Audio 4 (بكر علوان)"
+        "الصوتية السادسة — Audio 6 (حسن العيدروس)"
       ],
-      "audio_text": "الصوتية الرابعة — Audio 4 (بكر علوان)",
+      "audio_text": "الصوتية السادسة — Audio 6 (حسن العيدروس)",
       "channel_names_mode": "custom"
     },
     {
@@ -128,6 +112,22 @@
         "الصوتية السادسة — Audio 6 (محمد السعدي)"
       ],
       "audio_text": "الصوتية السادسة — Audio 6 (محمد السعدي)",
+      "channel_names_mode": "custom"
+    },
+    {
+      "competition": "الدوري الأوروبي",
+      "home_team": "ليلستروم",
+      "away_team": "تورينسي",
+      "home_logo": "https://jdwel.com/image/teams/nor_lillestrom.png",
+      "away_logo": "https://jdwel.com/image/teams/2400.png",
+      "match_time": "17 سبتمبر 2026، 22:00",
+      "audio_original": [
+        "beIN SPORTS XTRA 1 (تعليق إنجليزي)"
+      ],
+      "audio": [
+        "beIN SPORTS XTRA 1 (تعليق إنجليزي)"
+      ],
+      "audio_text": "beIN SPORTS XTRA 1 (تعليق إنجليزي)",
       "channel_names_mode": "custom"
     },
     {
@@ -164,34 +164,18 @@
     },
     {
       "competition": "دوري أبطال آسيا 2",
-      "home_team": "ليون سيتي سيلورز",
-      "away_team": "بانكوك باثوم",
-      "home_logo": "https://jdwel.com/image/teams/sin_lion_city_sailors.png",
-      "away_logo": "https://jdwel.com/image/teams/2091.png",
-      "match_time": "17 سبتمبر 2026، 13:00",
+      "home_team": "شنغهاي شنهوا",
+      "away_team": "تامبينس روفرز",
+      "home_logo": "https://jdwel.com/image/teams/1264.png",
+      "away_logo": "https://jdwel.com/image/teams/1248.png",
+      "match_time": "17 سبتمبر 2026، 15:15",
       "audio_original": [
-        "beIN SPORTS 7 (أحمد فؤاد)"
+        "beIN SPORTS 1 (عامر الخوذيري)"
       ],
       "audio": [
-        "الصوتية السابعة — Audio 7 (أحمد فؤاد)"
+        "الصوتية الأولى — Audio 1 (عامر الخوذيري)"
       ],
-      "audio_text": "الصوتية السابعة — Audio 7 (أحمد فؤاد)",
-      "channel_names_mode": "custom"
-    },
-    {
-      "competition": "دوري أبطال آسيا 2",
-      "home_team": "ماتشيدا زيلفيا",
-      "away_team": "سفاي راينج",
-      "home_logo": "https://jdwel.com/image/teams/3059.png",
-      "away_logo": "https://jdwel.com/image/teams/cam_svay_rieng.png",
-      "match_time": "17 سبتمبر 2026، 13:00",
-      "audio_original": [
-        "beIN SPORTS 6 (عبدالله الغامدي)"
-      ],
-      "audio": [
-        "الصوتية السادسة — Audio 6 (عبدالله الغامدي)"
-      ],
-      "audio_text": "الصوتية السادسة — Audio 6 (عبدالله الغامدي)",
+      "audio_text": "الصوتية الأولى — Audio 1 (عامر الخوذيري)",
       "channel_names_mode": "custom"
     },
     {
@@ -208,38 +192,6 @@
         "الصوتية الثامنة — Audio 8 (مصطفى علوان)"
       ],
       "audio_text": "الصوتية الثامنة — Audio 8 (مصطفى علوان)",
-      "channel_names_mode": "custom"
-    },
-    {
-      "competition": "دوري أبطال آسيا 2",
-      "home_team": "أديلايد يونايتد",
-      "away_team": "تاي بو",
-      "home_logo": "https://jdwel.com/image/teams/1765.png",
-      "away_logo": "https://jdwel.com/image/teams/2693.png",
-      "match_time": "17 سبتمبر 2026، 13:00",
-      "audio_original": [
-        "beIN SPORTS 5 (باسم الزير)"
-      ],
-      "audio": [
-        "الصوتية الخامسة — Audio 5 (باسم الزير)"
-      ],
-      "audio_text": "الصوتية الخامسة — Audio 5 (باسم الزير)",
-      "channel_names_mode": "custom"
-    },
-    {
-      "competition": "دوري أبطال آسيا 2",
-      "home_team": "شنغهاي شنهوا",
-      "away_team": "تامبينس روفرز",
-      "home_logo": "https://jdwel.com/image/teams/1264.png",
-      "away_logo": "https://jdwel.com/image/teams/1248.png",
-      "match_time": "17 سبتمبر 2026، 15:15",
-      "audio_original": [
-        "beIN SPORTS 1 (عامر الخوذيري)"
-      ],
-      "audio": [
-        "الصوتية الأولى — Audio 1 (عامر الخوذيري)"
-      ],
-      "audio_text": "الصوتية الأولى — Audio 1 (عامر الخوذيري)",
       "channel_names_mode": "custom"
     },
     {
@@ -272,6 +224,22 @@
         "الصوتية السادسة — Audio 6 (أحمد البلوشي)"
       ],
       "audio_text": "الصوتية السادسة — Audio 6 (أحمد البلوشي)",
+      "channel_names_mode": "custom"
+    },
+    {
+      "competition": "الدوري المصري",
+      "home_team": "الشرقية إنبي",
+      "away_team": "بيراميدز",
+      "home_logo": "https://jdwel.com/image/teams/6834.png",
+      "away_logo": "https://jdwel.com/image/teams/2524.png",
+      "match_time": "17 سبتمبر 2026، 20:00",
+      "audio_original": [
+        "أون سبورت 1 (طارق الأدور)"
+      ],
+      "audio": [
+        "أون سبورت 1 (طارق الأدور)"
+      ],
+      "audio_text": "أون سبورت 1 (طارق الأدور)",
       "channel_names_mode": "custom"
     },
     {
