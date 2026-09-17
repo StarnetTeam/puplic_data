@@ -1,39 +1,7 @@
 {
   "source": "https://jdwel.com/today/",
-  "generated_at_utc": "2026-09-17T17:55:06.710955+00:00",
+  "generated_at_utc": "2026-09-17T20:45:46.218789+00:00",
   "matches": [
-    {
-      "competition": "الدوري الإسباني",
-      "home_team": "ريال بيتيس",
-      "away_team": "خيتافي",
-      "home_logo": "https://jdwel.com/image/teams/2776.png",
-      "away_logo": "https://jdwel.com/image/teams/1081.png",
-      "match_time": "17 سبتمبر 2026، 20:00",
-      "audio_original": [
-        "beIN SPORTS 6 (محمد السعدي)"
-      ],
-      "audio": [
-        "الصوتية السادسة — Audio 6 (محمد السعدي)"
-      ],
-      "audio_text": "الصوتية السادسة — Audio 6 (محمد السعدي)",
-      "channel_names_mode": "custom"
-    },
-    {
-      "competition": "الدوري الأوروبي",
-      "home_team": "أوميلوس هراكليوس",
-      "away_team": "هوفنهايم",
-      "home_logo": "https://jdwel.com/image/teams/2310.png",
-      "away_logo": "https://jdwel.com/image/teams/3224.png",
-      "match_time": "17 سبتمبر 2026، 19:45",
-      "audio_original": [
-        "beIN SPORTS 7 (منتصر الأزهري)"
-      ],
-      "audio": [
-        "الصوتية السابعة — Audio 7 (منتصر الأزهري)"
-      ],
-      "audio_text": "الصوتية السابعة — Audio 7 (منتصر الأزهري)",
-      "channel_names_mode": "custom"
-    },
     {
       "competition": "الدوري الأوروبي",
       "home_team": "فيكتوريا بلزن",
@@ -48,38 +16,6 @@
         "الصوتية التاسعة — Audio 9 (أحمد فؤاد)"
       ],
       "audio_text": "الصوتية التاسعة — Audio 9 (أحمد فؤاد)",
-      "channel_names_mode": "custom"
-    },
-    {
-      "competition": "الدوري الأوروبي",
-      "home_team": "ليفسكي صوفيا",
-      "away_team": "سالزبورغ",
-      "home_logo": "https://jdwel.com/image/teams/6968.png",
-      "away_logo": "https://jdwel.com/image/teams/3322.png",
-      "match_time": "17 سبتمبر 2026، 19:45",
-      "audio_original": [
-        "beIN SPORTS 3 (نوفل باشي)"
-      ],
-      "audio": [
-        "الصوتية الثالثة — Audio 3 (نوفل باشي)"
-      ],
-      "audio_text": "الصوتية الثالثة — Audio 3 (نوفل باشي)",
-      "channel_names_mode": "custom"
-    },
-    {
-      "competition": "الدوري الأوروبي",
-      "home_team": "سيلتك",
-      "away_team": "فيرينتسفاروشي",
-      "home_logo": "https://jdwel.com/image/teams/4380.png",
-      "away_logo": "https://jdwel.com/image/teams/3164.png",
-      "match_time": "17 سبتمبر 2026، 22:00",
-      "audio_original": [
-        "beIN SPORTS 5 (أحمد عبده)"
-      ],
-      "audio": [
-        "الصوتية الخامسة — Audio 5 (أحمد عبده)"
-      ],
-      "audio_text": "الصوتية الخامسة — Audio 5 (أحمد عبده)",
       "channel_names_mode": "custom"
     },
     {
@@ -100,6 +36,22 @@
     },
     {
       "competition": "الدوري الأوروبي",
+      "home_team": "كريستال بالاس",
+      "away_team": "لخ بوزنان",
+      "home_logo": "https://jdwel.com/image/teams/1279.png",
+      "away_logo": "https://jdwel.com/image/teams/2317.png",
+      "match_time": "17 سبتمبر 2026، 22:00",
+      "audio_original": [
+        "beIN SPORTS 4 (بكر علوان)"
+      ],
+      "audio": [
+        "الصوتية الرابعة — Audio 4 (بكر علوان)"
+      ],
+      "audio_text": "الصوتية الرابعة — Audio 4 (بكر علوان)",
+      "channel_names_mode": "custom"
+    },
+    {
+      "competition": "الدوري الأوروبي",
       "home_team": "ليلستروم",
       "away_team": "تورينسي",
       "home_logo": "https://jdwel.com/image/teams/nor_lillestrom.png",
@@ -116,18 +68,34 @@
     },
     {
       "competition": "الدوري الأوروبي",
-      "home_team": "كريستال بالاس",
-      "away_team": "لخ بوزنان",
-      "home_logo": "https://jdwel.com/image/teams/1279.png",
-      "away_logo": "https://jdwel.com/image/teams/2317.png",
+      "home_team": "سيلتك",
+      "away_team": "فيرينتسفاروشي",
+      "home_logo": "https://jdwel.com/image/teams/4380.png",
+      "away_logo": "https://jdwel.com/image/teams/3164.png",
       "match_time": "17 سبتمبر 2026، 22:00",
       "audio_original": [
-        "beIN SPORTS 4 (بكر علوان)"
+        "beIN SPORTS 5 (أحمد عبده)"
       ],
       "audio": [
-        "الصوتية الرابعة — Audio 4 (بكر علوان)"
+        "الصوتية الخامسة — Audio 5 (أحمد عبده)"
       ],
-      "audio_text": "الصوتية الرابعة — Audio 4 (بكر علوان)",
+      "audio_text": "الصوتية الخامسة — Audio 5 (أحمد عبده)",
+      "channel_names_mode": "custom"
+    },
+    {
+      "competition": "الدوري الأوروبي",
+      "home_team": "يوفنتوس",
+      "away_team": "إن إي سي نيميخن",
+      "home_logo": "https://jdwel.com/image/teams/882.png",
+      "away_logo": "https://jdwel.com/image/teams/1664.png",
+      "match_time": "17 سبتمبر 2026، 22:00",
+      "audio_original": [
+        "beIN SPORTS 1 (حفيظ دراجي)"
+      ],
+      "audio": [
+        "الصوتية الأولى — Audio 1 (حفيظ دراجي)"
+      ],
+      "audio_text": "الصوتية الأولى — Audio 1 (حفيظ دراجي)",
       "channel_names_mode": "custom"
     },
     {
@@ -160,38 +128,6 @@
         "الصوتية الثامنة — Audio 8 (مصطفى علوان)"
       ],
       "audio_text": "الصوتية الثامنة — Audio 8 (مصطفى علوان)",
-      "channel_names_mode": "custom"
-    },
-    {
-      "competition": "كأس الرابطة الإنجليزية",
-      "home_team": "مانشستر سيتي",
-      "away_team": "نورويتش سيتي",
-      "home_logo": "https://jdwel.com/image/teams/2185.png",
-      "away_logo": "https://jdwel.com/image/teams/2225.png",
-      "match_time": "17 سبتمبر 2026، 21:30",
-      "audio_original": [
-        "beIN SPORTS 2 (خليل البلوشي)"
-      ],
-      "audio": [
-        "الصوتية الثانية — Audio 2 (خليل البلوشي)"
-      ],
-      "audio_text": "الصوتية الثانية — Audio 2 (خليل البلوشي)",
-      "channel_names_mode": "custom"
-    },
-    {
-      "competition": "الدوري الأوروبي",
-      "home_team": "يوفنتوس",
-      "away_team": "إن إي سي نيميخن",
-      "home_logo": "https://jdwel.com/image/teams/882.png",
-      "away_logo": "https://jdwel.com/image/teams/1664.png",
-      "match_time": "17 سبتمبر 2026، 22:00",
-      "audio_original": [
-        "beIN SPORTS 1 (حفيظ دراجي)"
-      ],
-      "audio": [
-        "الصوتية الأولى — Audio 1 (حفيظ دراجي)"
-      ],
-      "audio_text": "الصوتية الأولى — Audio 1 (حفيظ دراجي)",
       "channel_names_mode": "custom"
     }
   ]
