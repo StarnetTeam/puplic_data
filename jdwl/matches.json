@@ -1,6 +1,6 @@
 {
   "source": "https://jdwel.com/today/",
-  "generated_at_utc": "2026-09-18T02:16:21.998039+00:00",
+  "generated_at_utc": "2026-09-18T07:45:53.700335+00:00",
   "matches": [
     {
       "competition": "الدوري الفرنسي",
@@ -19,6 +19,22 @@
       "channel_names_mode": "custom"
     },
     {
+      "competition": "الدوري الإسباني",
+      "home_team": "إسبانيول",
+      "away_team": "إلتشي",
+      "home_logo": "https://jdwel.com/image/teams/1164.png",
+      "away_logo": "https://jdwel.com/image/teams/2151.png",
+      "match_time": "18 سبتمبر 2026، 22:00",
+      "audio_original": [
+        "beIN SPORTS 3 (محمد فوزي)"
+      ],
+      "audio": [
+        "الصوتية الثالثة — Audio 3 (محمد فوزي)"
+      ],
+      "audio_text": "الصوتية الثالثة — Audio 3 (محمد فوزي)",
+      "channel_names_mode": "custom"
+    },
+    {
       "competition": "الدوري الألماني",
       "home_team": "بايرن ميونخ",
       "away_team": "يونيون برلين",
@@ -34,6 +50,22 @@
         "MBC Action (محمد حسين)"
       ],
       "audio_text": "MBC شاهد (محمد حسين) | MBC Action (محمد حسين)",
+      "channel_names_mode": "custom"
+    },
+    {
+      "competition": "الدوري الإنجليزي",
+      "home_team": "برينتفورد",
+      "away_team": "تشيلسي",
+      "home_logo": "https://jdwel.com/image/teams/2650.png",
+      "away_logo": "https://jdwel.com/image/teams/6577.png",
+      "match_time": "18 سبتمبر 2026، 22:00",
+      "audio_original": [
+        "beIN SPORTS 1 (علي الكعبي)"
+      ],
+      "audio": [
+        "الصوتية الأولى — Audio 1 (علي الكعبي)"
+      ],
+      "audio_text": "الصوتية الأولى — Audio 1 (علي الكعبي)",
       "channel_names_mode": "custom"
     },
     {
@@ -71,38 +103,6 @@
       "channel_names_mode": "custom"
     },
     {
-      "competition": "الدوري الإنجليزي",
-      "home_team": "برينتفورد",
-      "away_team": "تشيلسي",
-      "home_logo": "https://jdwel.com/image/teams/2650.png",
-      "away_logo": "https://jdwel.com/image/teams/6577.png",
-      "match_time": "18 سبتمبر 2026، 22:00",
-      "audio_original": [
-        "beIN SPORTS 1 (علي الكعبي)"
-      ],
-      "audio": [
-        "الصوتية الأولى — Audio 1 (علي الكعبي)"
-      ],
-      "audio_text": "الصوتية الأولى — Audio 1 (علي الكعبي)",
-      "channel_names_mode": "custom"
-    },
-    {
-      "competition": "الدوري الإسباني",
-      "home_team": "إسبانيول",
-      "away_team": "إلتشي",
-      "home_logo": "https://jdwel.com/image/teams/1164.png",
-      "away_logo": "https://jdwel.com/image/teams/2151.png",
-      "match_time": "18 سبتمبر 2026، 22:00",
-      "audio_original": [
-        "beIN SPORTS 3 (محمد فوزي)"
-      ],
-      "audio": [
-        "الصوتية الثالثة — Audio 3 (محمد فوزي)"
-      ],
-      "audio_text": "الصوتية الثالثة — Audio 3 (محمد فوزي)",
-      "channel_names_mode": "custom"
-    },
-    {
       "competition": "الدوري التركي",
       "home_team": "قاسم باشا",
       "away_team": "قونيا سبور",
@@ -122,22 +122,6 @@
     },
     {
       "competition": "دوري الدرجة الأولى السعودي",
-      "home_team": "الطائي",
-      "away_team": "البكيرية",
-      "home_logo": "https://jdwel.com/image/teams/sau_altaee_v3.png",
-      "away_logo": "https://jdwel.com/image/teams/2877.png",
-      "match_time": "18 سبتمبر 2026، 18:50",
-      "audio_original": [
-        "ثمانية 1"
-      ],
-      "audio": [
-        "Thamanya 1 — ثمانية 1"
-      ],
-      "audio_text": "Thamanya 1 — ثمانية 1",
-      "channel_names_mode": "custom"
-    },
-    {
-      "competition": "دوري الدرجة الأولى السعودي",
       "home_team": "جدة",
       "away_team": "الصقر",
       "home_logo": "https://jdwel.com/image/teams/3237.png",
@@ -150,6 +134,22 @@
         "Thamanya 2 — ثمانية 2"
       ],
       "audio_text": "Thamanya 2 — ثمانية 2",
+      "channel_names_mode": "custom"
+    },
+    {
+      "competition": "دوري الدرجة الأولى السعودي",
+      "home_team": "الطائي",
+      "away_team": "البكيرية",
+      "home_logo": "https://jdwel.com/image/teams/sau_altaee_v3.png",
+      "away_logo": "https://jdwel.com/image/teams/2877.png",
+      "match_time": "18 سبتمبر 2026، 18:50",
+      "audio_original": [
+        "ثمانية 1"
+      ],
+      "audio": [
+        "Thamanya 1 — ثمانية 1"
+      ],
+      "audio_text": "Thamanya 1 — ثمانية 1",
       "channel_names_mode": "custom"
     },
     {
@@ -166,6 +166,22 @@
         "الصوتية الخامسة — Audio 5 (سمير اليعقوبي)"
       ],
       "audio_text": "الصوتية الخامسة — Audio 5 (سمير اليعقوبي)",
+      "channel_names_mode": "custom"
+    },
+    {
+      "competition": "الدوري الأردني",
+      "home_team": "العربي",
+      "away_team": "الجزيرة",
+      "home_logo": "https://jdwel.com/image/teams/636.png",
+      "away_logo": "https://jdwel.com/image/teams/908.png",
+      "match_time": "18 سبتمبر 2026، 18:00",
+      "audio_original": [
+        "الأردن الرياضية (حسين الوهادنة)"
+      ],
+      "audio": [
+        "الأردن الرياضية (حسين الوهادنة)"
+      ],
+      "audio_text": "الأردن الرياضية (حسين الوهادنة)",
       "channel_names_mode": "custom"
     },
     {
