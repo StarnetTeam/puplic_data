@@ -1,5 +1,188 @@
 {
   "source": "https://jdwel.com/today/",
-  "generated_at_utc": "2026-09-17T23:16:29.283684+00:00",
-  "matches": []
+  "generated_at_utc": "2026-09-18T02:16:21.998039+00:00",
+  "matches": [
+    {
+      "competition": "الدوري الفرنسي",
+      "home_team": "موناكو",
+      "away_team": "لانس",
+      "home_logo": "https://jdwel.com/image/teams/1129.png",
+      "away_logo": "https://jdwel.com/image/teams/fra_lens.png",
+      "match_time": "18 سبتمبر 2026، 21:45",
+      "audio_original": [
+        "beIN SPORTS 4 (محمد بركات)"
+      ],
+      "audio": [
+        "الصوتية الرابعة — Audio 4 (محمد بركات)"
+      ],
+      "audio_text": "الصوتية الرابعة — Audio 4 (محمد بركات)",
+      "channel_names_mode": "custom"
+    },
+    {
+      "competition": "الدوري الألماني",
+      "home_team": "بايرن ميونخ",
+      "away_team": "يونيون برلين",
+      "home_logo": "https://jdwel.com/image/teams/1300.png",
+      "away_logo": "https://jdwel.com/image/teams/2632.png",
+      "match_time": "18 سبتمبر 2026، 21:30",
+      "audio_original": [
+        "MBC شاهد (محمد حسين)",
+        "MBC Action (محمد حسين)"
+      ],
+      "audio": [
+        "MBC شاهد (محمد حسين)",
+        "MBC Action (محمد حسين)"
+      ],
+      "audio_text": "MBC شاهد (محمد حسين) | MBC Action (محمد حسين)",
+      "channel_names_mode": "custom"
+    },
+    {
+      "competition": "الدوري الإيطالي",
+      "home_team": "مونزا",
+      "away_team": "ساسولو",
+      "home_logo": "https://jdwel.com/image/teams/2152.png",
+      "away_logo": "https://jdwel.com/image/teams/3886.png",
+      "match_time": "18 سبتمبر 2026، 21:45",
+      "audio_original": [
+        "STARZPLAY (محمد الشامسي)",
+        "STC TV (محمد الشامسي)"
+      ],
+      "audio": [
+        "الإيطالية — Italy (محمد الشامسي)",
+        "الإيطالية — Italy (محمد الشامسي)"
+      ],
+      "audio_text": "الإيطالية — Italy (محمد الشامسي) | الإيطالية — Italy (محمد الشامسي)",
+      "channel_names_mode": "custom"
+    },
+    {
+      "competition": "الدوري الجزائري",
+      "home_team": "مولودية الجزائر",
+      "away_team": "مستقبل الرويسات",
+      "home_logo": "https://jdwel.com/image/teams/5029.png",
+      "away_logo": "https://jdwel.com/image/teams/5944.png",
+      "match_time": "18 سبتمبر 2026، 21:00",
+      "audio_original": [
+        "الجزائرية 6"
+      ],
+      "audio": [
+        "الجزائرية 6"
+      ],
+      "audio_text": "الجزائرية 6",
+      "channel_names_mode": "custom"
+    },
+    {
+      "competition": "الدوري الإنجليزي",
+      "home_team": "برينتفورد",
+      "away_team": "تشيلسي",
+      "home_logo": "https://jdwel.com/image/teams/2650.png",
+      "away_logo": "https://jdwel.com/image/teams/6577.png",
+      "match_time": "18 سبتمبر 2026، 22:00",
+      "audio_original": [
+        "beIN SPORTS 1 (علي الكعبي)"
+      ],
+      "audio": [
+        "الصوتية الأولى — Audio 1 (علي الكعبي)"
+      ],
+      "audio_text": "الصوتية الأولى — Audio 1 (علي الكعبي)",
+      "channel_names_mode": "custom"
+    },
+    {
+      "competition": "الدوري الإسباني",
+      "home_team": "إسبانيول",
+      "away_team": "إلتشي",
+      "home_logo": "https://jdwel.com/image/teams/1164.png",
+      "away_logo": "https://jdwel.com/image/teams/2151.png",
+      "match_time": "18 سبتمبر 2026، 22:00",
+      "audio_original": [
+        "beIN SPORTS 3 (محمد فوزي)"
+      ],
+      "audio": [
+        "الصوتية الثالثة — Audio 3 (محمد فوزي)"
+      ],
+      "audio_text": "الصوتية الثالثة — Audio 3 (محمد فوزي)",
+      "channel_names_mode": "custom"
+    },
+    {
+      "competition": "الدوري التركي",
+      "home_team": "قاسم باشا",
+      "away_team": "قونيا سبور",
+      "home_logo": "https://jdwel.com/image/teams/tur_kasimpasa.png",
+      "away_logo": "https://jdwel.com/image/teams/tur_konyaspor.png",
+      "match_time": "18 سبتمبر 2026، 20:00",
+      "audio_original": [
+        "beIN SPORTS 2 (منتصر الأزهري)",
+        "beIN SPORTS 1 TR"
+      ],
+      "audio": [
+        "الصوتية الثانية — Audio 2 (منتصر الأزهري)",
+        "الصوتية الأولى — Audio 1"
+      ],
+      "audio_text": "الصوتية الثانية — Audio 2 (منتصر الأزهري) | الصوتية الأولى — Audio 1",
+      "channel_names_mode": "custom"
+    },
+    {
+      "competition": "دوري الدرجة الأولى السعودي",
+      "home_team": "الطائي",
+      "away_team": "البكيرية",
+      "home_logo": "https://jdwel.com/image/teams/sau_altaee_v3.png",
+      "away_logo": "https://jdwel.com/image/teams/2877.png",
+      "match_time": "18 سبتمبر 2026، 18:50",
+      "audio_original": [
+        "ثمانية 1"
+      ],
+      "audio": [
+        "Thamanya 1 — ثمانية 1"
+      ],
+      "audio_text": "Thamanya 1 — ثمانية 1",
+      "channel_names_mode": "custom"
+    },
+    {
+      "competition": "دوري الدرجة الأولى السعودي",
+      "home_team": "جدة",
+      "away_team": "الصقر",
+      "home_logo": "https://jdwel.com/image/teams/3237.png",
+      "away_logo": "https://jdwel.com/image/teams/371.png",
+      "match_time": "18 سبتمبر 2026، 19:05",
+      "audio_original": [
+        "ثمانية 2"
+      ],
+      "audio": [
+        "Thamanya 2 — ثمانية 2"
+      ],
+      "audio_text": "Thamanya 2 — ثمانية 2",
+      "channel_names_mode": "custom"
+    },
+    {
+      "competition": "تشامبيونشيب",
+      "home_team": "بريستول سيتي",
+      "away_team": "واتفورد",
+      "home_logo": "https://jdwel.com/image/teams/5223.png",
+      "away_logo": "https://jdwel.com/image/teams/4819.png",
+      "match_time": "18 سبتمبر 2026، 22:00",
+      "audio_original": [
+        "beIN SPORTS 5 (سمير اليعقوبي)"
+      ],
+      "audio": [
+        "الصوتية الخامسة — Audio 5 (سمير اليعقوبي)"
+      ],
+      "audio_text": "الصوتية الخامسة — Audio 5 (سمير اليعقوبي)",
+      "channel_names_mode": "custom"
+    },
+    {
+      "competition": "الدوري الأردني",
+      "home_team": "الوحدات",
+      "away_team": "الرمثا",
+      "home_logo": "https://jdwel.com/image/teams/910.png",
+      "away_logo": "https://jdwel.com/image/teams/2928.png",
+      "match_time": "18 سبتمبر 2026، 20:30",
+      "audio_original": [
+        "الأردن الرياضية (أحمد الخلايله)"
+      ],
+      "audio": [
+        "الأردن الرياضية (أحمد الخلايله)"
+      ],
+      "audio_text": "الأردن الرياضية (أحمد الخلايله)",
+      "channel_names_mode": "custom"
+    }
+  ]
 }
