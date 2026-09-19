@@ -1,39 +1,7 @@
 {
   "source": "https://jdwel.com/today/",
-  "generated_at_utc": "2026-09-19T16:55:16.566812+00:00",
+  "generated_at_utc": "2026-09-19T19:05:29.026718+00:00",
   "matches": [
-    {
-      "competition": "الدوري الإسباني",
-      "home_team": "سيلتا فيغو",
-      "away_team": "راسينغ سانتاندير",
-      "home_logo": "https://jdwel.com/image/teams/1163.png",
-      "away_logo": "https://jdwel.com/image/teams/1554.png",
-      "match_time": "19 سبتمبر 2026، 19:30",
-      "audio_original": [
-        "beIN SPORTS 5 (أحمد فؤاد)"
-      ],
-      "audio": [
-        "الصوتية الخامسة — Audio 5 (أحمد فؤاد)"
-      ],
-      "audio_text": "الصوتية الخامسة — Audio 5 (أحمد فؤاد)",
-      "channel_names_mode": "custom"
-    },
-    {
-      "competition": "الدوري الإنجليزي",
-      "home_team": "نوتينغهام فورست",
-      "away_team": "كوفنتري سيتي",
-      "home_logo": "https://jdwel.com/image/teams/2969.png",
-      "away_logo": "https://jdwel.com/image/teams/3155.png",
-      "match_time": "19 سبتمبر 2026، 19:30",
-      "audio_original": [
-        "beIN SPORTS 1 (عامر الخوذيري)"
-      ],
-      "audio": [
-        "الصوتية الأولى — Audio 1 (عامر الخوذيري)"
-      ],
-      "audio_text": "الصوتية الأولى — Audio 1 (عامر الخوذيري)",
-      "channel_names_mode": "custom"
-    },
     {
       "competition": "الدوري الإسباني",
       "home_team": "إشبيلية",
@@ -72,38 +40,18 @@
     },
     {
       "competition": "الدوري الفرنسي",
-      "home_team": "باريس",
-      "away_team": "ستراسبورغ",
-      "home_logo": "https://jdwel.com/image/teams/3560.png",
-      "away_logo": "https://jdwel.com/image/teams/fra_strasbourg.png",
-      "match_time": "19 سبتمبر 2026، 18:15",
+      "home_team": "ليون",
+      "away_team": "رين",
+      "home_logo": "https://jdwel.com/image/teams/5695.png",
+      "away_logo": "https://jdwel.com/image/teams/2037.png",
+      "match_time": "19 سبتمبر 2026، 21:45",
       "audio_original": [
-        "beIN SPORTS 3 (محمد بركات)"
+        "beIN SPORTS 3 (جواد بدة)"
       ],
       "audio": [
-        "الصوتية الثالثة — Audio 3 (محمد بركات)"
+        "الصوتية الثالثة — Audio 3 (جواد بدة)"
       ],
-      "audio_text": "الصوتية الثالثة — Audio 3 (محمد بركات)",
-      "channel_names_mode": "custom"
-    },
-    {
-      "competition": "الدوري الإيطالي",
-      "home_team": "روما",
-      "away_team": "إنتر ميلان",
-      "home_logo": "https://jdwel.com/image/teams/2435.png",
-      "away_logo": "https://jdwel.com/image/teams/2034.png",
-      "match_time": "19 سبتمبر 2026، 19:00",
-      "audio_original": [
-        "STARZPLAY (فارس عوض)",
-        "منصة شاشا (مشاري القرني)",
-        "STC TV (فارس عوض)"
-      ],
-      "audio": [
-        "الإيطالية — Italy (فارس عوض)",
-        "الإيطالية — Italy (مشاري القرني)",
-        "الإيطالية — Italy (فارس عوض)"
-      ],
-      "audio_text": "الإيطالية — Italy (فارس عوض) | الإيطالية — Italy (مشاري القرني) | الإيطالية — Italy (فارس عوض)",
+      "audio_text": "الصوتية الثالثة — Audio 3 (جواد بدة)",
       "channel_names_mode": "custom"
     },
     {
@@ -124,22 +72,6 @@
     },
     {
       "competition": "الدوري الفرنسي",
-      "home_team": "ليون",
-      "away_team": "رين",
-      "home_logo": "https://jdwel.com/image/teams/5695.png",
-      "away_logo": "https://jdwel.com/image/teams/2037.png",
-      "match_time": "19 سبتمبر 2026، 21:45",
-      "audio_original": [
-        "beIN SPORTS 3 (جواد بدة)"
-      ],
-      "audio": [
-        "الصوتية الثالثة — Audio 3 (جواد بدة)"
-      ],
-      "audio_text": "الصوتية الثالثة — Audio 3 (جواد بدة)",
-      "channel_names_mode": "custom"
-    },
-    {
-      "competition": "الدوري الفرنسي",
       "home_team": "أنجيه",
       "away_team": "تروا",
       "home_logo": "https://jdwel.com/image/teams/5696.png",
@@ -152,6 +84,22 @@
         "الصوتية السادسة — Audio 6 (أحمد عبده)"
       ],
       "audio_text": "الصوتية السادسة — Audio 6 (أحمد عبده)",
+      "channel_names_mode": "custom"
+    },
+    {
+      "competition": "الدوري الفرنسي",
+      "home_team": "لومان",
+      "away_team": "لوريان",
+      "home_logo": "https://jdwel.com/image/teams/fra_le_mans.png",
+      "away_logo": "https://jdwel.com/image/teams/1662.png",
+      "match_time": "19 سبتمبر 2026، 21:45",
+      "audio_original": [
+        "beIN SPORTS 5 (باسم الزير)"
+      ],
+      "audio": [
+        "الصوتية الخامسة — Audio 5 (باسم الزير)"
+      ],
+      "audio_text": "الصوتية الخامسة — Audio 5 (باسم الزير)",
       "channel_names_mode": "custom"
     }
   ]
