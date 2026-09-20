@@ -1,23 +1,7 @@
 {
   "source": "https://jdwel.com/today/",
-  "generated_at_utc": "2026-09-19T23:50:54.317073+00:00",
+  "generated_at_utc": "2026-09-20T02:28:10.725051+00:00",
   "matches": [
-    {
-      "competition": "الدوري الإنجليزي",
-      "home_team": "بورنموث",
-      "away_team": "ليفربول",
-      "home_logo": "https://jdwel.com/image/teams/1555.png",
-      "away_logo": "https://jdwel.com/image/teams/1512.png",
-      "match_time": "20 سبتمبر 2026، 16:00",
-      "audio_original": [
-        "beIN SPORTS 2 (حفيظ دراجي)"
-      ],
-      "audio": [
-        "الصوتية الثانية — Audio 2 (حفيظ دراجي)"
-      ],
-      "audio_text": "الصوتية الثانية — Audio 2 (حفيظ دراجي)",
-      "channel_names_mode": "custom"
-    },
     {
       "competition": "الدوري الإسباني",
       "home_team": "ديبورتيفو أكورونيا",
@@ -32,38 +16,6 @@
         "الصوتية الرابعة — Audio 4 (عامر الخوذيري)"
       ],
       "audio_text": "الصوتية الرابعة — Audio 4 (عامر الخوذيري)",
-      "channel_names_mode": "custom"
-    },
-    {
-      "competition": "الدوري الإنجليزي",
-      "home_team": "مانشستر سيتي",
-      "away_team": "سندرلاند",
-      "home_logo": "https://jdwel.com/image/teams/2185.png",
-      "away_logo": "https://jdwel.com/image/teams/3206.png",
-      "match_time": "20 سبتمبر 2026، 16:00",
-      "audio_original": [
-        "beIN SPORTS 3 (عصام الشوالي)"
-      ],
-      "audio": [
-        "الصوتية الثالثة — Audio 3 (عصام الشوالي)"
-      ],
-      "audio_text": "الصوتية الثالثة — Audio 3 (عصام الشوالي)",
-      "channel_names_mode": "custom"
-    },
-    {
-      "competition": "الدوري الإنجليزي",
-      "home_team": "فولهام",
-      "away_team": "مانشستر يونايتد",
-      "home_logo": "https://jdwel.com/image/teams/280.png",
-      "away_logo": "https://jdwel.com/image/teams/3092.png",
-      "match_time": "20 سبتمبر 2026، 18:30",
-      "audio_original": [
-        "beIN SPORTS 2 (أحمد البلوشي)"
-      ],
-      "audio": [
-        "الصوتية الثانية — Audio 2 (أحمد البلوشي)"
-      ],
-      "audio_text": "الصوتية الثانية — Audio 2 (أحمد البلوشي)",
       "channel_names_mode": "custom"
     },
     {
@@ -83,19 +35,19 @@
       "channel_names_mode": "custom"
     },
     {
-      "competition": "الدوري الإسباني",
-      "home_team": "أتلتيكو مدريد",
-      "away_team": "ريال مدريد",
-      "home_logo": "https://jdwel.com/image/teams/6403.png",
-      "away_logo": "https://jdwel.com/image/teams/2605.png",
-      "match_time": "20 سبتمبر 2026، 17:15",
+      "competition": "الدوري الإنجليزي",
+      "home_team": "مانشستر سيتي",
+      "away_team": "سندرلاند",
+      "home_logo": "https://jdwel.com/image/teams/2185.png",
+      "away_logo": "https://jdwel.com/image/teams/3206.png",
+      "match_time": "20 سبتمبر 2026، 16:00",
       "audio_original": [
-        "beIN SPORTS 1 (علي الكعبي)"
+        "beIN SPORTS 3 (عصام الشوالي)"
       ],
       "audio": [
-        "الصوتية الأولى — Audio 1 (علي الكعبي)"
+        "الصوتية الثالثة — Audio 3 (عصام الشوالي)"
       ],
-      "audio_text": "الصوتية الأولى — Audio 1 (علي الكعبي)",
+      "audio_text": "الصوتية الثالثة — Audio 3 (عصام الشوالي)",
       "channel_names_mode": "custom"
     },
     {
@@ -112,6 +64,54 @@
         "الصوتية الثالثة — Audio 3 (محمد بركات)"
       ],
       "audio_text": "الصوتية الثالثة — Audio 3 (محمد بركات)",
+      "channel_names_mode": "custom"
+    },
+    {
+      "competition": "الدوري الإسباني",
+      "home_team": "أتلتيكو مدريد",
+      "away_team": "ريال مدريد",
+      "home_logo": "https://jdwel.com/image/teams/6403.png",
+      "away_logo": "https://jdwel.com/image/teams/2605.png",
+      "match_time": "20 سبتمبر 2026، 17:15",
+      "audio_original": [
+        "beIN SPORTS 1 (علي الكعبي)"
+      ],
+      "audio": [
+        "الصوتية الأولى — Audio 1 (علي الكعبي)"
+      ],
+      "audio_text": "الصوتية الأولى — Audio 1 (علي الكعبي)",
+      "channel_names_mode": "custom"
+    },
+    {
+      "competition": "الدوري الإنجليزي",
+      "home_team": "فولهام",
+      "away_team": "مانشستر يونايتد",
+      "home_logo": "https://jdwel.com/image/teams/280.png",
+      "away_logo": "https://jdwel.com/image/teams/3092.png",
+      "match_time": "20 سبتمبر 2026، 18:30",
+      "audio_original": [
+        "beIN SPORTS 2 (أحمد البلوشي)"
+      ],
+      "audio": [
+        "الصوتية الثانية — Audio 2 (أحمد البلوشي)"
+      ],
+      "audio_text": "الصوتية الثانية — Audio 2 (أحمد البلوشي)",
+      "channel_names_mode": "custom"
+    },
+    {
+      "competition": "الدوري الإنجليزي",
+      "home_team": "بورنموث",
+      "away_team": "ليفربول",
+      "home_logo": "https://jdwel.com/image/teams/1555.png",
+      "away_logo": "https://jdwel.com/image/teams/1512.png",
+      "match_time": "20 سبتمبر 2026، 16:00",
+      "audio_original": [
+        "beIN SPORTS 2 (حفيظ دراجي)"
+      ],
+      "audio": [
+        "الصوتية الثانية — Audio 2 (حفيظ دراجي)"
+      ],
+      "audio_text": "الصوتية الثانية — Audio 2 (حفيظ دراجي)",
       "channel_names_mode": "custom"
     },
     {
@@ -164,40 +164,6 @@
         "الإيطالية — Italy (فيصل الهندي)"
       ],
       "audio_text": "الإيطالية — Italy (فيصل الهندي) | الإيطالية — Italy (علي دراج) | الإيطالية — Italy (فيصل الهندي)",
-      "channel_names_mode": "custom"
-    },
-    {
-      "competition": "الدوري الإيطالي",
-      "home_team": "بارما",
-      "away_team": "جنوى",
-      "home_logo": "https://jdwel.com/image/teams/3335.png",
-      "away_logo": "https://jdwel.com/image/teams/320.png",
-      "match_time": "20 سبتمبر 2026، 16:00",
-      "audio_original": [
-        "STARZPLAY (أحمد الخير)",
-        "STC TV (أحمد الخير)"
-      ],
-      "audio": [
-        "الإيطالية — Italy (أحمد الخير)",
-        "الإيطالية — Italy (أحمد الخير)"
-      ],
-      "audio_text": "الإيطالية — Italy (أحمد الخير) | الإيطالية — Italy (أحمد الخير)",
-      "channel_names_mode": "custom"
-    },
-    {
-      "competition": "الدوري الفرنسي",
-      "home_team": "نيس",
-      "away_team": "ليل",
-      "home_logo": "https://jdwel.com/image/teams/6405.png",
-      "away_logo": "https://jdwel.com/image/teams/3190.png",
-      "match_time": "20 سبتمبر 2026، 18:15",
-      "audio_original": [
-        "beIN SPORTS 5 (جواد بدة)"
-      ],
-      "audio": [
-        "الصوتية الخامسة — Audio 5 (جواد بدة)"
-      ],
-      "audio_text": "الصوتية الخامسة — Audio 5 (جواد بدة)",
       "channel_names_mode": "custom"
     },
     {
@@ -257,6 +223,24 @@
       "channel_names_mode": "custom"
     },
     {
+      "competition": "الدوري الإيطالي",
+      "home_team": "بارما",
+      "away_team": "جنوى",
+      "home_logo": "https://jdwel.com/image/teams/3335.png",
+      "away_logo": "https://jdwel.com/image/teams/320.png",
+      "match_time": "20 سبتمبر 2026، 16:00",
+      "audio_original": [
+        "STARZPLAY (أحمد الخير)",
+        "STC TV (أحمد الخير)"
+      ],
+      "audio": [
+        "الإيطالية — Italy (أحمد الخير)",
+        "الإيطالية — Italy (أحمد الخير)"
+      ],
+      "audio_text": "الإيطالية — Italy (أحمد الخير) | الإيطالية — Italy (أحمد الخير)",
+      "channel_names_mode": "custom"
+    },
+    {
       "competition": "الدوري الفرنسي",
       "home_team": "أوكسير",
       "away_team": "بريست",
@@ -270,6 +254,22 @@
         "الصوتية السادسة — Audio 6 (أحمد فؤاد)"
       ],
       "audio_text": "الصوتية السادسة — Audio 6 (أحمد فؤاد)",
+      "channel_names_mode": "custom"
+    },
+    {
+      "competition": "الدوري الفرنسي",
+      "home_team": "نيس",
+      "away_team": "ليل",
+      "home_logo": "https://jdwel.com/image/teams/6405.png",
+      "away_logo": "https://jdwel.com/image/teams/3190.png",
+      "match_time": "20 سبتمبر 2026، 18:15",
+      "audio_original": [
+        "beIN SPORTS 5 (جواد بدة)"
+      ],
+      "audio": [
+        "الصوتية الخامسة — Audio 5 (جواد بدة)"
+      ],
+      "audio_text": "الصوتية الخامسة — Audio 5 (جواد بدة)",
       "channel_names_mode": "custom"
     },
     {
@@ -302,6 +302,22 @@
         "MBC شاهد (محمد حسين)"
       ],
       "audio_text": "MBC شاهد (محمد حسين)",
+      "channel_names_mode": "custom"
+    },
+    {
+      "competition": "الدوري الألماني",
+      "home_team": "شالكه 04",
+      "away_team": "إلفيرسبيرغ",
+      "home_logo": "https://jdwel.com/image/teams/3263.png",
+      "away_logo": "https://jdwel.com/image/teams/1017.png",
+      "match_time": "20 سبتمبر 2026، 18:30",
+      "audio_original": [
+        "MBC شاهد (عبدالله الشهري)"
+      ],
+      "audio": [
+        "MBC شاهد (عبدالله الشهري)"
+      ],
+      "audio_text": "MBC شاهد (عبدالله الشهري)",
       "channel_names_mode": "custom"
     }
   ]
