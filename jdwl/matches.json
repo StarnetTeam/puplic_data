@@ -1,56 +1,5 @@
 {
   "source": "https://jdwel.com/today/",
-  "generated_at_utc": "2026-09-20T19:59:45.417227+00:00",
-  "matches": [
-    {
-      "competition": "الدوري الإسباني",
-      "home_team": "فالنسيا",
-      "away_team": "ريال سوسيداد",
-      "home_logo": "https://jdwel.com/image/teams/1025.png",
-      "away_logo": "https://jdwel.com/image/teams/2777.png",
-      "match_time": "20 سبتمبر 2026، 22:00",
-      "audio_original": [
-        "beIN SPORTS 2 (علي محمد علي)"
-      ],
-      "audio": [
-        "الصوتية الثانية — Audio 2 (علي محمد علي)"
-      ],
-      "audio_text": "الصوتية الثانية — Audio 2 (علي محمد علي)",
-      "channel_names_mode": "custom"
-    },
-    {
-      "competition": "الدوري الإيطالي",
-      "home_team": "ميلان",
-      "away_team": "ليتشي",
-      "home_logo": "https://jdwel.com/image/teams/2433.png",
-      "away_logo": "https://jdwel.com/image/teams/896.png",
-      "match_time": "20 سبتمبر 2026، 21:45",
-      "audio_original": [
-        "STARZPLAY (محمد الشامسي)",
-        "STC TV (محمد الشامسي)"
-      ],
-      "audio": [
-        "الإيطالية — Italy (محمد الشامسي)",
-        "الإيطالية — Italy (محمد الشامسي)"
-      ],
-      "audio_text": "الإيطالية — Italy (محمد الشامسي) | الإيطالية — Italy (محمد الشامسي)",
-      "channel_names_mode": "custom"
-    },
-    {
-      "competition": "الدوري الفرنسي",
-      "home_team": "مارسيليا",
-      "away_team": "باريس سان جيرمان",
-      "home_logo": "https://jdwel.com/image/teams/6246.png",
-      "away_logo": "https://jdwel.com/image/teams/2347.png",
-      "match_time": "20 سبتمبر 2026، 21:45",
-      "audio_original": [
-        "beIN SPORTS 1 (حسن العيدروس)"
-      ],
-      "audio": [
-        "الصوتية الأولى — Audio 1 (حسن العيدروس)"
-      ],
-      "audio_text": "الصوتية الأولى — Audio 1 (حسن العيدروس)",
-      "channel_names_mode": "custom"
-    }
-  ]
+  "generated_at_utc": "2026-09-20T22:16:23.418134+00:00",
+  "matches": []
 }
