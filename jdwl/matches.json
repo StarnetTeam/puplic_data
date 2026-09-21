@@ -1,5 +1,22 @@
 {
   "source": "https://jdwel.com/today/",
-  "generated_at_utc": "2026-09-20T22:16:23.418134+00:00",
-  "matches": []
+  "generated_at_utc": "2026-09-21T00:40:07.930652+00:00",
+  "matches": [
+    {
+      "competition": "الدوري الأمريكي",
+      "home_team": "إنتر ميامي",
+      "away_team": "سان دييغو",
+      "home_logo": "https://jdwel.com/image/teams/usa_inter_miami.png",
+      "away_logo": "https://jdwel.com/image/teams/1865.png",
+      "match_time": "21 سبتمبر 2026، 02:00",
+      "audio_original": [
+        "Apple TV (تعليق إنجليزي)"
+      ],
+      "audio": [
+        "Apple TV (تعليق إنجليزي)"
+      ],
+      "audio_text": "Apple TV (تعليق إنجليزي)",
+      "channel_names_mode": "custom"
+    }
+  ]
 }
