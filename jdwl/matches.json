@@ -1,21 +1,21 @@
 {
   "source": "https://jdwel.com/today/",
-  "generated_at_utc": "2026-09-22T05:38:11.613695+00:00",
+  "generated_at_utc": "2026-09-22T10:36:27.065524+00:00",
   "matches": [
     {
       "competition": "الدوري الجزائري",
-      "home_team": "مولودية الجزائر",
-      "away_team": "مولودية وهران",
-      "home_logo": "https://jdwel.com/image/teams/5029.png",
-      "away_logo": "https://jdwel.com/image/teams/3102.png",
-      "match_time": "22 سبتمبر 2026، 22:00",
+      "home_team": "إتحاد بسكرة",
+      "away_team": "شبيبة الساورة",
+      "home_logo": "https://jdwel.com/image/teams/3210.png",
+      "away_logo": "https://jdwel.com/image/teams/4707.png",
+      "match_time": "22 سبتمبر 2026، 19:00",
       "audio_original": [
-        "الجزائرية 1 (أرضي)"
+        "الرياضية ويب"
       ],
       "audio": [
-        "الجزائرية 1 (أرضي)"
+        "الرياضية ويب"
       ],
-      "audio_text": "الجزائرية 1 (أرضي)",
+      "audio_text": "الرياضية ويب",
       "channel_names_mode": "custom"
     }
   ]
