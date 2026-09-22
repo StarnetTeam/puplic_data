@@ -1,22 +1,5 @@
 {
   "source": "https://jdwel.com/today/",
-  "generated_at_utc": "2026-09-22T19:24:13.019662+00:00",
-  "matches": [
-    {
-      "competition": "دوري أبطال أوروبا للسيدات",
-      "home_team": "آرسنال",
-      "away_team": "كويه",
-      "home_logo": "https://jdwel.com/image/teams/2999.png",
-      "away_logo": "https://jdwel.com/image/teams/den_hb_koge.png",
-      "match_time": "22 سبتمبر 2026، 22:00",
-      "audio_original": [
-        "beIN SPORTS XTRA 1 (أحمد عبده)"
-      ],
-      "audio": [
-        "beIN SPORTS XTRA 1 (أحمد عبده)"
-      ],
-      "audio_text": "beIN SPORTS XTRA 1 (أحمد عبده)",
-      "channel_names_mode": "custom"
-    }
-  ]
+  "generated_at_utc": "2026-09-22T22:32:39.545919+00:00",
+  "matches": []
 }
