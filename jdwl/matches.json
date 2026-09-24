@@ -1,6 +1,6 @@
 {
   "source": "https://jdwel.com/today/",
-  "generated_at_utc": "2026-09-24T07:58:27.548458+00:00",
+  "generated_at_utc": "2026-09-24T13:16:08.037433+00:00",
   "matches": [
     {
       "competition": "دوري الأمم الأوروبية",
@@ -16,6 +16,38 @@
         "الصوتية الرابعة — Audio 4 (حسن العيدروس)"
       ],
       "audio_text": "الصوتية الرابعة — Audio 4 (حسن العيدروس)",
+      "channel_names_mode": "custom"
+    },
+    {
+      "competition": "دوري الأمم الأوروبية",
+      "home_team": "هولندا",
+      "away_team": "ألمانيا",
+      "home_logo": "https://jdwel.com/image/teams/flag_netherlands_v2.png",
+      "away_logo": "https://jdwel.com/image/teams/flag_germany_v2.png",
+      "match_time": "24 سبتمبر 2026، 21:45",
+      "audio_original": [
+        "beIN SPORTS 2 (حفيظ دراجي)"
+      ],
+      "audio": [
+        "الصوتية الثانية — Audio 2 (حفيظ دراجي)"
+      ],
+      "audio_text": "الصوتية الثانية — Audio 2 (حفيظ دراجي)",
+      "channel_names_mode": "custom"
+    },
+    {
+      "competition": "دوري الأمم الأوروبية",
+      "home_team": "صربيا",
+      "away_team": "اليونان",
+      "home_logo": "https://jdwel.com/image/teams/flag_serbia_v2.png",
+      "away_logo": "https://jdwel.com/image/teams/221.png",
+      "match_time": "24 سبتمبر 2026، 21:45",
+      "audio_original": [
+        "beIN SPORTS 6 (أحمد عبده)"
+      ],
+      "audio": [
+        "الصوتية السادسة — Audio 6 (أحمد عبده)"
+      ],
+      "audio_text": "الصوتية السادسة — Audio 6 (أحمد عبده)",
       "channel_names_mode": "custom"
     },
     {
@@ -52,22 +84,6 @@
     },
     {
       "competition": "دوري الأمم الأوروبية",
-      "home_team": "صربيا",
-      "away_team": "اليونان",
-      "home_logo": "https://jdwel.com/image/teams/flag_serbia_v2.png",
-      "away_logo": "https://jdwel.com/image/teams/221.png",
-      "match_time": "24 سبتمبر 2026، 21:45",
-      "audio_original": [
-        "beIN SPORTS 6 (أحمد عبده)"
-      ],
-      "audio": [
-        "الصوتية السادسة — Audio 6 (أحمد عبده)"
-      ],
-      "audio_text": "الصوتية السادسة — Audio 6 (أحمد عبده)",
-      "channel_names_mode": "custom"
-    },
-    {
-      "competition": "دوري الأمم الأوروبية",
       "home_team": "كوسوفو",
       "away_team": "أيرلندا",
       "home_logo": "https://jdwel.com/image/teams/237.png",
@@ -96,56 +112,6 @@
         "beIN SPORTS XTRA 1 (محمد مبروكي)"
       ],
       "audio_text": "beIN SPORTS XTRA 1 (محمد مبروكي)",
-      "channel_names_mode": "custom"
-    },
-    {
-      "competition": "دوري الأمم الأوروبية",
-      "home_team": "هولندا",
-      "away_team": "ألمانيا",
-      "home_logo": "https://jdwel.com/image/teams/flag_netherlands_v2.png",
-      "away_logo": "https://jdwel.com/image/teams/flag_germany_v2.png",
-      "match_time": "24 سبتمبر 2026، 21:45",
-      "audio_original": [
-        "beIN SPORTS 2 (حفيظ دراجي)"
-      ],
-      "audio": [
-        "الصوتية الثانية — Audio 2 (حفيظ دراجي)"
-      ],
-      "audio_text": "الصوتية الثانية — Audio 2 (حفيظ دراجي)",
-      "channel_names_mode": "custom"
-    },
-    {
-      "competition": "كأس الخليج",
-      "home_team": "الإمارات",
-      "away_team": "اليمن",
-      "home_logo": "https://jdwel.com/image/teams/flag_uae_v2.png",
-      "away_logo": "https://jdwel.com/image/teams/37.png",
-      "match_time": "24 سبتمبر 2026، 18:55",
-      "audio_original": [
-        "السعودية الرياضية 1 (فهد العنزي)",
-        "أبوظبي الرياضية 1 (عامر عبدالله)",
-        "أبوظبي الرياضية 2 (عبدالله السعدي)",
-        "الكاس 1 (سمير المعيرفي)",
-        "الكاس 2 (سعود الحريري)",
-        "الشارقة الرياضية 1 (موسى عيد)",
-        "عمان الرياضية (حسن الهاشمي)",
-        "الكويت الرياضية (طارق الملا)",
-        "منصة شاشا (علي دراج)",
-        "MBC Action (فهد العنزي)"
-      ],
-      "audio": [
-        "السعودية الرياضية 1 (فهد العنزي)",
-        "أبوظبي الرياضية 1 (عامر عبدالله)",
-        "أبوظبي الرياضية 2 (عبدالله السعدي)",
-        "الكاس 1 (سمير المعيرفي)",
-        "الكاس 2 (سعود الحريري)",
-        "الشارقة الرياضية 1 (موسى عيد)",
-        "عمان الرياضية (حسن الهاشمي)",
-        "الكويت الرياضية (طارق الملا)",
-        "الإيطالية — Italy (علي دراج)",
-        "MBC Action (فهد العنزي)"
-      ],
-      "audio_text": "السعودية الرياضية 1 (فهد العنزي) | أبوظبي الرياضية 1 (عامر عبدالله) | أبوظبي الرياضية 2 (عبدالله السعدي) | الكاس 1 (سمير المعيرفي) | الكاس 2 (سعود الحريري) | الشارقة الرياضية 1 (موسى عيد) | عمان الرياضية (حسن الهاشمي) | الكويت الرياضية (طارق الملا) | الإيطالية — Italy (علي دراج) | MBC Action (فهد العنزي)",
       "channel_names_mode": "custom"
     },
     {
@@ -196,6 +162,120 @@
         "المغربية الرياضية"
       ],
       "audio_text": "المغربية الرياضية",
+      "channel_names_mode": "custom"
+    },
+    {
+      "competition": "كأس الخليج",
+      "home_team": "الإمارات",
+      "away_team": "اليمن",
+      "home_logo": "https://jdwel.com/image/teams/flag_uae_v2.png",
+      "away_logo": "https://jdwel.com/image/teams/37.png",
+      "match_time": "24 سبتمبر 2026، 18:55",
+      "audio_original": [
+        "السعودية الرياضية 1 (فهد العنزي)",
+        "أبوظبي الرياضية 1 (عامر عبدالله)",
+        "أبوظبي الرياضية 2 (عبدالله السعدي)",
+        "الكاس 1 (سمير المعيرفي)",
+        "الكاس 2 (سعود الحريري)",
+        "الشارقة الرياضية 1 (موسى عيد)",
+        "عمان الرياضية (حسن الهاشمي)",
+        "الكويت الرياضية (طارق الملا)",
+        "منصة شاشا (علي دراج)",
+        "MBC Action (فهد العنزي)"
+      ],
+      "audio": [
+        "السعودية الرياضية 1 (فهد العنزي)",
+        "أبوظبي الرياضية 1 (عامر عبدالله)",
+        "أبوظبي الرياضية 2 (عبدالله السعدي)",
+        "الكاس 1 (سمير المعيرفي)",
+        "الكاس 2 (سعود الحريري)",
+        "الشارقة الرياضية 1 (موسى عيد)",
+        "عمان الرياضية (حسن الهاشمي)",
+        "الكويت الرياضية (طارق الملا)",
+        "الإيطالية — Italy (علي دراج)",
+        "MBC Action (فهد العنزي)"
+      ],
+      "audio_text": "السعودية الرياضية 1 (فهد العنزي) | أبوظبي الرياضية 1 (عامر عبدالله) | أبوظبي الرياضية 2 (عبدالله السعدي) | الكاس 1 (سمير المعيرفي) | الكاس 2 (سعود الحريري) | الشارقة الرياضية 1 (موسى عيد) | عمان الرياضية (حسن الهاشمي) | الكويت الرياضية (طارق الملا) | الإيطالية — Italy (علي دراج) | MBC Action (فهد العنزي)",
+      "channel_names_mode": "custom"
+    },
+    {
+      "competition": "تصفيات أمم أفريقيا",
+      "home_team": "موريتانيا",
+      "away_team": "أفريقيا الوسطى",
+      "home_logo": "https://jdwel.com/image/teams/177.png",
+      "away_logo": "https://jdwel.com/image/teams/217.png",
+      "match_time": "24 سبتمبر 2026، 19:00",
+      "audio_original": [
+        "beIN SPORTS 2 (علي محمد علي)"
+      ],
+      "audio": [
+        "الصوتية الثانية — Audio 2 (علي محمد علي)"
+      ],
+      "audio_text": "الصوتية الثانية — Audio 2 (علي محمد علي)",
+      "channel_names_mode": "custom"
+    },
+    {
+      "competition": "تصفيات أمم أفريقيا",
+      "home_team": "ليبيا",
+      "away_team": "بوتسوانا",
+      "home_logo": "https://jdwel.com/image/teams/38.png",
+      "away_logo": "https://jdwel.com/image/teams/196.png",
+      "match_time": "24 سبتمبر 2026، 19:00",
+      "audio_original": [
+        "beIN SPORTS 1 (محمد بركات)"
+      ],
+      "audio": [
+        "الصوتية الأولى — Audio 1 (محمد بركات)"
+      ],
+      "audio_text": "الصوتية الأولى — Audio 1 (محمد بركات)",
+      "channel_names_mode": "custom"
+    },
+    {
+      "competition": "تصفيات أمم أفريقيا",
+      "home_team": "ساحل العاج",
+      "away_team": "غانا",
+      "home_logo": "https://jdwel.com/image/teams/flag_cote_divoire_v2.png",
+      "away_logo": "https://jdwel.com/image/teams/flag_ghana_v2.png",
+      "match_time": "24 سبتمبر 2026، 22:00",
+      "audio_original": [
+        "beIN SPORTS 7 (جواد بدة)"
+      ],
+      "audio": [
+        "الصوتية السابعة — Audio 7 (جواد بدة)"
+      ],
+      "audio_text": "الصوتية السابعة — Audio 7 (جواد بدة)",
+      "channel_names_mode": "custom"
+    },
+    {
+      "competition": "تصفيات أمم أفريقيا",
+      "home_team": "الكاميرون",
+      "away_team": "جزر القمر",
+      "home_logo": "https://jdwel.com/image/teams/flag_cameroon_v2.png",
+      "away_logo": "https://jdwel.com/image/teams/218.png",
+      "match_time": "24 سبتمبر 2026، 22:00",
+      "audio_original": [
+        "beIN SPORTS 8 (نوفل باشي)"
+      ],
+      "audio": [
+        "الصوتية الثامنة — Audio 8 (نوفل باشي)"
+      ],
+      "audio_text": "الصوتية الثامنة — Audio 8 (نوفل باشي)",
+      "channel_names_mode": "custom"
+    },
+    {
+      "competition": "تصفيات أمم أفريقيا",
+      "home_team": "تونس",
+      "away_team": "أوغندا",
+      "home_logo": "https://jdwel.com/image/teams/flag_tunisia_v2.png",
+      "away_logo": "https://jdwel.com/image/teams/219.png",
+      "match_time": "24 سبتمبر 2026، 22:00",
+      "audio_original": [
+        "beIN SPORTS 1 (عصام الشوالي)"
+      ],
+      "audio": [
+        "الصوتية الأولى — Audio 1 (عصام الشوالي)"
+      ],
+      "audio_text": "الصوتية الأولى — Audio 1 (عصام الشوالي)",
       "channel_names_mode": "custom"
     }
   ]
