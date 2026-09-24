@@ -1,37 +1,21 @@
 {
   "source": "https://jdwel.com/today/",
-  "generated_at_utc": "2026-09-23T23:21:02.411503+00:00",
+  "generated_at_utc": "2026-09-24T02:18:43.844629+00:00",
   "matches": [
     {
       "competition": "دوري الأمم الأوروبية",
-      "home_team": "أندورا",
-      "away_team": "مالطا",
-      "home_logo": "https://jdwel.com/image/teams/224.png",
-      "away_logo": "https://jdwel.com/image/teams/206.png",
-      "match_time": "24 سبتمبر 2026، 19:00",
-      "audio_original": [
-        "beIN SPORTS 3 (عبدالله الغامدي)"
-      ],
-      "audio": [
-        "الصوتية الثالثة — Audio 3 (عبدالله الغامدي)"
-      ],
-      "audio_text": "الصوتية الثالثة — Audio 3 (عبدالله الغامدي)",
-      "channel_names_mode": "custom"
-    },
-    {
-      "competition": "دوري الأمم الأوروبية",
-      "home_team": "كوسوفو",
-      "away_team": "أيرلندا",
-      "home_logo": "https://jdwel.com/image/teams/237.png",
-      "away_logo": "https://jdwel.com/image/teams/42.png",
+      "home_team": "هولندا",
+      "away_team": "ألمانيا",
+      "home_logo": "https://jdwel.com/image/teams/flag_netherlands_v2.png",
+      "away_logo": "https://jdwel.com/image/teams/flag_germany_v2.png",
       "match_time": "24 سبتمبر 2026، 21:45",
       "audio_original": [
-        "beIN SPORTS 5 (باسم الزير)"
+        "beIN SPORTS 2 (حفيظ دراجي)"
       ],
       "audio": [
-        "الصوتية الخامسة — Audio 5 (باسم الزير)"
+        "الصوتية الثانية — Audio 2 (حفيظ دراجي)"
       ],
-      "audio_text": "الصوتية الخامسة — Audio 5 (باسم الزير)",
+      "audio_text": "الصوتية الثانية — Audio 2 (حفيظ دراجي)",
       "channel_names_mode": "custom"
     },
     {
@@ -52,6 +36,22 @@
     },
     {
       "competition": "دوري الأمم الأوروبية",
+      "home_team": "ليختنشتاين",
+      "away_team": "ليتوانيا",
+      "home_logo": "https://jdwel.com/image/teams/181.png",
+      "away_logo": "https://jdwel.com/image/teams/170.png",
+      "match_time": "24 سبتمبر 2026، 21:45",
+      "audio_original": [
+        "beIN SPORTS XTRA 1 (محمد مبروكي)"
+      ],
+      "audio": [
+        "beIN SPORTS XTRA 1 (محمد مبروكي)"
+      ],
+      "audio_text": "beIN SPORTS XTRA 1 (محمد مبروكي)",
+      "channel_names_mode": "custom"
+    },
+    {
+      "competition": "دوري الأمم الأوروبية",
       "home_team": "النرويج",
       "away_team": "الدنمارك",
       "home_logo": "https://jdwel.com/image/teams/41.png",
@@ -64,6 +64,22 @@
         "الصوتية الرابعة — Audio 4 (حسن العيدروس)"
       ],
       "audio_text": "الصوتية الرابعة — Audio 4 (حسن العيدروس)",
+      "channel_names_mode": "custom"
+    },
+    {
+      "competition": "دوري الأمم الأوروبية",
+      "home_team": "أندورا",
+      "away_team": "مالطا",
+      "home_logo": "https://jdwel.com/image/teams/224.png",
+      "away_logo": "https://jdwel.com/image/teams/206.png",
+      "match_time": "24 سبتمبر 2026، 19:00",
+      "audio_original": [
+        "beIN SPORTS 3 (عبدالله الغامدي)"
+      ],
+      "audio": [
+        "الصوتية الثالثة — Audio 3 (عبدالله الغامدي)"
+      ],
+      "audio_text": "الصوتية الثالثة — Audio 3 (عبدالله الغامدي)",
       "channel_names_mode": "custom"
     },
     {
@@ -84,18 +100,18 @@
     },
     {
       "competition": "دوري الأمم الأوروبية",
-      "home_team": "هولندا",
-      "away_team": "ألمانيا",
-      "home_logo": "https://jdwel.com/image/teams/flag_netherlands_v2.png",
-      "away_logo": "https://jdwel.com/image/teams/flag_germany_v2.png",
+      "home_team": "كوسوفو",
+      "away_team": "أيرلندا",
+      "home_logo": "https://jdwel.com/image/teams/237.png",
+      "away_logo": "https://jdwel.com/image/teams/42.png",
       "match_time": "24 سبتمبر 2026، 21:45",
       "audio_original": [
-        "beIN SPORTS 2 (حفيظ دراجي)"
+        "beIN SPORTS 5 (باسم الزير)"
       ],
       "audio": [
-        "الصوتية الثانية — Audio 2 (حفيظ دراجي)"
+        "الصوتية الخامسة — Audio 5 (باسم الزير)"
       ],
-      "audio_text": "الصوتية الثانية — Audio 2 (حفيظ دراجي)",
+      "audio_text": "الصوتية الخامسة — Audio 5 (باسم الزير)",
       "channel_names_mode": "custom"
     },
     {
@@ -131,38 +147,6 @@
       "channel_names_mode": "custom"
     },
     {
-      "competition": "دوري الأمم الأوروبية",
-      "home_team": "ليختنشتاين",
-      "away_team": "ليتوانيا",
-      "home_logo": "https://jdwel.com/image/teams/181.png",
-      "away_logo": "https://jdwel.com/image/teams/170.png",
-      "match_time": "24 سبتمبر 2026، 21:45",
-      "audio_original": [
-        "beIN SPORTS XTRA 1 (محمد مبروكي)"
-      ],
-      "audio": [
-        "beIN SPORTS XTRA 1 (محمد مبروكي)"
-      ],
-      "audio_text": "beIN SPORTS XTRA 1 (محمد مبروكي)",
-      "channel_names_mode": "custom"
-    },
-    {
-      "competition": "الدوري المغربي",
-      "home_team": "أمل تزنيت",
-      "away_team": "إتحاد طنجة",
-      "home_logo": "https://jdwel.com/image/teams/586.png",
-      "away_logo": "https://jdwel.com/image/teams/5945.png",
-      "match_time": "24 سبتمبر 2026، 23:00",
-      "audio_original": [
-        "المغربية الرياضية"
-      ],
-      "audio": [
-        "المغربية الرياضية"
-      ],
-      "audio_text": "المغربية الرياضية",
-      "channel_names_mode": "custom"
-    },
-    {
       "competition": "كأس الخليج",
       "home_team": "الإمارات",
       "away_team": "اليمن",
@@ -195,83 +179,19 @@
       "channel_names_mode": "custom"
     },
     {
-      "competition": "تصفيات أمم أفريقيا",
-      "home_team": "موريتانيا",
-      "away_team": "أفريقيا الوسطى",
-      "home_logo": "https://jdwel.com/image/teams/177.png",
-      "away_logo": "https://jdwel.com/image/teams/217.png",
-      "match_time": "24 سبتمبر 2026، 20:00",
+      "competition": "الدوري المغربي",
+      "home_team": "أمل تزنيت",
+      "away_team": "إتحاد طنجة",
+      "home_logo": "https://jdwel.com/image/teams/586.png",
+      "away_logo": "https://jdwel.com/image/teams/5945.png",
+      "match_time": "24 سبتمبر 2026، 23:00",
       "audio_original": [
-        "beIN SPORTS 2 (علي محمد علي)"
+        "المغربية الرياضية"
       ],
       "audio": [
-        "الصوتية الثانية — Audio 2 (علي محمد علي)"
+        "المغربية الرياضية"
       ],
-      "audio_text": "الصوتية الثانية — Audio 2 (علي محمد علي)",
-      "channel_names_mode": "custom"
-    },
-    {
-      "competition": "تصفيات أمم أفريقيا",
-      "home_team": "ليبيا",
-      "away_team": "بوتسوانا",
-      "home_logo": "https://jdwel.com/image/teams/38.png",
-      "away_logo": "https://jdwel.com/image/teams/196.png",
-      "match_time": "24 سبتمبر 2026، 19:00",
-      "audio_original": [
-        "beIN SPORTS 1 (محمد بركات)"
-      ],
-      "audio": [
-        "الصوتية الأولى — Audio 1 (محمد بركات)"
-      ],
-      "audio_text": "الصوتية الأولى — Audio 1 (محمد بركات)",
-      "channel_names_mode": "custom"
-    },
-    {
-      "competition": "تصفيات أمم أفريقيا",
-      "home_team": "تونس",
-      "away_team": "أوغندا",
-      "home_logo": "https://jdwel.com/image/teams/flag_tunisia_v2.png",
-      "away_logo": "https://jdwel.com/image/teams/219.png",
-      "match_time": "24 سبتمبر 2026، 22:00",
-      "audio_original": [
-        "beIN SPORTS 1 (عصام الشوالي)"
-      ],
-      "audio": [
-        "الصوتية الأولى — Audio 1 (عصام الشوالي)"
-      ],
-      "audio_text": "الصوتية الأولى — Audio 1 (عصام الشوالي)",
-      "channel_names_mode": "custom"
-    },
-    {
-      "competition": "تصفيات أمم أفريقيا",
-      "home_team": "ساحل العاج",
-      "away_team": "غانا",
-      "home_logo": "https://jdwel.com/image/teams/flag_cote_divoire_v2.png",
-      "away_logo": "https://jdwel.com/image/teams/flag_ghana_v2.png",
-      "match_time": "24 سبتمبر 2026، 22:00",
-      "audio_original": [
-        "beIN SPORTS 7 (جواد بدة)"
-      ],
-      "audio": [
-        "الصوتية السابعة — Audio 7 (جواد بدة)"
-      ],
-      "audio_text": "الصوتية السابعة — Audio 7 (جواد بدة)",
-      "channel_names_mode": "custom"
-    },
-    {
-      "competition": "تصفيات أمم أفريقيا",
-      "home_team": "الكاميرون",
-      "away_team": "جزر القمر",
-      "home_logo": "https://jdwel.com/image/teams/flag_cameroon_v2.png",
-      "away_logo": "https://jdwel.com/image/teams/218.png",
-      "match_time": "24 سبتمبر 2026، 22:00",
-      "audio_original": [
-        "beIN SPORTS 8 (نوفل باشي)"
-      ],
-      "audio": [
-        "الصوتية الثامنة — Audio 8 (نوفل باشي)"
-      ],
-      "audio_text": "الصوتية الثامنة — Audio 8 (نوفل باشي)",
+      "audio_text": "المغربية الرياضية",
       "channel_names_mode": "custom"
     }
   ]
