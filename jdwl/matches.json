@@ -1,7 +1,23 @@
 {
   "source": "https://jdwel.com/today/",
-  "generated_at_utc": "2026-09-25T15:41:03.788523+00:00",
+  "generated_at_utc": "2026-09-25T19:43:17.967297+00:00",
   "matches": [
+    {
+      "competition": "دوري الأمم الأوروبية",
+      "home_team": "إيطاليا",
+      "away_team": "بلجيكا",
+      "home_logo": "https://jdwel.com/image/teams/56.png",
+      "away_logo": "https://jdwel.com/image/teams/43.png",
+      "match_time": "25 سبتمبر 2026، 21:45",
+      "audio_original": [
+        "beIN SPORTS 6 (علي الكعبي)"
+      ],
+      "audio": [
+        "الصوتية السادسة — Audio 6 (علي الكعبي)"
+      ],
+      "audio_text": "الصوتية السادسة — Audio 6 (علي الكعبي)",
+      "channel_names_mode": "custom"
+    },
     {
       "competition": "دوري الأمم الأوروبية",
       "home_team": "تركيا",
@@ -36,38 +52,6 @@
     },
     {
       "competition": "دوري الأمم الأوروبية",
-      "home_team": "جورجيا",
-      "away_team": "أيرلندا الشمالية",
-      "home_logo": "https://jdwel.com/image/teams/183.png",
-      "away_logo": "https://jdwel.com/image/teams/flag_northern_ireland.png",
-      "match_time": "25 سبتمبر 2026، 19:00",
-      "audio_original": [
-        "beIN SPORTS 2 (عامر الخوذيري)"
-      ],
-      "audio": [
-        "الصوتية الثانية — Audio 2 (عامر الخوذيري)"
-      ],
-      "audio_text": "الصوتية الثانية — Audio 2 (عامر الخوذيري)",
-      "channel_names_mode": "custom"
-    },
-    {
-      "competition": "دوري الأمم الأوروبية",
-      "home_team": "أرمينيا",
-      "away_team": "لاتفيا",
-      "home_logo": "https://jdwel.com/image/teams/222.png",
-      "away_logo": "https://jdwel.com/image/teams/226.png",
-      "match_time": "25 سبتمبر 2026، 19:00",
-      "audio_original": [
-        "beIN SPORTS 6 (عبدالله الغامدي)"
-      ],
-      "audio": [
-        "الصوتية السادسة — Audio 6 (عبدالله الغامدي)"
-      ],
-      "audio_text": "الصوتية السادسة — Audio 6 (عبدالله الغامدي)",
-      "channel_names_mode": "custom"
-    },
-    {
-      "competition": "دوري الأمم الأوروبية",
       "home_team": "بولندا",
       "away_team": "البوسنة والهرسك",
       "home_logo": "https://jdwel.com/image/teams/flag_poland_v2.png",
@@ -96,38 +80,6 @@
         "beIN SPORTS XTRA 2 (محمد نضال)"
       ],
       "audio_text": "beIN SPORTS XTRA 2 (محمد نضال)",
-      "channel_names_mode": "custom"
-    },
-    {
-      "competition": "دوري الأمم الأوروبية",
-      "home_team": "إيطاليا",
-      "away_team": "بلجيكا",
-      "home_logo": "https://jdwel.com/image/teams/56.png",
-      "away_logo": "https://jdwel.com/image/teams/43.png",
-      "match_time": "25 سبتمبر 2026، 21:45",
-      "audio_original": [
-        "beIN SPORTS 6 (علي الكعبي)"
-      ],
-      "audio": [
-        "الصوتية السادسة — Audio 6 (علي الكعبي)"
-      ],
-      "audio_text": "الصوتية السادسة — Audio 6 (علي الكعبي)",
-      "channel_names_mode": "custom"
-    },
-    {
-      "competition": "تصفيات أمم أفريقيا",
-      "home_team": "نيجيريا",
-      "away_team": "مدغشقر",
-      "home_logo": "https://jdwel.com/image/teams/236.png",
-      "away_logo": "https://jdwel.com/image/teams/215.png",
-      "match_time": "25 سبتمبر 2026، 19:00",
-      "audio_original": [
-        "beIN SPORTS 3 (محمد مبروكي)"
-      ],
-      "audio": [
-        "الصوتية الثالثة — Audio 3 (محمد مبروكي)"
-      ],
-      "audio_text": "الصوتية الثالثة — Audio 3 (محمد مبروكي)",
       "channel_names_mode": "custom"
     },
     {
