@@ -1,6 +1,6 @@
 {
   "source": "https://jdwel.com/today/",
-  "generated_at_utc": "2026-10-09T19:55:13.309482+00:00",
+  "generated_at_utc": "2026-10-09T20:02:33.991091+00:00",
   "matches": [
     {
       "id": "241109",
@@ -10,12 +10,18 @@
       "home_logo": "https://jdwel.com/image/teams/1084.png",
       "away_logo": "https://jdwel.com/image/teams/1164.png",
       "match_time": "9 أكتوبر 2026، 22:00",
-      "audio_items": [],
-      "audio": [],
-      "audio_text": "",
+      "audio_items": [
+        {
+          "channel": "beIN SPORTS 2",
+          "commentator": "عبدالله الغامدي"
+        }
+      ],
+      "audio": [
+        "الصوتية الثانية — Audio 2 (عبدالله الغامدي)"
+      ],
+      "audio_text": "الصوتية الثانية — Audio 2 (عبدالله الغامدي)",
       "channel_names_mode": "custom",
-      "details_status": "unavailable",
-      "details_error": "استجابة API صالحة لكن لم تتضمن قنوات معروفة"
+      "details_status": "ok"
     },
     {
       "id": "254980",
@@ -25,12 +31,18 @@
       "home_logo": "https://jdwel.com/image/teams/6436.png",
       "away_logo": "https://jdwel.com/image/teams/2216.png",
       "match_time": "9 أكتوبر 2026، 16:50",
-      "audio_items": [],
-      "audio": [],
-      "audio_text": "",
+      "audio_items": [
+        {
+          "channel": "ثمانية 2",
+          "commentator": "مشعل الشمري"
+        }
+      ],
+      "audio": [
+        "Thamanya 2 — ثمانية 2 (مشعل الشمري)"
+      ],
+      "audio_text": "Thamanya 2 — ثمانية 2 (مشعل الشمري)",
       "channel_names_mode": "custom",
-      "details_status": "unavailable",
-      "details_error": "استجابة API صالحة لكن لم تتضمن قنوات معروفة"
+      "details_status": "ok"
     },
     {
       "id": "254976",
@@ -40,12 +52,18 @@
       "home_logo": "https://jdwel.com/image/teams/1105.png",
       "away_logo": "https://jdwel.com/image/teams/3404.png",
       "match_time": "9 أكتوبر 2026، 17:55",
-      "audio_items": [],
-      "audio": [],
-      "audio_text": "",
+      "audio_items": [
+        {
+          "channel": "ثمانية 1",
+          "commentator": "جعفر الصليح و خالد المديفر"
+        }
+      ],
+      "audio": [
+        "Thamanya 1 — ثمانية 1 (جعفر الصليح و خالد المديفر)"
+      ],
+      "audio_text": "Thamanya 1 — ثمانية 1 (جعفر الصليح و خالد المديفر)",
       "channel_names_mode": "custom",
-      "details_status": "unavailable",
-      "details_error": "استجابة API صالحة لكن لم تتضمن قنوات معروفة"
+      "details_status": "ok"
     },
     {
       "id": "254981",
@@ -55,12 +73,18 @@
       "home_logo": "https://jdwel.com/image/teams/3169.png",
       "away_logo": "https://jdwel.com/image/teams/4203.png",
       "match_time": "9 أكتوبر 2026، 21:00",
-      "audio_items": [],
-      "audio": [],
-      "audio_text": "",
+      "audio_items": [
+        {
+          "channel": "ثمانية 1",
+          "commentator": "سليمان الشريف و فهد العتيبي"
+        }
+      ],
+      "audio": [
+        "Thamanya 1 — ثمانية 1 (سليمان الشريف و فهد العتيبي)"
+      ],
+      "audio_text": "Thamanya 1 — ثمانية 1 (سليمان الشريف و فهد العتيبي)",
       "channel_names_mode": "custom",
-      "details_status": "unavailable",
-      "details_error": "استجابة API صالحة لكن لم تتضمن قنوات معروفة"
+      "details_status": "ok"
     },
     {
       "id": "240475",
@@ -70,12 +94,18 @@
       "home_logo": "https://jdwel.com/image/teams/fra_lens.png",
       "away_logo": "https://jdwel.com/image/teams/5695.png",
       "match_time": "9 أكتوبر 2026، 21:45",
-      "audio_items": [],
-      "audio": [],
-      "audio_text": "",
+      "audio_items": [
+        {
+          "channel": "beIN SPORTS 4",
+          "commentator": "جواد بدة"
+        }
+      ],
+      "audio": [
+        "الصوتية الرابعة — Audio 4 (جواد بدة)"
+      ],
+      "audio_text": "الصوتية الرابعة — Audio 4 (جواد بدة)",
       "channel_names_mode": "custom",
-      "details_status": "unavailable",
-      "details_error": "استجابة API صالحة لكن لم تتضمن قنوات معروفة"
+      "details_status": "ok"
     },
     {
       "id": "242715",
@@ -85,12 +115,18 @@
       "home_logo": "https://jdwel.com/image/teams/1326.png",
       "away_logo": "https://jdwel.com/image/teams/2633.png",
       "match_time": "9 أكتوبر 2026، 21:30",
-      "audio_items": [],
-      "audio": [],
-      "audio_text": "",
+      "audio_items": [
+        {
+          "channel": "MBC شاهد",
+          "commentator": "محمد حسين"
+        }
+      ],
+      "audio": [
+        "MBC شاهد (محمد حسين)"
+      ],
+      "audio_text": "MBC شاهد (محمد حسين)",
       "channel_names_mode": "custom",
-      "details_status": "unavailable",
-      "details_error": "استجابة API صالحة لكن لم تتضمن قنوات معروفة"
+      "details_status": "ok"
     },
     {
       "id": "251661",
@@ -105,7 +141,7 @@
       "audio_text": "",
       "channel_names_mode": "custom",
       "details_status": "unavailable",
-      "details_error": "استجابة API صالحة لكن لم تتضمن قنوات معروفة"
+      "details_error": "صفحة المباراة لا تحتوي على عناصر قنوات ضمن قسم البث"
     }
   ]
 }
