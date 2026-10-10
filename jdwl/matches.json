@@ -1,99 +1,120 @@
 {
   "source": "https://jdwel.com/today/",
-  "generated_at_utc": "2026-10-10T20:24:27.217896+00:00",
+  "generated_at_utc": "2026-10-10T23:59:46.592092+00:00",
   "matches": [
     {
-      "id": "239785",
+      "id": "239780",
       "competition": "الدوري الإنجليزي",
-      "home_team": "آرسنال",
-      "away_team": "ليدز يونايتد",
-      "home_logo": "https://jdwel.com/image/teams/2999.png",
-      "away_logo": "https://jdwel.com/image/teams/1675.png",
-      "match_time": "10 أكتوبر 2026، 14:30",
+      "home_team": "هال سيتي",
+      "away_team": "إيفرتون",
+      "home_logo": "https://jdwel.com/image/teams/2626.png",
+      "away_logo": "https://jdwel.com/image/teams/1684.png",
+      "match_time": "11 أكتوبر 2026، 16:00",
       "audio_items": [
         {
-          "channel": "beIN SPORTS 1",
-          "commentator": "حسن العيدروس"
+          "channel": "beIN SPORTS 2",
+          "commentator": "باسم الزير"
         }
       ],
       "audio": [
-        "الصوتية الأولى — Audio 1 (حسن العيدروس)"
+        "الصوتية الثانية — Audio 2 (باسم الزير)"
       ],
-      "audio_text": "الصوتية الأولى — Audio 1 (حسن العيدروس)",
+      "audio_text": "الصوتية الثانية — Audio 2 (باسم الزير)",
       "channel_names_mode": "custom",
       "details_status": "ok"
     },
     {
-      "id": "239776",
+      "id": "239781",
       "competition": "الدوري الإنجليزي",
-      "home_team": "سندرلاند",
-      "away_team": "برايتون",
-      "home_logo": "https://jdwel.com/image/teams/3206.png",
-      "away_logo": "https://jdwel.com/image/teams/5088.png",
-      "match_time": "10 أكتوبر 2026، 17:00",
+      "home_team": "كريستال بالاس",
+      "away_team": "نوتينغهام فورست",
+      "home_logo": "https://jdwel.com/image/teams/1279.png",
+      "away_logo": "https://jdwel.com/image/teams/2969.png",
+      "match_time": "11 أكتوبر 2026، 16:00",
+      "audio_items": [
+        {
+          "channel": "beIN SPORTS 1",
+          "commentator": "جواد بدة"
+        }
+      ],
+      "audio": [
+        "الصوتية الأولى — Audio 1 (جواد بدة)"
+      ],
+      "audio_text": "الصوتية الأولى — Audio 1 (جواد بدة)",
+      "channel_names_mode": "custom",
+      "details_status": "ok"
+    },
+    {
+      "id": "239778",
+      "competition": "الدوري الإنجليزي",
+      "home_team": "ليفربول",
+      "away_team": "مانشستر سيتي",
+      "home_logo": "https://jdwel.com/image/teams/1512.png",
+      "away_logo": "https://jdwel.com/image/teams/2185.png",
+      "match_time": "11 أكتوبر 2026، 18:30",
+      "audio_items": [
+        {
+          "channel": "beIN SPORTS 1",
+          "commentator": "عصام الشوالي"
+        }
+      ],
+      "audio": [
+        "الصوتية الأولى — Audio 1 (عصام الشوالي)"
+      ],
+      "audio_text": "الصوتية الأولى — Audio 1 (عصام الشوالي)",
+      "channel_names_mode": "custom",
+      "details_status": "ok"
+    },
+    {
+      "id": "241106",
+      "competition": "الدوري الإسباني",
+      "home_team": "إلتشي",
+      "away_team": "سيلتا فيغو",
+      "home_logo": "https://jdwel.com/image/teams/2151.png",
+      "away_logo": "https://jdwel.com/image/teams/1163.png",
+      "match_time": "11 أكتوبر 2026، 15:00",
       "audio_items": [
         {
           "channel": "beIN SPORTS 3",
-          "commentator": "محمد السعدي"
+          "commentator": "أحمد فؤاد"
         }
       ],
       "audio": [
-        "الصوتية الثالثة — Audio 3 (محمد السعدي)"
+        "الصوتية الثالثة — Audio 3 (أحمد فؤاد)"
       ],
-      "audio_text": "الصوتية الثالثة — Audio 3 (محمد السعدي)",
+      "audio_text": "الصوتية الثالثة — Audio 3 (أحمد فؤاد)",
       "channel_names_mode": "custom",
       "details_status": "ok"
     },
     {
-      "id": "239779",
-      "competition": "الدوري الإنجليزي",
-      "home_team": "إيبسويتش تاون",
-      "away_team": "فولهام",
-      "home_logo": "https://jdwel.com/image/teams/1756.png",
-      "away_logo": "https://jdwel.com/image/teams/280.png",
-      "match_time": "10 أكتوبر 2026، 17:00",
+      "id": "241113",
+      "competition": "الدوري الإسباني",
+      "home_team": "ريال سوسيداد",
+      "away_team": "ديبورتيفو أكورونيا",
+      "home_logo": "https://jdwel.com/image/teams/2777.png",
+      "away_logo": "https://jdwel.com/image/teams/7004.png",
+      "match_time": "11 أكتوبر 2026، 17:15",
       "audio_items": [
         {
-          "channel": "beIN SPORTS 4",
-          "commentator": "محمد مبروكي"
+          "channel": "beIN SPORTS 3",
+          "commentator": "نوفل باشي"
         }
       ],
       "audio": [
-        "الصوتية الرابعة — Audio 4 (محمد مبروكي)"
+        "الصوتية الثالثة — Audio 3 (نوفل باشي)"
       ],
-      "audio_text": "الصوتية الرابعة — Audio 4 (محمد مبروكي)",
+      "audio_text": "الصوتية الثالثة — Audio 3 (نوفل باشي)",
       "channel_names_mode": "custom",
       "details_status": "ok"
     },
     {
-      "id": "239783",
-      "competition": "الدوري الإنجليزي",
-      "home_team": "تشيلسي",
-      "away_team": "بورنموث",
-      "home_logo": "https://jdwel.com/image/teams/6577.png",
-      "away_logo": "https://jdwel.com/image/teams/1555.png",
-      "match_time": "10 أكتوبر 2026، 17:00",
-      "audio_items": [
-        {
-          "channel": "beIN SPORTS 1",
-          "commentator": "علي محمد علي"
-        }
-      ],
-      "audio": [
-        "الصوتية الأولى — Audio 1 (علي محمد علي)"
-      ],
-      "audio_text": "الصوتية الأولى — Audio 1 (علي محمد علي)",
-      "channel_names_mode": "custom",
-      "details_status": "ok"
-    },
-    {
-      "id": "239784",
-      "competition": "الدوري الإنجليزي",
-      "home_team": "أستون فيلا",
-      "away_team": "برينتفورد",
-      "home_logo": "https://jdwel.com/image/teams/767.png",
-      "away_logo": "https://jdwel.com/image/teams/7197.png",
-      "match_time": "10 أكتوبر 2026، 17:00",
+      "id": "241105",
+      "competition": "الدوري الإسباني",
+      "home_team": "ريال بيتيس",
+      "away_team": "أوساسونا",
+      "home_logo": "https://jdwel.com/image/teams/2776.png",
+      "away_logo": "https://jdwel.com/image/teams/1556.png",
+      "match_time": "11 أكتوبر 2026، 19:30",
       "audio_items": [
         {
           "channel": "beIN SPORTS 2",
@@ -108,755 +129,448 @@
       "details_status": "ok"
     },
     {
-      "id": "239777",
-      "competition": "الدوري الإنجليزي",
-      "home_team": "مانشستر يونايتد",
-      "away_team": "توتنهام",
-      "home_logo": "https://jdwel.com/image/teams/3092.png",
-      "away_logo": "https://jdwel.com/image/teams/1018.png",
-      "match_time": "10 أكتوبر 2026، 19:30",
-      "audio_items": [
-        {
-          "channel": "beIN SPORTS 1",
-          "commentator": "أحمد البلوشي"
-        }
-      ],
-      "audio": [
-        "الصوتية الأولى — Audio 1 (أحمد البلوشي)"
-      ],
-      "audio_text": "الصوتية الأولى — Audio 1 (أحمد البلوشي)",
-      "channel_names_mode": "custom",
-      "details_status": "ok"
-    },
-    {
-      "id": "241111",
+      "id": "241110",
       "competition": "الدوري الإسباني",
-      "home_team": "رايو فايكانو",
-      "away_team": "أتلتيك بيلباو",
-      "home_logo": "https://jdwel.com/image/teams/1082.png",
-      "away_logo": "https://jdwel.com/image/teams/2033.png",
-      "match_time": "10 أكتوبر 2026، 15:00",
-      "audio_items": [
-        {
-          "channel": "beIN SPORTS 5",
-          "commentator": "بكر علوان"
-        }
-      ],
-      "audio": [
-        "الصوتية الخامسة — Audio 5 (بكر علوان)"
-      ],
-      "audio_text": "الصوتية الخامسة — Audio 5 (بكر علوان)",
-      "channel_names_mode": "custom",
-      "details_status": "ok"
-    },
-    {
-      "id": "241104",
-      "competition": "الدوري الإسباني",
-      "home_team": "ديبورتيفو ألافيس",
-      "away_team": "أتلتيكو مدريد",
-      "home_logo": "https://jdwel.com/image/teams/4507.png",
-      "away_logo": "https://jdwel.com/image/teams/6403.png",
-      "match_time": "10 أكتوبر 2026، 17:15",
-      "audio_items": [
-        {
-          "channel": "beIN SPORTS 5",
-          "commentator": "عصام الشوالي"
-        }
-      ],
-      "audio": [
-        "الصوتية الخامسة — Audio 5 (عصام الشوالي)"
-      ],
-      "audio_text": "الصوتية الخامسة — Audio 5 (عصام الشوالي)",
-      "channel_names_mode": "custom",
-      "details_status": "ok"
-    },
-    {
-      "id": "241107",
-      "competition": "الدوري الإسباني",
-      "home_team": "برشلونة",
-      "away_team": "خيتافي",
-      "home_logo": "https://jdwel.com/image/teams/3337.png",
-      "away_logo": "https://jdwel.com/image/teams/1081.png",
-      "match_time": "10 أكتوبر 2026، 19:30",
+      "home_team": "راسينغ سانتاندير",
+      "away_team": "فالنسيا",
+      "home_logo": "https://jdwel.com/image/teams/1554.png",
+      "away_logo": "https://jdwel.com/image/teams/1025.png",
+      "match_time": "11 أكتوبر 2026، 22:00",
       "audio_items": [
         {
           "channel": "beIN SPORTS 2",
-          "commentator": "خليل البلوشي"
-        }
-      ],
-      "audio": [
-        "الصوتية الثانية — Audio 2 (خليل البلوشي)"
-      ],
-      "audio_text": "الصوتية الثانية — Audio 2 (خليل البلوشي)",
-      "channel_names_mode": "custom",
-      "details_status": "ok"
-    },
-    {
-      "id": "241112",
-      "competition": "الدوري الإسباني",
-      "home_team": "ريال مدريد",
-      "away_team": "فياريال",
-      "home_logo": "https://jdwel.com/image/teams/2605.png",
-      "away_logo": "https://jdwel.com/image/teams/1680.png",
-      "match_time": "10 أكتوبر 2026، 22:00",
-      "audio_items": [
-        {
-          "channel": "beIN SPORTS 2",
-          "commentator": "حفيظ دراجي"
-        }
-      ],
-      "audio": [
-        "الصوتية الثانية — Audio 2 (حفيظ دراجي)"
-      ],
-      "audio_text": "الصوتية الثانية — Audio 2 (حفيظ دراجي)",
-      "channel_names_mode": "custom",
-      "details_status": "ok"
-    },
-    {
-      "id": "240162",
-      "competition": "الدوري الإيطالي",
-      "home_team": "جنوى",
-      "away_team": "فيورنتينا",
-      "home_logo": "https://jdwel.com/image/teams/320.png",
-      "away_logo": "https://jdwel.com/image/teams/ita_fiorentina_v2.png",
-      "match_time": "10 أكتوبر 2026، 16:00",
-      "audio_items": [
-        {
-          "channel": "STARZPLAY",
-          "commentator": "أحمد الخير"
-        },
-        {
-          "channel": "STC TV",
-          "commentator": "أحمد الخير"
-        }
-      ],
-      "audio": [
-        "الإيطالية — Italy (أحمد الخير)",
-        "الإيطالية — Italy (أحمد الخير)"
-      ],
-      "audio_text": "الإيطالية — Italy (أحمد الخير) | الإيطالية — Italy (أحمد الخير)",
-      "channel_names_mode": "custom",
-      "details_status": "ok"
-    },
-    {
-      "id": "240161",
-      "competition": "الدوري الإيطالي",
-      "home_team": "إنتر ميلان",
-      "away_team": "بارما",
-      "home_logo": "https://jdwel.com/image/teams/2034.png",
-      "away_logo": "https://jdwel.com/image/teams/3335.png",
-      "match_time": "10 أكتوبر 2026، 19:00",
-      "audio_items": [
-        {
-          "channel": "STARZPLAY",
-          "commentator": "محمد الشامسي"
-        },
-        {
-          "channel": "STC TV",
-          "commentator": "محمد الشامسي"
-        }
-      ],
-      "audio": [
-        "الإيطالية — Italy (محمد الشامسي)",
-        "الإيطالية — Italy (محمد الشامسي)"
-      ],
-      "audio_text": "الإيطالية — Italy (محمد الشامسي) | الإيطالية — Italy (محمد الشامسي)",
-      "channel_names_mode": "custom",
-      "details_status": "ok"
-    },
-    {
-      "id": "240158",
-      "competition": "الدوري الإيطالي",
-      "home_team": "نابولي",
-      "away_team": "فروسينوني",
-      "home_logo": "https://jdwel.com/image/teams/3854.png",
-      "away_logo": "https://jdwel.com/image/teams/1124.png",
-      "match_time": "10 أكتوبر 2026، 21:45",
-      "audio_items": [
-        {
-          "channel": "STARZPLAY",
-          "commentator": "حازم عبدالسلام"
-        },
-        {
-          "channel": "STC TV",
-          "commentator": "حازم عبدالسلام"
-        }
-      ],
-      "audio": [
-        "الإيطالية — Italy (حازم عبدالسلام)",
-        "الإيطالية — Italy (حازم عبدالسلام)"
-      ],
-      "audio_text": "الإيطالية — Italy (حازم عبدالسلام) | الإيطالية — Italy (حازم عبدالسلام)",
-      "channel_names_mode": "custom",
-      "details_status": "ok"
-    },
-    {
-      "id": "254978",
-      "competition": "دوري روشن السعودي",
-      "home_team": "الحزم",
-      "away_team": "نيوم",
-      "home_logo": "https://jdwel.com/image/teams/sau_al_hazm_v2.png",
-      "away_logo": "https://jdwel.com/image/teams/298.png",
-      "match_time": "10 أكتوبر 2026، 16:50",
-      "audio_items": [
-        {
-          "channel": "ثمانية 3",
-          "commentator": "سعد يحيى"
-        }
-      ],
-      "audio": [
-        "Thamanya 3 — ثمانية 3 (سعد يحيى)"
-      ],
-      "audio_text": "Thamanya 3 — ثمانية 3 (سعد يحيى)",
-      "channel_names_mode": "custom",
-      "details_status": "ok"
-    },
-    {
-      "id": "254975",
-      "competition": "دوري روشن السعودي",
-      "home_team": "الاتفاق",
-      "away_team": "الخليج",
-      "home_logo": "https://jdwel.com/image/teams/2215.png",
-      "away_logo": "https://jdwel.com/image/teams/2840.png",
-      "match_time": "10 أكتوبر 2026، 17:55",
-      "audio_items": [
-        {
-          "channel": "ثمانية 2",
-          "commentator": "راشد عبدالرحمن"
-        }
-      ],
-      "audio": [
-        "Thamanya 2 — ثمانية 2 (راشد عبدالرحمن)"
-      ],
-      "audio_text": "Thamanya 2 — ثمانية 2 (راشد عبدالرحمن)",
-      "channel_names_mode": "custom",
-      "details_status": "ok"
-    },
-    {
-      "id": "254979",
-      "competition": "دوري روشن السعودي",
-      "home_team": "الهلال",
-      "away_team": "الاتحاد",
-      "home_logo": "https://jdwel.com/image/teams/2761.png",
-      "away_logo": "https://jdwel.com/image/teams/2839.png",
-      "match_time": "10 أكتوبر 2026، 21:00",
-      "audio_items": [
-        {
-          "channel": "ثمانية 1",
-          "commentator": "عبدالله الحربي و فهد العتيبي"
-        }
-      ],
-      "audio": [
-        "Thamanya 1 — ثمانية 1 (عبدالله الحربي و فهد العتيبي)"
-      ],
-      "audio_text": "Thamanya 1 — ثمانية 1 (عبدالله الحربي و فهد العتيبي)",
-      "channel_names_mode": "custom",
-      "details_status": "ok"
-    },
-    {
-      "id": "240474",
-      "competition": "الدوري الفرنسي",
-      "home_team": "ليل",
-      "away_team": "لوهافر",
-      "home_logo": "https://jdwel.com/image/teams/3190.png",
-      "away_logo": "https://jdwel.com/image/teams/3189.png",
-      "match_time": "10 أكتوبر 2026، 18:15",
-      "audio_items": [
-        {
-          "channel": "beIN SPORTS 6",
-          "commentator": "جواد بدة"
-        }
-      ],
-      "audio": [
-        "الصوتية السادسة — Audio 6 (جواد بدة)"
-      ],
-      "audio_text": "الصوتية السادسة — Audio 6 (جواد بدة)",
-      "channel_names_mode": "custom",
-      "details_status": "ok"
-    },
-    {
-      "id": "240470",
-      "competition": "الدوري الفرنسي",
-      "home_team": "باريس سان جيرمان",
-      "away_team": "لومان",
-      "home_logo": "https://jdwel.com/image/teams/2347.png",
-      "away_logo": "https://jdwel.com/image/teams/fra_le_mans.png",
-      "match_time": "10 أكتوبر 2026، 21:45",
-      "audio_items": [
-        {
-          "channel": "beIN SPORTS 1",
-          "commentator": "عامر الخوذيري"
-        }
-      ],
-      "audio": [
-        "الصوتية الأولى — Audio 1 (عامر الخوذيري)"
-      ],
-      "audio_text": "الصوتية الأولى — Audio 1 (عامر الخوذيري)",
-      "channel_names_mode": "custom",
-      "details_status": "ok"
-    },
-    {
-      "id": "240472",
-      "competition": "الدوري الفرنسي",
-      "home_team": "موناكو",
-      "away_team": "تولوز",
-      "home_logo": "https://jdwel.com/image/teams/1129.png",
-      "away_logo": "https://jdwel.com/image/teams/2966.png",
-      "match_time": "10 أكتوبر 2026، 21:45",
-      "audio_items": [
-        {
-          "channel": "beIN SPORTS 4",
-          "commentator": "نوفل باشي"
-        }
-      ],
-      "audio": [
-        "الصوتية الرابعة — Audio 4 (نوفل باشي)"
-      ],
-      "audio_text": "الصوتية الرابعة — Audio 4 (نوفل باشي)",
-      "channel_names_mode": "custom",
-      "details_status": "ok"
-    },
-    {
-      "id": "240473",
-      "competition": "الدوري الفرنسي",
-      "home_team": "لوريان",
-      "away_team": "باريس",
-      "home_logo": "https://jdwel.com/image/teams/1662.png",
-      "away_logo": "https://jdwel.com/image/teams/3560.png",
-      "match_time": "10 أكتوبر 2026، 21:45",
-      "audio_items": [
-        {
-          "channel": "beIN SPORTS 7",
-          "commentator": "منتصر الأزهري"
-        }
-      ],
-      "audio": [
-        "الصوتية السابعة — Audio 7 (منتصر الأزهري)"
-      ],
-      "audio_text": "الصوتية السابعة — Audio 7 (منتصر الأزهري)",
-      "channel_names_mode": "custom",
-      "details_status": "ok"
-    },
-    {
-      "id": "240476",
-      "competition": "الدوري الفرنسي",
-      "home_team": "بريست",
-      "away_team": "أنجيه",
-      "home_logo": "https://jdwel.com/image/teams/1502.png",
-      "away_logo": "https://jdwel.com/image/teams/5696.png",
-      "match_time": "10 أكتوبر 2026، 21:45",
-      "audio_items": [
-        {
-          "channel": "beIN SPORTS 5",
           "commentator": "أحمد عبده"
         }
       ],
       "audio": [
-        "الصوتية الخامسة — Audio 5 (أحمد عبده)"
+        "الصوتية الثانية — Audio 2 (أحمد عبده)"
       ],
-      "audio_text": "الصوتية الخامسة — Audio 5 (أحمد عبده)",
+      "audio_text": "الصوتية الثانية — Audio 2 (أحمد عبده)",
       "channel_names_mode": "custom",
       "details_status": "ok"
     },
     {
-      "id": "242707",
-      "competition": "الدوري الألماني",
-      "home_team": "بادربورن",
-      "away_team": "شتوتغارت",
-      "home_logo": "https://jdwel.com/image/teams/3264.png",
-      "away_logo": "https://jdwel.com/image/teams/2036.png",
-      "match_time": "10 أكتوبر 2026، 16:30",
+      "id": "240163",
+      "competition": "الدوري الإيطالي",
+      "home_team": "كومو",
+      "away_team": "روما",
+      "home_logo": "https://jdwel.com/image/teams/2520.png",
+      "away_logo": "https://jdwel.com/image/teams/2435.png",
+      "match_time": "11 أكتوبر 2026، 13:30",
       "audio_items": [
         {
-          "channel": "MBC شاهد",
-          "commentator": "أنيس السحباني"
-        }
-      ],
-      "audio": [
-        "MBC شاهد (أنيس السحباني)"
-      ],
-      "audio_text": "MBC شاهد (أنيس السحباني)",
-      "channel_names_mode": "custom",
-      "details_status": "ok"
-    },
-    {
-      "id": "242709",
-      "competition": "الدوري الألماني",
-      "home_team": "يونيون برلين",
-      "away_team": "إلفيرسبيرغ",
-      "home_logo": "https://jdwel.com/image/teams/2632.png",
-      "away_logo": "https://jdwel.com/image/teams/1017.png",
-      "match_time": "10 أكتوبر 2026، 16:30",
-      "audio_items": [
-        {
-          "channel": "MBC شاهد",
-          "commentator": "فهد الدريبي"
-        }
-      ],
-      "audio": [
-        "MBC شاهد (فهد الدريبي)"
-      ],
-      "audio_text": "MBC شاهد (فهد الدريبي)",
-      "channel_names_mode": "custom",
-      "details_status": "ok"
-    },
-    {
-      "id": "242710",
-      "competition": "الدوري الألماني",
-      "home_team": "ماينز 05",
-      "away_team": "باير ليفركوزن",
-      "home_logo": "https://jdwel.com/image/teams/1304.png",
-      "away_logo": "https://jdwel.com/image/teams/2146.png",
-      "match_time": "10 أكتوبر 2026، 16:30",
-      "audio_items": [
-        {
-          "channel": "MBC Action",
-          "commentator": "أحمد النفيسة"
-        }
-      ],
-      "audio": [
-        "MBC Action (أحمد النفيسة)"
-      ],
-      "audio_text": "MBC Action (أحمد النفيسة)",
-      "channel_names_mode": "custom",
-      "details_status": "ok"
-    },
-    {
-      "id": "242711",
-      "competition": "الدوري الألماني",
-      "home_team": "أوغسبورغ",
-      "away_team": "بايرن ميونخ",
-      "home_logo": "https://jdwel.com/image/teams/2630.png",
-      "away_logo": "https://jdwel.com/image/teams/1300.png",
-      "match_time": "10 أكتوبر 2026، 16:30",
-      "audio_items": [
-        {
-          "channel": "MBC شاهد",
-          "commentator": "فهد عريشي"
-        }
-      ],
-      "audio": [
-        "MBC شاهد (فهد عريشي)"
-      ],
-      "audio_text": "MBC شاهد (فهد عريشي)",
-      "channel_names_mode": "custom",
-      "details_status": "ok"
-    },
-    {
-      "id": "242713",
-      "competition": "الدوري الألماني",
-      "home_team": "هوفنهايم",
-      "away_team": "هامبورغ",
-      "home_logo": "https://jdwel.com/image/teams/3224.png",
-      "away_logo": "https://jdwel.com/image/teams/1302.png",
-      "match_time": "10 أكتوبر 2026، 16:30",
-      "audio_items": [
-        {
-          "channel": "MBC شاهد",
-          "commentator": "عائد العصيمي"
-        }
-      ],
-      "audio": [
-        "MBC شاهد (عائد العصيمي)"
-      ],
-      "audio_text": "MBC شاهد (عائد العصيمي)",
-      "channel_names_mode": "custom",
-      "details_status": "ok"
-    },
-    {
-      "id": "242714",
-      "competition": "الدوري الألماني",
-      "home_team": "لايبزيغ",
-      "away_team": "آينتراخت فرانكفورت",
-      "home_logo": "https://jdwel.com/image/teams/2849.png",
-      "away_logo": "https://jdwel.com/image/teams/6402.png",
-      "match_time": "10 أكتوبر 2026، 19:30",
-      "audio_items": [
-        {
-          "channel": "MBC Action",
-          "commentator": "عبدالله الشهري"
-        }
-      ],
-      "audio": [
-        "MBC Action (عبدالله الشهري)"
-      ],
-      "audio_text": "MBC Action (عبدالله الشهري)",
-      "channel_names_mode": "custom",
-      "details_status": "ok"
-    },
-    {
-      "id": "251663",
-      "competition": "الدوري التركي",
-      "home_team": "غنتشلربيرليغي",
-      "away_team": "آميد سبورتيف",
-      "home_logo": "https://jdwel.com/image/teams/tur_genclerbirligi.png",
-      "away_logo": "https://jdwel.com/image/teams/6917.png",
-      "match_time": "10 أكتوبر 2026، 13:30",
-      "audio_items": [
-        {
-          "channel": "beIN SPORTS 2 TR",
-          "commentator": "غير محدد"
-        }
-      ],
-      "audio": [
-        "الصوتية الثانية — Audio 2 (غير محدد)"
-      ],
-      "audio_text": "الصوتية الثانية — Audio 2 (غير محدد)",
-      "channel_names_mode": "custom",
-      "details_status": "ok"
-    },
-    {
-      "id": "251659",
-      "competition": "الدوري التركي",
-      "home_team": "سامسون سبور",
-      "away_team": "طرابزون سبور",
-      "home_logo": "https://jdwel.com/image/teams/2229.png",
-      "away_logo": "https://jdwel.com/image/teams/4730.png",
-      "match_time": "10 أكتوبر 2026، 16:00",
-      "audio_items": [
-        {
-          "channel": "beIN SPORTS XTRA 1",
-          "commentator": "أحمد فؤاد"
+          "channel": "STARZPLAY",
+          "commentator": "عبدالله السعدي"
         },
+        {
+          "channel": "STC TV",
+          "commentator": "عبدالله السعدي"
+        }
+      ],
+      "audio": [
+        "الإيطالية — Italy (عبدالله السعدي)",
+        "الإيطالية — Italy (عبدالله السعدي)"
+      ],
+      "audio_text": "الإيطالية — Italy (عبدالله السعدي) | الإيطالية — Italy (عبدالله السعدي)",
+      "channel_names_mode": "custom",
+      "details_status": "ok"
+    },
+    {
+      "id": "240159",
+      "competition": "الدوري الإيطالي",
+      "home_team": "ليتشي",
+      "away_team": "بولونيا",
+      "home_logo": "https://jdwel.com/image/teams/896.png",
+      "away_logo": "https://jdwel.com/image/teams/2845.png",
+      "match_time": "11 أكتوبر 2026، 16:00",
+      "audio_items": [
+        {
+          "channel": "STARZPLAY",
+          "commentator": "أحمد الحامد"
+        },
+        {
+          "channel": "STC TV",
+          "commentator": "أحمد الحامد"
+        }
+      ],
+      "audio": [
+        "الإيطالية — Italy (أحمد الحامد)",
+        "الإيطالية — Italy (أحمد الحامد)"
+      ],
+      "audio_text": "الإيطالية — Italy (أحمد الحامد) | الإيطالية — Italy (أحمد الحامد)",
+      "channel_names_mode": "custom",
+      "details_status": "ok"
+    },
+    {
+      "id": "240160",
+      "competition": "الدوري الإيطالي",
+      "home_team": "لاتسيو",
+      "away_team": "مونزا",
+      "home_logo": "https://jdwel.com/image/teams/ita_lazio.png",
+      "away_logo": "https://jdwel.com/image/teams/2152.png",
+      "match_time": "11 أكتوبر 2026، 16:00",
+      "audio_items": [
+        {
+          "channel": "STARZPLAY",
+          "commentator": "فيصل الهندي"
+        },
+        {
+          "channel": "STC TV",
+          "commentator": "فيصل الهندي"
+        }
+      ],
+      "audio": [
+        "الإيطالية — Italy (فيصل الهندي)",
+        "الإيطالية — Italy (فيصل الهندي)"
+      ],
+      "audio_text": "الإيطالية — Italy (فيصل الهندي) | الإيطالية — Italy (فيصل الهندي)",
+      "channel_names_mode": "custom",
+      "details_status": "ok"
+    },
+    {
+      "id": "240157",
+      "competition": "الدوري الإيطالي",
+      "home_team": "ساسولو",
+      "away_team": "ميلان",
+      "home_logo": "https://jdwel.com/image/teams/3886.png",
+      "away_logo": "https://jdwel.com/image/teams/2433.png",
+      "match_time": "11 أكتوبر 2026، 19:00",
+      "audio_items": [
+        {
+          "channel": "STARZPLAY",
+          "commentator": "عيسى الحربين"
+        },
+        {
+          "channel": "STC TV",
+          "commentator": "عيسى الحربين"
+        }
+      ],
+      "audio": [
+        "الإيطالية — Italy (عيسى الحربين)",
+        "الإيطالية — Italy (عيسى الحربين)"
+      ],
+      "audio_text": "الإيطالية — Italy (عيسى الحربين) | الإيطالية — Italy (عيسى الحربين)",
+      "channel_names_mode": "custom",
+      "details_status": "ok"
+    },
+    {
+      "id": "240164",
+      "competition": "الدوري الإيطالي",
+      "home_team": "كالياري",
+      "away_team": "يوفنتوس",
+      "home_logo": "https://jdwel.com/image/teams/155.png",
+      "away_logo": "https://jdwel.com/image/teams/882.png",
+      "match_time": "11 أكتوبر 2026، 21:45",
+      "audio_items": [
+        {
+          "channel": "STARZPLAY",
+          "commentator": "عامر عبدالله"
+        },
+        {
+          "channel": "STC TV",
+          "commentator": "عامر عبدالله"
+        }
+      ],
+      "audio": [
+        "الإيطالية — Italy (عامر عبدالله)",
+        "الإيطالية — Italy (عامر عبدالله)"
+      ],
+      "audio_text": "الإيطالية — Italy (عامر عبدالله) | الإيطالية — Italy (عامر عبدالله)",
+      "channel_names_mode": "custom",
+      "details_status": "ok"
+    },
+    {
+      "id": "254977",
+      "competition": "دوري روشن السعودي",
+      "home_team": "الفيحاء",
+      "away_team": "الرياض",
+      "home_logo": "https://jdwel.com/image/teams/3067.png",
+      "away_logo": "https://jdwel.com/image/teams/1810.png",
+      "match_time": "11 أكتوبر 2026، 16:40",
+      "audio_items": [
+        {
+          "channel": "ثمانية 2",
+          "commentator": "خالد المديفر"
+        }
+      ],
+      "audio": [
+        "Thamanya 2 — ثمانية 2 (خالد المديفر)"
+      ],
+      "audio_text": "Thamanya 2 — ثمانية 2 (خالد المديفر)",
+      "channel_names_mode": "custom",
+      "details_status": "ok"
+    },
+    {
+      "id": "254974",
+      "competition": "دوري روشن السعودي",
+      "home_team": "أبها",
+      "away_team": "الفيصلي",
+      "home_logo": "https://jdwel.com/image/teams/2451.png",
+      "away_logo": "https://jdwel.com/image/teams/3215.png",
+      "match_time": "11 أكتوبر 2026، 18:25",
+      "audio_items": [
+        {
+          "channel": "ثمانية 1",
+          "commentator": "سليمان الشريف"
+        }
+      ],
+      "audio": [
+        "Thamanya 1 — ثمانية 1 (سليمان الشريف)"
+      ],
+      "audio_text": "Thamanya 1 — ثمانية 1 (سليمان الشريف)",
+      "channel_names_mode": "custom",
+      "details_status": "ok"
+    },
+    {
+      "id": "254982",
+      "competition": "دوري روشن السعودي",
+      "home_team": "الشباب",
+      "away_team": "التعاون",
+      "home_logo": "https://jdwel.com/image/teams/2213.png",
+      "away_logo": "https://jdwel.com/image/teams/5338.png",
+      "match_time": "11 أكتوبر 2026، 21:00",
+      "audio_items": [
+        {
+          "channel": "ثمانية 1",
+          "commentator": "مشاري القرني"
+        }
+      ],
+      "audio": [
+        "Thamanya 1 — ثمانية 1 (مشاري القرني)"
+      ],
+      "audio_text": "Thamanya 1 — ثمانية 1 (مشاري القرني)",
+      "channel_names_mode": "custom",
+      "details_status": "ok"
+    },
+    {
+      "id": "240471",
+      "competition": "الدوري الفرنسي",
+      "home_team": "نيس",
+      "away_team": "ستراسبورغ",
+      "home_logo": "https://jdwel.com/image/teams/6405.png",
+      "away_logo": "https://jdwel.com/image/teams/fra_strasbourg.png",
+      "match_time": "11 أكتوبر 2026، 16:00",
+      "audio_items": [
+        {
+          "channel": "beIN SPORTS 4",
+          "commentator": "أحمد البلوشي"
+        }
+      ],
+      "audio": [
+        "الصوتية الرابعة — Audio 4 (أحمد البلوشي)"
+      ],
+      "audio_text": "الصوتية الرابعة — Audio 4 (أحمد البلوشي)",
+      "channel_names_mode": "custom",
+      "details_status": "ok"
+    },
+    {
+      "id": "240469",
+      "competition": "الدوري الفرنسي",
+      "home_team": "رين",
+      "away_team": "أوكسير",
+      "home_logo": "https://jdwel.com/image/teams/2037.png",
+      "away_logo": "https://jdwel.com/image/teams/341.png",
+      "match_time": "11 أكتوبر 2026، 18:15",
+      "audio_items": [
+        {
+          "channel": "beIN SPORTS 4",
+          "commentator": "عامر الخوذيري"
+        }
+      ],
+      "audio": [
+        "الصوتية الرابعة — Audio 4 (عامر الخوذيري)"
+      ],
+      "audio_text": "الصوتية الرابعة — Audio 4 (عامر الخوذيري)",
+      "channel_names_mode": "custom",
+      "details_status": "ok"
+    },
+    {
+      "id": "240468",
+      "competition": "الدوري الفرنسي",
+      "home_team": "تروا",
+      "away_team": "مارسيليا",
+      "home_logo": "https://jdwel.com/image/teams/6492.png",
+      "away_logo": "https://jdwel.com/image/teams/6246.png",
+      "match_time": "11 أكتوبر 2026، 21:45",
+      "audio_items": [
+        {
+          "channel": "beIN SPORTS 3",
+          "commentator": "محمد مبروكي"
+        }
+      ],
+      "audio": [
+        "الصوتية الثالثة — Audio 3 (محمد مبروكي)"
+      ],
+      "audio_text": "الصوتية الثالثة — Audio 3 (محمد مبروكي)",
+      "channel_names_mode": "custom",
+      "details_status": "ok"
+    },
+    {
+      "id": "242708",
+      "competition": "الدوري الألماني",
+      "home_team": "كولن",
+      "away_team": "بوروسيا مونشنغلادباخ",
+      "home_logo": "https://jdwel.com/image/teams/2148.png",
+      "away_logo": "https://jdwel.com/image/teams/2634.png",
+      "match_time": "11 أكتوبر 2026، 16:30",
+      "audio_items": [
+        {
+          "channel": "MBC شاهد",
+          "commentator": "محمد الخامسي"
+        }
+      ],
+      "audio": [
+        "MBC شاهد (محمد الخامسي)"
+      ],
+      "audio_text": "MBC شاهد (محمد الخامسي)",
+      "channel_names_mode": "custom",
+      "details_status": "ok"
+    },
+    {
+      "id": "242712",
+      "competition": "الدوري الألماني",
+      "home_team": "فرايبورغ",
+      "away_team": "شالكه 04",
+      "home_logo": "https://jdwel.com/image/teams/3453.png",
+      "away_logo": "https://jdwel.com/image/teams/3263.png",
+      "match_time": "11 أكتوبر 2026، 18:30",
+      "audio_items": [
+        {
+          "channel": "MBC Action",
+          "commentator": "عصام عبده"
+        }
+      ],
+      "audio": [
+        "MBC Action (عصام عبده)"
+      ],
+      "audio_text": "MBC Action (عصام عبده)",
+      "channel_names_mode": "custom",
+      "details_status": "ok"
+    },
+    {
+      "id": "262996",
+      "competition": "كأس ملك إسبانيا",
+      "home_team": "برات",
+      "away_team": "سان رافائيل",
+      "home_logo": "https://jdwel.com/image/teams/7258.png",
+      "away_logo": "https://jdwel.com/image/teams/7191.png",
+      "match_time": "11 أكتوبر 2026، 17:00",
+      "audio_items": [],
+      "audio": [],
+      "audio_text": "",
+      "channel_names_mode": "custom",
+      "details_status": "unavailable",
+      "details_error": "صفحة المباراة لا تحتوي على عناصر قنوات ضمن قسم البث"
+    },
+    {
+      "id": "256826",
+      "competition": "الدوري المصري",
+      "home_team": "القناة",
+      "away_team": "المصري",
+      "home_logo": "https://jdwel.com/image/teams/4706.png",
+      "away_logo": "https://jdwel.com/image/teams/301.png",
+      "match_time": "11 أكتوبر 2026، 17:00",
+      "audio_items": [
+        {
+          "channel": "أون سبورت ماكس",
+          "commentator": "محمد الكواليني"
+        }
+      ],
+      "audio": [
+        "أون سبورت ماكس (محمد الكواليني)"
+      ],
+      "audio_text": "أون سبورت ماكس (محمد الكواليني)",
+      "channel_names_mode": "custom",
+      "details_status": "ok"
+    },
+    {
+      "id": "256827",
+      "competition": "الدوري المصري",
+      "home_team": "الزمالك",
+      "away_team": "الأهلي",
+      "home_logo": "https://jdwel.com/image/teams/339.png",
+      "away_logo": "https://jdwel.com/image/teams/1253.png",
+      "match_time": "11 أكتوبر 2026، 20:00",
+      "audio_items": [
+        {
+          "channel": "أون سبورت 1",
+          "commentator": "أيمن الكاشف و محمد الشاذلي"
+        },
+        {
+          "channel": "أون سبورت ماكس",
+          "commentator": "بلال علام و مؤمن حسن"
+        }
+      ],
+      "audio": [
+        "أون سبورت 1 (أيمن الكاشف و محمد الشاذلي)",
+        "أون سبورت ماكس (بلال علام و مؤمن حسن)"
+      ],
+      "audio_text": "أون سبورت 1 (أيمن الكاشف و محمد الشاذلي) | أون سبورت ماكس (بلال علام و مؤمن حسن)",
+      "channel_names_mode": "custom",
+      "details_status": "ok"
+    },
+    {
+      "id": "251662",
+      "competition": "الدوري التركي",
+      "home_team": "قونيا سبور",
+      "away_team": "إسطنبول باشاكشهر",
+      "home_logo": "https://jdwel.com/image/teams/tur_konyaspor.png",
+      "away_logo": "https://jdwel.com/image/teams/2640.png",
+      "match_time": "11 أكتوبر 2026، 13:30",
+      "audio_items": [
         {
           "channel": "beIN SPORTS 1 TR",
           "commentator": "غير محدد"
         }
       ],
       "audio": [
-        "beIN SPORTS XTRA 1 (أحمد فؤاد)",
         "الصوتية الأولى — Audio 1 (غير محدد)"
       ],
-      "audio_text": "beIN SPORTS XTRA 1 (أحمد فؤاد) | الصوتية الأولى — Audio 1 (غير محدد)",
+      "audio_text": "الصوتية الأولى — Audio 1 (غير محدد)",
       "channel_names_mode": "custom",
       "details_status": "ok"
     },
     {
-      "id": "251665",
+      "id": "251667",
       "competition": "الدوري التركي",
-      "home_team": "ألانيا سبور",
-      "away_team": "أرضروم سبور",
-      "home_logo": "https://jdwel.com/image/teams/1511.png",
-      "away_logo": "https://jdwel.com/image/teams/6916.png",
-      "match_time": "10 أكتوبر 2026، 16:00",
+      "home_team": "غازي عنتاب",
+      "away_team": "تشوروم",
+      "home_logo": "https://jdwel.com/image/teams/1508.png",
+      "away_logo": "https://jdwel.com/image/teams/7005.png",
+      "match_time": "11 أكتوبر 2026، 16:00",
       "audio_items": [
-        {
-          "channel": "beIN SPORTS 2 TR",
-          "commentator": "غير محدد"
-        }
-      ],
-      "audio": [
-        "الصوتية الثانية — Audio 2 (غير محدد)"
-      ],
-      "audio_text": "الصوتية الثانية — Audio 2 (غير محدد)",
-      "channel_names_mode": "custom",
-      "details_status": "ok"
-    },
-    {
-      "id": "251664",
-      "competition": "الدوري التركي",
-      "home_team": "ريزه سبور",
-      "away_team": "فنربخشة",
-      "home_logo": "https://jdwel.com/image/teams/2345.png",
-      "away_logo": "https://jdwel.com/image/teams/1681.png",
-      "match_time": "10 أكتوبر 2026، 19:00",
-      "audio_items": [
-        {
-          "channel": "beIN SPORTS 7",
-          "commentator": "سمير اليعقوبي"
-        },
         {
           "channel": "beIN SPORTS 1 TR",
           "commentator": "غير محدد"
         }
       ],
       "audio": [
-        "الصوتية السابعة — Audio 7 (سمير اليعقوبي)",
         "الصوتية الأولى — Audio 1 (غير محدد)"
       ],
-      "audio_text": "الصوتية السابعة — Audio 7 (سمير اليعقوبي) | الصوتية الأولى — Audio 1 (غير محدد)",
+      "audio_text": "الصوتية الأولى — Audio 1 (غير محدد)",
       "channel_names_mode": "custom",
       "details_status": "ok"
     },
     {
-      "id": "245051",
-      "competition": "الدوري الإنجليزي الدرجة الثالثة",
-      "home_team": "سويندون تاون",
-      "away_team": "كرو ألكساندرا",
-      "home_logo": "https://jdwel.com/image/teams/3280.png",
-      "away_logo": "https://jdwel.com/image/teams/eng_crewe_alexandra.png",
-      "match_time": "10 أكتوبر 2026، 14:30",
-      "audio_items": [],
-      "audio": [],
-      "audio_text": "",
+      "id": "251660",
+      "competition": "الدوري التركي",
+      "home_team": "بشكتاش",
+      "away_team": "كوجالي سبور",
+      "home_logo": "https://jdwel.com/image/teams/2149.png",
+      "away_logo": "https://jdwel.com/image/teams/tur_kocaelispor.png",
+      "match_time": "11 أكتوبر 2026، 19:00",
+      "audio_items": [
+        {
+          "channel": "beIN SPORTS 1 TR",
+          "commentator": "غير محدد"
+        }
+      ],
+      "audio": [
+        "الصوتية الأولى — Audio 1 (غير محدد)"
+      ],
+      "audio_text": "الصوتية الأولى — Audio 1 (غير محدد)",
       "channel_names_mode": "custom",
-      "details_status": "unavailable",
-      "details_error": "صفحة المباراة لا تحتوي على عناصر قنوات ضمن قسم البث"
-    },
-    {
-      "id": "245055",
-      "competition": "الدوري الإنجليزي الدرجة الثالثة",
-      "home_team": "أولدهام أثليتيك",
-      "away_team": "أكرينغتون ستانلي",
-      "home_logo": "https://jdwel.com/image/teams/3411.png",
-      "away_logo": "https://jdwel.com/image/teams/6379.png",
-      "match_time": "10 أكتوبر 2026، 14:30",
-      "audio_items": [],
-      "audio": [],
-      "audio_text": "",
-      "channel_names_mode": "custom",
-      "details_status": "unavailable",
-      "details_error": "صفحة المباراة لا تحتوي على عناصر قنوات ضمن قسم البث"
-    },
-    {
-      "id": "245049",
-      "competition": "الدوري الإنجليزي الدرجة الثالثة",
-      "home_team": "يورك سيتي",
-      "away_team": "نورثامبتون تاون",
-      "home_logo": "https://jdwel.com/image/teams/eng_york_city.png",
-      "away_logo": "https://jdwel.com/image/teams/1088.png",
-      "match_time": "10 أكتوبر 2026، 17:00",
-      "audio_items": [],
-      "audio": [],
-      "audio_text": "",
-      "channel_names_mode": "custom",
-      "details_status": "unavailable",
-      "details_error": "صفحة المباراة لا تحتوي على عناصر قنوات ضمن قسم البث"
-    },
-    {
-      "id": "245050",
-      "competition": "الدوري الإنجليزي الدرجة الثالثة",
-      "home_team": "ترانمير روفرز",
-      "away_team": "روشديل",
-      "home_logo": "https://jdwel.com/image/teams/1099.png",
-      "away_logo": "https://jdwel.com/image/teams/eng_rochdale.png",
-      "match_time": "10 أكتوبر 2026، 17:00",
-      "audio_items": [],
-      "audio": [],
-      "audio_text": "",
-      "channel_names_mode": "custom",
-      "details_status": "unavailable",
-      "details_error": "صفحة المباراة لا تحتوي على عناصر قنوات ضمن قسم البث"
-    },
-    {
-      "id": "245052",
-      "competition": "الدوري الإنجليزي الدرجة الثالثة",
-      "home_team": "شروزبري تاون",
-      "away_team": "إكستر سيتي",
-      "home_logo": "https://jdwel.com/image/teams/1029.png",
-      "away_logo": "https://jdwel.com/image/teams/3412.png",
-      "match_time": "10 أكتوبر 2026، 17:00",
-      "audio_items": [],
-      "audio": [],
-      "audio_text": "",
-      "channel_names_mode": "custom",
-      "details_status": "unavailable",
-      "details_error": "صفحة المباراة لا تحتوي على عناصر قنوات ضمن قسم البث"
-    },
-    {
-      "id": "245053",
-      "competition": "الدوري الإنجليزي الدرجة الثالثة",
-      "home_team": "روثيرهام يونايتد",
-      "away_team": "غيلينغهام",
-      "home_logo": "https://jdwel.com/image/teams/eng_rotherham_united.png",
-      "away_logo": "https://jdwel.com/image/teams/eng_gillingham.png",
-      "match_time": "10 أكتوبر 2026، 17:00",
-      "audio_items": [],
-      "audio": [],
-      "audio_text": "",
-      "channel_names_mode": "custom",
-      "details_status": "unavailable",
-      "details_error": "صفحة المباراة لا تحتوي على عناصر قنوات ضمن قسم البث"
-    },
-    {
-      "id": "245054",
-      "competition": "الدوري الإنجليزي الدرجة الثالثة",
-      "home_team": "بورت فايل",
-      "away_team": "غريمسبي تاون",
-      "home_logo": "https://jdwel.com/image/teams/1108.png",
-      "away_logo": "https://jdwel.com/image/teams/1759.png",
-      "match_time": "10 أكتوبر 2026، 17:00",
-      "audio_items": [],
-      "audio": [],
-      "audio_text": "",
-      "channel_names_mode": "custom",
-      "details_status": "unavailable",
-      "details_error": "صفحة المباراة لا تحتوي على عناصر قنوات ضمن قسم البث"
-    },
-    {
-      "id": "245056",
-      "competition": "الدوري الإنجليزي الدرجة الثالثة",
-      "home_team": "نيوبورت كاونتي",
-      "away_team": "كولتشستر يونايتد",
-      "home_logo": "https://jdwel.com/image/teams/eng_newport_county.png",
-      "away_logo": "https://jdwel.com/image/teams/1090.png",
-      "match_time": "10 أكتوبر 2026، 17:00",
-      "audio_items": [],
-      "audio": [],
-      "audio_text": "",
-      "channel_names_mode": "custom",
-      "details_status": "unavailable",
-      "details_error": "صفحة المباراة لا تحتوي على عناصر قنوات ضمن قسم البث"
-    },
-    {
-      "id": "245057",
-      "competition": "الدوري الإنجليزي الدرجة الثالثة",
-      "home_team": "فليتوود تاون",
-      "away_team": "ولسول",
-      "home_logo": "https://jdwel.com/image/teams/eng_fleetwood_town.png",
-      "away_logo": "https://jdwel.com/image/teams/eng_walsall.png",
-      "match_time": "10 أكتوبر 2026، 17:00",
-      "audio_items": [],
-      "audio": [],
-      "audio_text": "",
-      "channel_names_mode": "custom",
-      "details_status": "unavailable",
-      "details_error": "صفحة المباراة لا تحتوي على عناصر قنوات ضمن قسم البث"
-    },
-    {
-      "id": "245058",
-      "competition": "الدوري الإنجليزي الدرجة الثالثة",
-      "home_team": "كراولي تاون",
-      "away_team": "تشيسترفيلد",
-      "home_logo": "https://jdwel.com/image/teams/eng_crawley_town.png",
-      "away_logo": "https://jdwel.com/image/teams/eng_chesterfield.png",
-      "match_time": "10 أكتوبر 2026، 17:00",
-      "audio_items": [],
-      "audio": [],
-      "audio_text": "",
-      "channel_names_mode": "custom",
-      "details_status": "unavailable",
-      "details_error": "صفحة المباراة لا تحتوي على عناصر قنوات ضمن قسم البث"
-    },
-    {
-      "id": "245059",
-      "competition": "الدوري الإنجليزي الدرجة الثالثة",
-      "home_team": "تشيلتنهام تاون",
-      "away_team": "سالفورد سيتي",
-      "home_logo": "https://jdwel.com/image/teams/eng_cheltenham_town.png",
-      "away_logo": "https://jdwel.com/image/teams/7012.png",
-      "match_time": "10 أكتوبر 2026، 17:00",
-      "audio_items": [],
-      "audio": [],
-      "audio_text": "",
-      "channel_names_mode": "custom",
-      "details_status": "unavailable",
-      "details_error": "صفحة المباراة لا تحتوي على عناصر قنوات ضمن قسم البث"
-    },
-    {
-      "id": "245060",
-      "competition": "الدوري الإنجليزي الدرجة الثالثة",
-      "home_team": "بريستول روفرز",
-      "away_team": "بارنت",
-      "home_logo": "https://jdwel.com/image/teams/eng_bristol_rovers.png",
-      "away_logo": "https://jdwel.com/image/teams/eng_barnet.png",
-      "match_time": "10 أكتوبر 2026، 17:00",
-      "audio_items": [],
-      "audio": [],
-      "audio_text": "",
-      "channel_names_mode": "custom",
-      "details_status": "unavailable",
-      "details_error": "صفحة المباراة لا تحتوي على عناصر قنوات ضمن قسم البث"
+      "details_status": "ok"
     }
   ]
 }
