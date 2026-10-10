@@ -1,6 +1,6 @@
 {
   "source": "https://jdwel.com/today/",
-  "generated_at_utc": "2026-10-10T10:17:30.461247+00:00",
+  "generated_at_utc": "2026-10-10T16:02:36.250321+00:00",
   "matches": [
     {
       "id": "239785",
@@ -343,13 +343,13 @@
       "audio_items": [
         {
           "channel": "ثمانية 1",
-          "commentator": "عبدالله الحربي و فارس عوض"
+          "commentator": "عبدالله الحربي و فهد العتيبي"
         }
       ],
       "audio": [
-        "Thamanya 1 — ثمانية 1 (عبدالله الحربي و فارس عوض)"
+        "Thamanya 1 — ثمانية 1 (عبدالله الحربي و فهد العتيبي)"
       ],
-      "audio_text": "Thamanya 1 — ثمانية 1 (عبدالله الحربي و فارس عوض)",
+      "audio_text": "Thamanya 1 — ثمانية 1 (عبدالله الحربي و فهد العتيبي)",
       "channel_names_mode": "custom",
       "details_status": "ok"
     },
