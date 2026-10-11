@@ -1,6 +1,6 @@
 {
   "source": "https://jdwel.com/today/",
-  "generated_at_utc": "2026-10-11T11:07:13.521558+00:00",
+  "generated_at_utc": "2026-10-11T17:03:47.804915+00:00",
   "matches": [
     {
       "id": "239780",
@@ -301,27 +301,6 @@
       "details_status": "ok"
     },
     {
-      "id": "254974",
-      "competition": "دوري روشن السعودي",
-      "home_team": "أبها",
-      "away_team": "الفيصلي",
-      "home_logo": "https://jdwel.com/image/teams/2451.png",
-      "away_logo": "https://jdwel.com/image/teams/3215.png",
-      "match_time": "11 أكتوبر 2026، 18:25",
-      "audio_items": [
-        {
-          "channel": "ثمانية 1",
-          "commentator": "سليمان الشريف"
-        }
-      ],
-      "audio": [
-        "Thamanya 1 — ثمانية 1 (سليمان الشريف)"
-      ],
-      "audio_text": "Thamanya 1 — ثمانية 1 (سليمان الشريف)",
-      "channel_names_mode": "custom",
-      "details_status": "ok"
-    },
-    {
       "id": "254982",
       "competition": "دوري روشن السعودي",
       "home_team": "الشباب",
@@ -446,6 +425,21 @@
       "audio_text": "MBC Action (عصام عبده)",
       "channel_names_mode": "custom",
       "details_status": "ok"
+    },
+    {
+      "id": "263000",
+      "competition": "كأس ملك إسبانيا",
+      "home_team": "غيمار",
+      "away_team": "سبورتينغ هورتاليزا",
+      "home_logo": "https://jdwel.com/image/teams/7227.png",
+      "away_logo": "https://jdwel.com/image/teams/7242.png",
+      "match_time": "11 أكتوبر 2026، 14:00",
+      "audio_items": [],
+      "audio": [],
+      "audio_text": "",
+      "channel_names_mode": "custom",
+      "details_status": "unavailable",
+      "details_error": "صفحة المباراة لا تحتوي على عناصر قنوات ضمن قسم البث"
     },
     {
       "id": "262996",
