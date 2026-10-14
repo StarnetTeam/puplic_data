@@ -1,175 +1,16 @@
 {
-  "last_updated": "2026-10-13T12:34:55+00:00",
+  "last_updated": "2026-10-14T10:01:06+00:00",
   "matches": [
     {
-      "league": "International Clubs, AFC Champions League Elite, East Region",
-      "homeTeam": "Newcastle Jets",
-      "awayTeam": "Gamba Osaka",
+      "league": "International Clubs, AFC Champions League Two, Group E",
+      "homeTeam": "Melbourne Vic.",
+      "awayTeam": "FC Seoul",
       "homeFlag": "https://www.sporteventz.com/components/com_magictable/flags/au.png",
-      "awayFlag": "https://www.sporteventz.com/components/com_magictable/flags/jp.png",
-      "time": "Tuesday, 13 October 2026 07:45",
-      "channels": [
-        {
-          "name": "Nova Sport Bulgaria",
-          "details": {
-            "transponders": [
-              {
-                "Name": "HOTBIRD 13F",
-                "Position": "13.0E",
-                "Frequency": "11804.00",
-                "Polarisation": "V",
-                "SR": "29700",
-                "FEC": "3/4",
-                "System": "DVB-S2",
-                "Modulation": "8PSK",
-                "Crypt": "Irdeto 2;VideoGuard"
-              }
-            ]
-          }
-        },
-        {
-          "name": "Sporsmart Turkey HD",
-          "details": {
-            "transponders": [
-              {
-                "Name": "TURKSAT 2A, 3A",
-                "Position": "42.0E",
-                "Frequency": "12188.00",
-                "Polarisation": "V",
-                "SR": "27500",
-                "FEC": "5/6",
-                "System": "DVB-S2",
-                "Modulation": "8PSK",
-                "Crypt": "Videoguard;Irdeto2"
-              }
-            ]
-          }
-        },
-        {
-          "name": "Sportklub 3 Croatia HD",
-          "details": {
-            "transponders": [
-              {
-                "Name": "EUTELSAT W2",
-                "Position": "16.0E",
-                "Frequency": "11512.00",
-                "Polarisation": "H",
-                "SR": "30000",
-                "FEC": "3/4",
-                "System": "DVB-S2",
-                "Modulation": "8PSK",
-                "Crypt": "Nagravision"
-              }
-            ]
-          }
-        }
-      ]
-    },
-    {
-      "league": "Portugal, ",
-      "homeTeam": "Portimonense U23",
-      "awayTeam": "Academico Viseu",
-      "homeFlag": "https://www.sporteventz.com/components/com_magictable/flags/pt.png",
-      "awayFlag": "https://www.sporteventz.com/components/com_magictable/flags/pt.png",
-      "time": "Tuesday, 13 October 2026 10:00",
-      "channels": [
-        {
-          "name": "Canal 11 Portugal HD",
-          "details": {
-            "transponders": [
-              {
-                "Name": "HISPASAT 1C, 1D",
-                "Position": "30.0W",
-                "Frequency": "12168.00",
-                "Polarisation": "H",
-                "SR": "27500",
-                "FEC": "3/4",
-                "System": "DVB-S2",
-                "Modulation": "8PSK",
-                "Crypt": "Nagravision 3"
-              },
-              {
-                "Name": "HISPASAT 1C, 1D",
-                "Position": "30.0W",
-                "Frequency": "12437.00",
-                "Polarisation": "H",
-                "SR": "27500",
-                "FEC": "3/4",
-                "System": "DVB-S2",
-                "Modulation": "8PSK",
-                "Crypt": "Nagravision 3"
-              }
-            ]
-          }
-        }
-      ]
-    },
-    {
-      "league": "International Clubs, AFC Champions League Elite, East Region",
-      "homeTeam": "Kyoto Sanga",
-      "awayTeam": "Ratchaburi",
-      "homeFlag": "https://www.sporteventz.com/components/com_magictable/flags/jp.png",
-      "awayFlag": "https://www.sporteventz.com/components/com_magictable/flags/th.png",
-      "time": "Tuesday, 13 October 2026 10:00",
-      "channels": [
-        {
-          "name": "Sportklub 3 Croatia HD",
-          "details": {
-            "transponders": [
-              {
-                "Name": "EUTELSAT W2",
-                "Position": "16.0E",
-                "Frequency": "11512.00",
-                "Polarisation": "H",
-                "SR": "30000",
-                "FEC": "3/4",
-                "System": "DVB-S2",
-                "Modulation": "8PSK",
-                "Crypt": "Nagravision"
-              }
-            ]
-          }
-        }
-      ]
-    },
-    {
-      "league": "International Clubs, AFC Champions League Elite, East Region",
-      "homeTeam": "Pohang Steelers",
-      "awayTeam": "Johor",
-      "homeFlag": "https://www.sporteventz.com/components/com_magictable/flags/kr.png",
-      "awayFlag": "https://www.sporteventz.com/components/com_magictable/flags/my.png",
-      "time": "Tuesday, 13 October 2026 10:00",
-      "channels": [
-        {
-          "name": "Nova Sport Bulgaria",
-          "details": {
-            "transponders": [
-              {
-                "Name": "HOTBIRD 13F",
-                "Position": "13.0E",
-                "Frequency": "11804.00",
-                "Polarisation": "V",
-                "SR": "29700",
-                "FEC": "3/4",
-                "System": "DVB-S2",
-                "Modulation": "8PSK",
-                "Crypt": "Irdeto 2;VideoGuard"
-              }
-            ]
-          }
-        }
-      ]
-    },
-    {
-      "league": "International Clubs, AFC Champions League Elite, East Region",
-      "homeTeam": "Shanghai Port",
-      "awayTeam": "Daejeon Citizen",
-      "homeFlag": "https://www.sporteventz.com/components/com_magictable/flags/cn.png",
       "awayFlag": "https://www.sporteventz.com/components/com_magictable/flags/kr.png",
-      "time": "Tuesday, 13 October 2026 10:00",
+      "time": "Wednesday, 14 October 2026 07:45",
       "channels": [
         {
-          "name": "Diema Sport 3 Bulgaria HD",
+          "name": "Nova Sport Bulgaria",
           "details": {
             "transponders": [
               {
@@ -186,211 +27,6 @@
             ]
           }
         },
-        {
-          "name": "Sporsmart Turkey HD",
-          "details": {
-            "transponders": [
-              {
-                "Name": "TURKSAT 2A, 3A",
-                "Position": "42.0E",
-                "Frequency": "12188.00",
-                "Polarisation": "V",
-                "SR": "27500",
-                "FEC": "5/6",
-                "System": "DVB-S2",
-                "Modulation": "8PSK",
-                "Crypt": "Videoguard;Irdeto2"
-              }
-            ]
-          }
-        },
-        {
-          "name": "Sportklub 1 Croatia HD",
-          "details": {
-            "transponders": [
-              {
-                "Name": "EUTELSAT 16A",
-                "Position": "16.0E",
-                "Frequency": "11595.00",
-                "Polarisation": "H",
-                "SR": "30000",
-                "FEC": "3/4",
-                "System": "DVB-S2",
-                "Modulation": "8PSK",
-                "Crypt": "Nagravision 3"
-              }
-            ]
-          }
-        }
-      ]
-    },
-    {
-      "league": "International Youth, UEFA Youth League",
-      "homeTeam": "Lens U19",
-      "awayTeam": "Sporting CP U19",
-      "homeFlag": "https://www.sporteventz.com/components/com_magictable/flags/fr.png",
-      "awayFlag": "https://www.sporteventz.com/components/com_magictable/flags/pt.png",
-      "time": "Tuesday, 13 October 2026 11:00",
-      "channels": [
-        {
-          "name": "Sporting TV",
-          "details": {
-            "transponders": [
-              {
-                "Name": "HISPASAT 1C, 1D",
-                "Position": "30.0W",
-                "Frequency": "12169.00",
-                "Polarisation": "H",
-                "SR": "27500",
-                "FEC": "3/4",
-                "System": "DVB-S2",
-                "Modulation": "8PSK",
-                "Crypt": "Mediaguard 2:Nagravision 3"
-              }
-            ]
-          }
-        }
-      ]
-    },
-    {
-      "league": "Portugal,",
-      "homeTeam": "Moreirense FC U23",
-      "awayTeam": "Santa Clara",
-      "homeFlag": "https://www.sporteventz.com/components/com_magictable/flags/pt.png",
-      "awayFlag": "https://www.sporteventz.com/components/com_magictable/flags/pt.png",
-      "time": "Tuesday, 13 October 2026 12:00",
-      "channels": [
-        {
-          "name": "Canal 11 Portugal HD",
-          "details": {
-            "transponders": [
-              {
-                "Name": "HISPASAT 1C, 1D",
-                "Position": "30.0W",
-                "Frequency": "12168.00",
-                "Polarisation": "H",
-                "SR": "27500",
-                "FEC": "3/4",
-                "System": "DVB-S2",
-                "Modulation": "8PSK",
-                "Crypt": "Nagravision 3"
-              },
-              {
-                "Name": "HISPASAT 1C, 1D",
-                "Position": "30.0W",
-                "Frequency": "12437.00",
-                "Polarisation": "H",
-                "SR": "27500",
-                "FEC": "3/4",
-                "System": "DVB-S2",
-                "Modulation": "8PSK",
-                "Crypt": "Nagravision 3"
-              }
-            ]
-          }
-        }
-      ]
-    },
-    {
-      "league": "International Youth, UEFA Youth League",
-      "homeTeam": "RB Leipzig U19",
-      "awayTeam": "PSV U19",
-      "homeFlag": "https://www.sporteventz.com/components/com_magictable/flags/de.png",
-      "awayFlag": "https://www.sporteventz.com/components/com_magictable/flags/nl.png",
-      "time": "Tuesday, 13 October 2026 12:00",
-      "channels": [
-        {
-          "name": "DAZN 1 Bar Germany HD",
-          "details": {
-            "transponders": [
-              {
-                "Name": "ASTRA 1F,1G,1H,1KR,1L",
-                "Position": "19.2E",
-                "Frequency": "11170.50",
-                "Polarisation": "H",
-                "SR": "22000",
-                "FEC": "3/4",
-                "System": "DVB-S2",
-                "Modulation": "QPSK",
-                "Crypt": "Videoguard"
-              }
-            ]
-          }
-        },
-        {
-          "name": "Ziggo Sport 1 Netherlands HD",
-          "details": {
-            "transponders": [
-              {
-                "Name": "ASTRA 1E,3A",
-                "Position": "23.5E",
-                "Frequency": "12129.00",
-                "Polarisation": "V",
-                "SR": "29900",
-                "FEC": "2/3",
-                "System": "DVB-S2",
-                "Modulation": "8PSK",
-                "Crypt": "Mediaguard 3:Nagravision 3:Viaccess 5.0"
-              }
-            ]
-          }
-        }
-      ]
-    },
-    {
-      "league": "International Clubs, AFC Champions League Elite, East Region",
-      "homeTeam": "Buriram Utd",
-      "awayTeam": "Beijing Guoan",
-      "homeFlag": "https://www.sporteventz.com/components/com_magictable/flags/th.png",
-      "awayFlag": "https://www.sporteventz.com/components/com_magictable/flags/cn.png",
-      "time": "Tuesday, 13 October 2026 12:15",
-      "channels": [
-        {
-          "name": "Diema Sport 3 Bulgaria HD",
-          "details": {
-            "transponders": [
-              {
-                "Name": "HOTBIRD 13F",
-                "Position": "13.0E",
-                "Frequency": "11804.00",
-                "Polarisation": "V",
-                "SR": "29700",
-                "FEC": "3/4",
-                "System": "DVB-S2",
-                "Modulation": "8PSK",
-                "Crypt": "Irdeto 2;VideoGuard"
-              }
-            ]
-          }
-        },
-        {
-          "name": "Sportklub 1 Croatia HD",
-          "details": {
-            "transponders": [
-              {
-                "Name": "EUTELSAT 16A",
-                "Position": "16.0E",
-                "Frequency": "11595.00",
-                "Polarisation": "H",
-                "SR": "30000",
-                "FEC": "3/4",
-                "System": "DVB-S2",
-                "Modulation": "8PSK",
-                "Crypt": "Nagravision 3"
-              }
-            ]
-          }
-        }
-      ]
-    },
-    {
-      "league": "International Clubs, AFC Champions League Elite, East Region",
-      "homeTeam": "Cong An Nhan",
-      "awayTeam": "Kashima Ant.",
-      "homeFlag": "https://www.sporteventz.com/components/com_magictable/flags/vn.png",
-      "awayFlag": "https://www.sporteventz.com/components/com_magictable/flags/jp.png",
-      "time": "Tuesday, 13 October 2026 12:15",
-      "channels": [
         {
           "name": "Sporsmart Turkey HD",
           "details": {
@@ -430,352 +66,12 @@
       ]
     },
     {
-      "league": "International Clubs, AFC Champions League Two, Group D",
-      "homeTeam": "East Bengal",
-      "awayTeam": "AL Shorta",
-      "homeFlag": "https://www.sporteventz.com/components/com_magictable/flags/in.png",
-      "awayFlag": "https://www.sporteventz.com/components/com_magictable/flags/iq.png",
-      "time": "Tuesday, 13 October 2026 13:45",
-      "channels": [
-        {
-          "name": "Nova Sport Bulgaria",
-          "details": {
-            "transponders": [
-              {
-                "Name": "HOTBIRD 13F",
-                "Position": "13.0E",
-                "Frequency": "11804.00",
-                "Polarisation": "V",
-                "SR": "29700",
-                "FEC": "3/4",
-                "System": "DVB-S2",
-                "Modulation": "8PSK",
-                "Crypt": "Irdeto 2;VideoGuard"
-              }
-            ]
-          }
-        },
-        {
-          "name": "Sportklub 4 Croatia HD",
-          "details": {
-            "transponders": [
-              {
-                "Name": "EUTELSAT W2",
-                "Position": "16.0E",
-                "Frequency": "11512.00",
-                "Polarisation": "H",
-                "SR": "30000",
-                "FEC": "3/4",
-                "System": "DVB-S2",
-                "Modulation": "8PSK",
-                "Crypt": "Nagravision"
-              }
-            ]
-          }
-        }
-      ]
-    },
-    {
-      "league": "Turkiye, 1. Lig",
-      "homeTeam": "Sariyer",
-      "awayTeam": "Bodrum Bld",
-      "homeFlag": "https://www.sporteventz.com/components/com_magictable/flags/tr.png",
-      "awayFlag": "https://www.sporteventz.com/components/com_magictable/flags/tr.png",
-      "time": "Tuesday, 13 October 2026 14:00",
-      "channels": [
-        {
-          "name": "TRT Spor HD",
-          "details": {
-            "transponders": [
-              {
-                "Name": "TURKSAT 2A, 3A",
-                "Position": "42.0E",
-                "Frequency": "11054.00",
-                "Polarisation": "V",
-                "SR": "30000",
-                "FEC": "3/4",
-                "System": "DVB-S2",
-                "Modulation": "8PSK",
-                "Crypt": "Frei"
-              }
-            ]
-          }
-        }
-      ]
-    },
-    {
-      "league": "Portugal,",
-      "homeTeam": "Famalicao U23",
-      "awayTeam": "Estrela Amadora",
-      "homeFlag": "https://www.sporteventz.com/components/com_magictable/flags/pt.png",
-      "awayFlag": "https://www.sporteventz.com/components/com_magictable/flags/pt.png",
-      "time": "Tuesday, 13 October 2026 14:00",
-      "channels": [
-        {
-          "name": "Canal 11 Portugal HD",
-          "details": {
-            "transponders": [
-              {
-                "Name": "HISPASAT 1C, 1D",
-                "Position": "30.0W",
-                "Frequency": "12168.00",
-                "Polarisation": "H",
-                "SR": "27500",
-                "FEC": "3/4",
-                "System": "DVB-S2",
-                "Modulation": "8PSK",
-                "Crypt": "Nagravision 3"
-              },
-              {
-                "Name": "HISPASAT 1C, 1D",
-                "Position": "30.0W",
-                "Frequency": "12437.00",
-                "Polarisation": "H",
-                "SR": "27500",
-                "FEC": "3/4",
-                "System": "DVB-S2",
-                "Modulation": "8PSK",
-                "Crypt": "Nagravision 3"
-              }
-            ]
-          }
-        }
-      ]
-    },
-    {
-      "league": "International Youth, UEFA Youth League",
-      "homeTeam": "Villarreal U19",
-      "awayTeam": "SSC Napoli U20",
-      "homeFlag": "https://www.sporteventz.com/components/com_magictable/flags/es.png",
-      "awayFlag": "https://www.sporteventz.com/components/com_magictable/flags/it.png",
-      "time": "Tuesday, 13 October 2026 14:00",
-      "channels": [
-        {
-          "name": "DAZN 1 Bar Germany HD",
-          "details": {
-            "transponders": [
-              {
-                "Name": "ASTRA 1F,1G,1H,1KR,1L",
-                "Position": "19.2E",
-                "Frequency": "11170.50",
-                "Polarisation": "H",
-                "SR": "22000",
-                "FEC": "3/4",
-                "System": "DVB-S2",
-                "Modulation": "QPSK",
-                "Crypt": "Videoguard"
-              }
-            ]
-          }
-        },
-        {
-          "name": "Dazn 1 Portugal HD",
-          "details": {
-            "transponders": [
-              {
-                "Name": "HISPASAT 1C, 1D",
-                "Position": "30.0W",
-                "Frequency": "12398.00",
-                "Polarisation": "H",
-                "SR": "27500",
-                "FEC": "3/4",
-                "System": "DVB-S2",
-                "Modulation": "8PSK",
-                "Crypt": "Nagravision 3"
-              },
-              {
-                "Name": "HISPASAT 1C, 1D",
-                "Position": "30.0W",
-                "Frequency": "12398.00",
-                "Polarisation": "H",
-                "SR": "27500",
-                "FEC": "3/4",
-                "System": "DVB-S2",
-                "Modulation": "8PSK",
-                "Crypt": "Nagravision 3"
-              }
-            ]
-          }
-        }
-      ]
-    },
-    {
-      "league": "International, WC Qualification Women, UEFA Playoffs",
-      "homeTeam": "Ukraine (W)",
-      "awayTeam": "Slovakia (W)",
-      "homeFlag": "https://www.sporteventz.com/components/com_magictable/flags/ua.png",
-      "awayFlag": "https://www.sporteventz.com/components/com_magictable/flags/sk.png",
-      "time": "Tuesday, 13 October 2026 15:00",
-      "channels": [
-        {
-          "name": "RTVS Sport Slovakia HD",
-          "details": {
-            "transponders": [
-              {
-                "Name": "ASTRA 1E,3A",
-                "Position": "not available",
-                "Frequency": "not available",
-                "Polarisation": "not available",
-                "SR": "not available",
-                "FEC": "2/3",
-                "System": "DVB-S2",
-                "Modulation": "not available",
-                "Crypt": "not available"
-              },
-              {
-                "Name": "EUTELSAT W2",
-                "Position": "not available",
-                "Frequency": "not available",
-                "Polarisation": "not available",
-                "SR": "not available",
-                "FEC": "5/6",
-                "System": "DVB-S2",
-                "Modulation": "not available",
-                "Crypt": "not available"
-              },
-              {
-                "Name": "Thor 6",
-                "Position": "0.8W",
-                "Frequency": "11804.00",
-                "Polarisation": "V",
-                "SR": "30000",
-                "FEC": "3/4",
-                "System": "DVB-S2",
-                "Modulation": "8PSK",
-                "Crypt": "Conax;Cryptoworks:Irdeto2;Nagravision 3"
-              }
-            ]
-          }
-        }
-      ]
-    },
-    {
-      "league": "International, International Friendly Games, Women",
-      "homeTeam": "Germany (W)",
-      "awayTeam": "Japan (W)",
-      "homeFlag": "https://www.sporteventz.com/components/com_magictable/flags/de.png",
-      "awayFlag": "https://www.sporteventz.com/components/com_magictable/flags/jp.png",
-      "time": "Tuesday, 13 October 2026 15:45",
-      "channels": [
-        {
-          "name": "Das Erste HD",
-          "details": {
-            "transponders": [
-              {
-                "Name": "ASTRA 1F,1G,1H,1KR,1L",
-                "Position": "19.2E",
-                "Frequency": "11493.75",
-                "Polarisation": "H",
-                "SR": "22000",
-                "FEC": "2/3",
-                "System": "DVB-S2",
-                "Modulation": "8PSK",
-                "Crypt": "Frei"
-              }
-            ]
-          }
-        },
-        {
-          "name": "TVP Sport Poland HD",
-          "details": {
-            "transponders": [
-              {
-                "Name": "HOTBIRD 6,7A,8",
-                "Position": "13.0E",
-                "Frequency": "10834.00",
-                "Polarisation": "V",
-                "SR": "27500",
-                "FEC": "3/4",
-                "System": "DVB-S2",
-                "Modulation": "8PSK",
-                "Crypt": "Nagravision 3"
-              }
-            ]
-          }
-        }
-      ]
-    },
-    {
-      "league": "International, WC Qualification Women, UEFA Playoffs",
-      "homeTeam": "Austria (W)",
-      "awayTeam": "Kosovo (W)",
-      "homeFlag": "https://www.sporteventz.com/components/com_magictable/flags/at.png",
-      "awayFlag": "https://www.sporteventz.com/components/com_magictable/flags/kos.png",
-      "time": "Tuesday, 13 October 2026 16:00",
-      "channels": [
-        {
-          "name": "ORF 1 Austria HD",
-          "details": {
-            "transponders": [
-              {
-                "Name": "ASTRA 1F,1G,1H,1KR,1L",
-                "Position": "19.2E",
-                "Frequency": "11302.75",
-                "Polarisation": "H",
-                "SR": "22000",
-                "FEC": "2/3",
-                "System": "DVB-S2",
-                "Modulation": "8PSK",
-                "Crypt": "BetaCrypt:Cryptoworks:Irdeto 2:Nagravision 3:VideoGuard"
-              }
-            ]
-          }
-        }
-      ]
-    },
-    {
-      "league": "International, WC Qualification Women, UEFA Playoffs",
-      "homeTeam": "Poland (W)",
-      "awayTeam": "Belgium (W)",
-      "homeFlag": "https://www.sporteventz.com/components/com_magictable/flags/pl.png",
-      "awayFlag": "https://www.sporteventz.com/components/com_magictable/flags/be.png",
-      "time": "Tuesday, 13 October 2026 16:00",
-      "channels": [
-        {
-          "name": "Canvas Belgium HD",
-          "details": {
-            "transponders": [
-              {
-                "Name": "ASTRA 1E,3A",
-                "Position": "23.5E",
-                "Frequency": "12187.00",
-                "Polarisation": "H",
-                "SR": "29900",
-                "FEC": "2/3",
-                "System": "DVB-S2",
-                "Modulation": "QPSK",
-                "Crypt": "Mediaguard 3:Nagravision 3:Viaccess 5.0"
-              }
-            ]
-          }
-        },
-        {
-          "name": "Tipik Belgium HD",
-          "details": {
-            "transponders": [
-              {
-                "Name": "EUTELSAT W2",
-                "Position": "not available",
-                "Frequency": "not available",
-                "Polarisation": "not available",
-                "SR": "not available",
-                "FEC": "5/6",
-                "System": "DVB-S2",
-                "Modulation": "not available",
-                "Crypt": "not available"
-              }
-            ]
-          }
-        }
-      ]
-    },
-    {
-      "league": "International Clubs, AFC Champions League Elite, West Region",
-      "homeTeam": "Al Sadd",
-      "awayTeam": "Al Hilal Rijad",
-      "homeFlag": "https://www.sporteventz.com/components/com_magictable/flags/qa.png",
-      "awayFlag": "https://www.sporteventz.com/components/com_magictable/flags/sa.png",
-      "time": "Tuesday, 13 October 2026 16:00",
+      "league": "International Clubs, AFC Champions League Elite, East Region",
+      "homeTeam": "Vissel Kobe",
+      "awayTeam": "Jeonbuk Hyundai",
+      "homeFlag": "https://www.sporteventz.com/components/com_magictable/flags/jp.png",
+      "awayFlag": "https://www.sporteventz.com/components/com_magictable/flags/kr.png",
+      "time": "Wednesday, 14 October 2026 10:00",
       "channels": [
         {
           "name": "Diema Sport 3 Bulgaria HD",
@@ -791,24 +87,6 @@
                 "System": "DVB-S2",
                 "Modulation": "8PSK",
                 "Crypt": "Irdeto 2;VideoGuard"
-              }
-            ]
-          }
-        },
-        {
-          "name": "ESPN 2 Netherlands HD",
-          "details": {
-            "transponders": [
-              {
-                "Name": "ASTRA 1E,3A",
-                "Position": "23.5E",
-                "Frequency": "11856.00",
-                "Polarisation": "H",
-                "SR": "29900",
-                "FEC": "2/3",
-                "System": "DVB-S2",
-                "Modulation": "8PSK",
-                "Crypt": "Mediaguard 2:Nagravision 3:Viaccess 5.0"
               }
             ]
           }
@@ -870,12 +148,12 @@
       ]
     },
     {
-      "league": "International Clubs, AFC Champions League Two, Group D",
-      "homeTeam": "Al-Seeb",
-      "awayTeam": "Al Hussein",
-      "homeFlag": "https://www.sporteventz.com/components/com_magictable/flags/om.png",
-      "awayFlag": "https://www.sporteventz.com/components/com_magictable/flags/jo.png",
-      "time": "Tuesday, 13 October 2026 16:00",
+      "league": "International Clubs, AFC Champions League Elite, East Region",
+      "homeTeam": "Kashiwa Reysol",
+      "awayTeam": "Port FC",
+      "homeFlag": "https://www.sporteventz.com/components/com_magictable/flags/jp.png",
+      "awayFlag": "https://www.sporteventz.com/components/com_magictable/flags/th.png",
+      "time": "Wednesday, 14 October 2026 10:00",
       "channels": [
         {
           "name": "Nova Sport Bulgaria",
@@ -916,27 +194,431 @@
       ]
     },
     {
-      "league": "International, WC Qualification Women, UEFA Playoffs",
-      "homeTeam": "Italy (W)",
-      "awayTeam": "Belarus (W)",
+      "league": "International Youth, UEFA Youth League",
+      "homeTeam": "AS Roma U20",
+      "awayTeam": "Real Madrid U19",
       "homeFlag": "https://www.sporteventz.com/components/com_magictable/flags/it.png",
-      "awayFlag": "https://www.sporteventz.com/components/com_magictable/flags/by.png",
-      "time": "Tuesday, 13 October 2026 16:15",
+      "awayFlag": "https://www.sporteventz.com/components/com_magictable/flags/es.png",
+      "time": "Wednesday, 14 October 2026 12:00",
       "channels": [
         {
-          "name": "Rai Sport Italy HD",
+          "name": "Tring Sport 1 Albania HD",
           "details": {
             "transponders": [
               {
-                "Name": "HOTBIRD 6,7A,8",
-                "Position": "13.0E",
-                "Frequency": "11766.00",
+                "Name": "EUTELSAT 16A",
+                "Position": "16.0E",
+                "Frequency": "11427.00",
                 "Polarisation": "V",
-                "SR": "29900",
+                "SR": "27500",
+                "FEC": "2/3",
+                "System": "DVB-S2",
+                "Modulation": "8PSK",
+                "Crypt": "Conax"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "league": "International Clubs, AFC Champions League Two, Group E",
+      "homeTeam": "Persib Bandung",
+      "awayTeam": "Viettel",
+      "homeFlag": "https://www.sporteventz.com/components/com_magictable/flags/id.png",
+      "awayFlag": "https://www.sporteventz.com/components/com_magictable/flags/vn.png",
+      "time": "Wednesday, 14 October 2026 12:15",
+      "channels": [
+        {
+          "name": "Sportklub 3 Croatia HD",
+          "details": {
+            "transponders": [
+              {
+                "Name": "EUTELSAT W2",
+                "Position": "16.0E",
+                "Frequency": "11512.00",
+                "Polarisation": "H",
+                "SR": "30000",
                 "FEC": "3/4",
                 "System": "DVB-S2",
                 "Modulation": "8PSK",
-                "Crypt": "Free"
+                "Crypt": "Nagravision"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "league": "Slovakia, Slovensky Pohar",
+      "homeTeam": "Druzstevnik Velke Ludince",
+      "awayTeam": "Lokomotiva Zvolen",
+      "homeFlag": "https://www.sporteventz.com/components/com_magictable/flags/sk.png",
+      "awayFlag": "https://www.sporteventz.com/components/com_magictable/flags/sk.png",
+      "time": "Wednesday, 14 October 2026 12:30",
+      "channels": [
+        {
+          "name": "RTVS Sport Slovakia HD",
+          "details": {
+            "transponders": [
+              {
+                "Name": "ASTRA 1E,3A",
+                "Position": "not available",
+                "Frequency": "not available",
+                "Polarisation": "not available",
+                "SR": "not available",
+                "FEC": "2/3",
+                "System": "DVB-S2",
+                "Modulation": "not available",
+                "Crypt": "not available"
+              },
+              {
+                "Name": "EUTELSAT W2",
+                "Position": "not available",
+                "Frequency": "not available",
+                "Polarisation": "not available",
+                "SR": "not available",
+                "FEC": "5/6",
+                "System": "DVB-S2",
+                "Modulation": "not available",
+                "Crypt": "not available"
+              },
+              {
+                "Name": "Thor 6",
+                "Position": "0.8W",
+                "Frequency": "11804.00",
+                "Polarisation": "V",
+                "SR": "30000",
+                "FEC": "3/4",
+                "System": "DVB-S2",
+                "Modulation": "8PSK",
+                "Crypt": "Conax;Cryptoworks:Irdeto2;Nagravision 3"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "league": "International Clubs, AFC Champions League Two, Group A",
+      "homeTeam": "FC Nasaf",
+      "awayTeam": "Al Wahda",
+      "homeFlag": "https://www.sporteventz.com/components/com_magictable/flags/uz.png",
+      "awayFlag": "https://www.sporteventz.com/components/com_magictable/flags/ae.png",
+      "time": "Wednesday, 14 October 2026 13:45",
+      "channels": [
+        {
+          "name": "Nova Sport Bulgaria",
+          "details": {
+            "transponders": [
+              {
+                "Name": "HOTBIRD 13F",
+                "Position": "13.0E",
+                "Frequency": "11804.00",
+                "Polarisation": "V",
+                "SR": "29700",
+                "FEC": "3/4",
+                "System": "DVB-S2",
+                "Modulation": "8PSK",
+                "Crypt": "Irdeto 2;VideoGuard"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Sporsmart Turkey HD",
+          "details": {
+            "transponders": [
+              {
+                "Name": "TURKSAT 2A, 3A",
+                "Position": "42.0E",
+                "Frequency": "12188.00",
+                "Polarisation": "V",
+                "SR": "27500",
+                "FEC": "5/6",
+                "System": "DVB-S2",
+                "Modulation": "8PSK",
+                "Crypt": "Videoguard;Irdeto2"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Sportklub 1 Croatia HD",
+          "details": {
+            "transponders": [
+              {
+                "Name": "EUTELSAT 16A",
+                "Position": "16.0E",
+                "Frequency": "11595.00",
+                "Polarisation": "H",
+                "SR": "30000",
+                "FEC": "3/4",
+                "System": "DVB-S2",
+                "Modulation": "8PSK",
+                "Crypt": "Nagravision 3"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "league": "International Youth, UEFA Youth League",
+      "homeTeam": "R. Betis Balompie (Y)",
+      "awayTeam": "Porto U19",
+      "homeFlag": "https://www.sporteventz.com/components/com_magictable/flags/es.png",
+      "awayFlag": "https://www.sporteventz.com/components/com_magictable/flags/pt.png",
+      "time": "Wednesday, 14 October 2026 14:00",
+      "channels": [
+        {
+          "name": "Dazn 1 Portugal HD",
+          "details": {
+            "transponders": [
+              {
+                "Name": "HISPASAT 1C, 1D",
+                "Position": "30.0W",
+                "Frequency": "12398.00",
+                "Polarisation": "H",
+                "SR": "27500",
+                "FEC": "3/4",
+                "System": "DVB-S2",
+                "Modulation": "8PSK",
+                "Crypt": "Nagravision 3"
+              },
+              {
+                "Name": "HISPASAT 1C, 1D",
+                "Position": "30.0W",
+                "Frequency": "12398.00",
+                "Polarisation": "H",
+                "SR": "27500",
+                "FEC": "3/4",
+                "System": "DVB-S2",
+                "Modulation": "8PSK",
+                "Crypt": "Nagravision 3"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "league": "Turkiye, 1. Lig",
+      "homeTeam": "Ümraniye",
+      "awayTeam": "Bolu",
+      "homeFlag": "https://www.sporteventz.com/components/com_magictable/flags/tr.png",
+      "awayFlag": "https://www.sporteventz.com/components/com_magictable/flags/tr.png",
+      "time": "Wednesday, 14 October 2026 14:00",
+      "channels": [
+        {
+          "name": "TRT Spor HD",
+          "details": {
+            "transponders": [
+              {
+                "Name": "TURKSAT 2A, 3A",
+                "Position": "42.0E",
+                "Frequency": "11054.00",
+                "Polarisation": "V",
+                "SR": "30000",
+                "FEC": "3/4",
+                "System": "DVB-S2",
+                "Modulation": "8PSK",
+                "Crypt": "Frei"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "league": "International Youth, UEFA Youth League",
+      "homeTeam": "Man City U19",
+      "awayTeam": "PSG U19",
+      "homeFlag": "https://www.sporteventz.com/components/com_magictable/flags/eng.png",
+      "awayFlag": "https://www.sporteventz.com/components/com_magictable/flags/fr.png",
+      "time": "Wednesday, 14 October 2026 14:00",
+      "channels": [
+        {
+          "name": "Dazn 2 Portugal HD",
+          "details": {
+            "transponders": [
+              {
+                "Name": "HISPASAT 1C, 1D",
+                "Position": "not available",
+                "Frequency": "not available",
+                "Polarisation": "not available",
+                "SR": "not available",
+                "FEC": "3/4",
+                "System": "DVB-S2",
+                "Modulation": "not available",
+                "Crypt": "not available"
+              },
+              {
+                "Name": "HISPASAT 1C, 1D",
+                "Position": "30.0W",
+                "Frequency": "12246.00",
+                "Polarisation": "H",
+                "SR": "27500",
+                "FEC": "3/4",
+                "System": "DVB-S2",
+                "Modulation": "8PSK",
+                "Crypt": "Nagravision 3"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Digi Sport 4 Romania",
+          "details": {
+            "transponders": [
+              {
+                "Name": "INTELSAT 10",
+                "Position": "0.8W",
+                "Frequency": "12687.00",
+                "Polarisation": "H",
+                "SR": "27500",
+                "FEC": "3/4",
+                "System": "DVB-S",
+                "Modulation": "QPSK",
+                "Crypt": "Nagravision 3"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Nova Sport 4 Czechia HD",
+          "details": {
+            "transponders": [
+              {
+                "Name": "ASTRA 3B",
+                "Position": "23.5E",
+                "Frequency": "11934.00",
+                "Polarisation": "V",
+                "SR": "27500",
+                "FEC": "3/4",
+                "System": "DVB-S2",
+                "Modulation": "8PSK",
+                "Crypt": "Conax ; Irdeto 2 ; Nagravision 3 ; Viaccess 5.0"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Sky Sport 1 Austria HD",
+          "details": {
+            "transponders": [
+              {
+                "Name": "ASTRA 1F,1G,1H,1KR,1L",
+                "Position": "19.2E",
+                "Frequency": "11171.00",
+                "Polarisation": "H",
+                "SR": "22000",
+                "FEC": "3/4",
+                "System": "DVB-S2",
+                "Modulation": "8PSK",
+                "Crypt": "Videoguard"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Ziggo Sport 2 Netherlands",
+          "details": {
+            "transponders": [
+              {
+                "Name": "ASTRA 1E,3A",
+                "Position": "23.5E",
+                "Frequency": "12129.00",
+                "Polarisation": "V",
+                "SR": "29900",
+                "FEC": "2/3",
+                "System": "DVB-S2",
+                "Modulation": "8PSK",
+                "Crypt": "Mediaguard 3:Nagravision 3:Viaccess 5.0"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "league": "International Clubs, AFC Champions League Two, Group B",
+      "homeTeam": "AL Jazira",
+      "awayTeam": "Arkadag FK",
+      "homeFlag": "https://www.sporteventz.com/components/com_magictable/flags/ae.png",
+      "awayFlag": "https://www.sporteventz.com/components/com_magictable/flags/tm.png",
+      "time": "Wednesday, 14 October 2026 16:00",
+      "channels": [
+        {
+          "name": "Sporsmart Turkey HD",
+          "details": {
+            "transponders": [
+              {
+                "Name": "TURKSAT 2A, 3A",
+                "Position": "42.0E",
+                "Frequency": "12188.00",
+                "Polarisation": "V",
+                "SR": "27500",
+                "FEC": "5/6",
+                "System": "DVB-S2",
+                "Modulation": "8PSK",
+                "Crypt": "Videoguard;Irdeto2"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "league": "International Clubs, AFC Champions League Two, Group C",
+      "homeTeam": "AL Taawoun",
+      "awayTeam": "Al Rayyan",
+      "homeFlag": "https://www.sporteventz.com/components/com_magictable/flags/sa.png",
+      "awayFlag": "https://www.sporteventz.com/components/com_magictable/flags/qa.png",
+      "time": "Wednesday, 14 October 2026 16:00",
+      "channels": [
+        {
+          "name": "Nova Sport Bulgaria",
+          "details": {
+            "transponders": [
+              {
+                "Name": "HOTBIRD 13F",
+                "Position": "13.0E",
+                "Frequency": "11804.00",
+                "Polarisation": "V",
+                "SR": "29700",
+                "FEC": "3/4",
+                "System": "DVB-S2",
+                "Modulation": "8PSK",
+                "Crypt": "Irdeto 2;VideoGuard"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "league": "Bulgaria, Bulgarian Cup",
+      "homeTeam": "Botev Plovdiv",
+      "awayTeam": "Botev Vratsa",
+      "homeFlag": "https://www.sporteventz.com/components/com_magictable/flags/redcross.png",
+      "awayFlag": "https://www.sporteventz.com/components/com_magictable/flags/redcross.png",
+      "time": "Wednesday, 14 October 2026 16:00",
+      "channels": [
+        {
+          "name": "Diema Sport 1 Bulgaria HD",
+          "details": {
+            "transponders": [
+              {
+                "Name": "HOTBIRD 13F",
+                "Position": "13.0E",
+                "Frequency": "11804.00",
+                "Polarisation": "V",
+                "SR": "29700",
+                "FEC": "3/4",
+                "System": "DVB-S2",
+                "Modulation": "8PSK",
+                "Crypt": "Irdeto 2;VideoGuard"
               }
             ]
           }
@@ -945,20 +627,20 @@
     },
     {
       "league": "International Clubs, UEFA Champions League",
-      "homeTeam": "Lens",
-      "awayTeam": "Sporting",
-      "homeFlag": "https://www.sporteventz.com/components/com_magictable/flags/fr.png",
-      "awayFlag": "https://www.sporteventz.com/components/com_magictable/flags/pt.png",
-      "time": "Tuesday, 13 October 2026 16:45",
+      "homeTeam": "LASK",
+      "awayTeam": "Liverpool",
+      "homeFlag": "https://www.sporteventz.com/components/com_magictable/flags/at.png",
+      "awayFlag": "https://www.sporteventz.com/components/com_magictable/flags/eng.png",
+      "time": "Wednesday, 14 October 2026 16:45",
       "channels": [
         {
-          "name": "Arena Sport 2 Croatia HD",
+          "name": "Arena Sport 4 Croatia HD",
           "details": {
             "transponders": [
               {
                 "Name": "EUTELSAT W2",
                 "Position": "16.0E",
-                "Frequency": "11595.25",
+                "Frequency": "11512.00",
                 "Polarisation": "H",
                 "SR": "30000",
                 "FEC": "3/4",
@@ -970,19 +652,66 @@
           }
         },
         {
-          "name": "DAZN 1 Bar Germany HD",
+          "name": "BTV Action HD",
+          "details": {
+            "transponders": [
+              {
+                "Name": "HOTBIRD 13F",
+                "Position": "13.0E",
+                "Frequency": "11804.00",
+                "Polarisation": "V",
+                "SR": "29700",
+                "FEC": "3/4",
+                "System": "DVB-S2",
+                "Modulation": "8PSK",
+                "Crypt": "Irdeto 2;VideoGuard"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Canal Plus Action Austria HD",
           "details": {
             "transponders": [
               {
                 "Name": "ASTRA 1F,1G,1H,1KR,1L",
                 "Position": "19.2E",
-                "Frequency": "11170.50",
+                "Frequency": "12515.00",
                 "Polarisation": "H",
                 "SR": "22000",
+                "FEC": "5/6",
+                "System": "DVB-S2",
+                "Modulation": "8PSK",
+                "Crypt": "Mediaguard ; Nagravision ; Viaccess"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Dazn 1 Portugal HD",
+          "details": {
+            "transponders": [
+              {
+                "Name": "HISPASAT 1C, 1D",
+                "Position": "30.0W",
+                "Frequency": "12398.00",
+                "Polarisation": "H",
+                "SR": "27500",
                 "FEC": "3/4",
                 "System": "DVB-S2",
-                "Modulation": "QPSK",
-                "Crypt": "Videoguard"
+                "Modulation": "8PSK",
+                "Crypt": "Nagravision 3"
+              },
+              {
+                "Name": "HISPASAT 1C, 1D",
+                "Position": "30.0W",
+                "Frequency": "12398.00",
+                "Polarisation": "H",
+                "SR": "27500",
+                "FEC": "3/4",
+                "System": "DVB-S2",
+                "Modulation": "8PSK",
+                "Crypt": "Nagravision 3"
               }
             ]
           }
@@ -1024,24 +753,6 @@
           }
         },
         {
-          "name": "Max Sport 3 Bulgaria HD",
-          "details": {
-            "transponders": [
-              {
-                "Name": "HOTBIRD 13F",
-                "Position": "13.0E",
-                "Frequency": "11804.00",
-                "Polarisation": "V",
-                "SR": "29700",
-                "FEC": "3/4",
-                "System": "DVB-S2",
-                "Modulation": "8PSK",
-                "Crypt": "Irdeto 2;VideoGuard"
-              }
-            ]
-          }
-        },
-        {
           "name": "Nova Sport 4 Czechia HD",
           "details": {
             "transponders": [
@@ -1055,24 +766,6 @@
                 "System": "DVB-S2",
                 "Modulation": "8PSK",
                 "Crypt": "Conax ; Irdeto 2 ; Nagravision 3 ; Viaccess 5.0"
-              }
-            ]
-          }
-        },
-        {
-          "name": "Sky Sport 3 Austria HD",
-          "details": {
-            "transponders": [
-              {
-                "Name": "ASTRA 1F,1G,1H,1KR,1L",
-                "Position": "19.2E",
-                "Frequency": "11797.50",
-                "Polarisation": "H",
-                "SR": "27500",
-                "FEC": "9/10",
-                "System": "DVB-S2",
-                "Modulation": "QPSK",
-                "Crypt": "Videoguard"
               }
             ]
           }
@@ -1096,82 +789,6 @@
           }
         },
         {
-          "name": "Sport TV 5 Portugal HD",
-          "details": {
-            "transponders": [
-              {
-                "Name": "HISPASAT 1C, 1D",
-                "Position": "not available",
-                "Frequency": "not available",
-                "Polarisation": "not available",
-                "SR": "not available",
-                "FEC": "3/4",
-                "System": "DVB-S2",
-                "Modulation": "not available",
-                "Crypt": "not available"
-              },
-              {
-                "Name": "HISPASAT 1C, 1D",
-                "Position": "not available",
-                "Frequency": "not available",
-                "Polarisation": "not available",
-                "SR": "not available",
-                "FEC": "3/4",
-                "System": "DVB-S2",
-                "Modulation": "not available",
-                "Crypt": "not available"
-              }
-            ]
-          }
-        },
-        {
-          "name": "Sport TV Plus Portugal",
-          "details": {
-            "transponders": [
-              {
-                "Name": "HISPASAT 1C, 1D",
-                "Position": "30.0W",
-                "Frequency": "12476.00",
-                "Polarisation": "H",
-                "SR": "27500",
-                "FEC": "3/4",
-                "System": "DVB-S2",
-                "Modulation": "8PSK",
-                "Crypt": "Nagravision3"
-              },
-              {
-                "Name": "HISPASAT 1C, 1D",
-                "Position": "30.0W",
-                "Frequency": "12476.00",
-                "Polarisation": "H",
-                "SR": "27500",
-                "FEC": "3/4",
-                "System": "DVB-S2",
-                "Modulation": "8PSK",
-                "Crypt": "Nagravision 3"
-              }
-            ]
-          }
-        },
-        {
-          "name": "Sporting TV",
-          "details": {
-            "transponders": [
-              {
-                "Name": "HISPASAT 1C, 1D",
-                "Position": "30.0W",
-                "Frequency": "12169.00",
-                "Polarisation": "H",
-                "SR": "27500",
-                "FEC": "3/4",
-                "System": "DVB-S2",
-                "Modulation": "8PSK",
-                "Crypt": "Mediaguard 2:Nagravision 3"
-              }
-            ]
-          }
-        },
-        {
           "name": "Tring Sport 1 Albania HD",
           "details": {
             "transponders": [
@@ -1188,55 +805,19 @@
               }
             ]
           }
-        },
-        {
-          "name": "Ziggo Sport 1 Netherlands HD",
-          "details": {
-            "transponders": [
-              {
-                "Name": "ASTRA 1E,3A",
-                "Position": "23.5E",
-                "Frequency": "12129.00",
-                "Polarisation": "V",
-                "SR": "29900",
-                "FEC": "2/3",
-                "System": "DVB-S2",
-                "Modulation": "8PSK",
-                "Crypt": "Mediaguard 3:Nagravision 3:Viaccess 5.0"
-              }
-            ]
-          }
-        },
-        {
-          "name": "Ziggo Sport 2 Netherlands",
-          "details": {
-            "transponders": [
-              {
-                "Name": "ASTRA 1E,3A",
-                "Position": "23.5E",
-                "Frequency": "12129.00",
-                "Polarisation": "V",
-                "SR": "29900",
-                "FEC": "2/3",
-                "System": "DVB-S2",
-                "Modulation": "8PSK",
-                "Crypt": "Mediaguard 3:Nagravision 3:Viaccess 5.0"
-              }
-            ]
-          }
         }
       ]
     },
     {
       "league": "International Clubs, UEFA Champions League",
-      "homeTeam": "Sabah Masazir",
-      "awayTeam": "Slavia Prague",
-      "homeFlag": "https://www.sporteventz.com/components/com_magictable/flags/az.png",
-      "awayFlag": "https://www.sporteventz.com/components/com_magictable/flags/cz.png",
-      "time": "Tuesday, 13 October 2026 16:45",
+      "homeTeam": "Feyenoord",
+      "awayTeam": "Como",
+      "homeFlag": "https://www.sporteventz.com/components/com_magictable/flags/nl.png",
+      "awayFlag": "https://www.sporteventz.com/components/com_magictable/flags/it.png",
+      "time": "Wednesday, 14 October 2026 16:45",
       "channels": [
         {
-          "name": "Arena Sport 4 Croatia HD",
+          "name": "Arena Sport 3 Croatia HD",
           "details": {
             "transponders": [
               {
@@ -1254,24 +835,24 @@
           }
         },
         {
-          "name": "Dazn 1 Portugal HD",
+          "name": "Dazn 2 Portugal HD",
           "details": {
             "transponders": [
               {
                 "Name": "HISPASAT 1C, 1D",
-                "Position": "30.0W",
-                "Frequency": "12398.00",
-                "Polarisation": "H",
-                "SR": "27500",
+                "Position": "not available",
+                "Frequency": "not available",
+                "Polarisation": "not available",
+                "SR": "not available",
                 "FEC": "3/4",
                 "System": "DVB-S2",
-                "Modulation": "8PSK",
-                "Crypt": "Nagravision 3"
+                "Modulation": "not available",
+                "Crypt": "not available"
               },
               {
                 "Name": "HISPASAT 1C, 1D",
                 "Position": "30.0W",
-                "Frequency": "12398.00",
+                "Frequency": "12246.00",
                 "Polarisation": "H",
                 "SR": "27500",
                 "FEC": "3/4",
@@ -1319,25 +900,7 @@
           }
         },
         {
-          "name": "Max Sport 4 Bulgaria HD",
-          "details": {
-            "transponders": [
-              {
-                "Name": "HOTBIRD 13F",
-                "Position": "13.0E",
-                "Frequency": "11804.00",
-                "Polarisation": "V",
-                "SR": "29700",
-                "FEC": "3/4",
-                "System": "DVB-S2",
-                "Modulation": "8PSK",
-                "Crypt": "Irdeto 2;VideoGuard"
-              }
-            ]
-          }
-        },
-        {
-          "name": "Nova Sport 3 Czechia HD",
+          "name": "Nova Sport 6 Czechia HD",
           "details": {
             "transponders": [
               {
@@ -1355,48 +918,37 @@
           }
         },
         {
-          "name": "Sky Sport 4 Austria HD",
+          "name": "Ring BG HD",
           "details": {
             "transponders": [
               {
-                "Name": "ASTRA 1F,1G,1H,1KR,1L",
-                "Position": "19.2E",
-                "Frequency": "12382.50",
-                "Polarisation": "H",
-                "SR": "27500",
+                "Name": "HOTBIRD 13F",
+                "Position": "13.0E",
+                "Frequency": "11804.00",
+                "Polarisation": "V",
+                "SR": "29700",
                 "FEC": "3/4",
                 "System": "DVB-S2",
                 "Modulation": "8PSK",
-                "Crypt": "Videoguard"
+                "Crypt": "Irdeto 2;VideoGuard"
               }
             ]
           }
         },
         {
-          "name": "Sport 2 Hungary",
+          "name": "Sky Sport 1 Austria HD",
           "details": {
             "transponders": [
               {
-                "Name": "INTELSAT 10",
-                "Position": "0.8W",
-                "Frequency": "11785.00",
+                "Name": "ASTRA 1F,1G,1H,1KR,1L",
+                "Position": "19.2E",
+                "Frequency": "11171.00",
                 "Polarisation": "H",
-                "SR": "28000",
-                "FEC": "7/8",
-                "System": "DVB-S",
-                "Modulation": "QPSK",
-                "Crypt": "Nagravision3"
-              },
-              {
-                "Name": "INTELSAT 10",
-                "Position": "0.8W",
-                "Frequency": "11766.00",
-                "Polarisation": "V",
-                "SR": "28000",
-                "FEC": "7/8",
-                "System": "DVB-S",
-                "Modulation": "QPSK",
-                "Crypt": "Cryptoworks:Irdeto 2:Nagravision 3"
+                "SR": "22000",
+                "FEC": "3/4",
+                "System": "DVB-S2",
+                "Modulation": "8PSK",
+                "Crypt": "Videoguard"
               }
             ]
           }
@@ -1418,17 +970,167 @@
               }
             ]
           }
+        },
+        {
+          "name": "Ziggo Sport 1 Netherlands HD",
+          "details": {
+            "transponders": [
+              {
+                "Name": "ASTRA 1E,3A",
+                "Position": "23.5E",
+                "Frequency": "12129.00",
+                "Polarisation": "V",
+                "SR": "29900",
+                "FEC": "2/3",
+                "System": "DVB-S2",
+                "Modulation": "8PSK",
+                "Crypt": "Mediaguard 3:Nagravision 3:Viaccess 5.0"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "league": "Turkiye, 1. Lig",
+      "homeTeam": "Antalya",
+      "awayTeam": "Kayseri",
+      "homeFlag": "https://www.sporteventz.com/components/com_magictable/flags/tr.png",
+      "awayFlag": "https://www.sporteventz.com/components/com_magictable/flags/tr.png",
+      "time": "Wednesday, 14 October 2026 17:00",
+      "channels": [
+        {
+          "name": "TRT Turk HD",
+          "details": {
+            "transponders": [
+              {
+                "Name": "TURKSAT 2A, 3A",
+                "Position": "42.0E",
+                "Frequency": "11918.00",
+                "Polarisation": "V",
+                "SR": "24440",
+                "FEC": "3/4",
+                "System": "DVB-S",
+                "Modulation": "QPSK",
+                "Crypt": "Frei"
+              }
+            ]
+          }
         }
       ]
     },
     {
       "league": "Germany, 3. Liga",
-      "homeTeam": "Saarbrücken",
-      "awayTeam": "MSV Duisburg",
+      "homeTeam": "Viktoria Cologne",
+      "awayTeam": "Sonnenhof Grossaspach",
       "homeFlag": "https://www.sporteventz.com/components/com_magictable/flags/de.png",
       "awayFlag": "https://www.sporteventz.com/components/com_magictable/flags/de.png",
-      "time": "Tuesday, 13 October 2026 17:00",
+      "time": "Wednesday, 14 October 2026 17:00",
       "channels": [
+        {
+          "name": "Arena Sport 2 Slovakia",
+          "details": {
+            "transponders": [
+              {
+                "Name": "EUTELSAT W2",
+                "Position": "16.0E",
+                "Frequency": "12605.00",
+                "Polarisation": "H",
+                "SR": "30000",
+                "FEC": "4/5",
+                "System": "DVB-S2",
+                "Modulation": "QPSK",
+                "Crypt": "Conax ; Irdeto 2"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Arena Sport 2 Slovakia HD",
+          "details": {
+            "transponders": [
+              {
+                "Name": "ASTRA 1E,3A",
+                "Position": "23.5E",
+                "Frequency": "12110.00",
+                "Polarisation": "H",
+                "SR": "27500",
+                "FEC": "3/4",
+                "System": "DVB-S2",
+                "Modulation": "8PSK",
+                "Crypt": "Cryptoworks ; Irdeto 2"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "league": "Portugal, Taca de Portugal",
+      "homeTeam": "UD Santarem",
+      "awayTeam": "Gil Vicente",
+      "homeFlag": "https://www.sporteventz.com/components/com_magictable/flags/pt.png",
+      "awayFlag": "https://www.sporteventz.com/components/com_magictable/flags/pt.png",
+      "time": "Wednesday, 14 October 2026 18:00",
+      "channels": [
+        {
+          "name": "Canal 11 Portugal HD",
+          "details": {
+            "transponders": [
+              {
+                "Name": "HISPASAT 1C, 1D",
+                "Position": "30.0W",
+                "Frequency": "12168.00",
+                "Polarisation": "H",
+                "SR": "27500",
+                "FEC": "3/4",
+                "System": "DVB-S2",
+                "Modulation": "8PSK",
+                "Crypt": "Nagravision 3"
+              },
+              {
+                "Name": "HISPASAT 1C, 1D",
+                "Position": "30.0W",
+                "Frequency": "12437.00",
+                "Polarisation": "H",
+                "SR": "27500",
+                "FEC": "3/4",
+                "System": "DVB-S2",
+                "Modulation": "8PSK",
+                "Crypt": "Nagravision 3"
+              }
+            ]
+          }
+        },
+        {
+          "name": "JOJ Sport Slovakia 2 HD",
+          "details": {
+            "transponders": [
+              {
+                "Name": "ASTRA 1E,3A",
+                "Position": "23.5E",
+                "Frequency": "11836.00",
+                "Polarisation": "H",
+                "SR": "27500",
+                "FEC": "5/6",
+                "System": "DVB-S",
+                "Modulation": "QPSK",
+                "Crypt": "Crypotworks ; Irdeto 2"
+              },
+              {
+                "Name": "EUTELSAT W2",
+                "Position": "16.0E",
+                "Frequency": "11093.00",
+                "Polarisation": "V",
+                "SR": "27500",
+                "FEC": "4/5",
+                "System": "DVB-S2",
+                "Modulation": "8PSK",
+                "Crypt": "Conax ; Irdeto2"
+              }
+            ]
+          }
+        },
         {
           "name": "Sportklub 4 Croatia HD",
           "details": {
@@ -1450,151 +1152,13 @@
       ]
     },
     {
-      "league": "Turkiye, 1. Lig",
-      "homeTeam": "Pendikspor",
-      "awayTeam": "Van Spor",
-      "homeFlag": "https://www.sporteventz.com/components/com_magictable/flags/tr.png",
-      "awayFlag": "https://www.sporteventz.com/components/com_magictable/flags/tr.png",
-      "time": "Tuesday, 13 October 2026 17:00",
+      "league": "International Clubs, AFC Champions League Two, Group C",
+      "homeTeam": "Al Faisaly",
+      "awayTeam": "Al Nahda",
+      "homeFlag": "https://www.sporteventz.com/components/com_magictable/flags/jo.png",
+      "awayFlag": "https://www.sporteventz.com/components/com_magictable/flags/om.png",
+      "time": "Wednesday, 14 October 2026 18:15",
       "channels": [
-        {
-          "name": "TRT Kurdi HD",
-          "details": {
-            "transponders": [
-              {
-                "Name": "TURKSAT 2A, 3A",
-                "Position": "42.0E",
-                "Frequency": "11096.00",
-                "Polarisation": "H",
-                "SR": "30000",
-                "FEC": "5/6",
-                "System": "DVB-S",
-                "Modulation": "QPSK",
-                "Crypt": "Frei"
-              }
-            ]
-          }
-        }
-      ]
-    },
-    {
-      "league": "International, WC Qualification Women, UEFA Playoffs",
-      "homeTeam": "Iceland (W)",
-      "awayTeam": "Croatia (W)",
-      "homeFlag": "https://www.sporteventz.com/components/com_magictable/flags/is.png",
-      "awayFlag": "https://www.sporteventz.com/components/com_magictable/flags/hr.png",
-      "time": "Tuesday, 13 October 2026 17:30",
-      "channels": [
-        {
-          "name": "Max Sport 1 Croatia HD",
-          "details": {
-            "transponders": [
-              {
-                "Name": "EUTELSAT 16A",
-                "Position": "16.0E",
-                "Frequency": "11512.00",
-                "Polarisation": "H",
-                "SR": "30000",
-                "FEC": "3/4",
-                "System": "DVB-S2",
-                "Modulation": "8PSK",
-                "Crypt": "Irdeto; Nagravision"
-              }
-            ]
-          }
-        },
-        {
-          "name": "Max Sport 2 Croatia HD",
-          "details": {
-            "transponders": [
-              {
-                "Name": "EUTELSAT 16A",
-                "Position": "16.0E",
-                "Frequency": "11595.00",
-                "Polarisation": "H",
-                "SR": "30000",
-                "FEC": "3/4",
-                "System": "DVB-S2",
-                "Modulation": "8PSK",
-                "Crypt": "Irdeto; Nagravision"
-              }
-            ]
-          }
-        }
-      ]
-    },
-    {
-      "league": "International, WC Qualification Women, UEFA Playoffs",
-      "homeTeam": "Switzerland (W)",
-      "awayTeam": "Israel (W)",
-      "homeFlag": "https://www.sporteventz.com/components/com_magictable/flags/ch.png",
-      "awayFlag": "https://www.sporteventz.com/components/com_magictable/flags/il.png",
-      "time": "Tuesday, 13 October 2026 17:30",
-      "channels": [
-        {
-          "name": "RSI LA 2 Switzerland HD",
-          "details": {
-            "transponders": [
-              {
-                "Name": "HOTBIRD 6,7A,8",
-                "Position": "13.0E",
-                "Frequency": "11526.00",
-                "Polarisation": "H",
-                "SR": "29700",
-                "FEC": "2/3",
-                "System": "DVB-S2",
-                "Modulation": "8PSK",
-                "Crypt": "Viaccess 4.0:Viaccess 5.0;Viaccess6.0"
-              }
-            ]
-          }
-        },
-        {
-          "name": "SRF 2 Switzerland HD",
-          "details": {
-            "transponders": [
-              {
-                "Name": "HOTBIRD 6,7A,8",
-                "Position": "13.0E",
-                "Frequency": "10971.00",
-                "Polarisation": "H",
-                "SR": "29700",
-                "FEC": "2/3",
-                "System": "DVB-S2",
-                "Modulation": "8PSK",
-                "Crypt": "Viaccess 4.0:Viaccess 5.0;Viaccess6.0"
-              }
-            ]
-          }
-        }
-      ]
-    },
-    {
-      "league": "International Clubs, AFC Champions League Elite, West Region",
-      "homeTeam": "Al Ittihad Jeddah",
-      "awayTeam": "Al Ahli",
-      "homeFlag": "https://www.sporteventz.com/components/com_magictable/flags/sa.png",
-      "awayFlag": "https://www.sporteventz.com/components/com_magictable/flags/ae.png",
-      "time": "Tuesday, 13 October 2026 18:15",
-      "channels": [
-        {
-          "name": "ESPN Netherlands HD",
-          "details": {
-            "transponders": [
-              {
-                "Name": "ASTRA 1E,3A",
-                "Position": "23.5E",
-                "Frequency": "11739.00",
-                "Polarisation": "V",
-                "SR": "29900",
-                "FEC": "2/3",
-                "System": "DVB-S2",
-                "Modulation": "8PSK",
-                "Crypt": "Mediaguard ; Nagravision ; Viaccess"
-              }
-            ]
-          }
-        },
         {
           "name": "Nova Sport Bulgaria",
           "details": {
@@ -1612,99 +1176,17 @@
               }
             ]
           }
-        },
-        {
-          "name": "Sportdigital 1 Plus Germany HD",
-          "details": {
-            "transponders": [
-              {
-                "Name": "ASTRA 1F,1G,1H,1KR,1L",
-                "Position": "not available",
-                "Frequency": "not available",
-                "Polarisation": "not available",
-                "SR": "not available",
-                "FEC": "2/3",
-                "System": "DVB-S2",
-                "Modulation": "not available",
-                "Crypt": "not available"
-              }
-            ]
-          }
-        },
-        {
-          "name": "Sportklub 3 Croatia HD",
-          "details": {
-            "transponders": [
-              {
-                "Name": "EUTELSAT W2",
-                "Position": "16.0E",
-                "Frequency": "11512.00",
-                "Polarisation": "H",
-                "SR": "30000",
-                "FEC": "3/4",
-                "System": "DVB-S2",
-                "Modulation": "8PSK",
-                "Crypt": "Nagravision"
-              }
-            ]
-          }
-        }
-      ]
-    },
-    {
-      "league": "International, WC Qualification Women, UEFA Playoffs",
-      "homeTeam": "Netherlands (W)",
-      "awayTeam": "Hungary (W)",
-      "homeFlag": "https://www.sporteventz.com/components/com_magictable/flags/nl.png",
-      "awayFlag": "https://www.sporteventz.com/components/com_magictable/flags/hu.png",
-      "time": "Tuesday, 13 October 2026 18:45",
-      "channels": [
-        {
-          "name": "NPO 3 HD",
-          "details": {
-            "transponders": [
-              {
-                "Name": "ASTRA 1E,3A",
-                "Position": "23.5E",
-                "Frequency": "12187.00",
-                "Polarisation": "H",
-                "SR": "29900",
-                "FEC": "2/3",
-                "System": "DVB-S2",
-                "Modulation": "8PSK",
-                "Crypt": "Mediaguard 3:Nagravision 3:Viaccess 4.0"
-              }
-            ]
-          }
         }
       ]
     },
     {
       "league": "England, Championship",
-      "homeTeam": "Stoke",
-      "awayTeam": "Middlesbrough",
+      "homeTeam": "Lincoln",
+      "awayTeam": "West Ham",
       "homeFlag": "https://www.sporteventz.com/components/com_magictable/flags/eng.png",
       "awayFlag": "https://www.sporteventz.com/components/com_magictable/flags/eng.png",
-      "time": "Tuesday, 13 October 2026 19:00",
+      "time": "Wednesday, 14 October 2026 19:00",
       "channels": [
-        {
-          "name": "Arena Sport 10 Croatia HD",
-          "details": {
-            "transponders": [
-              {
-                "Name": "EUTELSAT W2",
-                "Position": "not available",
-                "Frequency": "not available",
-                "Polarisation": "not available",
-                "SR": "not available",
-                "FEC": "3/4",
-                "System": "DVB-S2",
-                "Modulation": "not available",
-                "Crypt": "not available"
-              }
-            ]
-          }
-        },
         {
           "name": "Diema Sport 2 Bulgaria HD",
           "details": {
@@ -1810,20 +1292,20 @@
     },
     {
       "league": "International Clubs, UEFA Champions League",
-      "homeTeam": "Atl. Madrid",
-      "awayTeam": "Man Utd",
-      "homeFlag": "https://www.sporteventz.com/components/com_magictable/flags/es.png",
-      "awayFlag": "https://www.sporteventz.com/components/com_magictable/flags/eng.png",
-      "time": "Tuesday, 13 October 2026 19:00",
+      "homeTeam": "Roma",
+      "awayTeam": "Real Madrid",
+      "homeFlag": "https://www.sporteventz.com/components/com_magictable/flags/it.png",
+      "awayFlag": "https://www.sporteventz.com/components/com_magictable/flags/es.png",
+      "time": "Wednesday, 14 October 2026 19:00",
       "channels": [
         {
-          "name": "Arena Sport 1 Croatia HD",
+          "name": "Arena Sport 2 Croatia HD",
           "details": {
             "transponders": [
               {
                 "Name": "EUTELSAT W2",
                 "Position": "16.0E",
-                "Frequency": "11678.25",
+                "Frequency": "11595.25",
                 "Polarisation": "H",
                 "SR": "30000",
                 "FEC": "3/4",
@@ -1835,24 +1317,24 @@
           }
         },
         {
-          "name": "Dazn 1 Portugal HD",
+          "name": "Dazn 2 Portugal HD",
           "details": {
             "transponders": [
               {
                 "Name": "HISPASAT 1C, 1D",
-                "Position": "30.0W",
-                "Frequency": "12398.00",
-                "Polarisation": "H",
-                "SR": "27500",
+                "Position": "not available",
+                "Frequency": "not available",
+                "Polarisation": "not available",
+                "SR": "not available",
                 "FEC": "3/4",
                 "System": "DVB-S2",
-                "Modulation": "8PSK",
-                "Crypt": "Nagravision 3"
+                "Modulation": "not available",
+                "Crypt": "not available"
               },
               {
                 "Name": "HISPASAT 1C, 1D",
                 "Position": "30.0W",
-                "Frequency": "12398.00",
+                "Frequency": "12246.00",
                 "Polarisation": "H",
                 "SR": "27500",
                 "FEC": "3/4",
@@ -1900,7 +1382,25 @@
           }
         },
         {
-          "name": "Max Sport 3 Bulgaria HD",
+          "name": "Nova Sport 4 Czechia HD",
+          "details": {
+            "transponders": [
+              {
+                "Name": "ASTRA 3B",
+                "Position": "23.5E",
+                "Frequency": "11934.00",
+                "Polarisation": "V",
+                "SR": "27500",
+                "FEC": "3/4",
+                "System": "DVB-S2",
+                "Modulation": "8PSK",
+                "Crypt": "Conax ; Irdeto 2 ; Nagravision 3 ; Viaccess 5.0"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Ring BG HD",
           "details": {
             "transponders": [
               {
@@ -1918,19 +1418,37 @@
           }
         },
         {
-          "name": "Nova Sport 4 Czechia HD",
+          "name": "RSI LA 2 Switzerland HD",
           "details": {
             "transponders": [
               {
-                "Name": "ASTRA 3B",
-                "Position": "23.5E",
-                "Frequency": "11934.00",
-                "Polarisation": "V",
-                "SR": "27500",
-                "FEC": "3/4",
+                "Name": "HOTBIRD 6,7A,8",
+                "Position": "13.0E",
+                "Frequency": "11526.00",
+                "Polarisation": "H",
+                "SR": "29700",
+                "FEC": "2/3",
                 "System": "DVB-S2",
                 "Modulation": "8PSK",
-                "Crypt": "Conax ; Irdeto 2 ; Nagravision 3 ; Viaccess 5.0"
+                "Crypt": "Viaccess 4.0:Viaccess 5.0;Viaccess6.0"
+              }
+            ]
+          }
+        },
+        {
+          "name": "RTS 2 Switzerland HD",
+          "details": {
+            "transponders": [
+              {
+                "Name": "HOTBIRD 6,7A,8",
+                "Position": "13.0E",
+                "Frequency": "10971.00",
+                "Polarisation": "H",
+                "SR": "29700",
+                "FEC": "2/3",
+                "System": "DVB-S2",
+                "Modulation": "8PSK",
+                "Crypt": "Viaccess 4.0:Viaccess 5.0;Viaccess6.0"
               }
             ]
           }
@@ -1954,25 +1472,25 @@
           }
         },
         {
-          "name": "Sport 1 Hungary HD",
+          "name": "SRF 2 Switzerland HD",
           "details": {
             "transponders": [
               {
-                "Name": "INTELSAT 10",
-                "Position": "0.8W",
-                "Frequency": "12034.00",
+                "Name": "HOTBIRD 6,7A,8",
+                "Position": "13.0E",
+                "Frequency": "10971.00",
                 "Polarisation": "H",
-                "SR": "30000",
-                "FEC": "3/4",
+                "SR": "29700",
+                "FEC": "2/3",
                 "System": "DVB-S2",
                 "Modulation": "8PSK",
-                "Crypt": "Conax;Cryptoworks:Irdeto2;Nagravision3"
+                "Crypt": "Viaccess 4.0:Viaccess 5.0;Viaccess6.0"
               }
             ]
           }
         },
         {
-          "name": "Tring Sport 1 Albania HD",
+          "name": "Tring Sport 2 Albania HD",
           "details": {
             "transponders": [
               {
@@ -1988,16 +1506,34 @@
               }
             ]
           }
+        },
+        {
+          "name": "TVP 1 Poland HD",
+          "details": {
+            "transponders": [
+              {
+                "Name": "HOTBIRD 6,7A,8",
+                "Position": "13.0E",
+                "Frequency": "11449.00",
+                "Polarisation": "H",
+                "SR": "27500",
+                "FEC": "3/4",
+                "System": "DVB-S2",
+                "Modulation": "8PSK",
+                "Crypt": "Conax:Mediaguard 3:Nagravision 3:Viaccess 3.0"
+              }
+            ]
+          }
         }
       ]
     },
     {
       "league": "International Clubs, UEFA Champions League",
-      "homeTeam": "Galatasaray",
-      "awayTeam": "FC Barcelona",
-      "homeFlag": "https://www.sporteventz.com/components/com_magictable/flags/tr.png",
-      "awayFlag": "https://www.sporteventz.com/components/com_magictable/flags/es.png",
-      "time": "Tuesday, 13 October 2026 19:00",
+      "homeTeam": "Aston Villa",
+      "awayTeam": "Fenerbahce",
+      "homeFlag": "https://www.sporteventz.com/components/com_magictable/flags/eng.png",
+      "awayFlag": "https://www.sporteventz.com/components/com_magictable/flags/tr.png",
+      "time": "Wednesday, 14 October 2026 19:00",
       "channels": [
         {
           "name": "Arena Sport 3 Croatia HD",
@@ -2018,7 +1554,7 @@
           }
         },
         {
-          "name": "Dazn 2 Portugal HD",
+          "name": "Dazn 3 Portugal HD",
           "details": {
             "transponders": [
               {
@@ -2035,7 +1571,465 @@
               {
                 "Name": "HISPASAT 1C, 1D",
                 "Position": "30.0W",
-                "Frequency": "12246.00",
+                "Frequency": "12207.00",
+                "Polarisation": "H",
+                "SR": "27500",
+                "FEC": "3/4",
+                "System": "DVB-S2",
+                "Modulation": "8PSK",
+                "Crypt": "Nagravision 3"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Digi Sport 4 Romania",
+          "details": {
+            "transponders": [
+              {
+                "Name": "INTELSAT 10",
+                "Position": "0.8W",
+                "Frequency": "12687.00",
+                "Polarisation": "H",
+                "SR": "27500",
+                "FEC": "3/4",
+                "System": "DVB-S",
+                "Modulation": "QPSK",
+                "Crypt": "Nagravision 3"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Sky Sport 5 Austria HD",
+          "details": {
+            "transponders": [
+              {
+                "Name": "EUTELSAT W2",
+                "Position": "not available",
+                "Frequency": "not available",
+                "Polarisation": "not available",
+                "SR": "not available",
+                "FEC": "5/6",
+                "System": "DVB-S2",
+                "Modulation": "not available",
+                "Crypt": "not available"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Tring Sport 3 Albania HD",
+          "details": {
+            "transponders": [
+              {
+                "Name": "EUTELSAT 16A",
+                "Position": "16.0E",
+                "Frequency": "11427.00",
+                "Polarisation": "V",
+                "SR": "27500",
+                "FEC": "2/3",
+                "System": "DVB-S2",
+                "Modulation": "8PSK",
+                "Crypt": "Conax"
+              }
+            ]
+          }
+        },
+        {
+          "name": "TRT 1 HD",
+          "details": {
+            "transponders": [
+              {
+                "Name": "TURKSAT 2A, 3A",
+                "Position": "42.0E",
+                "Frequency": "11053.25",
+                "Polarisation": "V",
+                "SR": "30000",
+                "FEC": "3/4",
+                "System": "DVB-S2",
+                "Modulation": "8PSK",
+                "Crypt": "Frei"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "league": "International Clubs, UEFA Champions League",
+      "homeTeam": "Shaktar Donetsk",
+      "awayTeam": "AEK Athens",
+      "homeFlag": "https://www.sporteventz.com/components/com_magictable/flags/ua.png",
+      "awayFlag": "https://www.sporteventz.com/components/com_magictable/flags/gr.png",
+      "time": "Wednesday, 14 October 2026 19:00",
+      "channels": [
+        {
+          "name": "Arena Sport 8 Croatia HD",
+          "details": {
+            "transponders": [
+              {
+                "Name": "EUTELSAT W2",
+                "Position": "not available",
+                "Frequency": "not available",
+                "Polarisation": "not available",
+                "SR": "not available",
+                "FEC": "5/6",
+                "System": "DVB-S2",
+                "Modulation": "not available",
+                "Crypt": "not available"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Digi Sport 3 Romania",
+          "details": {
+            "transponders": [
+              {
+                "Name": "INTELSAT 10",
+                "Position": "0.8W",
+                "Frequency": "11900.00",
+                "Polarisation": "H",
+                "SR": "28000",
+                "FEC": "5/6",
+                "System": "DVB-S",
+                "Modulation": "QPSK",
+                "Crypt": "Nagravision 3"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Sky Sport 8 Austria HD",
+          "details": {
+            "transponders": [
+              {
+                "Name": "ASTRA 1F,1G,1H,1KR,1L",
+                "Position": "19.2E",
+                "Frequency": "11171.00",
+                "Polarisation": "H",
+                "SR": "22000",
+                "FEC": "3/4",
+                "System": "DVB-S2",
+                "Modulation": "8PSK",
+                "Crypt": "Videoguard"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Tring Sport 6 Albania HD",
+          "details": {
+            "transponders": [
+              {
+                "Name": "EUTELSAT W2",
+                "Position": "not available",
+                "Frequency": "not available",
+                "Polarisation": "not available",
+                "SR": "not available",
+                "FEC": "3/4",
+                "System": "DVB-S2",
+                "Modulation": "not available",
+                "Crypt": "not available"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "league": "International Clubs, UEFA Champions League",
+      "homeTeam": "Slovan Bratislava",
+      "awayTeam": "Stuttgart",
+      "homeFlag": "https://www.sporteventz.com/components/com_magictable/flags/sk.png",
+      "awayFlag": "https://www.sporteventz.com/components/com_magictable/flags/de.png",
+      "time": "Wednesday, 14 October 2026 19:00",
+      "channels": [
+        {
+          "name": "Arena Sport 9 Croatia HD",
+          "details": {
+            "transponders": [
+              {
+                "Name": "EUTELSAT W2",
+                "Position": "not available",
+                "Frequency": "not available",
+                "Polarisation": "not available",
+                "SR": "not available",
+                "FEC": "3/4",
+                "System": "DVB-S2",
+                "Modulation": "not available",
+                "Crypt": "not available"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Nova Sport 5 Czechia HD",
+          "details": {
+            "transponders": [
+              {
+                "Name": "ASTRA 3B",
+                "Position": "23.5E",
+                "Frequency": "11934.00",
+                "Polarisation": "V",
+                "SR": "27500",
+                "FEC": "3/4",
+                "System": "DVB-S2",
+                "Modulation": "8PSK",
+                "Crypt": "Conax ; Irdeto 2 ; Nagravision 3 ; Viaccess 5.0"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Sky Sport 6 Austria HD",
+          "details": {
+            "transponders": [
+              {
+                "Name": "EUTELSAT W2",
+                "Position": "not available",
+                "Frequency": "not available",
+                "Polarisation": "not available",
+                "SR": "not available",
+                "FEC": "3/4",
+                "System": "DVB-S2",
+                "Modulation": "not available",
+                "Crypt": "not available"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "league": "International Clubs, UEFA Champions League",
+      "homeTeam": "Bodoe/Glimt",
+      "awayTeam": "Dortmund",
+      "homeFlag": "https://www.sporteventz.com/components/com_magictable/flags/no.png",
+      "awayFlag": "https://www.sporteventz.com/components/com_magictable/flags/de.png",
+      "time": "Wednesday, 14 October 2026 19:00",
+      "channels": [
+        {
+          "name": "Arena Sport 6 Croatia HD",
+          "details": {
+            "transponders": [
+              {
+                "Name": "EUTELSAT 16A",
+                "Position": "16.0E",
+                "Frequency": "11595.00",
+                "Polarisation": "H",
+                "SR": "30000",
+                "FEC": "3/4",
+                "System": "DVB-S2",
+                "Modulation": "8PSK",
+                "Crypt": "Nagravision 3"
+              }
+            ]
+          }
+        },
+        {
+          "name": "DAZN 1 Bar Germany HD",
+          "details": {
+            "transponders": [
+              {
+                "Name": "ASTRA 1F,1G,1H,1KR,1L",
+                "Position": "19.2E",
+                "Frequency": "11170.50",
+                "Polarisation": "H",
+                "SR": "22000",
+                "FEC": "3/4",
+                "System": "DVB-S2",
+                "Modulation": "QPSK",
+                "Crypt": "Videoguard"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Dazn 4 Portugal HD",
+          "details": {
+            "transponders": [
+              {
+                "Name": "HISPASAT 1C, 1D",
+                "Position": "30.0W",
+                "Frequency": "12398.00",
+                "Polarisation": "H",
+                "SR": "27500",
+                "FEC": "3/4",
+                "System": "DVB-S2",
+                "Modulation": "8PSK",
+                "Crypt": "Nagravision 3"
+              },
+              {
+                "Name": "HISPASAT 1C, 1D",
+                "Position": "30.0W",
+                "Frequency": "12398.00",
+                "Polarisation": "H",
+                "SR": "27500",
+                "FEC": "3/4",
+                "System": "DVB-S2",
+                "Modulation": "8PSK",
+                "Crypt": "Nagravision 3"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Nova Sport 6 Czechia HD",
+          "details": {
+            "transponders": [
+              {
+                "Name": "ASTRA 3B",
+                "Position": "23.5E",
+                "Frequency": "11934.00",
+                "Polarisation": "V",
+                "SR": "27500",
+                "FEC": "3/4",
+                "System": "DVB-S2",
+                "Modulation": "8PSK",
+                "Crypt": "Conax ; Irdeto 2 ; Nagravision 3 ; Viaccess 5.0"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Sky Sport 4 Austria HD",
+          "details": {
+            "transponders": [
+              {
+                "Name": "ASTRA 1F,1G,1H,1KR,1L",
+                "Position": "19.2E",
+                "Frequency": "12382.50",
+                "Polarisation": "H",
+                "SR": "27500",
+                "FEC": "3/4",
+                "System": "DVB-S2",
+                "Modulation": "8PSK",
+                "Crypt": "Videoguard"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Tring Sport 4 Albania HD",
+          "details": {
+            "transponders": [
+              {
+                "Name": "EUTELSAT 16A",
+                "Position": "16.0E",
+                "Frequency": "11427.00",
+                "Polarisation": "V",
+                "SR": "27500",
+                "FEC": "2/3",
+                "System": "DVB-S2",
+                "Modulation": "8PSK",
+                "Crypt": "Conax"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Ziggo Sport 6 Netherlands",
+          "details": {
+            "transponders": [
+              {
+                "Name": "ASTRA 1E,3A",
+                "Position": "23.5E",
+                "Frequency": "12129.00",
+                "Polarisation": "V",
+                "SR": "29900",
+                "FEC": "2/3",
+                "System": "DVB-S2",
+                "Modulation": "8PSK",
+                "Crypt": "Mediaguard 3:Nagravision 3:Viaccess 5.0"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "league": "International Clubs, UEFA Champions League",
+      "homeTeam": "Man City",
+      "awayTeam": "PSG",
+      "homeFlag": "https://www.sporteventz.com/components/com_magictable/flags/eng.png",
+      "awayFlag": "https://www.sporteventz.com/components/com_magictable/flags/fr.png",
+      "time": "Wednesday, 14 October 2026 19:00",
+      "channels": [
+        {
+          "name": "Arena Sport 1 Croatia HD",
+          "details": {
+            "transponders": [
+              {
+                "Name": "EUTELSAT W2",
+                "Position": "16.0E",
+                "Frequency": "11678.25",
+                "Polarisation": "H",
+                "SR": "30000",
+                "FEC": "3/4",
+                "System": "DVB-S2",
+                "Modulation": "8PSK",
+                "Crypt": "Nagravision 3"
+              }
+            ]
+          }
+        },
+        {
+          "name": "BTV Action HD",
+          "details": {
+            "transponders": [
+              {
+                "Name": "HOTBIRD 13F",
+                "Position": "13.0E",
+                "Frequency": "11804.00",
+                "Polarisation": "V",
+                "SR": "29700",
+                "FEC": "3/4",
+                "System": "DVB-S2",
+                "Modulation": "8PSK",
+                "Crypt": "Irdeto 2;VideoGuard"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Club RTL Belgium",
+          "details": {
+            "transponders": [
+              {
+                "Name": "HOTBIRD 6,7A,8",
+                "Position": "13.0E",
+                "Frequency": "10930.00",
+                "Polarisation": "H",
+                "SR": "27500",
+                "FEC": "3/4",
+                "System": "DVB-S2",
+                "Modulation": "8PSK",
+                "Crypt": "Mediaguard ; Viaccess"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Dazn 1 Portugal HD",
+          "details": {
+            "transponders": [
+              {
+                "Name": "HISPASAT 1C, 1D",
+                "Position": "30.0W",
+                "Frequency": "12398.00",
+                "Polarisation": "H",
+                "SR": "27500",
+                "FEC": "3/4",
+                "System": "DVB-S2",
+                "Modulation": "8PSK",
+                "Crypt": "Nagravision 3"
+              },
+              {
+                "Name": "HISPASAT 1C, 1D",
+                "Position": "30.0W",
+                "Frequency": "12398.00",
                 "Polarisation": "H",
                 "SR": "27500",
                 "FEC": "3/4",
@@ -2083,524 +2077,19 @@
           }
         },
         {
-          "name": "Max Sport 4 Bulgaria HD",
+          "name": "HRT 2 Croatia HD",
           "details": {
             "transponders": [
               {
-                "Name": "HOTBIRD 13F",
-                "Position": "13.0E",
-                "Frequency": "11804.00",
-                "Polarisation": "V",
-                "SR": "29700",
-                "FEC": "3/4",
-                "System": "DVB-S2",
-                "Modulation": "8PSK",
-                "Crypt": "Irdeto 2;VideoGuard"
-              }
-            ]
-          }
-        },
-        {
-          "name": "Nova Sport 6 Czechia HD",
-          "details": {
-            "transponders": [
-              {
-                "Name": "ASTRA 3B",
-                "Position": "23.5E",
-                "Frequency": "11934.00",
-                "Polarisation": "V",
-                "SR": "27500",
-                "FEC": "3/4",
-                "System": "DVB-S2",
-                "Modulation": "8PSK",
-                "Crypt": "Conax ; Irdeto 2 ; Nagravision 3 ; Viaccess 5.0"
-              }
-            ]
-          }
-        },
-        {
-          "name": "Sky Sport 4 Austria HD",
-          "details": {
-            "transponders": [
-              {
-                "Name": "ASTRA 1F,1G,1H,1KR,1L",
-                "Position": "19.2E",
-                "Frequency": "12382.50",
-                "Polarisation": "H",
-                "SR": "27500",
-                "FEC": "3/4",
-                "System": "DVB-S2",
-                "Modulation": "8PSK",
-                "Crypt": "Videoguard"
-              }
-            ]
-          }
-        },
-        {
-          "name": "Tring Sport 2 Albania HD",
-          "details": {
-            "transponders": [
-              {
-                "Name": "EUTELSAT 16A",
-                "Position": "16.0E",
-                "Frequency": "11427.00",
-                "Polarisation": "V",
-                "SR": "27500",
+                "Name": "EUTELSAT W2",
+                "Position": "not available",
+                "Frequency": "not available",
+                "Polarisation": "not available",
+                "SR": "not available",
                 "FEC": "2/3",
                 "System": "DVB-S2",
-                "Modulation": "8PSK",
-                "Crypt": "Conax"
-              }
-            ]
-          }
-        },
-        {
-          "name": "Ziggo Sport 2 Netherlands",
-          "details": {
-            "transponders": [
-              {
-                "Name": "ASTRA 1E,3A",
-                "Position": "23.5E",
-                "Frequency": "12129.00",
-                "Polarisation": "V",
-                "SR": "29900",
-                "FEC": "2/3",
-                "System": "DVB-S2",
-                "Modulation": "8PSK",
-                "Crypt": "Mediaguard 3:Nagravision 3:Viaccess 5.0"
-              }
-            ]
-          }
-        }
-      ]
-    },
-    {
-      "league": "International Clubs, UEFA Champions League",
-      "homeTeam": "Leipzig",
-      "awayTeam": "PSV",
-      "homeFlag": "https://www.sporteventz.com/components/com_magictable/flags/de.png",
-      "awayFlag": "https://www.sporteventz.com/components/com_magictable/flags/nl.png",
-      "time": "Tuesday, 13 October 2026 19:00",
-      "channels": [
-        {
-          "name": "Arena Sport 8 Croatia HD",
-          "details": {
-            "transponders": [
-              {
-                "Name": "EUTELSAT W2",
-                "Position": "not available",
-                "Frequency": "not available",
-                "Polarisation": "not available",
-                "SR": "not available",
-                "FEC": "5/6",
-                "System": "DVB-S2",
                 "Modulation": "not available",
                 "Crypt": "not available"
-              }
-            ]
-          }
-        },
-        {
-          "name": "DAZN 1 Bar Germany HD",
-          "details": {
-            "transponders": [
-              {
-                "Name": "ASTRA 1F,1G,1H,1KR,1L",
-                "Position": "19.2E",
-                "Frequency": "11170.50",
-                "Polarisation": "H",
-                "SR": "22000",
-                "FEC": "3/4",
-                "System": "DVB-S2",
-                "Modulation": "QPSK",
-                "Crypt": "Videoguard"
-              }
-            ]
-          }
-        },
-        {
-          "name": "Sky Sport 5 Austria HD",
-          "details": {
-            "transponders": [
-              {
-                "Name": "EUTELSAT W2",
-                "Position": "not available",
-                "Frequency": "not available",
-                "Polarisation": "not available",
-                "SR": "not available",
-                "FEC": "5/6",
-                "System": "DVB-S2",
-                "Modulation": "not available",
-                "Crypt": "not available"
-              }
-            ]
-          }
-        },
-        {
-          "name": "Ziggo Sport 1 Netherlands HD",
-          "details": {
-            "transponders": [
-              {
-                "Name": "ASTRA 1E,3A",
-                "Position": "23.5E",
-                "Frequency": "12129.00",
-                "Polarisation": "V",
-                "SR": "29900",
-                "FEC": "2/3",
-                "System": "DVB-S2",
-                "Modulation": "8PSK",
-                "Crypt": "Mediaguard 3:Nagravision 3:Viaccess 5.0"
-              }
-            ]
-          }
-        }
-      ]
-    },
-    {
-      "league": "International Clubs, UEFA Champions League",
-      "homeTeam": "Inter Milano",
-      "awayTeam": "Club Brugge",
-      "homeFlag": "https://www.sporteventz.com/components/com_magictable/flags/it.png",
-      "awayFlag": "https://www.sporteventz.com/components/com_magictable/flags/be.png",
-      "time": "Tuesday, 13 October 2026 19:00",
-      "channels": [
-        {
-          "name": "Arena Sport 5 Croatia HD",
-          "details": {
-            "transponders": [
-              {
-                "Name": "EUTELSAT W2",
-                "Position": "16.0E",
-                "Frequency": "11678.25",
-                "Polarisation": "H",
-                "SR": "30000",
-                "FEC": "3/4",
-                "System": "DVB-S2",
-                "Modulation": "8PSK",
-                "Crypt": "Nagravision 3"
-              }
-            ]
-          }
-        },
-        {
-          "name": "Club RTL Belgium",
-          "details": {
-            "transponders": [
-              {
-                "Name": "HOTBIRD 6,7A,8",
-                "Position": "13.0E",
-                "Frequency": "10930.00",
-                "Polarisation": "H",
-                "SR": "27500",
-                "FEC": "3/4",
-                "System": "DVB-S2",
-                "Modulation": "8PSK",
-                "Crypt": "Mediaguard ; Viaccess"
-              }
-            ]
-          }
-        },
-        {
-          "name": "Digi Sport 3 Romania",
-          "details": {
-            "transponders": [
-              {
-                "Name": "INTELSAT 10",
-                "Position": "0.8W",
-                "Frequency": "11900.00",
-                "Polarisation": "H",
-                "SR": "28000",
-                "FEC": "5/6",
-                "System": "DVB-S",
-                "Modulation": "QPSK",
-                "Crypt": "Nagravision 3"
-              }
-            ]
-          }
-        },
-        {
-          "name": "Sky Sport 8 Austria HD",
-          "details": {
-            "transponders": [
-              {
-                "Name": "ASTRA 1F,1G,1H,1KR,1L",
-                "Position": "19.2E",
-                "Frequency": "11171.00",
-                "Polarisation": "H",
-                "SR": "22000",
-                "FEC": "3/4",
-                "System": "DVB-S2",
-                "Modulation": "8PSK",
-                "Crypt": "Videoguard"
-              }
-            ]
-          }
-        },
-        {
-          "name": "Tring Sport 3 Albania HD",
-          "details": {
-            "transponders": [
-              {
-                "Name": "EUTELSAT 16A",
-                "Position": "16.0E",
-                "Frequency": "11427.00",
-                "Polarisation": "V",
-                "SR": "27500",
-                "FEC": "2/3",
-                "System": "DVB-S2",
-                "Modulation": "8PSK",
-                "Crypt": "Conax"
-              }
-            ]
-          }
-        },
-        {
-          "name": "VTM 2 HD",
-          "details": {
-            "transponders": [
-              {
-                "Name": "HISPASAT 1C, 1D",
-                "Position": "not available",
-                "Frequency": "not available",
-                "Polarisation": "not available",
-                "SR": "not available",
-                "FEC": "3/4",
-                "System": "DVB-S2",
-                "Modulation": "not available",
-                "Crypt": "not available"
-              },
-              {
-                "Name": "HISPASAT 1C, 1D",
-                "Position": "not available",
-                "Frequency": "not available",
-                "Polarisation": "not available",
-                "SR": "not available",
-                "FEC": "3/4",
-                "System": "DVB-S2",
-                "Modulation": "not available",
-                "Crypt": "not available"
-              }
-            ]
-          }
-        }
-      ]
-    },
-    {
-      "league": "International Clubs, UEFA Champions League",
-      "homeTeam": "Arsenal",
-      "awayTeam": "Lille",
-      "homeFlag": "https://www.sporteventz.com/components/com_magictable/flags/eng.png",
-      "awayFlag": "https://www.sporteventz.com/components/com_magictable/flags/fr.png",
-      "time": "Tuesday, 13 October 2026 19:00",
-      "channels": [
-        {
-          "name": "Arena Sport 6 Croatia HD",
-          "details": {
-            "transponders": [
-              {
-                "Name": "EUTELSAT 16A",
-                "Position": "16.0E",
-                "Frequency": "11595.00",
-                "Polarisation": "H",
-                "SR": "30000",
-                "FEC": "3/4",
-                "System": "DVB-S2",
-                "Modulation": "8PSK",
-                "Crypt": "Nagravision 3"
-              }
-            ]
-          }
-        },
-        {
-          "name": "Dazn 3 Portugal HD",
-          "details": {
-            "transponders": [
-              {
-                "Name": "HISPASAT 1C, 1D",
-                "Position": "not available",
-                "Frequency": "not available",
-                "Polarisation": "not available",
-                "SR": "not available",
-                "FEC": "3/4",
-                "System": "DVB-S2",
-                "Modulation": "not available",
-                "Crypt": "not available"
-              },
-              {
-                "Name": "HISPASAT 1C, 1D",
-                "Position": "30.0W",
-                "Frequency": "12207.00",
-                "Polarisation": "H",
-                "SR": "27500",
-                "FEC": "3/4",
-                "System": "DVB-S2",
-                "Modulation": "8PSK",
-                "Crypt": "Nagravision 3"
-              }
-            ]
-          }
-        },
-        {
-          "name": "Max Sport 2 Bulgaria HD",
-          "details": {
-            "transponders": [
-              {
-                "Name": "HOTBIRD 13F",
-                "Position": "13.0E",
-                "Frequency": "11804.00",
-                "Polarisation": "V",
-                "SR": "29700",
-                "FEC": "3/4",
-                "System": "DVB-S2",
-                "Modulation": "8PSK",
-                "Crypt": "Irdeto 2;VideoGuard"
-              }
-            ]
-          }
-        },
-        {
-          "name": "Nova Sport 5 Czechia HD",
-          "details": {
-            "transponders": [
-              {
-                "Name": "ASTRA 3B",
-                "Position": "23.5E",
-                "Frequency": "11934.00",
-                "Polarisation": "V",
-                "SR": "27500",
-                "FEC": "3/4",
-                "System": "DVB-S2",
-                "Modulation": "8PSK",
-                "Crypt": "Conax ; Irdeto 2 ; Nagravision 3 ; Viaccess 5.0"
-              }
-            ]
-          }
-        },
-        {
-          "name": "Sky Sport 6 Austria HD",
-          "details": {
-            "transponders": [
-              {
-                "Name": "EUTELSAT W2",
-                "Position": "not available",
-                "Frequency": "not available",
-                "Polarisation": "not available",
-                "SR": "not available",
-                "FEC": "3/4",
-                "System": "DVB-S2",
-                "Modulation": "not available",
-                "Crypt": "not available"
-              }
-            ]
-          }
-        },
-        {
-          "name": "Tring Sport 5 Albania HD",
-          "details": {
-            "transponders": [
-              {
-                "Name": "EUTELSAT W2",
-                "Position": "not available",
-                "Frequency": "not available",
-                "Polarisation": "not available",
-                "SR": "not available",
-                "FEC": "5/6",
-                "System": "DVB-S2",
-                "Modulation": "not available",
-                "Crypt": "not available"
-              }
-            ]
-          }
-        },
-        {
-          "name": "Ziggo Sport 6 Netherlands",
-          "details": {
-            "transponders": [
-              {
-                "Name": "ASTRA 1E,3A",
-                "Position": "23.5E",
-                "Frequency": "12129.00",
-                "Polarisation": "V",
-                "SR": "29900",
-                "FEC": "2/3",
-                "System": "DVB-S2",
-                "Modulation": "8PSK",
-                "Crypt": "Mediaguard 3:Nagravision 3:Viaccess 5.0"
-              }
-            ]
-          }
-        }
-      ]
-    },
-    {
-      "league": "International Clubs, UEFA Champions League",
-      "homeTeam": "Viking",
-      "awayTeam": "Bayern",
-      "homeFlag": "https://www.sporteventz.com/components/com_magictable/flags/no.png",
-      "awayFlag": "https://www.sporteventz.com/components/com_magictable/flags/de.png",
-      "time": "Tuesday, 13 October 2026 19:00",
-      "channels": [
-        {
-          "name": "Arena Sport 7 Croatia HD",
-          "details": {
-            "transponders": [
-              {
-                "Name": "EUTELSAT W2",
-                "Position": "not available",
-                "Frequency": "not available",
-                "Polarisation": "not available",
-                "SR": "not available",
-                "FEC": "5/6",
-                "System": "DVB-S2",
-                "Modulation": "not available",
-                "Crypt": "not available"
-              }
-            ]
-          }
-        },
-        {
-          "name": "Dazn 4 Portugal HD",
-          "details": {
-            "transponders": [
-              {
-                "Name": "HISPASAT 1C, 1D",
-                "Position": "30.0W",
-                "Frequency": "12398.00",
-                "Polarisation": "H",
-                "SR": "27500",
-                "FEC": "3/4",
-                "System": "DVB-S2",
-                "Modulation": "8PSK",
-                "Crypt": "Nagravision 3"
-              },
-              {
-                "Name": "HISPASAT 1C, 1D",
-                "Position": "30.0W",
-                "Frequency": "12398.00",
-                "Polarisation": "H",
-                "SR": "27500",
-                "FEC": "3/4",
-                "System": "DVB-S2",
-                "Modulation": "8PSK",
-                "Crypt": "Nagravision 3"
-              }
-            ]
-          }
-        },
-        {
-          "name": "Digi Sport 4 Romania",
-          "details": {
-            "transponders": [
-              {
-                "Name": "INTELSAT 10",
-                "Position": "0.8W",
-                "Frequency": "12687.00",
-                "Polarisation": "H",
-                "SR": "27500",
-                "FEC": "3/4",
-                "System": "DVB-S",
-                "Modulation": "QPSK",
-                "Crypt": "Nagravision 3"
               }
             ]
           }
@@ -2642,7 +2131,25 @@
           }
         },
         {
-          "name": "Tring Sport 4 Albania HD",
+          "name": "Sport 1 Hungary HD",
+          "details": {
+            "transponders": [
+              {
+                "Name": "INTELSAT 10",
+                "Position": "0.8W",
+                "Frequency": "12034.00",
+                "Polarisation": "H",
+                "SR": "30000",
+                "FEC": "3/4",
+                "System": "DVB-S2",
+                "Modulation": "8PSK",
+                "Crypt": "Conax;Cryptoworks:Irdeto2;Nagravision3"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Tring Sport 1 Albania HD",
           "details": {
             "transponders": [
               {
@@ -2658,19 +2165,55 @@
               }
             ]
           }
+        },
+        {
+          "name": "TV 8 Italia HD",
+          "details": {
+            "transponders": [
+              {
+                "Name": "HOTBIRD 6,7A,8",
+                "Position": "not available",
+                "Frequency": "not available",
+                "Polarisation": "not available",
+                "SR": "not available",
+                "FEC": "5/6",
+                "System": "DVB-S2",
+                "Modulation": "not available",
+                "Crypt": "not available"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Ziggo Sport 2 Netherlands",
+          "details": {
+            "transponders": [
+              {
+                "Name": "ASTRA 1E,3A",
+                "Position": "23.5E",
+                "Frequency": "12129.00",
+                "Polarisation": "V",
+                "SR": "29900",
+                "FEC": "2/3",
+                "System": "DVB-S2",
+                "Modulation": "8PSK",
+                "Crypt": "Mediaguard 3:Nagravision 3:Viaccess 5.0"
+              }
+            ]
+          }
         }
       ]
     },
     {
       "league": "International Clubs, UEFA Champions League",
-      "homeTeam": "Villarreal",
-      "awayTeam": "Napoli",
+      "homeTeam": "Real Betis",
+      "awayTeam": "Porto",
       "homeFlag": "https://www.sporteventz.com/components/com_magictable/flags/es.png",
-      "awayFlag": "https://www.sporteventz.com/components/com_magictable/flags/it.png",
-      "time": "Tuesday, 13 October 2026 19:00",
+      "awayFlag": "https://www.sporteventz.com/components/com_magictable/flags/pt.png",
+      "time": "Wednesday, 14 October 2026 19:00",
       "channels": [
         {
-          "name": "Arena Sport 9 Croatia HD",
+          "name": "Arena Sport 7 Croatia HD",
           "details": {
             "transponders": [
               {
@@ -2679,7 +2222,7 @@
                 "Frequency": "not available",
                 "Polarisation": "not available",
                 "SR": "not available",
-                "FEC": "3/4",
+                "FEC": "5/6",
                 "System": "DVB-S2",
                 "Modulation": "not available",
                 "Crypt": "not available"
@@ -2706,7 +2249,36 @@
           }
         },
         {
-          "name": "Tring Sport 6 Albania HD",
+          "name": "Sport TV 5 Portugal HD",
+          "details": {
+            "transponders": [
+              {
+                "Name": "HISPASAT 1C, 1D",
+                "Position": "not available",
+                "Frequency": "not available",
+                "Polarisation": "not available",
+                "SR": "not available",
+                "FEC": "3/4",
+                "System": "DVB-S2",
+                "Modulation": "not available",
+                "Crypt": "not available"
+              },
+              {
+                "Name": "HISPASAT 1C, 1D",
+                "Position": "not available",
+                "Frequency": "not available",
+                "Polarisation": "not available",
+                "SR": "not available",
+                "FEC": "3/4",
+                "System": "DVB-S2",
+                "Modulation": "not available",
+                "Crypt": "not available"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Tring Sport 5 Albania HD",
           "details": {
             "transponders": [
               {
@@ -2715,7 +2287,7 @@
                 "Frequency": "not available",
                 "Polarisation": "not available",
                 "SR": "not available",
-                "FEC": "3/4",
+                "FEC": "5/6",
                 "System": "DVB-S2",
                 "Modulation": "not available",
                 "Crypt": "not available"
