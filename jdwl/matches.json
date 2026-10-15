@@ -1,6 +1,6 @@
 {
   "source": "https://jdwel.com/today/",
-  "generated_at_utc": "2026-10-15T06:45:07.757228+00:00",
+  "generated_at_utc": "2026-10-15T12:19:03.018141+00:00",
   "matches": [
     {
       "id": "254987",
@@ -340,12 +340,18 @@
       "home_logo": "https://jdwel.com/image/teams/2445.png",
       "away_logo": "https://jdwel.com/image/teams/3380.png",
       "match_time": "15 أكتوبر 2026، 22:00",
-      "audio_items": [],
-      "audio": [],
-      "audio_text": "",
+      "audio_items": [
+        {
+          "channel": "beIN SPORTS XTRA 6",
+          "commentator": "تعليق إنجليزي"
+        }
+      ],
+      "audio": [
+        "beIN SPORTS XTRA 6 (تعليق إنجليزي)"
+      ],
+      "audio_text": "beIN SPORTS XTRA 6 (تعليق إنجليزي)",
       "channel_names_mode": "custom",
-      "details_status": "unavailable",
-      "details_error": "صفحة المباراة لا تحتوي على عناصر قنوات ضمن قسم البث"
+      "details_status": "ok"
     },
     {
       "id": "261602",
@@ -502,12 +508,18 @@
       "home_logo": "https://jdwel.com/image/teams/cam_svay_rieng.png",
       "away_logo": "https://jdwel.com/image/teams/1264.png",
       "match_time": "15 أكتوبر 2026، 15:15",
-      "audio_items": [],
-      "audio": [],
-      "audio_text": "",
+      "audio_items": [
+        {
+          "channel": "beIN SPORTS 2",
+          "commentator": "عامر الخوذيري"
+        }
+      ],
+      "audio": [
+        "الصوتية الثانية — Audio 2 (عامر الخوذيري)"
+      ],
+      "audio_text": "الصوتية الثانية — Audio 2 (عامر الخوذيري)",
       "channel_names_mode": "custom",
-      "details_status": "unavailable",
-      "details_error": "صفحة المباراة لا تحتوي على عناصر قنوات ضمن قسم البث"
+      "details_status": "ok"
     },
     {
       "id": "258936",
