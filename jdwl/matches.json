@@ -1,6 +1,6 @@
 {
   "source": "https://jdwel.com/today/",
-  "generated_at_utc": "2026-10-15T01:07:28.622373+00:00",
+  "generated_at_utc": "2026-10-15T06:45:07.757228+00:00",
   "matches": [
     {
       "id": "254987",
@@ -12,14 +12,14 @@
       "match_time": "15 أكتوبر 2026، 16:40",
       "audio_items": [
         {
-          "channel": "ثمانية",
+          "channel": "ثمانية 1",
           "commentator": "خالد المديفر"
         }
       ],
       "audio": [
-        "Thamanya — ثمانية (خالد المديفر)"
+        "Thamanya 1 — ثمانية 1 (خالد المديفر)"
       ],
-      "audio_text": "Thamanya — ثمانية (خالد المديفر)",
+      "audio_text": "Thamanya 1 — ثمانية 1 (خالد المديفر)",
       "channel_names_mode": "custom",
       "details_status": "ok"
     },
@@ -33,14 +33,14 @@
       "match_time": "15 أكتوبر 2026، 17:50",
       "audio_items": [
         {
-          "channel": "ثمانية",
+          "channel": "ثمانية 3",
           "commentator": "راشد الدوسري"
         }
       ],
       "audio": [
-        "Thamanya — ثمانية (راشد الدوسري)"
+        "Thamanya 3 — ثمانية 3 (راشد الدوسري)"
       ],
-      "audio_text": "Thamanya — ثمانية (راشد الدوسري)",
+      "audio_text": "Thamanya 3 — ثمانية 3 (راشد الدوسري)",
       "channel_names_mode": "custom",
       "details_status": "ok"
     },
@@ -54,14 +54,14 @@
       "match_time": "15 أكتوبر 2026، 18:15",
       "audio_items": [
         {
-          "channel": "ثمانية",
+          "channel": "ثمانية 2",
           "commentator": "مشعل الشمري"
         }
       ],
       "audio": [
-        "Thamanya — ثمانية (مشعل الشمري)"
+        "Thamanya 2 — ثمانية 2 (مشعل الشمري)"
       ],
-      "audio_text": "Thamanya — ثمانية (مشعل الشمري)",
+      "audio_text": "Thamanya 2 — ثمانية 2 (مشعل الشمري)",
       "channel_names_mode": "custom",
       "details_status": "ok"
     },
@@ -340,18 +340,12 @@
       "home_logo": "https://jdwel.com/image/teams/2445.png",
       "away_logo": "https://jdwel.com/image/teams/3380.png",
       "match_time": "15 أكتوبر 2026، 22:00",
-      "audio_items": [
-        {
-          "channel": "beIN SPORTS XTRA 6",
-          "commentator": "تعليق إنجليزي"
-        }
-      ],
-      "audio": [
-        "beIN SPORTS XTRA 6 (تعليق إنجليزي)"
-      ],
-      "audio_text": "beIN SPORTS XTRA 6 (تعليق إنجليزي)",
+      "audio_items": [],
+      "audio": [],
+      "audio_text": "",
       "channel_names_mode": "custom",
-      "details_status": "ok"
+      "details_status": "unavailable",
+      "details_error": "صفحة المباراة لا تحتوي على عناصر قنوات ضمن قسم البث"
     },
     {
       "id": "261602",
@@ -508,18 +502,12 @@
       "home_logo": "https://jdwel.com/image/teams/cam_svay_rieng.png",
       "away_logo": "https://jdwel.com/image/teams/1264.png",
       "match_time": "15 أكتوبر 2026، 15:15",
-      "audio_items": [
-        {
-          "channel": "beIN SPORTS 2",
-          "commentator": "عامر الخوذيري"
-        }
-      ],
-      "audio": [
-        "الصوتية الثانية — Audio 2 (عامر الخوذيري)"
-      ],
-      "audio_text": "الصوتية الثانية — Audio 2 (عامر الخوذيري)",
+      "audio_items": [],
+      "audio": [],
+      "audio_text": "",
       "channel_names_mode": "custom",
-      "details_status": "ok"
+      "details_status": "unavailable",
+      "details_error": "صفحة المباراة لا تحتوي على عناصر قنوات ضمن قسم البث"
     },
     {
       "id": "258936",
