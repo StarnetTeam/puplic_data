@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-14T10:01:06+00:00",
-  "channel_count": 215,
+  "last_updated": "2026-10-15T09:43:06+00:00",
+  "channel_count": 217,
   "channels": {
     "a spor turkey": {
       "name": "A Spor Turkey",
@@ -487,6 +487,36 @@
         ]
       },
       "cached_at": "2026-08-29T11:33:37+00:00"
+    },
+    "benfica tv hd": {
+      "name": "Benfica TV HD",
+      "details": {
+        "transponders": [
+          {
+            "Name": "HISPASAT 1C, 1D",
+            "Position": "30.0W",
+            "Frequency": "12246.00",
+            "Polarisation": "H",
+            "SR": "27500",
+            "FEC": "3/4",
+            "System": "DVB-S2",
+            "Modulation": "8PSK",
+            "Crypt": "Nagravision 3"
+          },
+          {
+            "Name": "HISPASAT 1C, 1D",
+            "Position": "30.0W",
+            "Frequency": "12246.00",
+            "Polarisation": "H",
+            "SR": "27500",
+            "FEC": "3/4",
+            "System": "DVB-S2",
+            "Modulation": "8PSK",
+            "Crypt": "Nagravision 3"
+          }
+        ]
+      },
+      "cached_at": "2026-10-15T09:43:05+00:00"
     },
     "btv 1 portugal hd": {
       "name": "BTV 1 Portugal HD",
@@ -1368,6 +1398,25 @@
         ]
       },
       "cached_at": "2026-08-19T05:28:22+00:00"
+    },
+    "ht spor türkiye": {
+      "name": "HT Spor Türkiye",
+      "details": {
+        "transponders": [
+          {
+            "Name": "TURKSAT 2A, 3A",
+            "Position": "not available",
+            "Frequency": "not available",
+            "Polarisation": "not available",
+            "SR": "not available",
+            "FEC": "3/4",
+            "System": "DVB-S",
+            "Modulation": "not available",
+            "Crypt": "not available"
+          }
+        ]
+      },
+      "cached_at": "2026-10-15T09:43:05+00:00"
     },
     "italia 1 hd": {
       "name": "Italia 1 HD",
