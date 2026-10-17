@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-16T09:36:50+00:00",
-  "channel_count": 217,
+  "last_updated": "2026-10-17T09:08:11+00:00",
+  "channel_count": 219,
   "channels": {
     "a spor turkey": {
       "name": "A Spor Turkey",
@@ -4368,6 +4368,44 @@
         ]
       },
       "cached_at": "2026-08-18T05:27:10+00:00"
+    },
+    "wdr bielefeld hd": {
+      "name": "WDR Bielefeld HD",
+      "details": {
+        "transponders": [
+          {
+            "Name": "ASTRA 1F,1G,1H,1KR,1L",
+            "Position": "19.2E",
+            "Frequency": "12421.50",
+            "Polarisation": "H",
+            "SR": "22000",
+            "FEC": "2/3",
+            "System": "DVB-S2",
+            "Modulation": "8PSK",
+            "Crypt": "Frei"
+          }
+        ]
+      },
+      "cached_at": "2026-10-17T09:08:08+00:00"
+    },
+    "wdr bonn hd": {
+      "name": "WDR Bonn HD",
+      "details": {
+        "transponders": [
+          {
+            "Name": "ASTRA 1F,1G,1H,1KR,1L",
+            "Position": "19.2E",
+            "Frequency": "12603.75",
+            "Polarisation": "H",
+            "SR": "22000",
+            "FEC": "2/3",
+            "System": "DVB-S2",
+            "Modulation": "8PSK",
+            "Crypt": "Frei"
+          }
+        ]
+      },
+      "cached_at": "2026-10-17T09:08:08+00:00"
     },
     "wdr dortmund hd": {
       "name": "WDR Dortmund HD",
