@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-17T09:08:11+00:00",
-  "channel_count": 219,
+  "last_updated": "2026-10-18T09:25:53+00:00",
+  "channel_count": 222,
   "channels": {
     "a spor turkey": {
       "name": "A Spor Turkey",
@@ -634,6 +634,25 @@
         ]
       },
       "cached_at": "2026-09-09T09:32:00+00:00"
+    },
+    "canal plus premium poland hd": {
+      "name": "Canal Plus Premium Poland HD",
+      "details": {
+        "transponders": [
+          {
+            "Name": "EUTELSAT W2",
+            "Position": "not available",
+            "Frequency": "not available",
+            "Polarisation": "not available",
+            "SR": "not available",
+            "FEC": "5/6",
+            "System": "DVB-S2",
+            "Modulation": "not available",
+            "Crypt": "not available"
+          }
+        ]
+      },
+      "cached_at": "2026-10-18T09:25:51+00:00"
     },
     "canal plus sport 3 poland hd": {
       "name": "Canal Plus Sport 3 Poland HD",
@@ -2347,6 +2366,25 @@
       },
       "cached_at": "2026-09-05T08:55:00+00:00"
     },
+    "rai 2 hd": {
+      "name": "Rai 2 HD",
+      "details": {
+        "transponders": [
+          {
+            "Name": "HOTBIRD 6,7A,8",
+            "Position": "not available",
+            "Frequency": "not available",
+            "Polarisation": "not available",
+            "SR": "not available",
+            "FEC": "2/3",
+            "System": "DVB-S",
+            "Modulation": "not available",
+            "Crypt": "not available"
+          }
+        ]
+      },
+      "cached_at": "2026-10-18T09:25:49+00:00"
+    },
     "rai sport italy hd": {
       "name": "Rai Sport Italy HD",
       "details": {
@@ -3974,6 +4012,25 @@
         ]
       },
       "cached_at": "2026-08-30T10:26:13+00:00"
+    },
+    "supersport 7 albania hd": {
+      "name": "SuperSport 7 Albania HD",
+      "details": {
+        "transponders": [
+          {
+            "Name": "EUTELSAT W2",
+            "Position": "16.0E",
+            "Frequency": "10762.25",
+            "Polarisation": "H",
+            "SR": "30000",
+            "FEC": "3/5",
+            "System": "DVB-S2",
+            "Modulation": "8PSK",
+            "Crypt": "Conax"
+          }
+        ]
+      },
+      "cached_at": "2026-10-18T09:25:49+00:00"
     },
     "swr fernsehen baden-württemberg hd": {
       "name": "SWR Fernsehen Baden-Württemberg HD",
