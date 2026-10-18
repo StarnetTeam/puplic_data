@@ -1,6 +1,6 @@
 {
   "source": "https://jdwel.com/today/",
-  "generated_at_utc": "2026-10-18T12:18:34.907854+00:00",
+  "generated_at_utc": "2026-10-18T16:15:21.477465+00:00",
   "matches": [
     {
       "id": "239770",
@@ -76,13 +76,13 @@
       "audio_items": [
         {
           "channel": "beIN SPORTS 1",
-          "commentator": "أحمد الكعبي"
+          "commentator": "علي سعيد الكعبي"
         }
       ],
       "audio": [
-        "الصوتية الأولى — Audio 1 (أحمد الكعبي)"
+        "الصوتية الأولى — Audio 1 (علي سعيد الكعبي)"
       ],
-      "audio_text": "الصوتية الأولى — Audio 1 (أحمد الكعبي)",
+      "audio_text": "الصوتية الأولى — Audio 1 (علي سعيد الكعبي)",
       "channel_names_mode": "custom",
       "details_status": "ok"
     },
