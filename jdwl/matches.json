@@ -1,6 +1,6 @@
 {
   "source": "https://jdwel.com/today/",
-  "generated_at_utc": "2026-10-19T17:58:46.834235+00:00",
+  "generated_at_utc": "2026-10-19T22:02:58.503243+00:00",
   "matches": [
     {
       "id": "239766",
@@ -209,12 +209,18 @@
       "home_logo": "https://jdwel.com/image/teams/301.png",
       "away_logo": "https://jdwel.com/image/teams/2459.png",
       "match_time": "19 أكتوبر 2026، 20:00",
-      "audio_items": [],
-      "audio": [],
-      "audio_text": "",
+      "audio_items": [
+        {
+          "channel": "أون سبورت 1",
+          "commentator": "بلال علام"
+        }
+      ],
+      "audio": [
+        "أون سبورت 1 (بلال علام)"
+      ],
+      "audio_text": "أون سبورت 1 (بلال علام)",
       "channel_names_mode": "custom",
-      "details_status": "unavailable",
-      "details_error": "422 Client Error: Unprocessable Entity for url: https://r.jina.ai/https://jdwel.com/match/256838"
+      "details_status": "ok"
     },
     {
       "id": "251658",
