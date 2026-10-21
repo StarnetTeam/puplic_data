@@ -1,6 +1,6 @@
 {
   "source": "https://jdwel.com/today/",
-  "generated_at_utc": "2026-10-21T05:33:44.611195+00:00",
+  "generated_at_utc": "2026-10-21T10:51:26.618608+00:00",
   "matches": [
     {
       "id": "260826",
@@ -211,6 +211,21 @@
       "audio_text": "beIN SPORTS XTRA 1 (عبدالله الغامدي)",
       "channel_names_mode": "custom",
       "details_status": "ok"
+    },
+    {
+      "id": "257315",
+      "competition": "دوري أبطال أفريقيا",
+      "home_team": "15 دي أغوستو",
+      "away_team": "سيمبا",
+      "home_logo": "https://jdwel.com/image/teams/4146.png",
+      "away_logo": "https://jdwel.com/image/teams/1195.png",
+      "match_time": "21 أكتوبر 2026، 15:00",
+      "audio_items": [],
+      "audio": [],
+      "audio_text": "",
+      "channel_names_mode": "custom",
+      "details_status": "unavailable",
+      "details_error": "صفحة المباراة لا تحتوي على عناصر قنوات ضمن قسم البث"
     },
     {
       "id": "257298",
