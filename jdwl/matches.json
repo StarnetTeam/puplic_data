@@ -1,6 +1,6 @@
 {
   "source": "https://jdwel.com/today/",
-  "generated_at_utc": "2026-10-22T06:50:54.760480+00:00",
+  "generated_at_utc": "2026-10-22T12:38:45.053199+00:00",
   "matches": [
     {
       "id": "255003",
@@ -12,14 +12,14 @@
       "match_time": "22 أكتوبر 2026، 16:40",
       "audio_items": [
         {
-          "channel": "ثمانية",
+          "channel": "ثمانية 2",
           "commentator": "راشد الدوسري"
         }
       ],
       "audio": [
-        "Thamanya — ثمانية (راشد الدوسري)"
+        "Thamanya 2 — ثمانية 2 (راشد الدوسري)"
       ],
-      "audio_text": "Thamanya — ثمانية (راشد الدوسري)",
+      "audio_text": "Thamanya 2 — ثمانية 2 (راشد الدوسري)",
       "channel_names_mode": "custom",
       "details_status": "ok"
     },
@@ -33,14 +33,14 @@
       "match_time": "22 أكتوبر 2026، 17:45",
       "audio_items": [
         {
-          "channel": "ثمانية",
+          "channel": "ثمانية 1",
           "commentator": "جعفر الصليح"
         }
       ],
       "audio": [
-        "Thamanya — ثمانية (جعفر الصليح)"
+        "Thamanya 1 — ثمانية 1 (جعفر الصليح)"
       ],
-      "audio_text": "Thamanya — ثمانية (جعفر الصليح)",
+      "audio_text": "Thamanya 1 — ثمانية 1 (جعفر الصليح)",
       "channel_names_mode": "custom",
       "details_status": "ok"
     },
@@ -52,18 +52,12 @@
       "home_logo": "https://jdwel.com/image/teams/3404.png",
       "away_logo": "https://jdwel.com/image/teams/2840.png",
       "match_time": "22 أكتوبر 2026، 21:00",
-      "audio_items": [
-        {
-          "channel": "ثمانية",
-          "commentator": "خالد المديفر و فهد العتيبي"
-        }
-      ],
-      "audio": [
-        "Thamanya — ثمانية (خالد المديفر و فهد العتيبي)"
-      ],
-      "audio_text": "Thamanya — ثمانية (خالد المديفر و فهد العتيبي)",
+      "audio_items": [],
+      "audio": [],
+      "audio_text": "",
       "channel_names_mode": "custom",
-      "details_status": "ok"
+      "details_status": "unavailable",
+      "details_error": "صفحة المباراة لا تحتوي على عناصر قنوات ضمن قسم البث"
     },
     {
       "id": "261557",
