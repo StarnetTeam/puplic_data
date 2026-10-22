@@ -1,6 +1,6 @@
 {
   "source": "https://jdwel.com/today/",
-  "generated_at_utc": "2026-10-22T12:38:45.053199+00:00",
+  "generated_at_utc": "2026-10-22T17:46:04.657142+00:00",
   "matches": [
     {
       "id": "255003",
@@ -10,18 +10,12 @@
       "home_logo": "https://jdwel.com/image/teams/sau_al_hazm_v2.png",
       "away_logo": "https://jdwel.com/image/teams/3067.png",
       "match_time": "22 أكتوبر 2026، 16:40",
-      "audio_items": [
-        {
-          "channel": "ثمانية 2",
-          "commentator": "راشد الدوسري"
-        }
-      ],
-      "audio": [
-        "Thamanya 2 — ثمانية 2 (راشد الدوسري)"
-      ],
-      "audio_text": "Thamanya 2 — ثمانية 2 (راشد الدوسري)",
+      "audio_items": [],
+      "audio": [],
+      "audio_text": "",
       "channel_names_mode": "custom",
-      "details_status": "ok"
+      "details_status": "unavailable",
+      "details_error": "422 Client Error: Unprocessable Entity for url: https://r.jina.ai/https://jdwel.com/match/255003"
     },
     {
       "id": "255002",
@@ -31,33 +25,12 @@
       "home_logo": "https://jdwel.com/image/teams/1105.png",
       "away_logo": "https://jdwel.com/image/teams/2213.png",
       "match_time": "22 أكتوبر 2026، 17:45",
-      "audio_items": [
-        {
-          "channel": "ثمانية 1",
-          "commentator": "جعفر الصليح"
-        }
-      ],
-      "audio": [
-        "Thamanya 1 — ثمانية 1 (جعفر الصليح)"
-      ],
-      "audio_text": "Thamanya 1 — ثمانية 1 (جعفر الصليح)",
-      "channel_names_mode": "custom",
-      "details_status": "ok"
-    },
-    {
-      "id": "255001",
-      "competition": "دوري روشن السعودي",
-      "home_team": "الأهلي",
-      "away_team": "الخليج",
-      "home_logo": "https://jdwel.com/image/teams/3404.png",
-      "away_logo": "https://jdwel.com/image/teams/2840.png",
-      "match_time": "22 أكتوبر 2026، 21:00",
       "audio_items": [],
       "audio": [],
       "audio_text": "",
       "channel_names_mode": "custom",
       "details_status": "unavailable",
-      "details_error": "صفحة المباراة لا تحتوي على عناصر قنوات ضمن قسم البث"
+      "details_error": "422 Client Error: Unprocessable Entity for url: https://r.jina.ai/https://jdwel.com/match/255002"
     },
     {
       "id": "261557",
@@ -67,18 +40,12 @@
       "home_logo": "https://jdwel.com/image/teams/1458.png",
       "away_logo": "https://jdwel.com/image/teams/1664.png",
       "match_time": "22 أكتوبر 2026، 19:45",
-      "audio_items": [
-        {
-          "channel": "beIN SPORTS XTRA 2",
-          "commentator": "أحمد سوكو"
-        }
-      ],
-      "audio": [
-        "beIN SPORTS XTRA 2 (أحمد سوكو)"
-      ],
-      "audio_text": "beIN SPORTS XTRA 2 (أحمد سوكو)",
+      "audio_items": [],
+      "audio": [],
+      "audio_text": "",
       "channel_names_mode": "custom",
-      "details_status": "ok"
+      "details_status": "unavailable",
+      "details_error": "422 Client Error: Unprocessable Entity for url: https://r.jina.ai/https://jdwel.com/match/261557"
     },
     {
       "id": "261560",
@@ -93,7 +60,7 @@
       "audio_text": "",
       "channel_names_mode": "custom",
       "details_status": "unavailable",
-      "details_error": "صفحة المباراة لا تحتوي على عناصر قنوات ضمن قسم البث"
+      "details_error": "422 Client Error: Unprocessable Entity for url: https://r.jina.ai/https://jdwel.com/match/261560"
     },
     {
       "id": "261563",
@@ -103,18 +70,12 @@
       "home_logo": "https://jdwel.com/image/teams/2317.png",
       "away_logo": "https://jdwel.com/image/teams/3206.png",
       "match_time": "22 أكتوبر 2026، 19:45",
-      "audio_items": [
-        {
-          "channel": "beIN SPORTS 4",
-          "commentator": "عبدالله الغامدي"
-        }
-      ],
-      "audio": [
-        "الصوتية الرابعة — Audio 4 (عبدالله الغامدي)"
-      ],
-      "audio_text": "الصوتية الرابعة — Audio 4 (عبدالله الغامدي)",
+      "audio_items": [],
+      "audio": [],
+      "audio_text": "",
       "channel_names_mode": "custom",
-      "details_status": "ok"
+      "details_status": "unavailable",
+      "details_error": "422 Client Error: Unprocessable Entity for url: https://r.jina.ai/https://jdwel.com/match/261563"
     },
     {
       "id": "261566",
@@ -124,18 +85,12 @@
       "home_logo": "https://jdwel.com/image/teams/1121.png",
       "away_logo": "https://jdwel.com/image/teams/6246.png",
       "match_time": "22 أكتوبر 2026، 19:45",
-      "audio_items": [
-        {
-          "channel": "beIN SPORTS 3",
-          "commentator": "سمير اليعقوبي"
-        }
-      ],
-      "audio": [
-        "الصوتية الثالثة — Audio 3 (سمير اليعقوبي)"
-      ],
-      "audio_text": "الصوتية الثالثة — Audio 3 (سمير اليعقوبي)",
+      "audio_items": [],
+      "audio": [],
+      "audio_text": "",
       "channel_names_mode": "custom",
-      "details_status": "ok"
+      "details_status": "unavailable",
+      "details_error": "422 Client Error: Unprocessable Entity for url: https://r.jina.ai/https://jdwel.com/match/261566"
     },
     {
       "id": "261569",
@@ -145,18 +100,12 @@
       "home_logo": "https://jdwel.com/image/teams/882.png",
       "away_logo": "https://jdwel.com/image/teams/2037.png",
       "match_time": "22 أكتوبر 2026، 19:45",
-      "audio_items": [
-        {
-          "channel": "beIN SPORTS 1",
-          "commentator": "علي سعيد الكعبي"
-        }
-      ],
-      "audio": [
-        "الصوتية الأولى — Audio 1 (علي سعيد الكعبي)"
-      ],
-      "audio_text": "الصوتية الأولى — Audio 1 (علي سعيد الكعبي)",
+      "audio_items": [],
+      "audio": [],
+      "audio_text": "",
       "channel_names_mode": "custom",
-      "details_status": "ok"
+      "details_status": "unavailable",
+      "details_error": "422 Client Error: Unprocessable Entity for url: https://r.jina.ai/https://jdwel.com/match/261569"
     },
     {
       "id": "261573",
@@ -166,18 +115,12 @@
       "home_logo": "https://jdwel.com/image/teams/3380.png",
       "away_logo": "https://jdwel.com/image/teams/net_az.png",
       "match_time": "22 أكتوبر 2026، 19:45",
-      "audio_items": [
-        {
-          "channel": "beIN SPORTS 6",
-          "commentator": "تعليق إنجليزي"
-        }
-      ],
-      "audio": [
-        "الصوتية السادسة — Audio 6 (تعليق إنجليزي)"
-      ],
-      "audio_text": "الصوتية السادسة — Audio 6 (تعليق إنجليزي)",
+      "audio_items": [],
+      "audio": [],
+      "audio_text": "",
       "channel_names_mode": "custom",
-      "details_status": "ok"
+      "details_status": "unavailable",
+      "details_error": "422 Client Error: Unprocessable Entity for url: https://r.jina.ai/https://jdwel.com/match/261573"
     },
     {
       "id": "261576",
@@ -187,18 +130,12 @@
       "home_logo": "https://jdwel.com/image/teams/3164.png",
       "away_logo": "https://jdwel.com/image/teams/7178.png",
       "match_time": "22 أكتوبر 2026، 19:45",
-      "audio_items": [
-        {
-          "channel": "beIN SPORTS XTRA 3",
-          "commentator": "تعليق إنجليزي"
-        }
-      ],
-      "audio": [
-        "beIN SPORTS XTRA 3 (تعليق إنجليزي)"
-      ],
-      "audio_text": "beIN SPORTS XTRA 3 (تعليق إنجليزي)",
+      "audio_items": [],
+      "audio": [],
+      "audio_text": "",
       "channel_names_mode": "custom",
-      "details_status": "ok"
+      "details_status": "unavailable",
+      "details_error": "422 Client Error: Unprocessable Entity for url: https://r.jina.ai/https://jdwel.com/match/261576"
     },
     {
       "id": "261579",
@@ -208,18 +145,12 @@
       "home_logo": "https://jdwel.com/image/teams/7253.png",
       "away_logo": "https://jdwel.com/image/teams/2146.png",
       "match_time": "22 أكتوبر 2026، 19:45",
-      "audio_items": [
-        {
-          "channel": "beIN SPORTS XTRA 1",
-          "commentator": "محمد السعدي"
-        }
-      ],
-      "audio": [
-        "beIN SPORTS XTRA 1 (محمد السعدي)"
-      ],
-      "audio_text": "beIN SPORTS XTRA 1 (محمد السعدي)",
+      "audio_items": [],
+      "audio": [],
+      "audio_text": "",
       "channel_names_mode": "custom",
-      "details_status": "ok"
+      "details_status": "unavailable",
+      "details_error": "422 Client Error: Unprocessable Entity for url: https://r.jina.ai/https://jdwel.com/match/261579"
     },
     {
       "id": "261690",
@@ -234,7 +165,7 @@
       "audio_text": "",
       "channel_names_mode": "custom",
       "details_status": "unavailable",
-      "details_error": "صفحة المباراة لا تحتوي على عناصر قنوات ضمن قسم البث"
+      "details_error": "422 Client Error: Unprocessable Entity for url: https://r.jina.ai/https://jdwel.com/match/261690"
     },
     {
       "id": "261692",
@@ -249,7 +180,7 @@
       "audio_text": "",
       "channel_names_mode": "custom",
       "details_status": "unavailable",
-      "details_error": "صفحة المباراة لا تحتوي على عناصر قنوات ضمن قسم البث"
+      "details_error": "422 Client Error: Unprocessable Entity for url: https://r.jina.ai/https://jdwel.com/match/261692"
     },
     {
       "id": "261693",
@@ -264,7 +195,7 @@
       "audio_text": "",
       "channel_names_mode": "custom",
       "details_status": "unavailable",
-      "details_error": "صفحة المباراة لا تحتوي على عناصر قنوات ضمن قسم البث"
+      "details_error": "422 Client Error: Unprocessable Entity for url: https://r.jina.ai/https://jdwel.com/match/261693"
     },
     {
       "id": "261694",
@@ -274,18 +205,12 @@
       "home_logo": "https://jdwel.com/image/teams/1555.png",
       "away_logo": "https://jdwel.com/image/teams/2433.png",
       "match_time": "22 أكتوبر 2026، 22:00",
-      "audio_items": [
-        {
-          "channel": "beIN SPORTS 1",
-          "commentator": "حفيظ دراجي"
-        }
-      ],
-      "audio": [
-        "الصوتية الأولى — Audio 1 (حفيظ دراجي)"
-      ],
-      "audio_text": "الصوتية الأولى — Audio 1 (حفيظ دراجي)",
+      "audio_items": [],
+      "audio": [],
+      "audio_text": "",
       "channel_names_mode": "custom",
-      "details_status": "ok"
+      "details_status": "unavailable",
+      "details_error": "422 Client Error: Unprocessable Entity for url: https://r.jina.ai/https://jdwel.com/match/261694"
     },
     {
       "id": "261695",
@@ -300,7 +225,7 @@
       "audio_text": "",
       "channel_names_mode": "custom",
       "details_status": "unavailable",
-      "details_error": "صفحة المباراة لا تحتوي على عناصر قنوات ضمن قسم البث"
+      "details_error": "422 Client Error: Unprocessable Entity for url: https://r.jina.ai/https://jdwel.com/match/261695"
     },
     {
       "id": "261696",
@@ -310,18 +235,12 @@
       "home_logo": "https://jdwel.com/image/teams/2149.png",
       "away_logo": "https://jdwel.com/image/teams/1279.png",
       "match_time": "22 أكتوبر 2026، 22:00",
-      "audio_items": [
-        {
-          "channel": "beIN SPORTS 2",
-          "commentator": "منتصر الأزهري"
-        }
-      ],
-      "audio": [
-        "الصوتية الثانية — Audio 2 (منتصر الأزهري)"
-      ],
-      "audio_text": "الصوتية الثانية — Audio 2 (منتصر الأزهري)",
+      "audio_items": [],
+      "audio": [],
+      "audio_text": "",
       "channel_names_mode": "custom",
-      "details_status": "ok"
+      "details_status": "unavailable",
+      "details_error": "422 Client Error: Unprocessable Entity for url: https://r.jina.ai/https://jdwel.com/match/261696"
     },
     {
       "id": "261697",
@@ -331,18 +250,12 @@
       "home_logo": "https://jdwel.com/image/teams/3224.png",
       "away_logo": "https://jdwel.com/image/teams/5695.png",
       "match_time": "22 أكتوبر 2026، 22:00",
-      "audio_items": [
-        {
-          "channel": "beIN SPORTS 4",
-          "commentator": "بكر علوان"
-        }
-      ],
-      "audio": [
-        "الصوتية الرابعة — Audio 4 (بكر علوان)"
-      ],
-      "audio_text": "الصوتية الرابعة — Audio 4 (بكر علوان)",
+      "audio_items": [],
+      "audio": [],
+      "audio_text": "",
       "channel_names_mode": "custom",
-      "details_status": "ok"
+      "details_status": "unavailable",
+      "details_error": "422 Client Error: Unprocessable Entity for url: https://r.jina.ai/https://jdwel.com/match/261697"
     },
     {
       "id": "261698",
@@ -357,7 +270,7 @@
       "audio_text": "",
       "channel_names_mode": "custom",
       "details_status": "unavailable",
-      "details_error": "صفحة المباراة لا تحتوي على عناصر قنوات ضمن قسم البث"
+      "details_error": "422 Client Error: Unprocessable Entity for url: https://r.jina.ai/https://jdwel.com/match/261698"
     },
     {
       "id": "261699",
@@ -372,7 +285,7 @@
       "audio_text": "",
       "channel_names_mode": "custom",
       "details_status": "unavailable",
-      "details_error": "صفحة المباراة لا تحتوي على عناصر قنوات ضمن قسم البث"
+      "details_error": "422 Client Error: Unprocessable Entity for url: https://r.jina.ai/https://jdwel.com/match/261699"
     },
     {
       "id": "261700",
@@ -382,18 +295,12 @@
       "home_logo": "https://jdwel.com/image/teams/4380.png",
       "away_logo": "https://jdwel.com/image/teams/1163.png",
       "match_time": "22 أكتوبر 2026، 22:00",
-      "audio_items": [
-        {
-          "channel": "beIN SPORTS 6",
-          "commentator": "باسم الزير"
-        }
-      ],
-      "audio": [
-        "الصوتية السادسة — Audio 6 (باسم الزير)"
-      ],
-      "audio_text": "الصوتية السادسة — Audio 6 (باسم الزير)",
+      "audio_items": [],
+      "audio": [],
+      "audio_text": "",
       "channel_names_mode": "custom",
-      "details_status": "ok"
+      "details_status": "unavailable",
+      "details_error": "422 Client Error: Unprocessable Entity for url: https://r.jina.ai/https://jdwel.com/match/261700"
     }
   ]
 }
