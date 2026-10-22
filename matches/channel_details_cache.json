@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-21T09:57:43+00:00",
-  "channel_count": 223,
+  "last_updated": "2026-10-22T09:57:59+00:00",
+  "channel_count": 224,
   "channels": {
     "a spor turkey": {
       "name": "A Spor Turkey",
@@ -2691,6 +2691,25 @@
         ]
       },
       "cached_at": "2026-08-27T04:53:53+00:00"
+    },
+    "servus tv germany hd": {
+      "name": "Servus TV Germany HD",
+      "details": {
+        "transponders": [
+          {
+            "Name": "ASTRA 1F,1G,1H,1KR,1L",
+            "Position": "19.2E",
+            "Frequency": "11302.75",
+            "Polarisation": "H",
+            "SR": "22000",
+            "FEC": "2/3",
+            "System": "DVB-S2",
+            "Modulation": "8PSK",
+            "Crypt": "Frei"
+          }
+        ]
+      },
+      "cached_at": "2026-10-22T09:57:58+00:00"
     },
     "sky bundesliga 1 hd": {
       "name": "Sky Bundesliga 1 HD",
