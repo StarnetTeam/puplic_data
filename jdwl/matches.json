@@ -1,6 +1,6 @@
 {
   "source": "https://jdwel.com/today/",
-  "generated_at_utc": "2026-10-23T08:06:20.992987+00:00",
+  "generated_at_utc": "2026-10-23T13:57:12.583776+00:00",
   "matches": [
     {
       "id": "239759",
@@ -80,14 +80,14 @@
       "match_time": "23 أكتوبر 2026، 16:30",
       "audio_items": [
         {
-          "channel": "ثمانية",
-          "commentator": "راشد الدوسري و عبدالله الحربي"
+          "channel": "ثمانية 2",
+          "commentator": "عبدالله الحربي و راشد الدوسري"
         }
       ],
       "audio": [
-        "Thamanya — ثمانية (راشد الدوسري و عبدالله الحربي)"
+        "Thamanya 2 — ثمانية 2 (عبدالله الحربي و راشد الدوسري)"
       ],
-      "audio_text": "Thamanya — ثمانية (راشد الدوسري و عبدالله الحربي)",
+      "audio_text": "Thamanya 2 — ثمانية 2 (عبدالله الحربي و راشد الدوسري)",
       "channel_names_mode": "custom",
       "details_status": "ok"
     },
@@ -101,14 +101,14 @@
       "match_time": "23 أكتوبر 2026، 18:30",
       "audio_items": [
         {
-          "channel": "ثمانية",
-          "commentator": "سعد يحيى و سليمان الشريف"
+          "channel": "ثمانية 3",
+          "commentator": "سليمان الشريف و سعد يحيى"
         }
       ],
       "audio": [
-        "Thamanya — ثمانية (سعد يحيى و سليمان الشريف)"
+        "Thamanya 3 — ثمانية 3 (سليمان الشريف و سعد يحيى)"
       ],
-      "audio_text": "Thamanya — ثمانية (سعد يحيى و سليمان الشريف)",
+      "audio_text": "Thamanya 3 — ثمانية 3 (سليمان الشريف و سعد يحيى)",
       "channel_names_mode": "custom",
       "details_status": "ok"
     },
@@ -122,14 +122,14 @@
       "match_time": "23 أكتوبر 2026، 21:00",
       "audio_items": [
         {
-          "channel": "ثمانية",
-          "commentator": "خالد المديفر و فهد العتيبي"
+          "channel": "ثمانية 2",
+          "commentator": "فهد العتيبي و خالد المديفر"
         }
       ],
       "audio": [
-        "Thamanya — ثمانية (خالد المديفر و فهد العتيبي)"
+        "Thamanya 2 — ثمانية 2 (فهد العتيبي و خالد المديفر)"
       ],
-      "audio_text": "Thamanya — ثمانية (خالد المديفر و فهد العتيبي)",
+      "audio_text": "Thamanya 2 — ثمانية 2 (فهد العتيبي و خالد المديفر)",
       "channel_names_mode": "custom",
       "details_status": "ok"
     },
@@ -143,14 +143,14 @@
       "match_time": "23 أكتوبر 2026، 21:00",
       "audio_items": [
         {
-          "channel": "ثمانية",
+          "channel": "ثمانية 1",
           "commentator": "فارس عوض و مشاري القرني"
         }
       ],
       "audio": [
-        "Thamanya — ثمانية (فارس عوض و مشاري القرني)"
+        "Thamanya 1 — ثمانية 1 (فارس عوض و مشاري القرني)"
       ],
-      "audio_text": "Thamanya — ثمانية (فارس عوض و مشاري القرني)",
+      "audio_text": "Thamanya 1 — ثمانية 1 (فارس عوض و مشاري القرني)",
       "channel_names_mode": "custom",
       "details_status": "ok"
     },
