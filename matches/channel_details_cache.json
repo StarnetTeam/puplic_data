@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-22T09:57:59+00:00",
-  "channel_count": 224,
+  "last_updated": "2026-10-23T09:52:31+00:00",
+  "channel_count": 226,
   "channels": {
     "a spor turkey": {
       "name": "A Spor Turkey",
@@ -653,6 +653,25 @@
         ]
       },
       "cached_at": "2026-10-18T09:25:51+00:00"
+    },
+    "canal plus sport 2 poland hd": {
+      "name": "Canal Plus Sport 2 Poland HD",
+      "details": {
+        "transponders": [
+          {
+            "Name": "HOTBIRD 6,7A,8",
+            "Position": "13.0E",
+            "Frequency": "10719.00",
+            "Polarisation": "V",
+            "SR": "27500",
+            "FEC": "5/6",
+            "System": "DVB-S",
+            "Modulation": "QPSK",
+            "Crypt": "Conax:Mediaguard 2:Nagravision 3"
+          }
+        ]
+      },
+      "cached_at": "2026-10-23T09:52:30+00:00"
     },
     "canal plus sport 3 poland hd": {
       "name": "Canal Plus Sport 3 Poland HD",
@@ -2346,6 +2365,25 @@
         ]
       },
       "cached_at": "2026-09-07T10:03:56+00:00"
+    },
+    "prima sport czechia hd": {
+      "name": "Prima Sport Czechia HD",
+      "details": {
+        "transponders": [
+          {
+            "Name": "ASTRA 3B",
+            "Position": "23.5E",
+            "Frequency": "11934.00",
+            "Polarisation": "V",
+            "SR": "27500",
+            "FEC": "3/4",
+            "System": "DVB-S2",
+            "Modulation": "8PSK",
+            "Crypt": "Conax ; Irdeto 2 ; Nagravision 3 ; Viaccess 5.0"
+          }
+        ]
+      },
+      "cached_at": "2026-10-23T09:52:29+00:00"
     },
     "puls 4 austria hd": {
       "name": "Puls 4 Austria HD",
