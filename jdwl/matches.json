@@ -1,6 +1,6 @@
 {
   "source": "https://jdwel.com/today/",
-  "generated_at_utc": "2026-10-24T05:14:45.045859+00:00",
+  "generated_at_utc": "2026-10-24T10:01:26.178435+00:00",
   "matches": [
     {
       "id": "239764",
@@ -431,14 +431,14 @@
       "match_time": "24 أكتوبر 2026، 16:30",
       "audio_items": [
         {
-          "channel": "MBC Action",
+          "channel": "MBC شاهد",
           "commentator": "فهد عريشي"
         }
       ],
       "audio": [
-        "MBC Action (فهد عريشي)"
+        "MBC شاهد (فهد عريشي)"
       ],
-      "audio_text": "MBC Action (فهد عريشي)",
+      "audio_text": "MBC شاهد (فهد عريشي)",
       "channel_names_mode": "custom",
       "details_status": "ok"
     },
