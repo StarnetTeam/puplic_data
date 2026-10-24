@@ -1,6 +1,6 @@
 {
   "source": "https://jdwel.com/today/",
-  "generated_at_utc": "2026-10-24T10:01:26.178435+00:00",
+  "generated_at_utc": "2026-10-24T13:54:38.426472+00:00",
   "matches": [
     {
       "id": "239764",
@@ -284,14 +284,14 @@
       "match_time": "24 أكتوبر 2026، 17:00",
       "audio_items": [
         {
-          "channel": "ثمانية",
+          "channel": "ثمانية 2",
           "commentator": "سعد يحيى"
         }
       ],
       "audio": [
-        "Thamanya — ثمانية (سعد يحيى)"
+        "Thamanya 2 — ثمانية 2 (سعد يحيى)"
       ],
-      "audio_text": "Thamanya — ثمانية (سعد يحيى)",
+      "audio_text": "Thamanya 2 — ثمانية 2 (سعد يحيى)",
       "channel_names_mode": "custom",
       "details_status": "ok"
     },
@@ -305,14 +305,14 @@
       "match_time": "24 أكتوبر 2026، 18:05",
       "audio_items": [
         {
-          "channel": "ثمانية",
+          "channel": "ثمانية 1",
           "commentator": "خالد المديفر"
         }
       ],
       "audio": [
-        "Thamanya — ثمانية (خالد المديفر)"
+        "Thamanya 1 — ثمانية 1 (خالد المديفر)"
       ],
-      "audio_text": "Thamanya — ثمانية (خالد المديفر)",
+      "audio_text": "Thamanya 1 — ثمانية 1 (خالد المديفر)",
       "channel_names_mode": "custom",
       "details_status": "ok"
     },
@@ -326,14 +326,14 @@
       "match_time": "24 أكتوبر 2026، 21:00",
       "audio_items": [
         {
-          "channel": "ثمانية",
+          "channel": "ثمانية 1",
           "commentator": "مشعل الشمري"
         }
       ],
       "audio": [
-        "Thamanya — ثمانية (مشعل الشمري)"
+        "Thamanya 1 — ثمانية 1 (مشعل الشمري)"
       ],
-      "audio_text": "Thamanya — ثمانية (مشعل الشمري)",
+      "audio_text": "Thamanya 1 — ثمانية 1 (مشعل الشمري)",
       "channel_names_mode": "custom",
       "details_status": "ok"
     },
