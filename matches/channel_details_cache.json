@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-24T09:23:13+00:00",
-  "channel_count": 228,
+  "last_updated": "2026-10-26T10:55:23+00:00",
+  "channel_count": 261,
   "channels": {
     "a spor turkey": {
       "name": "A Spor Turkey",
@@ -975,6 +975,25 @@
       },
       "cached_at": "2026-08-18T05:27:08+00:00"
     },
+    "dazn 2 hd": {
+      "name": "DAZN 2 HD",
+      "details": {
+        "transponders": [
+          {
+            "Name": "ASTRA 1F,1G,1H,1KR,1L",
+            "Position": "19.2E",
+            "Frequency": "12382.00",
+            "Polarisation": "H",
+            "SR": "27500",
+            "FEC": "3/4",
+            "System": "DVB-S2",
+            "Modulation": "8PSK",
+            "Crypt": "not available"
+          }
+        ]
+      },
+      "cached_at": "2026-10-26T10:55:21+00:00"
+    },
     "dazn 2 portugal hd": {
       "name": "Dazn 2 Portugal HD",
       "details": {
@@ -1122,6 +1141,36 @@
       },
       "cached_at": "2026-08-17T03:01:33+00:00"
     },
+    "diema sport 2 hd": {
+      "name": "Diema Sport 2 HD",
+      "details": {
+        "transponders": [
+          {
+            "Name": "HOTBIRD 6,7A,8",
+            "Position": "13.0E",
+            "Frequency": "12673.00",
+            "Polarisation": "V",
+            "SR": "30000",
+            "FEC": "5/6",
+            "System": "DVB-S2",
+            "Modulation": "8PSK",
+            "Crypt": "not available"
+          },
+          {
+            "Name": "HELLAS SAT 2",
+            "Position": "39.0E",
+            "Frequency": "12156.00",
+            "Polarisation": "H",
+            "SR": "30000",
+            "FEC": "5/6",
+            "System": "DVB-S2",
+            "Modulation": "8PSK",
+            "Crypt": "Nagravision 3 ; Conax"
+          }
+        ]
+      },
+      "cached_at": "2026-10-26T10:55:20+00:00"
+    },
     "diema sport 3 bulgaria hd": {
       "name": "Diema Sport 3 Bulgaria HD",
       "details": {
@@ -1140,6 +1189,74 @@
         ]
       },
       "cached_at": "2026-08-21T05:30:13+00:00"
+    },
+    "diema sport hd": {
+      "name": "Diema Sport HD",
+      "details": {
+        "transponders": [
+          {
+            "Name": "HOTBIRD 6,7A,8",
+            "Position": "13.0E",
+            "Frequency": "12673.00",
+            "Polarisation": "V",
+            "SR": "30000",
+            "FEC": "5/6",
+            "System": "DVB-S2",
+            "Modulation": "8PSK",
+            "Crypt": "CAID 0x1ec0 ; Nagravision 3 ; NDS VideoGuard ; Irdeto"
+          },
+          {
+            "Name": "HELLAS SAT 2",
+            "Position": "39.0E",
+            "Frequency": "12156.00",
+            "Polarisation": "H",
+            "SR": "30000",
+            "FEC": "5/6",
+            "System": "DVB-S2",
+            "Modulation": "8PSK",
+            "Crypt": "Nagravision 3 ; Conax"
+          }
+        ]
+      },
+      "cached_at": "2026-10-26T10:55:16+00:00"
+    },
+    "digi sport 1 hd ro": {
+      "name": "DIGI Sport 1 HD RO",
+      "details": {
+        "transponders": [
+          {
+            "Name": "INTELSAT 10-2, THOR 2,3,5",
+            "Position": "0.8W",
+            "Frequency": "11823.00",
+            "Polarisation": "H",
+            "SR": "30000",
+            "FEC": "5/6",
+            "System": "DVB-S2",
+            "Modulation": "8PSK",
+            "Crypt": "Nagravision 3"
+          }
+        ]
+      },
+      "cached_at": "2026-10-26T10:55:17+00:00"
+    },
+    "digi sport 1 ro": {
+      "name": "DIGI Sport 1 RO",
+      "details": {
+        "transponders": [
+          {
+            "Name": "INTELSAT 10-2, THOR 2,3,5",
+            "Position": "0.8W",
+            "Frequency": "11862.00",
+            "Polarisation": "H",
+            "SR": "28000",
+            "FEC": "7/8",
+            "System": "DVB-S",
+            "Modulation": "QPSK",
+            "Crypt": "Nagravision 3"
+          }
+        ]
+      },
+      "cached_at": "2026-10-26T10:55:17+00:00"
     },
     "digi sport 1 romania": {
       "name": "Digi Sport 1 Romania",
@@ -1179,6 +1296,44 @@
       },
       "cached_at": "2026-08-17T03:01:28+00:00"
     },
+    "digi sport 2 hd ro": {
+      "name": "DIGI Sport 2 HD RO",
+      "details": {
+        "transponders": [
+          {
+            "Name": "INTELSAT 10-2, THOR 2,3,5",
+            "Position": "0.8W",
+            "Frequency": "11823.00",
+            "Polarisation": "H",
+            "SR": "30000",
+            "FEC": "5/6",
+            "System": "DVB-S2",
+            "Modulation": "8PSK",
+            "Crypt": "Nagravision 3"
+          }
+        ]
+      },
+      "cached_at": "2026-10-26T10:55:21+00:00"
+    },
+    "digi sport 2 ro": {
+      "name": "DIGI Sport 2 RO",
+      "details": {
+        "transponders": [
+          {
+            "Name": "INTELSAT 10-2, THOR 2,3,5",
+            "Position": "0.8W",
+            "Frequency": "12687.00",
+            "Polarisation": "H",
+            "SR": "27500",
+            "FEC": "3/4",
+            "System": "DVB-S",
+            "Modulation": "QPSK",
+            "Crypt": "Nagravision 3"
+          }
+        ]
+      },
+      "cached_at": "2026-10-26T10:55:21+00:00"
+    },
     "digi sport 2 romania": {
       "name": "Digi Sport 2 Romania",
       "details": {
@@ -1216,6 +1371,25 @@
         ]
       },
       "cached_at": "2026-08-17T03:01:34+00:00"
+    },
+    "digi sport 3": {
+      "name": "DIGI Sport 3",
+      "details": {
+        "transponders": [
+          {
+            "Name": "INTELSAT 10-2, THOR 2,3,5",
+            "Position": "0.8W",
+            "Frequency": "12687.00",
+            "Polarisation": "H",
+            "SR": "27500",
+            "FEC": "3/4",
+            "System": "DVB-S",
+            "Modulation": "QPSK",
+            "Crypt": "Nagravision 3"
+          }
+        ]
+      },
+      "cached_at": "2026-10-26T10:55:20+00:00"
     },
     "digi sport 3 romania": {
       "name": "Digi Sport 3 Romania",
@@ -1285,6 +1459,25 @@
       },
       "cached_at": "2026-09-06T09:15:10+00:00"
     },
+    "eleven sports 1 hd": {
+      "name": "Eleven Sports 1 HD",
+      "details": {
+        "transponders": [
+          {
+            "Name": "HOTBIRD 6,7A,8",
+            "Position": "13.0E",
+            "Frequency": "10796.00",
+            "Polarisation": "V",
+            "SR": "27500",
+            "FEC": "3/4",
+            "System": "DVB-S2",
+            "Modulation": "8PSK",
+            "Crypt": "Seca/Mediaguard ; Nagravision 3 ; Conax ; Viaccess ; Irdeto"
+          }
+        ]
+      },
+      "cached_at": "2026-10-26T10:55:20+00:00"
+    },
     "eleven sports 1 poland hd": {
       "name": "Eleven Sports 1 Poland HD",
       "details": {
@@ -1303,6 +1496,25 @@
         ]
       },
       "cached_at": "2026-08-21T05:30:17+00:00"
+    },
+    "eleven sports 2 hd": {
+      "name": "Eleven Sports 2 HD",
+      "details": {
+        "transponders": [
+          {
+            "Name": "HOTBIRD 6,7A,8",
+            "Position": "13.0E",
+            "Frequency": "10796.00",
+            "Polarisation": "V",
+            "SR": "27500",
+            "FEC": "3/4",
+            "System": "DVB-S2",
+            "Modulation": "8PSK",
+            "Crypt": "Seca/Mediaguard ; Nagravision 3 ; Conax ; Viaccess ; Irdeto"
+          }
+        ]
+      },
+      "cached_at": "2026-10-26T10:55:21+00:00"
     },
     "eleven sports 2 poland hd": {
       "name": "Eleven Sports 2 Poland HD",
@@ -1360,6 +1572,25 @@
         ]
       },
       "cached_at": "2026-08-21T05:30:14+00:00"
+    },
+    "espn 1 nl hd": {
+      "name": "ESPN 1 NL HD",
+      "details": {
+        "transponders": [
+          {
+            "Name": "ASTRA 1E,3A",
+            "Position": "23.5E",
+            "Frequency": "11739.00",
+            "Polarisation": "V",
+            "SR": "29900",
+            "FEC": "3/4",
+            "System": "DVB-S2",
+            "Modulation": "8PSK",
+            "Crypt": "Seca/Mediaguard ; Viaccess ; Nagravision 3"
+          }
+        ]
+      },
+      "cached_at": "2026-10-26T10:55:16+00:00"
     },
     "espn 2 netherlands hd": {
       "name": "ESPN 2 Netherlands HD",
@@ -1614,6 +1845,25 @@
       },
       "cached_at": "2026-08-27T04:53:54+00:00"
     },
+    "match 4": {
+      "name": "Match 4",
+      "details": {
+        "transponders": [
+          {
+            "Name": "INTELSAT 10-2, THOR 2,3,5",
+            "Position": "0.8W",
+            "Frequency": "12130.00",
+            "Polarisation": "H",
+            "SR": "28000",
+            "FEC": "7/8",
+            "System": "DVB-S",
+            "Modulation": "QPSK",
+            "Crypt": "Nagravision 3 ; Cryptoworks ; Conax ; Irdeto"
+          }
+        ]
+      },
+      "cached_at": "2026-10-26T10:55:22+00:00"
+    },
     "match 4 hd hungary": {
       "name": "Match 4 HD Hungary",
       "details": {
@@ -1651,6 +1901,25 @@
         ]
       },
       "cached_at": "2026-08-17T03:01:33+00:00"
+    },
+    "match4 hd": {
+      "name": "Match4 HD",
+      "details": {
+        "transponders": [
+          {
+            "Name": "INTELSAT 10-2, THOR 2,3,5",
+            "Position": "0.8W",
+            "Frequency": "12188.00",
+            "Polarisation": "V",
+            "SR": "28000",
+            "FEC": "7/8",
+            "System": "DVB-S",
+            "Modulation": "QPSK",
+            "Crypt": "Nagravision 3 ; Conax ; Irdeto ; Cryptoworks"
+          }
+        ]
+      },
+      "cached_at": "2026-10-26T10:55:23+00:00"
     },
     "max sport 1 bulgaria hd": {
       "name": "Max Sport 1 Bulgaria HD",
@@ -1765,6 +2034,36 @@
         ]
       },
       "cached_at": "2026-08-17T03:01:32+00:00"
+    },
+    "max sport 4 hd": {
+      "name": "MAX Sport 4 HD",
+      "details": {
+        "transponders": [
+          {
+            "Name": "HOTBIRD 6,7A,8",
+            "Position": "13.0E",
+            "Frequency": "12713.00",
+            "Polarisation": "V",
+            "SR": "30000",
+            "FEC": "5/6",
+            "System": "DVB-S2",
+            "Modulation": "8PSK",
+            "Crypt": "CAID 0x1ec0 ; Nagravision 3 ; NDS VideoGuard ; Irdeto"
+          },
+          {
+            "Name": "HELLAS SAT 2",
+            "Position": "39.0E",
+            "Frequency": "12156.00",
+            "Polarisation": "H",
+            "SR": "30000",
+            "FEC": "5/6",
+            "System": "DVB-S2",
+            "Modulation": "8PSK",
+            "Crypt": "Nagravision 3 ; Conax"
+          }
+        ]
+      },
+      "cached_at": "2026-10-26T10:55:15+00:00"
     },
     "mdr sachsen hd": {
       "name": "MDR Sachsen HD",
@@ -1975,6 +2274,25 @@
       },
       "cached_at": "2026-08-17T03:01:31+00:00"
     },
+    "nova sport 3 hd": {
+      "name": "Nova Sport 3 HD",
+      "details": {
+        "transponders": [
+          {
+            "Name": "ASTRA 1E,3A",
+            "Position": "23.5E",
+            "Frequency": "11934.00",
+            "Polarisation": "V",
+            "SR": "29900",
+            "FEC": "3/4",
+            "System": "DVB-S2",
+            "Modulation": "8PSK",
+            "Crypt": "not available"
+          }
+        ]
+      },
+      "cached_at": "2026-10-26T10:55:21+00:00"
+    },
     "nova sport 4 czechia hd": {
       "name": "Nova Sport 4 Czechia HD",
       "details": {
@@ -1993,6 +2311,25 @@
         ]
       },
       "cached_at": "2026-08-17T03:01:32+00:00"
+    },
+    "nova sport 4 hd": {
+      "name": "Nova Sport 4 HD",
+      "details": {
+        "transponders": [
+          {
+            "Name": "ASTRA 1E,3A",
+            "Position": "23.5E",
+            "Frequency": "11934.00",
+            "Polarisation": "V",
+            "SR": "29900",
+            "FEC": "3/4",
+            "System": "DVB-S2",
+            "Modulation": "8PSK",
+            "Crypt": "not available"
+          }
+        ]
+      },
+      "cached_at": "2026-10-26T10:55:22+00:00"
     },
     "nova sport 5 czechia hd": {
       "name": "Nova Sport 5 Czechia HD",
@@ -2031,6 +2368,25 @@
         ]
       },
       "cached_at": "2026-08-17T03:01:33+00:00"
+    },
+    "nova sport 6 hd": {
+      "name": "Nova Sport 6 HD",
+      "details": {
+        "transponders": [
+          {
+            "Name": "ASTRA 1E,3A",
+            "Position": "23.5E",
+            "Frequency": "12090.00",
+            "Polarisation": "V",
+            "SR": "29900",
+            "FEC": "3/4",
+            "System": "DVB-S2",
+            "Modulation": "8PSK",
+            "Crypt": "Irdeto ; Nagravision 3 ; Conax ; Viaccess"
+          }
+        ]
+      },
+      "cached_at": "2026-10-26T10:55:23+00:00"
     },
     "nova sport bulgaria": {
       "name": "Nova Sport Bulgaria",
@@ -2327,6 +2683,142 @@
         ]
       },
       "cached_at": "2026-09-08T09:29:44+00:00"
+    },
+    "prima sport 1": {
+      "name": "Prima Sport 1",
+      "details": {
+        "transponders": [
+          {
+            "Name": "INTELSAT 10-2, THOR 2,3,5",
+            "Position": "0.8W",
+            "Frequency": "11900.00",
+            "Polarisation": "H",
+            "SR": "28000",
+            "FEC": "5/6",
+            "System": "DVB-S",
+            "Modulation": "QPSK",
+            "Crypt": "Nagravision 3"
+          },
+          {
+            "Name": "HELLAS SAT 2",
+            "Position": "39.0E",
+            "Frequency": "12524.00",
+            "Polarisation": "V",
+            "SR": "30000",
+            "FEC": "7/8",
+            "System": "DVB-S",
+            "Modulation": "QPSK",
+            "Crypt": "not available"
+          }
+        ]
+      },
+      "cached_at": "2026-10-26T10:55:17+00:00"
+    },
+    "prima sport 1 hd": {
+      "name": "Prima Sport 1 HD",
+      "details": {
+        "transponders": [
+          {
+            "Name": "HELLAS SAT 2",
+            "Position": "39.0E",
+            "Frequency": "12290.00",
+            "Polarisation": "V",
+            "SR": "30000",
+            "FEC": "3/4",
+            "System": "DVB-S2",
+            "Modulation": "8PSK",
+            "Crypt": "NDS VideoGuard ; Viaccess"
+          }
+        ]
+      },
+      "cached_at": "2026-10-26T10:55:17+00:00"
+    },
+    "prima sport 2": {
+      "name": "Prima Sport 2",
+      "details": {
+        "transponders": [
+          {
+            "Name": "INTELSAT 10-2, THOR 2,3,5",
+            "Position": "0.8W",
+            "Frequency": "12723.00",
+            "Polarisation": "H",
+            "SR": "27500",
+            "FEC": "3/4",
+            "System": "DVB-S",
+            "Modulation": "QPSK",
+            "Crypt": "Nagravision 3"
+          },
+          {
+            "Name": "HELLAS SAT 2",
+            "Position": "39.0E",
+            "Frequency": "12565.00",
+            "Polarisation": "V",
+            "SR": "30000",
+            "FEC": "7/8",
+            "System": "DVB-S",
+            "Modulation": "QPSK",
+            "Crypt": "not available"
+          }
+        ]
+      },
+      "cached_at": "2026-10-26T10:55:18+00:00"
+    },
+    "prima sport 2 hd": {
+      "name": "Prima Sport 2 HD",
+      "details": {
+        "transponders": [
+          {
+            "Name": "HELLAS SAT 2",
+            "Position": "39.0E",
+            "Frequency": "12290.00",
+            "Polarisation": "V",
+            "SR": "30000",
+            "FEC": "3/4",
+            "System": "DVB-S2",
+            "Modulation": "8PSK",
+            "Crypt": "NDS VideoGuard ; Viaccess"
+          }
+        ]
+      },
+      "cached_at": "2026-10-26T10:55:18+00:00"
+    },
+    "prima sport 3": {
+      "name": "Prima Sport 3",
+      "details": {
+        "transponders": [
+          {
+            "Name": "HELLAS SAT 2",
+            "Position": "39.0E",
+            "Frequency": "12647.00",
+            "Polarisation": "V",
+            "SR": "30000",
+            "FEC": "7/8",
+            "System": "DVB-S",
+            "Modulation": "QPSK",
+            "Crypt": "not available"
+          }
+        ]
+      },
+      "cached_at": "2026-10-26T10:55:22+00:00"
+    },
+    "prima sport 3 hd": {
+      "name": "Prima Sport 3 HD",
+      "details": {
+        "transponders": [
+          {
+            "Name": "HELLAS SAT 2",
+            "Position": "39.0E",
+            "Frequency": "12251.00",
+            "Polarisation": "V",
+            "SR": "30000",
+            "FEC": "3/4",
+            "System": "DVB-S2",
+            "Modulation": "8PSK",
+            "Crypt": "NDS VideoGuard ; Viaccess"
+          }
+        ]
+      },
+      "cached_at": "2026-10-26T10:55:22+00:00"
     },
     "prima sport 4": {
       "name": "Prima Sport 4",
@@ -3349,6 +3841,44 @@
       },
       "cached_at": "2026-08-19T05:28:21+00:00"
     },
+    "spiler2 tv.": {
+      "name": "Spiler2 TV.",
+      "details": {
+        "transponders": [
+          {
+            "Name": "INTELSAT 10-2, THOR 2,3,5",
+            "Position": "0.8W",
+            "Frequency": "11727.00",
+            "Polarisation": "V",
+            "SR": "28000",
+            "FEC": "7/8",
+            "System": "DVB-S",
+            "Modulation": "QPSK",
+            "Crypt": "Nagravision 3 ; Cryptoworks ; Conax ; Irdeto"
+          }
+        ]
+      },
+      "cached_at": "2026-10-26T10:55:22+00:00"
+    },
+    "sporsmart": {
+      "name": "SPORSMART",
+      "details": {
+        "transponders": [
+          {
+            "Name": "TURKSAT 2A, 3A",
+            "Position": "42.0E",
+            "Frequency": "12188.00",
+            "Polarisation": "V",
+            "SR": "27500",
+            "FEC": "5/6",
+            "System": "DVB-S2",
+            "Modulation": "8PSK",
+            "Crypt": "Irdeto ; NDS VideoGuard"
+          }
+        ]
+      },
+      "cached_at": "2026-10-26T10:55:16+00:00"
+    },
     "sporsmart turkey hd": {
       "name": "Sporsmart Turkey HD",
       "details": {
@@ -3408,6 +3938,25 @@
         ]
       },
       "cached_at": "2026-08-22T05:25:14+00:00"
+    },
+    "sport 1 hungary": {
+      "name": "Sport 1 Hungary",
+      "details": {
+        "transponders": [
+          {
+            "Name": "INTELSAT 10-2, THOR 2,3,5",
+            "Position": "0.8W",
+            "Frequency": "11785.00",
+            "Polarisation": "H",
+            "SR": "28000",
+            "FEC": "7/8",
+            "System": "DVB-S",
+            "Modulation": "QPSK",
+            "Crypt": "Nagravision 3 ; Cryptoworks ; Conax ; Irdeto"
+          }
+        ]
+      },
+      "cached_at": "2026-10-26T10:55:18+00:00"
     },
     "sport 1 hungary hd": {
       "name": "Sport 1 Hungary HD",
@@ -3766,6 +4315,25 @@
       },
       "cached_at": "2026-10-13T04:17:21+00:00"
     },
+    "sportdigital fussball hd": {
+      "name": "SPORTDIGITAL FUSSBALL HD",
+      "details": {
+        "transponders": [
+          {
+            "Name": "ASTRA 1F,1G,1H,1KR,1L",
+            "Position": "19.2E",
+            "Frequency": "11185.50",
+            "Polarisation": "V",
+            "SR": "22000",
+            "FEC": "2/3",
+            "System": "DVB-S2",
+            "Modulation": "8PSK",
+            "Crypt": "NDS VideoGuard ; Nagravision 3 ; Irdeto ; Viaccess"
+          }
+        ]
+      },
+      "cached_at": "2026-10-26T10:55:20+00:00"
+    },
     "sportdigital germany hd": {
       "name": "Sportdigital Germany HD",
       "details": {
@@ -3784,6 +4352,25 @@
         ]
       },
       "cached_at": "2026-08-17T05:34:09+00:00"
+    },
+    "sportdigital1+": {
+      "name": "Sportdigital1+",
+      "details": {
+        "transponders": [
+          {
+            "Name": "ASTRA 1F,1G,1H,1KR,1L",
+            "Position": "19.2E",
+            "Frequency": "11185.50",
+            "Polarisation": "V",
+            "SR": "22000",
+            "FEC": "2/3",
+            "System": "DVB-S2",
+            "Modulation": "8PSK",
+            "Crypt": "Nagravision 3 ; NDS VideoGuard ; CAID 0x4af4"
+          }
+        ]
+      },
+      "cached_at": "2026-10-26T10:55:19+00:00"
     },
     "sporting tv": {
       "name": "Sporting TV",
@@ -3917,6 +4504,63 @@
         ]
       },
       "cached_at": "2026-08-27T04:53:53+00:00"
+    },
+    "ss-1 hd": {
+      "name": "SS-1 HD",
+      "details": {
+        "transponders": [
+          {
+            "Name": "EUTELSAT W2",
+            "Position": "16.0E",
+            "Frequency": "10845.00",
+            "Polarisation": "H",
+            "SR": "30000",
+            "FEC": "3/5",
+            "System": "DVB-S2",
+            "Modulation": "8PSK",
+            "Crypt": "Conax"
+          }
+        ]
+      },
+      "cached_at": "2026-10-26T10:55:19+00:00"
+    },
+    "ss-2 hd": {
+      "name": "SS-2 HD",
+      "details": {
+        "transponders": [
+          {
+            "Name": "EUTELSAT W2",
+            "Position": "16.0E",
+            "Frequency": "10845.00",
+            "Polarisation": "H",
+            "SR": "30000",
+            "FEC": "3/5",
+            "System": "DVB-S2",
+            "Modulation": "8PSK",
+            "Crypt": "Conax"
+          }
+        ]
+      },
+      "cached_at": "2026-10-26T10:55:18+00:00"
+    },
+    "ss-3 hd": {
+      "name": "SS-3 HD",
+      "details": {
+        "transponders": [
+          {
+            "Name": "EUTELSAT W2",
+            "Position": "16.0E",
+            "Frequency": "10845.00",
+            "Polarisation": "H",
+            "SR": "30000",
+            "FEC": "3/5",
+            "System": "DVB-S2",
+            "Modulation": "8PSK",
+            "Crypt": "Conax"
+          }
+        ]
+      },
+      "cached_at": "2026-10-26T10:55:18+00:00"
     },
     "strike tv czechia": {
       "name": "Strike TV Czechia",
@@ -4434,6 +5078,25 @@
       },
       "cached_at": "2026-09-05T08:54:56+00:00"
     },
+    "tvp sport hd": {
+      "name": "TVP Sport HD",
+      "details": {
+        "transponders": [
+          {
+            "Name": "HOTBIRD 6,7A,8",
+            "Position": "13.0E",
+            "Frequency": "11449.00",
+            "Polarisation": "H",
+            "SR": "27500",
+            "FEC": "5/6",
+            "System": "DVB-S2",
+            "Modulation": "8PSK",
+            "Crypt": "Nagravision 3 ; Conax ; Viaccess ; Irdeto"
+          }
+        ]
+      },
+      "cached_at": "2026-10-26T10:55:19+00:00"
+    },
     "tvp sport poland hd": {
       "name": "TVP Sport Poland HD",
       "details": {
@@ -4702,6 +5365,25 @@
         ]
       },
       "cached_at": "2026-08-17T03:01:33+00:00"
+    },
+    "ziggo sport 2": {
+      "name": "Ziggo Sport 2",
+      "details": {
+        "transponders": [
+          {
+            "Name": "ASTRA 1E,3A",
+            "Position": "23.5E",
+            "Frequency": "12129.00",
+            "Polarisation": "V",
+            "SR": "29900",
+            "FEC": "3/4",
+            "System": "DVB-S2",
+            "Modulation": "8PSK",
+            "Crypt": "not available"
+          }
+        ]
+      },
+      "cached_at": "2026-10-26T10:55:22+00:00"
     },
     "ziggo sport 2 netherlands": {
       "name": "Ziggo Sport 2 Netherlands",
