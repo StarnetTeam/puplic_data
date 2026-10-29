@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-28T11:11:30+00:00",
-  "channel_count": 308,
+  "last_updated": "2026-10-29T11:24:51+00:00",
+  "channel_count": 313,
   "channels": {
     "a spor turkey": {
       "name": "A Spor Turkey",
@@ -922,6 +922,36 @@
         ]
       },
       "cached_at": "2026-08-17T03:01:29+00:00"
+    },
+    "ct sport hd": {
+      "name": "CT sport HD",
+      "details": {
+        "transponders": [
+          {
+            "Name": "INTELSAT 10-2, THOR 2,3,5",
+            "Position": "0.8W",
+            "Frequency": "12456.00",
+            "Polarisation": "V",
+            "SR": "30000",
+            "FEC": "3/4",
+            "System": "DVB-S2",
+            "Modulation": "8PSK",
+            "Crypt": "Nagravision 3 ; Irdeto ; Cryptoworks ; Conax"
+          },
+          {
+            "Name": "ASTRA 1E,3A",
+            "Position": "23.5E",
+            "Frequency": "12343.00",
+            "Polarisation": "H",
+            "SR": "29900",
+            "FEC": "3/4",
+            "System": "DVB-S2",
+            "Modulation": "8PSK",
+            "Crypt": "not available"
+          }
+        ]
+      },
+      "cached_at": "2026-10-29T11:24:50+00:00"
     },
     "dajto hd": {
       "name": "Dajto HD",
@@ -2926,6 +2956,25 @@
       },
       "cached_at": "2026-08-23T05:27:23+00:00"
     },
+    "orf1 hd": {
+      "name": "ORF1 HD",
+      "details": {
+        "transponders": [
+          {
+            "Name": "ASTRA 1F,1G,1H,1KR,1L",
+            "Position": "19.2E",
+            "Frequency": "11303.00",
+            "Polarisation": "H",
+            "SR": "22000",
+            "FEC": "2/3",
+            "System": "DVB-S2",
+            "Modulation": "8PSK",
+            "Crypt": "Irdeto ; Cryptoworks ; Viaccess ; NDS VideoGuard"
+          }
+        ]
+      },
+      "cached_at": "2026-10-29T11:24:48+00:00"
+    },
     "polsat sport 1 hd": {
       "name": "Polsat Sport 1 HD",
       "details": {
@@ -4545,6 +4594,25 @@
       },
       "cached_at": "2026-08-22T05:25:15+00:00"
     },
+    "solo calcio": {
+      "name": "Solo Calcio",
+      "details": {
+        "transponders": [
+          {
+            "Name": "HOTBIRD 6,7A,8",
+            "Position": "13.0E",
+            "Frequency": "11179.00",
+            "Polarisation": "H",
+            "SR": "27500",
+            "FEC": "2/3",
+            "System": "DVB-S2",
+            "Modulation": "8PSK",
+            "Crypt": "not available"
+          }
+        ]
+      },
+      "cached_at": "2026-10-29T11:24:49+00:00"
+    },
     "solocalcio italia": {
       "name": "Solocalcio Italia",
       "details": {
@@ -4563,6 +4631,25 @@
         ]
       },
       "cached_at": "2026-09-01T09:53:02+00:00"
+    },
+    "spiler 1": {
+      "name": "Spiler 1",
+      "details": {
+        "transponders": [
+          {
+            "Name": "INTELSAT 10-2, THOR 2,3,5",
+            "Position": "0.8W",
+            "Frequency": "12130.00",
+            "Polarisation": "H",
+            "SR": "28000",
+            "FEC": "7/8",
+            "System": "DVB-S",
+            "Modulation": "QPSK",
+            "Crypt": "Nagravision 3"
+          }
+        ]
+      },
+      "cached_at": "2026-10-29T11:24:49+00:00"
     },
     "spiler 1 tv hungary": {
       "name": "Spiler 1 TV Hungary",
@@ -5450,6 +5537,25 @@
         ]
       },
       "cached_at": "2026-10-28T11:11:29+00:00"
+    },
+    "strike tv": {
+      "name": "Strike TV",
+      "details": {
+        "transponders": [
+          {
+            "Name": "INTELSAT 10-2, THOR 2,3,5",
+            "Position": "0.8W",
+            "Frequency": "12245.00",
+            "Polarisation": "H",
+            "SR": "30000",
+            "FEC": "3/4",
+            "System": "DVB-S2",
+            "Modulation": "8PSK",
+            "Crypt": "not available"
+          }
+        ]
+      },
+      "cached_at": "2026-10-29T11:24:49+00:00"
     },
     "strike tv czechia": {
       "name": "Strike TV Czechia",
