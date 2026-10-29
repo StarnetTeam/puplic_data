@@ -1,6 +1,6 @@
 {
   "source": "https://jdwel.com/today/",
-  "generated_at_utc": "2026-10-29T07:50:33.099249+00:00",
+  "generated_at_utc": "2026-10-29T14:48:58.091370+00:00",
   "matches": [
     {
       "id": "240134",
@@ -64,14 +64,14 @@
       "match_time": "29 أكتوبر 2026، 17:35",
       "audio_items": [
         {
-          "channel": "ثمانية",
+          "channel": "ثمانية 1",
           "commentator": "عبدالإله العمري"
         }
       ],
       "audio": [
-        "Thamanya — ثمانية (عبدالإله العمري)"
+        "Thamanya 1 — ثمانية 1 (عبدالإله العمري)"
       ],
-      "audio_text": "Thamanya — ثمانية (عبدالإله العمري)",
+      "audio_text": "Thamanya 1 — ثمانية 1 (عبدالإله العمري)",
       "channel_names_mode": "custom",
       "details_status": "ok"
     },
@@ -85,14 +85,14 @@
       "match_time": "29 أكتوبر 2026، 21:00",
       "audio_items": [
         {
-          "channel": "ثمانية",
-          "commentator": "مشاري القرني و خالد المديفر"
+          "channel": "ثمانية 1",
+          "commentator": "خالد المديفر و بدر الحقباني و مشاري القرني"
         }
       ],
       "audio": [
-        "Thamanya — ثمانية (مشاري القرني و خالد المديفر)"
+        "Thamanya 1 — ثمانية 1 (خالد المديفر و بدر الحقباني و مشاري القرني)"
       ],
-      "audio_text": "Thamanya — ثمانية (مشاري القرني و خالد المديفر)",
+      "audio_text": "Thamanya 1 — ثمانية 1 (خالد المديفر و بدر الحقباني و مشاري القرني)",
       "channel_names_mode": "custom",
       "details_status": "ok"
     },
@@ -106,14 +106,14 @@
       "match_time": "29 أكتوبر 2026، 21:00",
       "audio_items": [
         {
-          "channel": "ثمانية",
+          "channel": "ثمانية 2",
           "commentator": "مشعل الشمري"
         }
       ],
       "audio": [
-        "Thamanya — ثمانية (مشعل الشمري)"
+        "Thamanya 2 — ثمانية 2 (مشعل الشمري)"
       ],
-      "audio_text": "Thamanya — ثمانية (مشعل الشمري)",
+      "audio_text": "Thamanya 2 — ثمانية 2 (مشعل الشمري)",
       "channel_names_mode": "custom",
       "details_status": "ok"
     },
