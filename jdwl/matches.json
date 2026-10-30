@@ -1,6 +1,6 @@
 {
   "source": "https://jdwel.com/today/",
-  "generated_at_utc": "2026-10-30T03:37:26.763324+00:00",
+  "generated_at_utc": "2026-10-30T10:36:18.454916+00:00",
   "matches": [
     {
       "id": "241143",
@@ -34,13 +34,13 @@
       "audio_items": [
         {
           "channel": "ثمانية 2",
-          "commentator": "سعد يحيى و جعفر الصليح"
+          "commentator": "سعد يحيى و جعفر الصليح و محمد الزيدان"
         }
       ],
       "audio": [
-        "Thamanya 2 — ثمانية 2 (سعد يحيى و جعفر الصليح)"
+        "Thamanya 2 — ثمانية 2 (سعد يحيى و جعفر الصليح و محمد الزيدان)"
       ],
-      "audio_text": "Thamanya 2 — ثمانية 2 (سعد يحيى و جعفر الصليح)",
+      "audio_text": "Thamanya 2 — ثمانية 2 (سعد يحيى و جعفر الصليح و محمد الزيدان)",
       "channel_names_mode": "custom",
       "details_status": "ok"
     },
@@ -76,13 +76,13 @@
       "audio_items": [
         {
           "channel": "ثمانية 1",
-          "commentator": "فارس عوض و راشد الدوسري"
+          "commentator": "فارس عوض و راشد الدوسري و مناف أبوشقير"
         }
       ],
       "audio": [
-        "Thamanya 1 — ثمانية 1 (فارس عوض و راشد الدوسري)"
+        "Thamanya 1 — ثمانية 1 (فارس عوض و راشد الدوسري و مناف أبوشقير)"
       ],
-      "audio_text": "Thamanya 1 — ثمانية 1 (فارس عوض و راشد الدوسري)",
+      "audio_text": "Thamanya 1 — ثمانية 1 (فارس عوض و راشد الدوسري و مناف أبوشقير)",
       "channel_names_mode": "custom",
       "details_status": "ok"
     },
