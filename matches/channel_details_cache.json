@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-01T11:46:04+00:00",
-  "channel_count": 346,
+  "last_updated": "2026-11-02T13:18:21+00:00",
+  "channel_count": 349,
   "channels": {
     "a spor turkey": {
       "name": "A Spor Turkey",
@@ -900,6 +900,44 @@
         ]
       },
       "cached_at": "2026-10-30T11:16:33+00:00"
+    },
+    "canal+ sport 4 hd": {
+      "name": "CANAL+ SPORT 4 HD",
+      "details": {
+        "transponders": [
+          {
+            "Name": "HOTBIRD 6,7A,8",
+            "Position": "13.0E",
+            "Frequency": "11449.00",
+            "Polarisation": "H",
+            "SR": "27500",
+            "FEC": "5/6",
+            "System": "DVB-S2",
+            "Modulation": "8PSK",
+            "Crypt": "Nagravision 3 ; Viaccess"
+          }
+        ]
+      },
+      "cached_at": "2026-11-02T13:18:19+00:00"
+    },
+    "canal+ sport 5 hd": {
+      "name": "CANAL+ SPORT 5 HD",
+      "details": {
+        "transponders": [
+          {
+            "Name": "HOTBIRD 6,7A,8",
+            "Position": "13.0E",
+            "Frequency": "11449.00",
+            "Polarisation": "H",
+            "SR": "27500",
+            "FEC": "5/6",
+            "System": "DVB-S2",
+            "Modulation": "8PSK",
+            "Crypt": "Seca/Mediaguard ; Nagravision 3 ; Conax"
+          }
+        ]
+      },
+      "cached_at": "2026-11-02T13:18:19+00:00"
     },
     "canal+ sport hd": {
       "name": "CANAL+ SPORT HD",
@@ -2822,6 +2860,47 @@
         ]
       },
       "cached_at": "2026-08-21T05:30:14+00:00"
+    },
+    "nova sport 1 hd": {
+      "name": "Nova Sport 1 HD",
+      "details": {
+        "transponders": [
+          {
+            "Name": "INTELSAT 10-2, THOR 2,3,5",
+            "Position": "0.8W",
+            "Frequency": "12456.00",
+            "Polarisation": "V",
+            "SR": "30000",
+            "FEC": "3/4",
+            "System": "DVB-S2",
+            "Modulation": "8PSK",
+            "Crypt": "Nagravision 3 ; Cryptoworks ; Irdeto ; Conax"
+          },
+          {
+            "Name": "EUTELSAT W2",
+            "Position": "16.0E",
+            "Frequency": "11055.00",
+            "Polarisation": "V",
+            "SR": "27500",
+            "FEC": "4/5",
+            "System": "DVB-S2",
+            "Modulation": "QPSK",
+            "Crypt": "not available"
+          },
+          {
+            "Name": "ASTRA 1E,3A",
+            "Position": "23.5E",
+            "Frequency": "12265.00",
+            "Polarisation": "H",
+            "SR": "29900",
+            "FEC": "3/4",
+            "System": "DVB-S2",
+            "Modulation": "8PSK",
+            "Crypt": "not available"
+          }
+        ]
+      },
+      "cached_at": "2026-11-02T13:18:20+00:00"
     },
     "nova sport 2 czech hd": {
       "name": "Nova Sport 2 Czech HD",
