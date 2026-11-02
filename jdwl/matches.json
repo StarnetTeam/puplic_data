@@ -1,6 +1,6 @@
 {
   "source": "https://jdwel.com/today/",
-  "generated_at_utc": "2026-11-02T11:51:26.486455+00:00",
+  "generated_at_utc": "2026-11-02T21:06:39.434888+00:00",
   "matches": [
     {
       "id": "239747",
@@ -12,14 +12,14 @@
       "match_time": "2 نوفمبر 2026، 23:00",
       "audio_items": [
         {
-          "channel": "beIN SPORTS 1",
+          "channel": "beIN SPORTS 2",
           "commentator": "حفيظ دراجي"
         }
       ],
       "audio": [
-        "الصوتية الأولى — Audio 1 (حفيظ دراجي)"
+        "الصوتية الثانية — Audio 2 (حفيظ دراجي)"
       ],
-      "audio_text": "الصوتية الأولى — Audio 1 (حفيظ دراجي)",
+      "audio_text": "الصوتية الثانية — Audio 2 (حفيظ دراجي)",
       "channel_names_mode": "custom",
       "details_status": "ok"
     },
@@ -106,7 +106,7 @@
       "match_time": "2 نوفمبر 2026، 16:45",
       "audio_items": [
         {
-          "channel": "beIN SPORTS 3",
+          "channel": "beIN SPORTS 2",
           "commentator": "عبدالله الغامدي"
         },
         {
@@ -115,10 +115,10 @@
         }
       ],
       "audio": [
-        "الصوتية الثالثة — Audio 3 (عبدالله الغامدي)",
+        "الصوتية الثانية — Audio 2 (عبدالله الغامدي)",
         "الكاس 6 (سمير المعيرفي)"
       ],
-      "audio_text": "الصوتية الثالثة — Audio 3 (عبدالله الغامدي) | الكاس 6 (سمير المعيرفي)",
+      "audio_text": "الصوتية الثانية — Audio 2 (عبدالله الغامدي) | الكاس 6 (سمير المعيرفي)",
       "channel_names_mode": "custom",
       "details_status": "ok"
     },
@@ -132,7 +132,7 @@
       "match_time": "2 نوفمبر 2026، 19:00",
       "audio_items": [
         {
-          "channel": "beIN SPORTS 2",
+          "channel": "beIN SPORTS 1",
           "commentator": "عصام الشوالي"
         },
         {
@@ -141,10 +141,10 @@
         }
       ],
       "audio": [
-        "الصوتية الثانية — Audio 2 (عصام الشوالي)",
+        "الصوتية الأولى — Audio 1 (عصام الشوالي)",
         "الكاس 5 (خليل البلوشي)"
       ],
-      "audio_text": "الصوتية الثانية — Audio 2 (عصام الشوالي) | الكاس 5 (خليل البلوشي)",
+      "audio_text": "الصوتية الأولى — Audio 1 (عصام الشوالي) | الكاس 5 (خليل البلوشي)",
       "channel_names_mode": "custom",
       "details_status": "ok"
     },
@@ -158,7 +158,7 @@
       "match_time": "2 نوفمبر 2026، 19:00",
       "audio_items": [
         {
-          "channel": "beIN SPORTS 4",
+          "channel": "beIN SPORTS 3",
           "commentator": "باسم الزير"
         },
         {
@@ -167,10 +167,10 @@
         }
       ],
       "audio": [
-        "الصوتية الرابعة — Audio 4 (باسم الزير)",
+        "الصوتية الثالثة — Audio 3 (باسم الزير)",
         "الكاس 7 (بكر علوان)"
       ],
-      "audio_text": "الصوتية الرابعة — Audio 4 (باسم الزير) | الكاس 7 (بكر علوان)",
+      "audio_text": "الصوتية الثالثة — Audio 3 (باسم الزير) | الكاس 7 (بكر علوان)",
       "channel_names_mode": "custom",
       "details_status": "ok"
     },
@@ -184,7 +184,7 @@
       "match_time": "2 نوفمبر 2026، 19:00",
       "audio_items": [
         {
-          "channel": "beIN SPORTS 3",
+          "channel": "beIN SPORTS 2",
           "commentator": "عامر الخوذيري"
         },
         {
@@ -193,10 +193,10 @@
         }
       ],
       "audio": [
-        "الصوتية الثالثة — Audio 3 (عامر الخوذيري)",
+        "الصوتية الثانية — Audio 2 (عامر الخوذيري)",
         "الكاس 6 (منتصر الأزهري)"
       ],
-      "audio_text": "الصوتية الثالثة — Audio 3 (عامر الخوذيري) | الكاس 6 (منتصر الأزهري)",
+      "audio_text": "الصوتية الثانية — Audio 2 (عامر الخوذيري) | الكاس 6 (منتصر الأزهري)",
       "channel_names_mode": "custom",
       "details_status": "ok"
     },
@@ -210,7 +210,7 @@
       "match_time": "2 نوفمبر 2026، 21:15",
       "audio_items": [
         {
-          "channel": "beIN SPORTS 2",
+          "channel": "beIN SPORTS 1",
           "commentator": "حسن العيدروس"
         },
         {
@@ -219,10 +219,10 @@
         }
       ],
       "audio": [
-        "الصوتية الثانية — Audio 2 (حسن العيدروس)",
+        "الصوتية الأولى — Audio 1 (حسن العيدروس)",
         "الكاس 5 (سمير اليعقوبي)"
       ],
-      "audio_text": "الصوتية الثانية — Audio 2 (حسن العيدروس) | الكاس 5 (سمير اليعقوبي)",
+      "audio_text": "الصوتية الأولى — Audio 1 (حسن العيدروس) | الكاس 5 (سمير اليعقوبي)",
       "channel_names_mode": "custom",
       "details_status": "ok"
     },
