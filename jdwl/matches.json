@@ -1,6 +1,6 @@
 {
   "source": "https://jdwel.com/today/",
-  "generated_at_utc": "2026-11-04T11:53:21.181610+00:00",
+  "generated_at_utc": "2026-11-04T19:08:02.925712+00:00",
   "matches": [
     {
       "id": "260833",
@@ -190,6 +190,51 @@
       "audio_text": "الصوتية التاسعة — Audio 9 (محمد فوزي)",
       "channel_names_mode": "custom",
       "details_status": "ok"
+    },
+    {
+      "id": "255020",
+      "competition": "دوري روشن السعودي",
+      "home_team": "أبها",
+      "away_team": "الشباب",
+      "home_logo": "https://jdwel.com/image/teams/2451.png",
+      "away_logo": "https://jdwel.com/image/teams/2213.png",
+      "match_time": "5 نوفمبر 2026، 03:00",
+      "audio_items": [],
+      "audio": [],
+      "audio_text": "",
+      "channel_names_mode": "custom",
+      "details_status": "unavailable",
+      "details_error": "صفحة المباراة لا تحتوي على عناصر قنوات ضمن قسم البث"
+    },
+    {
+      "id": "255025",
+      "competition": "دوري روشن السعودي",
+      "home_team": "الخلود",
+      "away_team": "الخليج",
+      "home_logo": "https://jdwel.com/image/teams/6436.png",
+      "away_logo": "https://jdwel.com/image/teams/2840.png",
+      "match_time": "5 نوفمبر 2026، 03:00",
+      "audio_items": [],
+      "audio": [],
+      "audio_text": "",
+      "channel_names_mode": "custom",
+      "details_status": "unavailable",
+      "details_error": "صفحة المباراة لا تحتوي على عناصر قنوات ضمن قسم البث"
+    },
+    {
+      "id": "255027",
+      "competition": "دوري روشن السعودي",
+      "home_team": "القادسية",
+      "away_team": "الفيحاء",
+      "home_logo": "https://jdwel.com/image/teams/2216.png",
+      "away_logo": "https://jdwel.com/image/teams/3067.png",
+      "match_time": "5 نوفمبر 2026، 03:00",
+      "audio_items": [],
+      "audio": [],
+      "audio_text": "",
+      "channel_names_mode": "custom",
+      "details_status": "unavailable",
+      "details_error": "صفحة المباراة لا تحتوي على عناصر قنوات ضمن قسم البث"
     },
     {
       "id": "258867",
