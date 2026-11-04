@@ -1,6 +1,6 @@
 {
   "source": "https://jdwel.com/today/",
-  "generated_at_utc": "2026-11-04T03:59:16.814897+00:00",
+  "generated_at_utc": "2026-11-04T11:53:21.181610+00:00",
   "matches": [
     {
       "id": "260833",
@@ -535,21 +535,6 @@
       "home_logo": "https://jdwel.com/image/teams/7295.png",
       "away_logo": "https://jdwel.com/image/teams/2160.png",
       "match_time": "4 نوفمبر 2026، 22:45",
-      "audio_items": [],
-      "audio": [],
-      "audio_text": "",
-      "channel_names_mode": "custom",
-      "details_status": "unavailable",
-      "details_error": "صفحة المباراة لا تحتوي على عناصر قنوات ضمن قسم البث"
-    },
-    {
-      "id": "264379",
-      "competition": "كأس ملك إسبانيا",
-      "home_team": "بطليوس",
-      "away_team": "تينيريفي",
-      "home_logo": "https://jdwel.com/image/teams/spa_cd_badajoz.png",
-      "away_logo": "https://jdwel.com/image/teams/1558.png",
-      "match_time": "4 نوفمبر 2026، 23:00",
       "audio_items": [],
       "audio": [],
       "audio_text": "",
