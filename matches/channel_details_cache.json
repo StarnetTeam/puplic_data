@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-03T12:42:23+00:00",
-  "channel_count": 360,
+  "last_updated": "2026-11-04T12:52:35+00:00",
+  "channel_count": 367,
   "channels": {
     "a spor turkey": {
       "name": "A Spor Turkey",
@@ -920,6 +920,25 @@
       },
       "cached_at": "2026-11-03T12:42:21+00:00"
     },
+    "canal+ action hd": {
+      "name": "Canal+ Action HD",
+      "details": {
+        "transponders": [
+          {
+            "Name": "ASTRA 1F,1G,1H,1KR,1L",
+            "Position": "19.2E",
+            "Frequency": "12515.00",
+            "Polarisation": "H",
+            "SR": "22000",
+            "FEC": "5/6",
+            "System": "DVB-S",
+            "Modulation": "QPSK",
+            "Crypt": "Irdeto ; Viaccess"
+          }
+        ]
+      },
+      "cached_at": "2026-11-04T12:52:34+00:00"
+    },
     "canal+ sport 3 hd": {
       "name": "CANAL+ SPORT 3 HD",
       "details": {
@@ -1834,6 +1853,47 @@
       },
       "cached_at": "2026-09-06T09:15:10+00:00"
     },
+    "dvojka hd": {
+      "name": "Dvojka HD",
+      "details": {
+        "transponders": [
+          {
+            "Name": "INTELSAT 10-2, THOR 2,3,5",
+            "Position": "0.8W",
+            "Frequency": "12053.50",
+            "Polarisation": "H",
+            "SR": "30000",
+            "FEC": "3/4",
+            "System": "DVB-S2",
+            "Modulation": "8PSK",
+            "Crypt": "Nagravision 3 ; Irdeto ; Cryptoworks ; Conax"
+          },
+          {
+            "Name": "EUTELSAT W2",
+            "Position": "16.0E",
+            "Frequency": "11324.00",
+            "Polarisation": "V",
+            "SR": "30000",
+            "FEC": "2/3",
+            "System": "DVB-S2",
+            "Modulation": "8PSK",
+            "Crypt": "Conax"
+          },
+          {
+            "Name": "ASTRA 1E,3A",
+            "Position": "23.5E",
+            "Frequency": "12012.00",
+            "Polarisation": "V",
+            "SR": "29900",
+            "FEC": "3/4",
+            "System": "DVB-S2",
+            "Modulation": "8PSK",
+            "Crypt": "Cryptoworks ; Irdeto ; Nagravision 3 ; Conax ; Viaccess"
+          }
+        ]
+      },
+      "cached_at": "2026-11-04T12:52:33+00:00"
+    },
     "eleven sports 1 hd": {
       "name": "Eleven Sports 1 HD",
       "details": {
@@ -2099,6 +2159,25 @@
         ]
       },
       "cached_at": "2026-08-17T03:01:31+00:00"
+    },
+    "fenerbahce tv": {
+      "name": "Fenerbahce TV",
+      "details": {
+        "transponders": [
+          {
+            "Name": "TURKSAT 2A, 3A",
+            "Position": "42.0E",
+            "Frequency": "11425.00",
+            "Polarisation": "V",
+            "SR": "30000",
+            "FEC": "3/4",
+            "System": "DVB-S2",
+            "Modulation": "8PSK",
+            "Crypt": "not available"
+          }
+        ]
+      },
+      "cached_at": "2026-11-04T12:52:32+00:00"
     },
     "hrt 2 croatia hd": {
       "name": "HRT 2 Croatia HD",
@@ -3849,6 +3928,25 @@
         ]
       },
       "cached_at": "2026-08-19T05:28:22+00:00"
+    },
+    "ring hd": {
+      "name": "RING HD",
+      "details": {
+        "transponders": [
+          {
+            "Name": "HOTBIRD 6,7A,8",
+            "Position": "13.0E",
+            "Frequency": "12673.00",
+            "Polarisation": "V",
+            "SR": "30000",
+            "FEC": "5/6",
+            "System": "DVB-S2",
+            "Modulation": "8PSK",
+            "Crypt": "not available"
+          }
+        ]
+      },
+      "cached_at": "2026-11-04T12:52:33+00:00"
     },
     "rsi la 2 hd": {
       "name": "RSI LA 2 HD",
@@ -6912,6 +7010,25 @@
       },
       "cached_at": "2026-10-14T10:01:05+00:00"
     },
+    "trt1 hd": {
+      "name": "TRT1 HD",
+      "details": {
+        "transponders": [
+          {
+            "Name": "TURKSAT 2A, 3A",
+            "Position": "42.0E",
+            "Frequency": "12226.00",
+            "Polarisation": "V",
+            "SR": "27500",
+            "FEC": "3/4",
+            "System": "DVB-S2",
+            "Modulation": "8PSK",
+            "Crypt": "not available"
+          }
+        ]
+      },
+      "cached_at": "2026-11-04T12:52:33+00:00"
+    },
     "tv 8 italia hd": {
       "name": "TV 8 Italia HD",
       "details": {
@@ -6930,6 +7047,44 @@
         ]
       },
       "cached_at": "2026-08-27T16:19:41+00:00"
+    },
+    "tv8 hd": {
+      "name": "TV8 HD",
+      "details": {
+        "transponders": [
+          {
+            "Name": "HOTBIRD 6,7A,8",
+            "Position": "13.0E",
+            "Frequency": "12073.00",
+            "Polarisation": "V",
+            "SR": "29900",
+            "FEC": "3/4",
+            "System": "DVB-S2",
+            "Modulation": "8PSK",
+            "Crypt": "NDS VideoGuard ; Nagravision 3"
+          }
+        ]
+      },
+      "cached_at": "2026-11-04T12:52:35+00:00"
+    },
+    "tvp 1 hd": {
+      "name": "TVP 1 HD",
+      "details": {
+        "transponders": [
+          {
+            "Name": "HOTBIRD 6,7A,8",
+            "Position": "13.0E",
+            "Frequency": "11449.00",
+            "Polarisation": "H",
+            "SR": "27500",
+            "FEC": "5/6",
+            "System": "DVB-S2",
+            "Modulation": "8PSK",
+            "Crypt": "Seca/Mediaguard ; Nagravision 3 ; Conax ; Viaccess ; Irdeto"
+          }
+        ]
+      },
+      "cached_at": "2026-11-04T12:52:34+00:00"
     },
     "tvp 1 poland hd": {
       "name": "TVP 1 Poland HD",
