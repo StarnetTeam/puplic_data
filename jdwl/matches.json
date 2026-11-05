@@ -1,6 +1,6 @@
 {
   "source": "https://jdwel.com/today/",
-  "generated_at_utc": "2026-11-05T15:57:48.894741+00:00",
+  "generated_at_utc": "2026-11-05T21:45:16.747208+00:00",
   "matches": [
     {
       "id": "255025",
@@ -48,42 +48,12 @@
       "details_error": "صفحة المباراة لا تحتوي على عناصر قنوات ضمن قسم البث"
     },
     {
-      "id": "255022",
-      "competition": "دوري روشن السعودي",
-      "home_team": "الفتح",
-      "away_team": "الرياض",
-      "home_logo": "https://jdwel.com/image/teams/1105.png",
-      "away_logo": "https://jdwel.com/image/teams/1810.png",
-      "match_time": "6 نوفمبر 2026، 03:00",
-      "audio_items": [],
-      "audio": [],
-      "audio_text": "",
-      "channel_names_mode": "custom",
-      "details_status": "unavailable",
-      "details_error": "صفحة المباراة لا تحتوي على عناصر قنوات ضمن قسم البث"
-    },
-    {
       "id": "255023",
       "competition": "دوري روشن السعودي",
       "home_team": "الحزم",
       "away_team": "النصر",
       "home_logo": "https://jdwel.com/image/teams/sau_al_hazm_v2.png",
       "away_logo": "https://jdwel.com/image/teams/3169.png",
-      "match_time": "6 نوفمبر 2026، 03:00",
-      "audio_items": [],
-      "audio": [],
-      "audio_text": "",
-      "channel_names_mode": "custom",
-      "details_status": "unavailable",
-      "details_error": "صفحة المباراة لا تحتوي على عناصر قنوات ضمن قسم البث"
-    },
-    {
-      "id": "255024",
-      "competition": "دوري روشن السعودي",
-      "home_team": "الاتحاد",
-      "away_team": "نيوم",
-      "home_logo": "https://jdwel.com/image/teams/2839.png",
-      "away_logo": "https://jdwel.com/image/teams/298.png",
       "match_time": "6 نوفمبر 2026، 03:00",
       "audio_items": [],
       "audio": [],
@@ -444,27 +414,6 @@
       "details_error": "صفحة المباراة لا تحتوي على عناصر قنوات ضمن قسم البث"
     },
     {
-      "id": "258965",
-      "competition": "دوري أبطال آسيا 2",
-      "home_team": "ليون سيتي سيلورز",
-      "away_team": "أديلايد يونايتد",
-      "home_logo": "https://jdwel.com/image/teams/sin_lion_city_sailors.png",
-      "away_logo": "https://jdwel.com/image/teams/1765.png",
-      "match_time": "5 نوفمبر 2026، 13:00",
-      "audio_items": [
-        {
-          "channel": "beIN SPORTS 4",
-          "commentator": "نوفل باشي"
-        }
-      ],
-      "audio": [
-        "الصوتية الرابعة — Audio 4 (نوفل باشي)"
-      ],
-      "audio_text": "الصوتية الرابعة — Audio 4 (نوفل باشي)",
-      "channel_names_mode": "custom",
-      "details_status": "ok"
-    },
-    {
       "id": "258967",
       "competition": "دوري أبطال آسيا 2",
       "home_team": "ماتشيدا زيلفيا",
@@ -503,6 +452,27 @@
         "الصوتية الثانية — Audio 2 (محمد نضال البكري)"
       ],
       "audio_text": "الصوتية الثانية — Audio 2 (محمد نضال البكري)",
+      "channel_names_mode": "custom",
+      "details_status": "ok"
+    },
+    {
+      "id": "258965",
+      "competition": "دوري أبطال آسيا 2",
+      "home_team": "ليون سيتي سيلورز",
+      "away_team": "أديلايد يونايتد",
+      "home_logo": "https://jdwel.com/image/teams/sin_lion_city_sailors.png",
+      "away_logo": "https://jdwel.com/image/teams/1765.png",
+      "match_time": "5 نوفمبر 2026، 14:30",
+      "audio_items": [
+        {
+          "channel": "beIN SPORTS 4",
+          "commentator": "نوفل باشي"
+        }
+      ],
+      "audio": [
+        "الصوتية الرابعة — Audio 4 (نوفل باشي)"
+      ],
+      "audio_text": "الصوتية الرابعة — Audio 4 (نوفل باشي)",
       "channel_names_mode": "custom",
       "details_status": "ok"
     },
