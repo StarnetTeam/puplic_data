@@ -1,22 +1,7 @@
 {
   "source": "https://jdwel.com/today/",
-  "generated_at_utc": "2026-11-05T00:40:07.068909+00:00",
+  "generated_at_utc": "2026-11-05T07:35:14.498915+00:00",
   "matches": [
-    {
-      "id": "255020",
-      "competition": "دوري روشن السعودي",
-      "home_team": "أبها",
-      "away_team": "الشباب",
-      "home_logo": "https://jdwel.com/image/teams/2451.png",
-      "away_logo": "https://jdwel.com/image/teams/2213.png",
-      "match_time": "5 نوفمبر 2026، 03:00",
-      "audio_items": [],
-      "audio": [],
-      "audio_text": "",
-      "channel_names_mode": "custom",
-      "details_status": "unavailable",
-      "details_error": "صفحة المباراة لا تحتوي على عناصر قنوات ضمن قسم البث"
-    },
     {
       "id": "255025",
       "competition": "دوري روشن السعودي",
@@ -40,6 +25,21 @@
       "home_logo": "https://jdwel.com/image/teams/2216.png",
       "away_logo": "https://jdwel.com/image/teams/3067.png",
       "match_time": "5 نوفمبر 2026، 03:00",
+      "audio_items": [],
+      "audio": [],
+      "audio_text": "",
+      "channel_names_mode": "custom",
+      "details_status": "unavailable",
+      "details_error": "صفحة المباراة لا تحتوي على عناصر قنوات ضمن قسم البث"
+    },
+    {
+      "id": "255020",
+      "competition": "دوري روشن السعودي",
+      "home_team": "أبها",
+      "away_team": "الشباب",
+      "home_logo": "https://jdwel.com/image/teams/2451.png",
+      "away_logo": "https://jdwel.com/image/teams/2213.png",
+      "match_time": "5 نوفمبر 2026، 18:10",
       "audio_items": [],
       "audio": [],
       "audio_text": "",
@@ -577,18 +577,12 @@
       "home_logo": "https://jdwel.com/image/teams/7308.png",
       "away_logo": "https://jdwel.com/image/teams/spa_levante.png",
       "match_time": "5 نوفمبر 2026، 21:00",
-      "audio_items": [
-        {
-          "channel": "MBC شاهد",
-          "commentator": "أنيس السحباني"
-        }
-      ],
-      "audio": [
-        "MBC شاهد (أنيس السحباني)"
-      ],
-      "audio_text": "MBC شاهد (أنيس السحباني)",
+      "audio_items": [],
+      "audio": [],
+      "audio_text": "",
       "channel_names_mode": "custom",
-      "details_status": "ok"
+      "details_status": "unavailable",
+      "details_error": "صفحة المباراة لا تحتوي على عناصر قنوات ضمن قسم البث"
     },
     {
       "id": "264367",
