@@ -1,6 +1,6 @@
 {
   "source": "https://jdwel.com/today/",
-  "generated_at_utc": "2026-11-06T08:49:41.182645+00:00",
+  "generated_at_utc": "2026-11-06T16:30:04.456626+00:00",
   "matches": [
     {
       "id": "239742",
@@ -71,13 +71,28 @@
       "details_status": "ok"
     },
     {
+      "id": "255022",
+      "competition": "دوري روشن السعودي",
+      "home_team": "الفتح",
+      "away_team": "الرياض",
+      "home_logo": "https://jdwel.com/image/teams/1105.png",
+      "away_logo": "https://jdwel.com/image/teams/1810.png",
+      "match_time": "6 نوفمبر 2026، 17:30",
+      "audio_items": [],
+      "audio": [],
+      "audio_text": "",
+      "channel_names_mode": "custom",
+      "details_status": "unavailable",
+      "details_error": "صفحة المباراة لا تحتوي على عناصر قنوات ضمن قسم البث"
+    },
+    {
       "id": "255023",
       "competition": "دوري روشن السعودي",
       "home_team": "الحزم",
       "away_team": "النصر",
       "home_logo": "https://jdwel.com/image/teams/sau_al_hazm_v2.png",
       "away_logo": "https://jdwel.com/image/teams/3169.png",
-      "match_time": "6 نوفمبر 2026، 03:00",
+      "match_time": "6 نوفمبر 2026، 17:55",
       "audio_items": [],
       "audio": [],
       "audio_text": "",
@@ -92,22 +107,7 @@
       "away_team": "نيوم",
       "home_logo": "https://jdwel.com/image/teams/2839.png",
       "away_logo": "https://jdwel.com/image/teams/298.png",
-      "match_time": "6 نوفمبر 2026، 03:00",
-      "audio_items": [],
-      "audio": [],
-      "audio_text": "",
-      "channel_names_mode": "custom",
-      "details_status": "unavailable",
-      "details_error": "صفحة المباراة لا تحتوي على عناصر قنوات ضمن قسم البث"
-    },
-    {
-      "id": "255022",
-      "competition": "دوري روشن السعودي",
-      "home_team": "الفتح",
-      "away_team": "الرياض",
-      "home_logo": "https://jdwel.com/image/teams/1105.png",
-      "away_logo": "https://jdwel.com/image/teams/1810.png",
-      "match_time": "6 نوفمبر 2026، 17:30",
+      "match_time": "6 نوفمبر 2026، 20:30",
       "audio_items": [],
       "audio": [],
       "audio_text": "",
