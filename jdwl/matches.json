@@ -1,57 +1,209 @@
 {
   "source": "https://jdwel.com/today/",
-  "generated_at_utc": "2026-11-06T21:53:36.456608+00:00",
+  "generated_at_utc": "2026-11-07T01:29:29.805933+00:00",
   "matches": [
     {
-      "id": "239742",
+      "id": "239739",
       "competition": "الدوري الإنجليزي",
-      "home_team": "إيفرتون",
-      "away_team": "كوفنتري سيتي",
-      "home_logo": "https://jdwel.com/image/teams/1684.png",
-      "away_logo": "https://jdwel.com/image/teams/3155.png",
-      "match_time": "6 نوفمبر 2026، 23:00",
+      "home_team": "ليدز يونايتد",
+      "away_team": "توتنهام",
+      "home_logo": "https://jdwel.com/image/teams/1675.png",
+      "away_logo": "https://jdwel.com/image/teams/1018.png",
+      "match_time": "7 نوفمبر 2026، 15:30",
       "audio_items": [
         {
           "channel": "beIN SPORTS 1",
+          "commentator": "خليل البلوشي"
+        }
+      ],
+      "audio": [
+        "الصوتية الأولى — Audio 1 (خليل البلوشي)"
+      ],
+      "audio_text": "الصوتية الأولى — Audio 1 (خليل البلوشي)",
+      "channel_names_mode": "custom",
+      "details_status": "ok"
+    },
+    {
+      "id": "239741",
+      "competition": "الدوري الإنجليزي",
+      "home_team": "فولهام",
+      "away_team": "نيوكاسل يونايتد",
+      "home_logo": "https://jdwel.com/image/teams/280.png",
+      "away_logo": "https://jdwel.com/image/teams/7269.png",
+      "match_time": "7 نوفمبر 2026، 18:00",
+      "audio_items": [
+        {
+          "channel": "beIN SPORTS 2",
+          "commentator": "عامر الخوذيري"
+        }
+      ],
+      "audio": [
+        "الصوتية الثانية — Audio 2 (عامر الخوذيري)"
+      ],
+      "audio_text": "الصوتية الثانية — Audio 2 (عامر الخوذيري)",
+      "channel_names_mode": "custom",
+      "details_status": "ok"
+    },
+    {
+      "id": "239745",
+      "competition": "الدوري الإنجليزي",
+      "home_team": "آرسنال",
+      "away_team": "هال سيتي",
+      "home_logo": "https://jdwel.com/image/teams/2999.png",
+      "away_logo": "https://jdwel.com/image/teams/2626.png",
+      "match_time": "7 نوفمبر 2026، 18:00",
+      "audio_items": [
+        {
+          "channel": "beIN SPORTS 1",
+          "commentator": "عصام الشوالي"
+        }
+      ],
+      "audio": [
+        "الصوتية الأولى — Audio 1 (عصام الشوالي)"
+      ],
+      "audio_text": "الصوتية الأولى — Audio 1 (عصام الشوالي)",
+      "channel_names_mode": "custom",
+      "details_status": "ok"
+    },
+    {
+      "id": "239737",
+      "competition": "الدوري الإنجليزي",
+      "home_team": "نوتينغهام فورست",
+      "away_team": "مانشستر سيتي",
+      "home_logo": "https://jdwel.com/image/teams/2969.png",
+      "away_logo": "https://jdwel.com/image/teams/2185.png",
+      "match_time": "7 نوفمبر 2026، 20:30",
+      "audio_items": [
+        {
+          "channel": "beIN SPORTS 1",
+          "commentator": "أحمد البلوشي"
+        }
+      ],
+      "audio": [
+        "الصوتية الأولى — Audio 1 (أحمد البلوشي)"
+      ],
+      "audio_text": "الصوتية الأولى — Audio 1 (أحمد البلوشي)",
+      "channel_names_mode": "custom",
+      "details_status": "ok"
+    },
+    {
+      "id": "241148",
+      "competition": "الدوري الإسباني",
+      "home_team": "مالقا",
+      "away_team": "راسينغ سانتاندير",
+      "home_logo": "https://jdwel.com/image/teams/1084.png",
+      "away_logo": "https://jdwel.com/image/teams/1554.png",
+      "match_time": "7 نوفمبر 2026، 16:00",
+      "audio_items": [
+        {
+          "channel": "beIN SPORTS 3",
           "commentator": "عبدالله الغامدي"
         }
       ],
       "audio": [
-        "الصوتية الأولى — Audio 1 (عبدالله الغامدي)"
+        "الصوتية الثالثة — Audio 3 (عبدالله الغامدي)"
       ],
-      "audio_text": "الصوتية الأولى — Audio 1 (عبدالله الغامدي)",
+      "audio_text": "الصوتية الثالثة — Audio 3 (عبدالله الغامدي)",
       "channel_names_mode": "custom",
       "details_status": "ok"
     },
     {
-      "id": "241151",
+      "id": "241147",
       "competition": "الدوري الإسباني",
-      "home_team": "إشبيلية",
-      "away_team": "ديبورتيفو ألافيس",
-      "home_logo": "https://jdwel.com/image/teams/1679.png",
-      "away_logo": "https://jdwel.com/image/teams/4507.png",
-      "match_time": "6 نوفمبر 2026، 23:00",
+      "home_team": "إسبانيول",
+      "away_team": "ديبورتيفو أكورونيا",
+      "home_logo": "https://jdwel.com/image/teams/1164.png",
+      "away_logo": "https://jdwel.com/image/teams/7004.png",
+      "match_time": "7 نوفمبر 2026، 18:15",
       "audio_items": [
         {
           "channel": "beIN SPORTS 3",
-          "commentator": "سمير اليعقوبي"
+          "commentator": "محمد بركات"
         }
       ],
       "audio": [
-        "الصوتية الثالثة — Audio 3 (سمير اليعقوبي)"
+        "الصوتية الثالثة — Audio 3 (محمد بركات)"
       ],
-      "audio_text": "الصوتية الثالثة — Audio 3 (سمير اليعقوبي)",
+      "audio_text": "الصوتية الثالثة — Audio 3 (محمد بركات)",
       "channel_names_mode": "custom",
       "details_status": "ok"
     },
     {
-      "id": "240106",
+      "id": "241149",
+      "competition": "الدوري الإسباني",
+      "home_team": "أوساسونا",
+      "away_team": "أتلتيك بيلباو",
+      "home_logo": "https://jdwel.com/image/teams/1556.png",
+      "away_logo": "https://jdwel.com/image/teams/2033.png",
+      "match_time": "7 نوفمبر 2026، 20:30",
+      "audio_items": [
+        {
+          "channel": "beIN SPORTS 3",
+          "commentator": "علي محمد علي"
+        }
+      ],
+      "audio": [
+        "الصوتية الثالثة — Audio 3 (علي محمد علي)"
+      ],
+      "audio_text": "الصوتية الثالثة — Audio 3 (علي محمد علي)",
+      "channel_names_mode": "custom",
+      "details_status": "ok"
+    },
+    {
+      "id": "241152",
+      "competition": "الدوري الإسباني",
+      "home_team": "فالنسيا",
+      "away_team": "ريال مدريد",
+      "home_logo": "https://jdwel.com/image/teams/1025.png",
+      "away_logo": "https://jdwel.com/image/teams/2605.png",
+      "match_time": "7 نوفمبر 2026، 23:00",
+      "audio_items": [
+        {
+          "channel": "beIN SPORTS 1",
+          "commentator": "علي سعيد الكعبي"
+        }
+      ],
+      "audio": [
+        "الصوتية الأولى — Audio 1 (علي سعيد الكعبي)"
+      ],
+      "audio_text": "الصوتية الأولى — Audio 1 (علي سعيد الكعبي)",
+      "channel_names_mode": "custom",
+      "details_status": "ok"
+    },
+    {
+      "id": "240107",
       "competition": "الدوري الإيطالي",
-      "home_team": "فينيزيا",
-      "away_team": "أودينيزي",
-      "home_logo": "https://jdwel.com/image/teams/3358.png",
-      "away_logo": "https://jdwel.com/image/teams/4574.png",
-      "match_time": "6 نوفمبر 2026، 22:45",
+      "home_team": "تورينو",
+      "away_team": "ليتشي",
+      "home_logo": "https://jdwel.com/image/teams/4573.png",
+      "away_logo": "https://jdwel.com/image/teams/896.png",
+      "match_time": "7 نوفمبر 2026، 17:00",
+      "audio_items": [
+        {
+          "channel": "STARZPLAY",
+          "commentator": "أحمد الخير"
+        },
+        {
+          "channel": "STC TV",
+          "commentator": "أحمد الخير"
+        }
+      ],
+      "audio": [
+        "الإيطالية — Italy (أحمد الخير)",
+        "الإيطالية — Italy (أحمد الخير)"
+      ],
+      "audio_text": "الإيطالية — Italy (أحمد الخير) | الإيطالية — Italy (أحمد الخير)",
+      "channel_names_mode": "custom",
+      "details_status": "ok"
+    },
+    {
+      "id": "240115",
+      "competition": "الدوري الإيطالي",
+      "home_team": "كالياري",
+      "away_team": "فروسينوني",
+      "home_logo": "https://jdwel.com/image/teams/155.png",
+      "away_logo": "https://jdwel.com/image/teams/1124.png",
+      "match_time": "7 نوفمبر 2026، 17:00",
       "audio_items": [
         {
           "channel": "STARZPLAY",
@@ -71,100 +223,257 @@
       "details_status": "ok"
     },
     {
-      "id": "255022",
-      "competition": "دوري روشن السعودي",
-      "home_team": "الفتح",
-      "away_team": "الرياض",
-      "home_logo": "https://jdwel.com/image/teams/1105.png",
-      "away_logo": "https://jdwel.com/image/teams/1810.png",
-      "match_time": "6 نوفمبر 2026، 17:30",
-      "audio_items": [],
-      "audio": [],
-      "audio_text": "",
-      "channel_names_mode": "custom",
-      "details_status": "unavailable",
-      "details_error": "صفحة المباراة لا تحتوي على عناصر قنوات ضمن قسم البث"
-    },
-    {
-      "id": "255023",
-      "competition": "دوري روشن السعودي",
-      "home_team": "الحزم",
-      "away_team": "النصر",
-      "home_logo": "https://jdwel.com/image/teams/sau_al_hazm_v2.png",
-      "away_logo": "https://jdwel.com/image/teams/3169.png",
-      "match_time": "6 نوفمبر 2026، 17:55",
-      "audio_items": [],
-      "audio": [],
-      "audio_text": "",
-      "channel_names_mode": "custom",
-      "details_status": "unavailable",
-      "details_error": "صفحة المباراة لا تحتوي على عناصر قنوات ضمن قسم البث"
-    },
-    {
-      "id": "255024",
-      "competition": "دوري روشن السعودي",
-      "home_team": "الاتحاد",
-      "away_team": "نيوم",
-      "home_logo": "https://jdwel.com/image/teams/2839.png",
-      "away_logo": "https://jdwel.com/image/teams/298.png",
-      "match_time": "6 نوفمبر 2026، 20:30",
-      "audio_items": [],
-      "audio": [],
-      "audio_text": "",
-      "channel_names_mode": "custom",
-      "details_status": "unavailable",
-      "details_error": "صفحة المباراة لا تحتوي على عناصر قنوات ضمن قسم البث"
-    },
-    {
-      "id": "240433",
-      "competition": "الدوري الفرنسي",
-      "home_team": "تولوز",
-      "away_team": "ستراسبورغ",
-      "home_logo": "https://jdwel.com/image/teams/2966.png",
-      "away_logo": "https://jdwel.com/image/teams/fra_strasbourg.png",
-      "match_time": "6 نوفمبر 2026، 22:45",
+      "id": "240109",
+      "competition": "الدوري الإيطالي",
+      "home_team": "بارما",
+      "away_team": "بولونيا",
+      "home_logo": "https://jdwel.com/image/teams/3335.png",
+      "away_logo": "https://jdwel.com/image/teams/2845.png",
+      "match_time": "7 نوفمبر 2026، 20:00",
       "audio_items": [
         {
-          "channel": "beIN SPORTS 4",
-          "commentator": "محمد بركات"
+          "channel": "STARZPLAY",
+          "commentator": "عيسى الحربين"
+        },
+        {
+          "channel": "STC TV",
+          "commentator": "عيسى الحربين"
         }
       ],
       "audio": [
-        "الصوتية الرابعة — Audio 4 (محمد بركات)"
+        "الإيطالية — Italy (عيسى الحربين)",
+        "الإيطالية — Italy (عيسى الحربين)"
       ],
-      "audio_text": "الصوتية الرابعة — Audio 4 (محمد بركات)",
+      "audio_text": "الإيطالية — Italy (عيسى الحربين) | الإيطالية — Italy (عيسى الحربين)",
       "channel_names_mode": "custom",
       "details_status": "ok"
     },
     {
-      "id": "242673",
+      "id": "240108",
+      "competition": "الدوري الإيطالي",
+      "home_team": "روما",
+      "away_team": "ساسولو",
+      "home_logo": "https://jdwel.com/image/teams/2435.png",
+      "away_logo": "https://jdwel.com/image/teams/3886.png",
+      "match_time": "7 نوفمبر 2026، 22:45",
+      "audio_items": [
+        {
+          "channel": "STARZPLAY",
+          "commentator": "فيصل الهندي"
+        },
+        {
+          "channel": "STC TV",
+          "commentator": "فيصل الهندي"
+        }
+      ],
+      "audio": [
+        "الإيطالية — Italy (فيصل الهندي)",
+        "الإيطالية — Italy (فيصل الهندي)"
+      ],
+      "audio_text": "الإيطالية — Italy (فيصل الهندي) | الإيطالية — Italy (فيصل الهندي)",
+      "channel_names_mode": "custom",
+      "details_status": "ok"
+    },
+    {
+      "id": "255026",
+      "competition": "دوري روشن السعودي",
+      "home_team": "الفيصلي",
+      "away_team": "الدرعية",
+      "home_logo": "https://jdwel.com/image/teams/3215.png",
+      "away_logo": "https://jdwel.com/image/teams/4203.png",
+      "match_time": "7 نوفمبر 2026، 16:20",
+      "audio_items": [],
+      "audio": [],
+      "audio_text": "",
+      "channel_names_mode": "custom",
+      "details_status": "unavailable",
+      "details_error": "صفحة المباراة لا تحتوي على عناصر قنوات ضمن قسم البث"
+    },
+    {
+      "id": "255021",
+      "competition": "دوري روشن السعودي",
+      "home_team": "الاتفاق",
+      "away_team": "الهلال",
+      "home_logo": "https://jdwel.com/image/teams/2215.png",
+      "away_logo": "https://jdwel.com/image/teams/2761.png",
+      "match_time": "7 نوفمبر 2026، 17:30",
+      "audio_items": [],
+      "audio": [],
+      "audio_text": "",
+      "channel_names_mode": "custom",
+      "details_status": "unavailable",
+      "details_error": "صفحة المباراة لا تحتوي على عناصر قنوات ضمن قسم البث"
+    },
+    {
+      "id": "255019",
+      "competition": "دوري روشن السعودي",
+      "home_team": "الأهلي",
+      "away_team": "التعاون",
+      "home_logo": "https://jdwel.com/image/teams/3404.png",
+      "away_logo": "https://jdwel.com/image/teams/5338.png",
+      "match_time": "7 نوفمبر 2026، 20:30",
+      "audio_items": [],
+      "audio": [],
+      "audio_text": "",
+      "channel_names_mode": "custom",
+      "details_status": "unavailable",
+      "details_error": "صفحة المباراة لا تحتوي على عناصر قنوات ضمن قسم البث"
+    },
+    {
+      "id": "240439",
+      "competition": "الدوري الفرنسي",
+      "home_team": "أوكسير",
+      "away_team": "باريس",
+      "home_logo": "https://jdwel.com/image/teams/341.png",
+      "away_logo": "https://jdwel.com/image/teams/3560.png",
+      "match_time": "7 نوفمبر 2026، 21:00",
+      "audio_items": [
+        {
+          "channel": "beIN SPORTS 5",
+          "commentator": "محمد مبروكي"
+        }
+      ],
+      "audio": [
+        "الصوتية الخامسة — Audio 5 (محمد مبروكي)"
+      ],
+      "audio_text": "الصوتية الخامسة — Audio 5 (محمد مبروكي)",
+      "channel_names_mode": "custom",
+      "details_status": "ok"
+    },
+    {
+      "id": "240435",
+      "competition": "الدوري الفرنسي",
+      "home_team": "باريس سان جيرمان",
+      "away_team": "تروا",
+      "home_logo": "https://jdwel.com/image/teams/2347.png",
+      "away_logo": "https://jdwel.com/image/teams/6492.png",
+      "match_time": "7 نوفمبر 2026، 23:05",
+      "audio_items": [
+        {
+          "channel": "beIN SPORTS 2",
+          "commentator": "حسن العيدروس"
+        }
+      ],
+      "audio": [
+        "الصوتية الثانية — Audio 2 (حسن العيدروس)"
+      ],
+      "audio_text": "الصوتية الثانية — Audio 2 (حسن العيدروس)",
+      "channel_names_mode": "custom",
+      "details_status": "ok"
+    },
+    {
+      "id": "242671",
       "competition": "الدوري الألماني",
-      "home_team": "هامبورغ",
-      "away_team": "بوروسيا مونشنغلادباخ",
-      "home_logo": "https://jdwel.com/image/teams/1302.png",
-      "away_logo": "https://jdwel.com/image/teams/2634.png",
-      "match_time": "6 نوفمبر 2026، 22:30",
+      "home_team": "بادربورن",
+      "away_team": "آينتراخت فرانكفورت",
+      "home_logo": "https://jdwel.com/image/teams/3264.png",
+      "away_logo": "https://jdwel.com/image/teams/6402.png",
+      "match_time": "7 نوفمبر 2026، 17:30",
       "audio_items": [
         {
           "channel": "MBC شاهد",
-          "commentator": "فهد الدريبي"
+          "commentator": "عائد العصيمي"
         }
       ],
       "audio": [
-        "MBC شاهد (فهد الدريبي)"
+        "MBC شاهد (عائد العصيمي)"
       ],
-      "audio_text": "MBC شاهد (فهد الدريبي)",
+      "audio_text": "MBC شاهد (عائد العصيمي)",
       "channel_names_mode": "custom",
       "details_status": "ok"
     },
     {
-      "id": "265423",
+      "id": "242674",
+      "competition": "الدوري الألماني",
+      "home_team": "ماينز 05",
+      "away_team": "بايرن ميونخ",
+      "home_logo": "https://jdwel.com/image/teams/1304.png",
+      "away_logo": "https://jdwel.com/image/teams/1300.png",
+      "match_time": "7 نوفمبر 2026، 17:30",
+      "audio_items": [
+        {
+          "channel": "MBC شاهد",
+          "commentator": "أحمد النفيسة"
+        }
+      ],
+      "audio": [
+        "MBC شاهد (أحمد النفيسة)"
+      ],
+      "audio_text": "MBC شاهد (أحمد النفيسة)",
+      "channel_names_mode": "custom",
+      "details_status": "ok"
+    },
+    {
+      "id": "242678",
+      "competition": "الدوري الألماني",
+      "home_team": "لايبزيغ",
+      "away_team": "أوغسبورغ",
+      "home_logo": "https://jdwel.com/image/teams/2849.png",
+      "away_logo": "https://jdwel.com/image/teams/2630.png",
+      "match_time": "7 نوفمبر 2026، 17:30",
+      "audio_items": [
+        {
+          "channel": "MBC Action",
+          "commentator": "محمد الخامسي"
+        }
+      ],
+      "audio": [
+        "MBC Action (محمد الخامسي)"
+      ],
+      "audio_text": "MBC Action (محمد الخامسي)",
+      "channel_names_mode": "custom",
+      "details_status": "ok"
+    },
+    {
+      "id": "242679",
+      "competition": "الدوري الألماني",
+      "home_team": "بوروسيا دورتموند",
+      "away_team": "إلفيرسبيرغ",
+      "home_logo": "https://jdwel.com/image/teams/1326.png",
+      "away_logo": "https://jdwel.com/image/teams/1017.png",
+      "match_time": "7 نوفمبر 2026، 17:30",
+      "audio_items": [
+        {
+          "channel": "MBC شاهد",
+          "commentator": "فهد عريشي"
+        }
+      ],
+      "audio": [
+        "MBC شاهد (فهد عريشي)"
+      ],
+      "audio_text": "MBC شاهد (فهد عريشي)",
+      "channel_names_mode": "custom",
+      "details_status": "ok"
+    },
+    {
+      "id": "242677",
+      "competition": "الدوري الألماني",
+      "home_team": "شتوتغارت",
+      "away_team": "فيردر بريمن",
+      "home_logo": "https://jdwel.com/image/teams/2036.png",
+      "away_logo": "https://jdwel.com/image/teams/2633.png",
+      "match_time": "7 نوفمبر 2026، 20:30",
+      "audio_items": [
+        {
+          "channel": "MBC شاهد",
+          "commentator": "محمد حسين"
+        }
+      ],
+      "audio": [
+        "MBC شاهد (محمد حسين)"
+      ],
+      "audio_text": "MBC شاهد (محمد حسين)",
+      "channel_names_mode": "custom",
+      "details_status": "ok"
+    },
+    {
+      "id": "265397",
       "competition": "كأس الاتحاد الإنجليزي",
-      "home_team": "بريستول روفرز",
-      "away_team": "كامبريدج يونايتد",
-      "home_logo": "https://jdwel.com/image/teams/eng_bristol_rovers.png",
-      "away_logo": "https://jdwel.com/image/teams/4734.png",
-      "match_time": "6 نوفمبر 2026، 22:30",
+      "home_team": "فليتوود تاون",
+      "away_team": "روشديل",
+      "home_logo": "https://jdwel.com/image/teams/eng_fleetwood_town.png",
+      "away_logo": "https://jdwel.com/image/teams/eng_rochdale.png",
+      "match_time": "7 نوفمبر 2026، 18:00",
       "audio_items": [],
       "audio": [],
       "audio_text": "",
@@ -173,13 +482,13 @@
       "details_error": "صفحة المباراة لا تحتوي على عناصر قنوات ضمن قسم البث"
     },
     {
-      "id": "265404",
+      "id": "265398",
       "competition": "كأس الاتحاد الإنجليزي",
-      "home_team": "أكسفورد سيتي",
-      "away_team": "ليستر سيتي",
-      "home_logo": "https://jdwel.com/image/teams/1144.png",
-      "away_logo": "https://jdwel.com/image/teams/1757.png",
-      "match_time": "6 نوفمبر 2026، 22:45",
+      "home_team": "مانسفيلد تاون",
+      "away_team": "ماكليسفيلد",
+      "home_logo": "https://jdwel.com/image/teams/eng_mansfield_town.png",
+      "away_logo": "https://jdwel.com/image/teams/3487.png",
+      "match_time": "7 نوفمبر 2026، 18:00",
       "audio_items": [],
       "audio": [],
       "audio_text": "",
@@ -188,13 +497,478 @@
       "details_error": "صفحة المباراة لا تحتوي على عناصر قنوات ضمن قسم البث"
     },
     {
-      "id": "251631",
+      "id": "265399",
+      "competition": "كأس الاتحاد الإنجليزي",
+      "home_team": "برادفورد سيتي",
+      "away_team": "مارين",
+      "home_logo": "https://jdwel.com/image/teams/4844.png",
+      "away_logo": "https://jdwel.com/image/teams/eng_marine.png",
+      "match_time": "7 نوفمبر 2026، 18:00",
+      "audio_items": [],
+      "audio": [],
+      "audio_text": "",
+      "channel_names_mode": "custom",
+      "details_status": "unavailable",
+      "details_error": "صفحة المباراة لا تحتوي على عناصر قنوات ضمن قسم البث"
+    },
+    {
+      "id": "265400",
+      "competition": "كأس الاتحاد الإنجليزي",
+      "home_team": "بارنت",
+      "away_team": "ترانمير روفرز",
+      "home_logo": "https://jdwel.com/image/teams/eng_barnet.png",
+      "away_logo": "https://jdwel.com/image/teams/1099.png",
+      "match_time": "7 نوفمبر 2026، 18:00",
+      "audio_items": [],
+      "audio": [],
+      "audio_text": "",
+      "channel_names_mode": "custom",
+      "details_status": "unavailable",
+      "details_error": "صفحة المباراة لا تحتوي على عناصر قنوات ضمن قسم البث"
+    },
+    {
+      "id": "265401",
+      "competition": "كأس الاتحاد الإنجليزي",
+      "home_team": "دوفر أثليتيك",
+      "away_team": "ويالدستون",
+      "home_logo": "https://jdwel.com/image/teams/eng_dover_athletic.png",
+      "away_logo": "https://jdwel.com/image/teams/eng_wealdstone.png",
+      "match_time": "7 نوفمبر 2026، 18:00",
+      "audio_items": [],
+      "audio": [],
+      "audio_text": "",
+      "channel_names_mode": "custom",
+      "details_status": "unavailable",
+      "details_error": "صفحة المباراة لا تحتوي على عناصر قنوات ضمن قسم البث"
+    },
+    {
+      "id": "265402",
+      "competition": "كأس الاتحاد الإنجليزي",
+      "home_team": "بيرتن ألبيون",
+      "away_team": "روشدين آند دياموندز",
+      "home_logo": "https://jdwel.com/image/teams/4733.png",
+      "away_logo": "https://jdwel.com/image/teams/1981.png",
+      "match_time": "7 نوفمبر 2026، 18:00",
+      "audio_items": [],
+      "audio": [],
+      "audio_text": "",
+      "channel_names_mode": "custom",
+      "details_status": "unavailable",
+      "details_error": "صفحة المباراة لا تحتوي على عناصر قنوات ضمن قسم البث"
+    },
+    {
+      "id": "265403",
+      "competition": "كأس الاتحاد الإنجليزي",
+      "home_team": "بروملي",
+      "away_team": "روثيرهام يونايتد",
+      "home_logo": "https://jdwel.com/image/teams/1092.png",
+      "away_logo": "https://jdwel.com/image/teams/eng_rotherham_united.png",
+      "match_time": "7 نوفمبر 2026، 18:00",
+      "audio_items": [],
+      "audio": [],
+      "audio_text": "",
+      "channel_names_mode": "custom",
+      "details_status": "unavailable",
+      "details_error": "صفحة المباراة لا تحتوي على عناصر قنوات ضمن قسم البث"
+    },
+    {
+      "id": "265405",
+      "competition": "كأس الاتحاد الإنجليزي",
+      "home_team": "أكسفورد يونايتد",
+      "away_team": "ستيفيناغ",
+      "home_logo": "https://jdwel.com/image/teams/5961.png",
+      "away_logo": "https://jdwel.com/image/teams/3204.png",
+      "match_time": "7 نوفمبر 2026، 18:00",
+      "audio_items": [],
+      "audio": [],
+      "audio_text": "",
+      "channel_names_mode": "custom",
+      "details_status": "unavailable",
+      "details_error": "صفحة المباراة لا تحتوي على عناصر قنوات ضمن قسم البث"
+    },
+    {
+      "id": "265406",
+      "competition": "كأس الاتحاد الإنجليزي",
+      "home_team": "نيوبورت كاونتي",
+      "away_team": "ولسول",
+      "home_logo": "https://jdwel.com/image/teams/eng_newport_county.png",
+      "away_logo": "https://jdwel.com/image/teams/eng_walsall.png",
+      "match_time": "7 نوفمبر 2026، 18:00",
+      "audio_items": [],
+      "audio": [],
+      "audio_text": "",
+      "channel_names_mode": "custom",
+      "details_status": "unavailable",
+      "details_error": "صفحة المباراة لا تحتوي على عناصر قنوات ضمن قسم البث"
+    },
+    {
+      "id": "265408",
+      "competition": "كأس الاتحاد الإنجليزي",
+      "home_team": "كرو ألكساندرا",
+      "away_team": "ويمبلدون",
+      "home_logo": "https://jdwel.com/image/teams/eng_crewe_alexandra.png",
+      "away_logo": "https://jdwel.com/image/teams/1030.png",
+      "match_time": "7 نوفمبر 2026، 18:00",
+      "audio_items": [],
+      "audio": [],
+      "audio_text": "",
+      "channel_names_mode": "custom",
+      "details_status": "unavailable",
+      "details_error": "صفحة المباراة لا تحتوي على عناصر قنوات ضمن قسم البث"
+    },
+    {
+      "id": "265409",
+      "competition": "كأس الاتحاد الإنجليزي",
+      "home_team": "ميلتون كينز دونز",
+      "away_team": "سويندون تاون",
+      "home_logo": "https://jdwel.com/image/teams/3207.png",
+      "away_logo": "https://jdwel.com/image/teams/3280.png",
+      "match_time": "7 نوفمبر 2026، 18:00",
+      "audio_items": [],
+      "audio": [],
+      "audio_text": "",
+      "channel_names_mode": "custom",
+      "details_status": "unavailable",
+      "details_error": "صفحة المباراة لا تحتوي على عناصر قنوات ضمن قسم البث"
+    },
+    {
+      "id": "265410",
+      "competition": "كأس الاتحاد الإنجليزي",
+      "home_team": "غيسلي",
+      "away_team": "سوتون يونايتد",
+      "home_logo": "https://jdwel.com/image/teams/1153.png",
+      "away_logo": "https://jdwel.com/image/teams/1135.png",
+      "match_time": "7 نوفمبر 2026، 18:00",
+      "audio_items": [],
+      "audio": [],
+      "audio_text": "",
+      "channel_names_mode": "custom",
+      "details_status": "unavailable",
+      "details_error": "صفحة المباراة لا تحتوي على عناصر قنوات ضمن قسم البث"
+    },
+    {
+      "id": "265411",
+      "competition": "كأس الاتحاد الإنجليزي",
+      "home_team": "هاروغيت تاون",
+      "away_team": "فايلد",
+      "home_logo": "https://jdwel.com/image/teams/3279.png",
+      "away_logo": "https://jdwel.com/image/teams/1148.png",
+      "match_time": "7 نوفمبر 2026، 18:00",
+      "audio_items": [],
+      "audio": [],
+      "audio_text": "",
+      "channel_names_mode": "custom",
+      "details_status": "unavailable",
+      "details_error": "صفحة المباراة لا تحتوي على عناصر قنوات ضمن قسم البث"
+    },
+    {
+      "id": "265412",
+      "competition": "كأس الاتحاد الإنجليزي",
+      "home_team": "هورنكورتش",
+      "away_team": "بلاكبول",
+      "home_logo": "https://jdwel.com/image/teams/4899.png",
+      "away_logo": "https://jdwel.com/image/teams/1677.png",
+      "match_time": "7 نوفمبر 2026، 18:00",
+      "audio_items": [],
+      "audio": [],
+      "audio_text": "",
+      "channel_names_mode": "custom",
+      "details_status": "unavailable",
+      "details_error": "صفحة المباراة لا تحتوي على عناصر قنوات ضمن قسم البث"
+    },
+    {
+      "id": "265413",
+      "competition": "كأس الاتحاد الإنجليزي",
+      "home_team": "أكرينغتون ستانلي",
+      "away_team": "ويكمب وندررز",
+      "home_logo": "https://jdwel.com/image/teams/6379.png",
+      "away_logo": "https://jdwel.com/image/teams/5962.png",
+      "match_time": "7 نوفمبر 2026، 18:00",
+      "audio_items": [],
+      "audio": [],
+      "audio_text": "",
+      "channel_names_mode": "custom",
+      "details_status": "unavailable",
+      "details_error": "صفحة المباراة لا تحتوي على عناصر قنوات ضمن قسم البث"
+    },
+    {
+      "id": "265414",
+      "competition": "كأس الاتحاد الإنجليزي",
+      "home_team": "بليموث أرجايل",
+      "away_team": "الفيشيرتش",
+      "home_logo": "https://jdwel.com/image/teams/6861.png",
+      "away_logo": "https://jdwel.com/image/teams/4043.png",
+      "match_time": "7 نوفمبر 2026، 18:00",
+      "audio_items": [],
+      "audio": [],
+      "audio_text": "",
+      "channel_names_mode": "custom",
+      "details_status": "unavailable",
+      "details_error": "صفحة المباراة لا تحتوي على عناصر قنوات ضمن قسم البث"
+    },
+    {
+      "id": "265415",
+      "competition": "كأس الاتحاد الإنجليزي",
+      "home_team": "غيلينغهام",
+      "away_team": "بارو",
+      "home_logo": "https://jdwel.com/image/teams/eng_gillingham.png",
+      "away_logo": "https://jdwel.com/image/teams/1093.png",
+      "match_time": "7 نوفمبر 2026، 18:00",
+      "audio_items": [],
+      "audio": [],
+      "audio_text": "",
+      "channel_names_mode": "custom",
+      "details_status": "unavailable",
+      "details_error": "صفحة المباراة لا تحتوي على عناصر قنوات ضمن قسم البث"
+    },
+    {
+      "id": "265416",
+      "competition": "كأس الاتحاد الإنجليزي",
+      "home_team": "ليتون أورينت",
+      "away_team": "هاربورو تاون",
+      "home_logo": "https://jdwel.com/image/teams/eng_leyton_orient.png",
+      "away_logo": "https://jdwel.com/image/teams/1462.png",
+      "match_time": "7 نوفمبر 2026، 18:00",
+      "audio_items": [],
+      "audio": [],
+      "audio_text": "",
+      "channel_names_mode": "custom",
+      "details_status": "unavailable",
+      "details_error": "صفحة المباراة لا تحتوي على عناصر قنوات ضمن قسم البث"
+    },
+    {
+      "id": "265418",
+      "competition": "كأس الاتحاد الإنجليزي",
+      "home_team": "كيدرمينستر هاريرز",
+      "away_team": "دونكاستر روفرز",
+      "home_logo": "https://jdwel.com/image/teams/eng_kidderminster_harriers.png",
+      "away_logo": "https://jdwel.com/image/teams/4845.png",
+      "match_time": "7 نوفمبر 2026، 18:00",
+      "audio_items": [],
+      "audio": [],
+      "audio_text": "",
+      "channel_names_mode": "custom",
+      "details_status": "unavailable",
+      "details_error": "صفحة المباراة لا تحتوي على عناصر قنوات ضمن قسم البث"
+    },
+    {
+      "id": "265419",
+      "competition": "كأس الاتحاد الإنجليزي",
+      "home_team": "تشيسترفيلد",
+      "away_team": "يوفيل تاون",
+      "home_logo": "https://jdwel.com/image/teams/eng_chesterfield.png",
+      "away_logo": "https://jdwel.com/image/teams/1575.png",
+      "match_time": "7 نوفمبر 2026، 18:00",
+      "audio_items": [],
+      "audio": [],
+      "audio_text": "",
+      "channel_names_mode": "custom",
+      "details_status": "unavailable",
+      "details_error": "صفحة المباراة لا تحتوي على عناصر قنوات ضمن قسم البث"
+    },
+    {
+      "id": "265422",
+      "competition": "كأس الاتحاد الإنجليزي",
+      "home_team": "إيستليغ",
+      "away_team": "شروزبري تاون",
+      "home_logo": "https://jdwel.com/image/teams/1138.png",
+      "away_logo": "https://jdwel.com/image/teams/1029.png",
+      "match_time": "7 نوفمبر 2026، 18:00",
+      "audio_items": [],
+      "audio": [],
+      "audio_text": "",
+      "channel_names_mode": "custom",
+      "details_status": "unavailable",
+      "details_error": "صفحة المباراة لا تحتوي على عناصر قنوات ضمن قسم البث"
+    },
+    {
+      "id": "265425",
+      "competition": "كأس الاتحاد الإنجليزي",
+      "home_team": "كولتشستر يونايتد",
+      "away_team": "وورشستر سيتي",
+      "home_logo": "https://jdwel.com/image/teams/1090.png",
+      "away_logo": "https://jdwel.com/image/teams/3465.png",
+      "match_time": "7 نوفمبر 2026، 18:00",
+      "audio_items": [],
+      "audio": [],
+      "audio_text": "",
+      "channel_names_mode": "custom",
+      "details_status": "unavailable",
+      "details_error": "صفحة المباراة لا تحتوي على عناصر قنوات ضمن قسم البث"
+    },
+    {
+      "id": "265426",
+      "competition": "كأس الاتحاد الإنجليزي",
+      "home_team": "لوتون تاون",
+      "away_team": "فورست غرين روفرز",
+      "home_logo": "https://jdwel.com/image/teams/1114.png",
+      "away_logo": "https://jdwel.com/image/teams/eng_forest_green_rovers.png",
+      "match_time": "7 نوفمبر 2026، 18:00",
+      "audio_items": [],
+      "audio": [],
+      "audio_text": "",
+      "channel_names_mode": "custom",
+      "details_status": "unavailable",
+      "details_error": "صفحة المباراة لا تحتوي على عناصر قنوات ضمن قسم البث"
+    },
+    {
+      "id": "265427",
+      "competition": "كأس الاتحاد الإنجليزي",
+      "home_team": "سالزبوري",
+      "away_team": "شولينج",
+      "home_logo": "https://jdwel.com/image/teams/1097.png",
+      "away_logo": "https://jdwel.com/image/teams/3569.png",
+      "match_time": "7 نوفمبر 2026، 18:00",
+      "audio_items": [],
+      "audio": [],
+      "audio_text": "",
+      "channel_names_mode": "custom",
+      "details_status": "unavailable",
+      "details_error": "صفحة المباراة لا تحتوي على عناصر قنوات ضمن قسم البث"
+    },
+    {
+      "id": "265428",
+      "competition": "كأس الاتحاد الإنجليزي",
+      "home_team": "كارلايل يونايتد",
+      "away_team": "سالفورد سيتي",
+      "home_logo": "https://jdwel.com/image/teams/eng_carlisle_united.png",
+      "away_logo": "https://jdwel.com/image/teams/7012.png",
+      "match_time": "7 نوفمبر 2026، 18:00",
+      "audio_items": [],
+      "audio": [],
+      "audio_text": "",
+      "channel_names_mode": "custom",
+      "details_status": "unavailable",
+      "details_error": "صفحة المباراة لا تحتوي على عناصر قنوات ضمن قسم البث"
+    },
+    {
+      "id": "265429",
+      "competition": "كأس الاتحاد الإنجليزي",
+      "home_team": "تشيلتنهام تاون",
+      "away_team": "هاليفاكس تاون",
+      "home_logo": "https://jdwel.com/image/teams/eng_cheltenham_town.png",
+      "away_logo": "https://jdwel.com/image/teams/eng_halifax_town.png",
+      "match_time": "7 نوفمبر 2026، 18:00",
+      "audio_items": [],
+      "audio": [],
+      "audio_text": "",
+      "channel_names_mode": "custom",
+      "details_status": "unavailable",
+      "details_error": "صفحة المباراة لا تحتوي على عناصر قنوات ضمن قسم البث"
+    },
+    {
+      "id": "265430",
+      "competition": "كأس الاتحاد الإنجليزي",
+      "home_team": "بارنسلي",
+      "away_team": "ألدرشوت تاون",
+      "home_logo": "https://jdwel.com/image/teams/2629.png",
+      "away_logo": "https://jdwel.com/image/teams/1132.png",
+      "match_time": "7 نوفمبر 2026، 18:00",
+      "audio_items": [],
+      "audio": [],
+      "audio_text": "",
+      "channel_names_mode": "custom",
+      "details_status": "unavailable",
+      "details_error": "صفحة المباراة لا تحتوي على عناصر قنوات ضمن قسم البث"
+    },
+    {
+      "id": "265431",
+      "competition": "كأس الاتحاد الإنجليزي",
+      "home_team": "بوريهام وود",
+      "away_team": "ويغان أتلتيك",
+      "home_logo": "https://jdwel.com/image/teams/2875.png",
+      "away_logo": "https://jdwel.com/image/teams/3205.png",
+      "match_time": "7 نوفمبر 2026، 18:00",
+      "audio_items": [],
+      "audio": [],
+      "audio_text": "",
+      "channel_names_mode": "custom",
+      "details_status": "unavailable",
+      "details_error": "صفحة المباراة لا تحتوي على عناصر قنوات ضمن قسم البث"
+    },
+    {
+      "id": "265433",
+      "competition": "كأس الاتحاد الإنجليزي",
+      "home_team": "يورك سيتي",
+      "away_team": "نورثامبتون تاون",
+      "home_logo": "https://jdwel.com/image/teams/eng_york_city.png",
+      "away_logo": "https://jdwel.com/image/teams/1088.png",
+      "match_time": "7 نوفمبر 2026، 18:00",
+      "audio_items": [],
+      "audio": [],
+      "audio_text": "",
+      "channel_names_mode": "custom",
+      "details_status": "unavailable",
+      "details_error": "صفحة المباراة لا تحتوي على عناصر قنوات ضمن قسم البث"
+    },
+    {
+      "id": "265434",
+      "competition": "كأس الاتحاد الإنجليزي",
+      "home_team": "هدرسفيلد تاون",
+      "away_team": "إكستر سيتي",
+      "home_logo": "https://jdwel.com/image/teams/3152.png",
+      "away_logo": "https://jdwel.com/image/teams/3412.png",
+      "match_time": "7 نوفمبر 2026، 18:00",
+      "audio_items": [],
+      "audio": [],
+      "audio_text": "",
+      "channel_names_mode": "custom",
+      "details_status": "unavailable",
+      "details_error": "صفحة المباراة لا تحتوي على عناصر قنوات ضمن قسم البث"
+    },
+    {
+      "id": "265436",
+      "competition": "كأس الاتحاد الإنجليزي",
+      "home_team": "بورت فايل",
+      "away_team": "سكونثورب يونايتد",
+      "home_logo": "https://jdwel.com/image/teams/1108.png",
+      "away_logo": "https://jdwel.com/image/teams/2195.png",
+      "match_time": "7 نوفمبر 2026، 18:00",
+      "audio_items": [],
+      "audio": [],
+      "audio_text": "",
+      "channel_names_mode": "custom",
+      "details_status": "unavailable",
+      "details_error": "صفحة المباراة لا تحتوي على عناصر قنوات ضمن قسم البث"
+    },
+    {
+      "id": "265432",
+      "competition": "كأس الاتحاد الإنجليزي",
+      "home_team": "ألترينشام",
+      "away_team": "نوتس كاونتي",
+      "home_logo": "https://jdwel.com/image/teams/eng_altrincham.png",
+      "away_logo": "https://jdwel.com/image/teams/4531.png",
+      "match_time": "7 نوفمبر 2026، 20:30",
+      "audio_items": [],
+      "audio": [],
+      "audio_text": "",
+      "channel_names_mode": "custom",
+      "details_status": "unavailable",
+      "details_error": "صفحة المباراة لا تحتوي على عناصر قنوات ضمن قسم البث"
+    },
+    {
+      "id": "265420",
+      "competition": "كأس الاتحاد الإنجليزي",
+      "home_team": "بيتربورو يونايتد",
+      "away_team": "ريدنغ",
+      "home_logo": "https://jdwel.com/image/teams/6495.png",
+      "away_logo": "https://jdwel.com/image/teams/1676.png",
+      "match_time": "7 نوفمبر 2026، 23:00",
+      "audio_items": [],
+      "audio": [],
+      "audio_text": "",
+      "channel_names_mode": "custom",
+      "details_status": "unavailable",
+      "details_error": "صفحة المباراة لا تحتوي على عناصر قنوات ضمن قسم البث"
+    },
+    {
+      "id": "251630",
       "competition": "الدوري التركي",
-      "home_team": "غازي عنتاب",
-      "away_team": "قاسم باشا",
-      "home_logo": "https://jdwel.com/image/teams/1508.png",
-      "away_logo": "https://jdwel.com/image/teams/tur_kasimpasa.png",
-      "match_time": "6 نوفمبر 2026، 20:00",
+      "home_team": "إيوبسبور",
+      "away_team": "كوجالي سبور",
+      "home_logo": "https://jdwel.com/image/teams/4731.png",
+      "away_logo": "https://jdwel.com/image/teams/7381.png",
+      "match_time": "7 نوفمبر 2026، 13:30",
       "audio_items": [
         {
           "channel": "beIN SPORTS 1 TR",
@@ -205,6 +979,74 @@
         "الصوتية الأولى — Audio 1 (غير محدد)"
       ],
       "audio_text": "الصوتية الأولى — Audio 1 (غير محدد)",
+      "channel_names_mode": "custom",
+      "details_status": "ok"
+    },
+    {
+      "id": "251623",
+      "competition": "الدوري التركي",
+      "home_team": "سامسون سبور",
+      "away_team": "قونيا سبور",
+      "home_logo": "https://jdwel.com/image/teams/2229.png",
+      "away_logo": "https://jdwel.com/image/teams/tur_konyaspor.png",
+      "match_time": "7 نوفمبر 2026، 16:00",
+      "audio_items": [
+        {
+          "channel": "beIN SPORTS 1 TR",
+          "commentator": "غير محدد"
+        }
+      ],
+      "audio": [
+        "الصوتية الأولى — Audio 1 (غير محدد)"
+      ],
+      "audio_text": "الصوتية الأولى — Audio 1 (غير محدد)",
+      "channel_names_mode": "custom",
+      "details_status": "ok"
+    },
+    {
+      "id": "251625",
+      "competition": "الدوري التركي",
+      "home_team": "غلطة سراي",
+      "away_team": "آميد سبورتيف",
+      "home_logo": "https://jdwel.com/image/teams/1416.png",
+      "away_logo": "https://jdwel.com/image/teams/6917.png",
+      "match_time": "7 نوفمبر 2026، 19:00",
+      "audio_items": [
+        {
+          "channel": "beIN SPORTS XTRA 4",
+          "commentator": "أحمد عبده"
+        },
+        {
+          "channel": "beIN SPORTS 1 TR",
+          "commentator": "غير محدد"
+        }
+      ],
+      "audio": [
+        "beIN SPORTS XTRA 4 (أحمد عبده)",
+        "الصوتية الأولى — Audio 1 (غير محدد)"
+      ],
+      "audio_text": "beIN SPORTS XTRA 4 (أحمد عبده) | الصوتية الأولى — Audio 1 (غير محدد)",
+      "channel_names_mode": "custom",
+      "details_status": "ok"
+    },
+    {
+      "id": "251627",
+      "competition": "الدوري التركي",
+      "home_team": "جوزتيبي",
+      "away_team": "إسطنبول باشاكشهر",
+      "home_logo": "https://jdwel.com/image/teams/tur_goztepe.png",
+      "away_logo": "https://jdwel.com/image/teams/2640.png",
+      "match_time": "7 نوفمبر 2026، 19:00",
+      "audio_items": [
+        {
+          "channel": "beIN SPORTS 2 TR",
+          "commentator": "غير محدد"
+        }
+      ],
+      "audio": [
+        "الصوتية الثانية — Audio 2 (غير محدد)"
+      ],
+      "audio_text": "الصوتية الثانية — Audio 2 (غير محدد)",
       "channel_names_mode": "custom",
       "details_status": "ok"
     }
