@@ -1,6 +1,6 @@
 {
   "source": "https://jdwel.com/today/",
-  "generated_at_utc": "2026-11-07T01:29:29.805933+00:00",
+  "generated_at_utc": "2026-11-07T08:03:27.615273+00:00",
   "matches": [
     {
       "id": "239739",
@@ -275,13 +275,13 @@
       "details_status": "ok"
     },
     {
-      "id": "255026",
+      "id": "255019",
       "competition": "دوري روشن السعودي",
-      "home_team": "الفيصلي",
-      "away_team": "الدرعية",
-      "home_logo": "https://jdwel.com/image/teams/3215.png",
-      "away_logo": "https://jdwel.com/image/teams/4203.png",
-      "match_time": "7 نوفمبر 2026، 16:20",
+      "home_team": "الأهلي",
+      "away_team": "التعاون",
+      "home_logo": "https://jdwel.com/image/teams/3404.png",
+      "away_logo": "https://jdwel.com/image/teams/5338.png",
+      "match_time": "7 نوفمبر 2026، 03:00",
       "audio_items": [],
       "audio": [],
       "audio_text": "",
@@ -296,7 +296,7 @@
       "away_team": "الهلال",
       "home_logo": "https://jdwel.com/image/teams/2215.png",
       "away_logo": "https://jdwel.com/image/teams/2761.png",
-      "match_time": "7 نوفمبر 2026، 17:30",
+      "match_time": "7 نوفمبر 2026، 03:00",
       "audio_items": [],
       "audio": [],
       "audio_text": "",
@@ -305,13 +305,13 @@
       "details_error": "صفحة المباراة لا تحتوي على عناصر قنوات ضمن قسم البث"
     },
     {
-      "id": "255019",
+      "id": "255026",
       "competition": "دوري روشن السعودي",
-      "home_team": "الأهلي",
-      "away_team": "التعاون",
-      "home_logo": "https://jdwel.com/image/teams/3404.png",
-      "away_logo": "https://jdwel.com/image/teams/5338.png",
-      "match_time": "7 نوفمبر 2026، 20:30",
+      "home_team": "الفيصلي",
+      "away_team": "الدرعية",
+      "home_logo": "https://jdwel.com/image/teams/3215.png",
+      "away_logo": "https://jdwel.com/image/teams/4203.png",
+      "match_time": "7 نوفمبر 2026، 03:00",
       "audio_items": [],
       "audio": [],
       "audio_text": "",
