@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-07T11:37:31+00:00",
-  "channel_count": 383,
+  "last_updated": "2026-11-08T11:48:58+00:00",
+  "channel_count": 385,
   "channels": {
     "a spor turkey": {
       "name": "A Spor Turkey",
@@ -938,6 +938,25 @@
         ]
       },
       "cached_at": "2026-11-04T12:52:34+00:00"
+    },
+    "canal+ premium hd": {
+      "name": "CANAL+ PREMIUM HD",
+      "details": {
+        "transponders": [
+          {
+            "Name": "HOTBIRD 6,7A,8",
+            "Position": "13.0E",
+            "Frequency": "11278.00",
+            "Polarisation": "V",
+            "SR": "27500",
+            "FEC": "5/6",
+            "System": "DVB-S2",
+            "Modulation": "8PSK",
+            "Crypt": "Nagravision 3 ; Viaccess"
+          }
+        ]
+      },
+      "cached_at": "2026-11-08T11:48:56+00:00"
     },
     "canal+ sport 3 hd": {
       "name": "CANAL+ SPORT 3 HD",
@@ -2292,6 +2311,25 @@
         ]
       },
       "cached_at": "2026-08-17T05:34:08+00:00"
+    },
+    "italia1 hd": {
+      "name": "Italia1 HD",
+      "details": {
+        "transponders": [
+          {
+            "Name": "HOTBIRD 6,7A,8",
+            "Position": "13.0E",
+            "Frequency": "11432.00",
+            "Polarisation": "V",
+            "SR": "29900",
+            "FEC": "3/4",
+            "System": "DVB-S2",
+            "Modulation": "8PSK",
+            "Crypt": "Nagravision 3 ; NDS VideoGuard"
+          }
+        ]
+      },
+      "cached_at": "2026-11-08T11:48:58+00:00"
     },
     "joj sport hd": {
       "name": "JOJ Sport HD",
