@@ -1,6 +1,6 @@
 {
   "source": "https://jdwel.com/today/",
-  "generated_at_utc": "2026-11-07T23:17:05.188099+00:00",
+  "generated_at_utc": "2026-11-08T03:29:18.071038+00:00",
   "matches": [
     {
       "id": "239736",
@@ -599,12 +599,18 @@
       "home_logo": "https://jdwel.com/image/teams/2345.png",
       "away_logo": "https://jdwel.com/image/teams/6916.png",
       "match_time": "8 نوفمبر 2026، 13:30",
-      "audio_items": [],
-      "audio": [],
-      "audio_text": "",
+      "audio_items": [
+        {
+          "channel": "beIN SPORTS 2 TR",
+          "commentator": "غير محدد"
+        }
+      ],
+      "audio": [
+        "الصوتية الثانية — Audio 2 (غير محدد)"
+      ],
+      "audio_text": "الصوتية الثانية — Audio 2 (غير محدد)",
       "channel_names_mode": "custom",
-      "details_status": "unavailable",
-      "details_error": "صفحة المباراة لا تحتوي على عناصر قنوات ضمن قسم البث"
+      "details_status": "ok"
     },
     {
       "id": "251626",
@@ -617,13 +623,18 @@
       "audio_items": [
         {
           "channel": "beIN SPORTS 5",
+          "commentator": "محمد السعدي"
+        },
+        {
+          "channel": "beIN SPORTS 1 TR",
           "commentator": "غير محدد"
         }
       ],
       "audio": [
-        "الصوتية الخامسة — Audio 5 (غير محدد)"
+        "الصوتية الخامسة — Audio 5 (محمد السعدي)",
+        "الصوتية الأولى — Audio 1 (غير محدد)"
       ],
-      "audio_text": "الصوتية الخامسة — Audio 5 (غير محدد)",
+      "audio_text": "الصوتية الخامسة — Audio 5 (محمد السعدي) | الصوتية الأولى — Audio 1 (غير محدد)",
       "channel_names_mode": "custom",
       "details_status": "ok"
     },
@@ -635,12 +646,23 @@
       "home_logo": "https://jdwel.com/image/teams/1511.png",
       "away_logo": "https://jdwel.com/image/teams/4730.png",
       "match_time": "8 نوفمبر 2026، 18:30",
-      "audio_items": [],
-      "audio": [],
-      "audio_text": "",
+      "audio_items": [
+        {
+          "channel": "beIN SPORTS 5",
+          "commentator": "نوفل باشي"
+        },
+        {
+          "channel": "beIN SPORTS 1 TR",
+          "commentator": "غير محدد"
+        }
+      ],
+      "audio": [
+        "الصوتية الخامسة — Audio 5 (نوفل باشي)",
+        "الصوتية الأولى — Audio 1 (غير محدد)"
+      ],
+      "audio_text": "الصوتية الخامسة — Audio 5 (نوفل باشي) | الصوتية الأولى — Audio 1 (غير محدد)",
       "channel_names_mode": "custom",
-      "details_status": "unavailable",
-      "details_error": "صفحة المباراة لا تحتوي على عناصر قنوات ضمن قسم البث"
+      "details_status": "ok"
     },
     {
       "id": "251624",
@@ -650,12 +672,23 @@
       "home_logo": "https://jdwel.com/image/teams/2149.png",
       "away_logo": "https://jdwel.com/image/teams/tur_genclerbirligi.png",
       "match_time": "8 نوفمبر 2026، 21:00",
-      "audio_items": [],
-      "audio": [],
-      "audio_text": "",
+      "audio_items": [
+        {
+          "channel": "beIN SPORTS 5",
+          "commentator": "محمد فوزي"
+        },
+        {
+          "channel": "beIN SPORTS 1 TR",
+          "commentator": "غير محدد"
+        }
+      ],
+      "audio": [
+        "الصوتية الخامسة — Audio 5 (محمد فوزي)",
+        "الصوتية الأولى — Audio 1 (غير محدد)"
+      ],
+      "audio_text": "الصوتية الخامسة — Audio 5 (محمد فوزي) | الصوتية الأولى — Audio 1 (غير محدد)",
       "channel_names_mode": "custom",
-      "details_status": "unavailable",
-      "details_error": "صفحة المباراة لا تحتوي على عناصر قنوات ضمن قسم البث"
+      "details_status": "ok"
     }
   ]
 }
