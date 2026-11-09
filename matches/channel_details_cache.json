@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-08T11:48:58+00:00",
-  "channel_count": 385,
+  "last_updated": "2026-11-09T13:44:02+00:00",
+  "channel_count": 386,
   "channels": {
     "a spor turkey": {
       "name": "A Spor Turkey",
@@ -6165,6 +6165,25 @@
         ]
       },
       "cached_at": "2026-08-24T05:36:58+00:00"
+    },
+    "sport1 hd": {
+      "name": "Sport1 HD",
+      "details": {
+        "transponders": [
+          {
+            "Name": "ASTRA 1F,1G,1H,1KR,1L",
+            "Position": "19.2E",
+            "Frequency": "10802.75",
+            "Polarisation": "H",
+            "SR": "22000",
+            "FEC": "3/4",
+            "System": "DVB-S2",
+            "Modulation": "8PSK",
+            "Crypt": "CAID 0x4b64 ; CAID 0x4af4 ; Nagravision 3 ; NDS VideoGuard ; Irdeto ; Viaccess"
+          }
+        ]
+      },
+      "cached_at": "2026-11-09T13:44:02+00:00"
     },
     "sportdigital 1 plus germany hd": {
       "name": "Sportdigital 1 Plus Germany HD",
