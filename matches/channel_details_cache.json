@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-11T12:34:22+00:00",
-  "channel_count": 386,
+  "last_updated": "2026-11-12T13:38:17+00:00",
+  "channel_count": 393,
   "channels": {
     "a spor turkey": {
       "name": "A Spor Turkey",
@@ -2470,6 +2470,25 @@
       },
       "cached_at": "2026-09-02T09:24:55+00:00"
     },
+    "klan tv hd": {
+      "name": "Klan TV HD",
+      "details": {
+        "transponders": [
+          {
+            "Name": "EUTELSAT W2",
+            "Position": "16.0E",
+            "Frequency": "10804.00",
+            "Polarisation": "H",
+            "SR": "29950",
+            "FEC": "2/3",
+            "System": "DVB-S2",
+            "Modulation": "8PSK",
+            "Crypt": "Conax"
+          }
+        ]
+      },
+      "cached_at": "2026-11-12T13:38:17+00:00"
+    },
     "l'equipe hd": {
       "name": "L'EQUIPE HD",
       "details": {
@@ -3037,6 +3056,25 @@
         ]
       },
       "cached_at": "2026-09-05T08:54:56+00:00"
+    },
+    "nova hr hd": {
+      "name": "Nova HR HD",
+      "details": {
+        "transponders": [
+          {
+            "Name": "EUTELSAT W2",
+            "Position": "16.0E",
+            "Frequency": "11387.00",
+            "Polarisation": "H",
+            "SR": "32000",
+            "FEC": "4/5",
+            "System": "DVB-S2",
+            "Modulation": "8PSK",
+            "Crypt": "Nagravision 3 ; Conax ; Irdeto ; NDS VideoGuard"
+          }
+        ]
+      },
+      "cached_at": "2026-11-12T13:38:17+00:00"
     },
     "nova sport 1 czech hd": {
       "name": "Nova Sport 1 Czech HD",
@@ -3940,6 +3978,25 @@
       },
       "cached_at": "2026-10-28T11:11:28+00:00"
     },
+    "rai 1 hd": {
+      "name": "Rai 1 HD",
+      "details": {
+        "transponders": [
+          {
+            "Name": "HOTBIRD 6,7A,8",
+            "Position": "13.0E",
+            "Frequency": "11766.00",
+            "Polarisation": "V",
+            "SR": "29900",
+            "FEC": "3/4",
+            "System": "DVB-S2",
+            "Modulation": "8PSK",
+            "Crypt": "not available"
+          }
+        ]
+      },
+      "cached_at": "2026-11-12T13:38:16+00:00"
+    },
     "rai 2 hd": {
       "name": "Rai 2 HD",
       "details": {
@@ -3958,6 +4015,25 @@
         ]
       },
       "cached_at": "2026-10-18T09:25:49+00:00"
+    },
+    "rai 4k": {
+      "name": "Rai 4K",
+      "details": {
+        "transponders": [
+          {
+            "Name": "HOTBIRD 6,7A,8",
+            "Position": "13.0E",
+            "Frequency": "11766.00",
+            "Polarisation": "V",
+            "SR": "29900",
+            "FEC": "3/4",
+            "System": "DVB-S2",
+            "Modulation": "8PSK",
+            "Crypt": "not available"
+          }
+        ]
+      },
+      "cached_at": "2026-11-12T13:38:16+00:00"
     },
     "rai sport hd": {
       "name": "Rai Sport HD",
@@ -4246,6 +4322,25 @@
         ]
       },
       "cached_at": "2026-08-18T05:27:09+00:00"
+    },
+    "rtl tvi hd": {
+      "name": "RTL TVi HD",
+      "details": {
+        "transponders": [
+          {
+            "Name": "HOTBIRD 6,7A,8",
+            "Position": "13.0E",
+            "Frequency": "11411.00",
+            "Polarisation": "H",
+            "SR": "27500",
+            "FEC": "5/6",
+            "System": "DVB-S2",
+            "Modulation": "8PSK",
+            "Crypt": "Viaccess ; Nagravision 3"
+          }
+        ]
+      },
+      "cached_at": "2026-11-12T13:38:15+00:00"
     },
     "rtrs": {
       "name": "RTRS",
@@ -6831,6 +6926,25 @@
       },
       "cached_at": "2026-08-27T04:53:52+00:00"
     },
+    "tf1 hd": {
+      "name": "TF1 HD",
+      "details": {
+        "transponders": [
+          {
+            "Name": "ASTRA 1F,1G,1H,1KR,1L",
+            "Position": "19.2E",
+            "Frequency": "12168.00",
+            "Polarisation": "V",
+            "SR": "29700",
+            "FEC": "2/3",
+            "System": "DVB-S2",
+            "Modulation": "8PSK",
+            "Crypt": "Seca/Mediaguard ; Nagravision 3 ; Viaccess"
+          }
+        ]
+      },
+      "cached_at": "2026-11-12T13:38:16+00:00"
+    },
     "tipik": {
       "name": "Tipik",
       "details": {
@@ -7229,6 +7343,25 @@
         ]
       },
       "cached_at": "2026-11-04T12:52:35+00:00"
+    },
+    "tvge international": {
+      "name": "TVGE International",
+      "details": {
+        "transponders": [
+          {
+            "Name": "ASTRA 1E,3A",
+            "Position": "23.5E",
+            "Frequency": "not available",
+            "Polarisation": "not available",
+            "SR": "not available",
+            "FEC": "not available",
+            "System": "not available",
+            "Modulation": "not available",
+            "Crypt": "not available"
+          }
+        ]
+      },
+      "cached_at": "2026-11-12T13:38:15+00:00"
     },
     "tvp 1 hd": {
       "name": "TVP 1 HD",
