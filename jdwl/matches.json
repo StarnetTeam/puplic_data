@@ -1,6 +1,6 @@
 {
   "source": "https://jdwel.com/today/",
-  "generated_at_utc": "2026-11-12T22:59:32.332980+00:00",
+  "generated_at_utc": "2026-11-13T03:12:57.825777+00:00",
   "matches": [
     {
       "id": "264371",
@@ -31,12 +31,18 @@
       "home_logo": "https://jdwel.com/image/teams/207.png",
       "away_logo": "https://jdwel.com/image/teams/209.png",
       "match_time": "13 نوفمبر 2026، 20:00",
-      "audio_items": [],
-      "audio": [],
-      "audio_text": "",
+      "audio_items": [
+        {
+          "channel": "beIN SPORTS 6",
+          "commentator": "محمد السعدي"
+        }
+      ],
+      "audio": [
+        "الصوتية السادسة — Audio 6 (محمد السعدي)"
+      ],
+      "audio_text": "الصوتية السادسة — Audio 6 (محمد السعدي)",
       "channel_names_mode": "custom",
-      "details_status": "unavailable",
-      "details_error": "صفحة المباراة لا تحتوي على عناصر قنوات ضمن قسم البث"
+      "details_status": "ok"
     },
     {
       "id": "251733",
@@ -46,12 +52,18 @@
       "home_logo": "https://jdwel.com/image/teams/flag_serbia_v2.png",
       "away_logo": "https://jdwel.com/image/teams/flag_germany_v2.png",
       "match_time": "13 نوفمبر 2026، 22:45",
-      "audio_items": [],
-      "audio": [],
-      "audio_text": "",
+      "audio_items": [
+        {
+          "channel": "beIN SPORTS 3",
+          "commentator": "عصام الشوالي"
+        }
+      ],
+      "audio": [
+        "الصوتية الثالثة — Audio 3 (عصام الشوالي)"
+      ],
+      "audio_text": "الصوتية الثالثة — Audio 3 (عصام الشوالي)",
       "channel_names_mode": "custom",
-      "details_status": "unavailable",
-      "details_error": "صفحة المباراة لا تحتوي على عناصر قنوات ضمن قسم البث"
+      "details_status": "ok"
     },
     {
       "id": "251734",
@@ -61,12 +73,18 @@
       "home_logo": "https://jdwel.com/image/teams/flag_netherlands_v2.png",
       "away_logo": "https://jdwel.com/image/teams/221.png",
       "match_time": "13 نوفمبر 2026، 22:45",
-      "audio_items": [],
-      "audio": [],
-      "audio_text": "",
+      "audio_items": [
+        {
+          "channel": "beIN SPORTS 4",
+          "commentator": "أحمد البلوشي"
+        }
+      ],
+      "audio": [
+        "الصوتية الرابعة — Audio 4 (أحمد البلوشي)"
+      ],
+      "audio_text": "الصوتية الرابعة — Audio 4 (أحمد البلوشي)",
       "channel_names_mode": "custom",
-      "details_status": "unavailable",
-      "details_error": "صفحة المباراة لا تحتوي على عناصر قنوات ضمن قسم البث"
+      "details_status": "ok"
     },
     {
       "id": "251785",
@@ -76,12 +94,18 @@
       "home_logo": "https://jdwel.com/image/teams/204.png",
       "away_logo": "https://jdwel.com/image/teams/flag_switzerland_v2.png",
       "match_time": "13 نوفمبر 2026، 22:45",
-      "audio_items": [],
-      "audio": [],
-      "audio_text": "",
+      "audio_items": [
+        {
+          "channel": "beIN SPORTS 6",
+          "commentator": "سمير اليعقوبي"
+        }
+      ],
+      "audio": [
+        "الصوتية السادسة — Audio 6 (سمير اليعقوبي)"
+      ],
+      "audio_text": "الصوتية السادسة — Audio 6 (سمير اليعقوبي)",
       "channel_names_mode": "custom",
-      "details_status": "unavailable",
-      "details_error": "صفحة المباراة لا تحتوي على عناصر قنوات ضمن قسم البث"
+      "details_status": "ok"
     },
     {
       "id": "251786",
@@ -91,12 +115,18 @@
       "home_logo": "https://jdwel.com/image/teams/40.png",
       "away_logo": "https://jdwel.com/image/teams/205.png",
       "match_time": "13 نوفمبر 2026، 22:45",
-      "audio_items": [],
-      "audio": [],
-      "audio_text": "",
+      "audio_items": [
+        {
+          "channel": "beIN SPORTS 5",
+          "commentator": "عبدالله الغامدي"
+        }
+      ],
+      "audio": [
+        "الصوتية الخامسة — Audio 5 (عبدالله الغامدي)"
+      ],
+      "audio_text": "الصوتية الخامسة — Audio 5 (عبدالله الغامدي)",
       "channel_names_mode": "custom",
-      "details_status": "unavailable",
-      "details_error": "صفحة المباراة لا تحتوي على عناصر قنوات ضمن قسم البث"
+      "details_status": "ok"
     },
     {
       "id": "251827",
@@ -106,12 +136,18 @@
       "home_logo": "https://jdwel.com/image/teams/171.png",
       "away_logo": "https://jdwel.com/image/teams/166.png",
       "match_time": "13 نوفمبر 2026، 22:45",
-      "audio_items": [],
-      "audio": [],
-      "audio_text": "",
+      "audio_items": [
+        {
+          "channel": "beIN SPORTS XTRA 3",
+          "commentator": "عامر الخوذيري"
+        }
+      ],
+      "audio": [
+        "beIN SPORTS XTRA 3 (عامر الخوذيري)"
+      ],
+      "audio_text": "beIN SPORTS XTRA 3 (عامر الخوذيري)",
       "channel_names_mode": "custom",
-      "details_status": "unavailable",
-      "details_error": "صفحة المباراة لا تحتوي على عناصر قنوات ضمن قسم البث"
+      "details_status": "ok"
     },
     {
       "id": "251828",
@@ -121,12 +157,18 @@
       "home_logo": "https://jdwel.com/image/teams/169.png",
       "away_logo": "https://jdwel.com/image/teams/4961.png",
       "match_time": "13 نوفمبر 2026، 22:45",
-      "audio_items": [],
-      "audio": [],
-      "audio_text": "",
+      "audio_items": [
+        {
+          "channel": "beIN SPORTS 8",
+          "commentator": "بكر علوان"
+        }
+      ],
+      "audio": [
+        "الصوتية الثامنة — Audio 8 (بكر علوان)"
+      ],
+      "audio_text": "الصوتية الثامنة — Audio 8 (بكر علوان)",
       "channel_names_mode": "custom",
-      "details_status": "unavailable",
-      "details_error": "صفحة المباراة لا تحتوي على عناصر قنوات ضمن قسم البث"
+      "details_status": "ok"
     },
     {
       "id": "251829",
@@ -136,12 +178,18 @@
       "home_logo": "https://jdwel.com/image/teams/flag_slovakia.png",
       "away_logo": "https://jdwel.com/image/teams/201.png",
       "match_time": "13 نوفمبر 2026، 22:45",
-      "audio_items": [],
-      "audio": [],
-      "audio_text": "",
+      "audio_items": [
+        {
+          "channel": "beIN SPORTS 7",
+          "commentator": "منتصر الأزهري"
+        }
+      ],
+      "audio": [
+        "الصوتية السابعة — Audio 7 (منتصر الأزهري)"
+      ],
+      "audio_text": "الصوتية السابعة — Audio 7 (منتصر الأزهري)",
       "channel_names_mode": "custom",
-      "details_status": "unavailable",
-      "details_error": "صفحة المباراة لا تحتوي على عناصر قنوات ضمن قسم البث"
+      "details_status": "ok"
     },
     {
       "id": "251869",
@@ -151,12 +199,18 @@
       "home_logo": "https://jdwel.com/image/teams/181.png",
       "away_logo": "https://jdwel.com/image/teams/167.png",
       "match_time": "13 نوفمبر 2026، 22:45",
-      "audio_items": [],
-      "audio": [],
-      "audio_text": "",
+      "audio_items": [
+        {
+          "channel": "beIN SPORTS XTRA 2",
+          "commentator": "حسن العيدروس"
+        }
+      ],
+      "audio": [
+        "beIN SPORTS XTRA 2 (حسن العيدروس)"
+      ],
+      "audio_text": "beIN SPORTS XTRA 2 (حسن العيدروس)",
       "channel_names_mode": "custom",
-      "details_status": "unavailable",
-      "details_error": "صفحة المباراة لا تحتوي على عناصر قنوات ضمن قسم البث"
+      "details_status": "ok"
     },
     {
       "id": "251870",
@@ -166,12 +220,18 @@
       "home_logo": "https://jdwel.com/image/teams/224.png",
       "away_logo": "https://jdwel.com/image/teams/223.png",
       "match_time": "13 نوفمبر 2026، 22:45",
-      "audio_items": [],
-      "audio": [],
-      "audio_text": "",
+      "audio_items": [
+        {
+          "channel": "beIN SPORTS XTRA 1",
+          "commentator": "محمد نضال البكري"
+        }
+      ],
+      "audio": [
+        "beIN SPORTS XTRA 1 (محمد نضال البكري)"
+      ],
+      "audio_text": "beIN SPORTS XTRA 1 (محمد نضال البكري)",
       "channel_names_mode": "custom",
-      "details_status": "unavailable",
-      "details_error": "صفحة المباراة لا تحتوي على عناصر قنوات ضمن قسم البث"
+      "details_status": "ok"
     },
     {
       "id": "263767",
@@ -181,12 +241,18 @@
       "home_logo": "https://jdwel.com/image/teams/199.png",
       "away_logo": "https://jdwel.com/image/teams/178.png",
       "match_time": "13 نوفمبر 2026، 16:00",
-      "audio_items": [],
-      "audio": [],
-      "audio_text": "",
+      "audio_items": [
+        {
+          "channel": "beIN SPORTS 1",
+          "commentator": "أحمد عبده"
+        }
+      ],
+      "audio": [
+        "الصوتية الأولى — Audio 1 (أحمد عبده)"
+      ],
+      "audio_text": "الصوتية الأولى — Audio 1 (أحمد عبده)",
       "channel_names_mode": "custom",
-      "details_status": "unavailable",
-      "details_error": "صفحة المباراة لا تحتوي على عناصر قنوات ضمن قسم البث"
+      "details_status": "ok"
     },
     {
       "id": "263768",
@@ -196,12 +262,18 @@
       "home_logo": "https://jdwel.com/image/teams/flag_zambia_v2.png",
       "away_logo": "https://jdwel.com/image/teams/198.png",
       "match_time": "13 نوفمبر 2026، 16:00",
-      "audio_items": [],
-      "audio": [],
-      "audio_text": "",
+      "audio_items": [
+        {
+          "channel": "beIN SPORTS 2",
+          "commentator": "محمد مبروكي"
+        }
+      ],
+      "audio": [
+        "الصوتية الثانية — Audio 2 (محمد مبروكي)"
+      ],
+      "audio_text": "الصوتية الثانية — Audio 2 (محمد مبروكي)",
       "channel_names_mode": "custom",
-      "details_status": "unavailable",
-      "details_error": "صفحة المباراة لا تحتوي على عناصر قنوات ضمن قسم البث"
+      "details_status": "ok"
     },
     {
       "id": "263772",
@@ -211,12 +283,18 @@
       "home_logo": "https://jdwel.com/image/teams/218.png",
       "away_logo": "https://jdwel.com/image/teams/48.png",
       "match_time": "13 نوفمبر 2026، 16:00",
-      "audio_items": [],
-      "audio": [],
-      "audio_text": "",
+      "audio_items": [
+        {
+          "channel": "beIN SPORTS 3",
+          "commentator": "حسن العيدروس"
+        }
+      ],
+      "audio": [
+        "الصوتية الثالثة — Audio 3 (حسن العيدروس)"
+      ],
+      "audio_text": "الصوتية الثالثة — Audio 3 (حسن العيدروس)",
       "channel_names_mode": "custom",
-      "details_status": "unavailable",
-      "details_error": "صفحة المباراة لا تحتوي على عناصر قنوات ضمن قسم البث"
+      "details_status": "ok"
     },
     {
       "id": "263762",
@@ -226,12 +304,18 @@
       "home_logo": "https://jdwel.com/image/teams/236.png",
       "away_logo": "https://jdwel.com/image/teams/85.png",
       "match_time": "13 نوفمبر 2026، 19:00",
-      "audio_items": [],
-      "audio": [],
-      "audio_text": "",
+      "audio_items": [
+        {
+          "channel": "beIN SPORTS 3",
+          "commentator": "محمد بركات"
+        }
+      ],
+      "audio": [
+        "الصوتية الثالثة — Audio 3 (محمد بركات)"
+      ],
+      "audio_text": "الصوتية الثالثة — Audio 3 (محمد بركات)",
       "channel_names_mode": "custom",
-      "details_status": "unavailable",
-      "details_error": "صفحة المباراة لا تحتوي على عناصر قنوات ضمن قسم البث"
+      "details_status": "ok"
     },
     {
       "id": "263765",
@@ -241,12 +325,18 @@
       "home_logo": "https://jdwel.com/image/teams/190.png",
       "away_logo": "https://jdwel.com/image/teams/45.png",
       "match_time": "13 نوفمبر 2026، 19:00",
-      "audio_items": [],
-      "audio": [],
-      "audio_text": "",
+      "audio_items": [
+        {
+          "channel": "beIN SPORTS 5",
+          "commentator": "محمد مبروكي"
+        }
+      ],
+      "audio": [
+        "الصوتية الخامسة — Audio 5 (محمد مبروكي)"
+      ],
+      "audio_text": "الصوتية الخامسة — Audio 5 (محمد مبروكي)",
       "channel_names_mode": "custom",
-      "details_status": "unavailable",
-      "details_error": "صفحة المباراة لا تحتوي على عناصر قنوات ضمن قسم البث"
+      "details_status": "ok"
     },
     {
       "id": "263770",
@@ -256,12 +346,18 @@
       "home_logo": "https://jdwel.com/image/teams/flag_tunisia_v2.png",
       "away_logo": "https://jdwel.com/image/teams/38.png",
       "match_time": "13 نوفمبر 2026، 19:00",
-      "audio_items": [],
-      "audio": [],
-      "audio_text": "",
+      "audio_items": [
+        {
+          "channel": "beIN SPORTS 1",
+          "commentator": "حفيظ دراجي"
+        }
+      ],
+      "audio": [
+        "الصوتية الأولى — Audio 1 (حفيظ دراجي)"
+      ],
+      "audio_text": "الصوتية الأولى — Audio 1 (حفيظ دراجي)",
       "channel_names_mode": "custom",
-      "details_status": "unavailable",
-      "details_error": "صفحة المباراة لا تحتوي على عناصر قنوات ضمن قسم البث"
+      "details_status": "ok"
     },
     {
       "id": "263774",
@@ -271,12 +367,18 @@
       "home_logo": "https://jdwel.com/image/teams/180.png",
       "away_logo": "https://jdwel.com/image/teams/177.png",
       "match_time": "13 نوفمبر 2026، 19:00",
-      "audio_items": [],
-      "audio": [],
-      "audio_text": "",
+      "audio_items": [
+        {
+          "channel": "beIN SPORTS 2",
+          "commentator": "أحمد سوكو"
+        }
+      ],
+      "audio": [
+        "الصوتية الثانية — Audio 2 (أحمد سوكو)"
+      ],
+      "audio_text": "الصوتية الثانية — Audio 2 (أحمد سوكو)",
       "channel_names_mode": "custom",
-      "details_status": "unavailable",
-      "details_error": "صفحة المباراة لا تحتوي على عناصر قنوات ضمن قسم البث"
+      "details_status": "ok"
     },
     {
       "id": "263778",
@@ -286,12 +388,18 @@
       "home_logo": "https://jdwel.com/image/teams/50.png",
       "away_logo": "https://jdwel.com/image/teams/192.png",
       "match_time": "13 نوفمبر 2026، 19:00",
-      "audio_items": [],
-      "audio": [],
-      "audio_text": "",
+      "audio_items": [
+        {
+          "channel": "beIN SPORTS 4",
+          "commentator": "نوفل باشي"
+        }
+      ],
+      "audio": [
+        "الصوتية الرابعة — Audio 4 (نوفل باشي)"
+      ],
+      "audio_text": "الصوتية الرابعة — Audio 4 (نوفل باشي)",
       "channel_names_mode": "custom",
-      "details_status": "unavailable",
-      "details_error": "صفحة المباراة لا تحتوي على عناصر قنوات ضمن قسم البث"
+      "details_status": "ok"
     },
     {
       "id": "263785",
@@ -301,12 +409,18 @@
       "home_logo": "https://jdwel.com/image/teams/193.png",
       "away_logo": "https://jdwel.com/image/teams/194.png",
       "match_time": "13 نوفمبر 2026، 19:00",
-      "audio_items": [],
-      "audio": [],
-      "audio_text": "",
+      "audio_items": [
+        {
+          "channel": "beIN SPORTS XTRA 1",
+          "commentator": "أحمد البلوشي"
+        }
+      ],
+      "audio": [
+        "beIN SPORTS XTRA 1 (أحمد البلوشي)"
+      ],
+      "audio_text": "beIN SPORTS XTRA 1 (أحمد البلوشي)",
       "channel_names_mode": "custom",
-      "details_status": "unavailable",
-      "details_error": "صفحة المباراة لا تحتوي على عناصر قنوات ضمن قسم البث"
+      "details_status": "ok"
     },
     {
       "id": "263764",
@@ -316,12 +430,18 @@
       "home_logo": "https://jdwel.com/image/teams/35.png",
       "away_logo": "https://jdwel.com/image/teams/174.png",
       "match_time": "13 نوفمبر 2026، 22:00",
-      "audio_items": [],
-      "audio": [],
-      "audio_text": "",
+      "audio_items": [
+        {
+          "channel": "beIN SPORTS 9",
+          "commentator": "أحمد عبده"
+        }
+      ],
+      "audio": [
+        "الصوتية التاسعة — Audio 9 (أحمد عبده)"
+      ],
+      "audio_text": "الصوتية التاسعة — Audio 9 (أحمد عبده)",
       "channel_names_mode": "custom",
-      "details_status": "unavailable",
-      "details_error": "صفحة المباراة لا تحتوي على عناصر قنوات ضمن قسم البث"
+      "details_status": "ok"
     },
     {
       "id": "263782",
@@ -331,12 +451,18 @@
       "home_logo": "https://jdwel.com/image/teams/34.png",
       "away_logo": "https://jdwel.com/image/teams/216.png",
       "match_time": "13 نوفمبر 2026، 22:00",
-      "audio_items": [],
-      "audio": [],
-      "audio_text": "",
+      "audio_items": [
+        {
+          "channel": "beIN SPORTS 2",
+          "commentator": "علي محمد علي"
+        }
+      ],
+      "audio": [
+        "الصوتية الثانية — Audio 2 (علي محمد علي)"
+      ],
+      "audio_text": "الصوتية الثانية — Audio 2 (علي محمد علي)",
       "channel_names_mode": "custom",
-      "details_status": "unavailable",
-      "details_error": "صفحة المباراة لا تحتوي على عناصر قنوات ضمن قسم البث"
+      "details_status": "ok"
     },
     {
       "id": "263784",
@@ -346,12 +472,18 @@
       "home_logo": "https://jdwel.com/image/teams/3168.png",
       "away_logo": "https://jdwel.com/image/teams/229.png",
       "match_time": "13 نوفمبر 2026، 23:00",
-      "audio_items": [],
-      "audio": [],
-      "audio_text": "",
+      "audio_items": [
+        {
+          "channel": "beIN SPORTS 1",
+          "commentator": "جواد بدة"
+        }
+      ],
+      "audio": [
+        "الصوتية الأولى — Audio 1 (جواد بدة)"
+      ],
+      "audio_text": "الصوتية الأولى — Audio 1 (جواد بدة)",
       "channel_names_mode": "custom",
-      "details_status": "unavailable",
-      "details_error": "صفحة المباراة لا تحتوي على عناصر قنوات ضمن قسم البث"
+      "details_status": "ok"
     }
   ]
 }
