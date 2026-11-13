@@ -1,7 +1,26 @@
 {
-  "last_updated": "2026-11-12T13:38:17+00:00",
-  "channel_count": 393,
+  "last_updated": "2026-11-13T12:56:59+00:00",
+  "channel_count": 396,
   "channels": {
+    "20mediaset hd": {
+      "name": "20Mediaset HD",
+      "details": {
+        "transponders": [
+          {
+            "Name": "HOTBIRD 6,7A,8",
+            "Position": "13.0E",
+            "Frequency": "11432.00",
+            "Polarisation": "V",
+            "SR": "29900",
+            "FEC": "3/4",
+            "System": "DVB-S2",
+            "Modulation": "8PSK",
+            "Crypt": "not available"
+          }
+        ]
+      },
+      "cached_at": "2026-11-13T12:56:59+00:00"
+    },
     "a spor turkey": {
       "name": "A Spor Turkey",
       "details": {
@@ -3413,6 +3432,25 @@
       },
       "cached_at": "2026-10-13T04:17:21+00:00"
     },
+    "npo3 hd": {
+      "name": "NPO3 HD",
+      "details": {
+        "transponders": [
+          {
+            "Name": "ASTRA 1E,3A",
+            "Position": "23.5E",
+            "Frequency": "12187.00",
+            "Polarisation": "H",
+            "SR": "29900",
+            "FEC": "3/4",
+            "System": "DVB-S2",
+            "Modulation": "8PSK",
+            "Crypt": "not available"
+          }
+        ]
+      },
+      "cached_at": "2026-11-13T12:56:59+00:00"
+    },
     "open beyond tv": {
       "name": "Open Beyond TV",
       "details": {
@@ -3939,6 +3977,25 @@
         ]
       },
       "cached_at": "2026-10-23T09:52:29+00:00"
+    },
+    "pro7 maxx hd": {
+      "name": "Pro7 MAXX HD",
+      "details": {
+        "transponders": [
+          {
+            "Name": "ASTRA 1F,1G,1H,1KR,1L",
+            "Position": "19.2E",
+            "Frequency": "11464.00",
+            "Polarisation": "H",
+            "SR": "22000",
+            "FEC": "2/3",
+            "System": "DVB-S2",
+            "Modulation": "8PSK",
+            "Crypt": "Nagravision 3"
+          }
+        ]
+      },
+      "cached_at": "2026-11-13T12:56:58+00:00"
     },
     "puls 4 austria hd": {
       "name": "Puls 4 Austria HD",
