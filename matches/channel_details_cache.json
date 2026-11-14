@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-13T12:56:59+00:00",
-  "channel_count": 396,
+  "last_updated": "2026-11-14T12:00:25+00:00",
+  "channel_count": 398,
   "channels": {
     "20mediaset hd": {
       "name": "20Mediaset HD",
@@ -2489,6 +2489,25 @@
       },
       "cached_at": "2026-09-02T09:24:55+00:00"
     },
+    "klan kosova hd": {
+      "name": "Klan Kosova HD",
+      "details": {
+        "transponders": [
+          {
+            "Name": "EUTELSAT W2",
+            "Position": "16.0E",
+            "Frequency": "10886.00",
+            "Polarisation": "H",
+            "SR": "30000",
+            "FEC": "3/5",
+            "System": "DVB-S2",
+            "Modulation": "8PSK",
+            "Crypt": "not available"
+          }
+        ]
+      },
+      "cached_at": "2026-11-14T12:00:24+00:00"
+    },
     "klan tv hd": {
       "name": "Klan TV HD",
       "details": {
@@ -4398,6 +4417,25 @@
         ]
       },
       "cached_at": "2026-11-12T13:38:15+00:00"
+    },
+    "rtp1": {
+      "name": "RTP1",
+      "details": {
+        "transponders": [
+          {
+            "Name": "HISPASAT 1C, 1D",
+            "Position": "30.0W",
+            "Frequency": "12130.00",
+            "Polarisation": "H",
+            "SR": "27500",
+            "FEC": "3/4",
+            "System": "DVB-S2",
+            "Modulation": "8PSK",
+            "Crypt": "Nagravision 3"
+          }
+        ]
+      },
+      "cached_at": "2026-11-14T12:00:25+00:00"
     },
     "rtrs": {
       "name": "RTRS",
