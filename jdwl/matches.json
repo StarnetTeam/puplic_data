@@ -1,6 +1,6 @@
 {
   "source": "https://jdwel.com/today/",
-  "generated_at_utc": "2026-11-14T07:13:38.011265+00:00",
+  "generated_at_utc": "2026-11-14T14:39:26.953207+00:00",
   "matches": [
     {
       "id": "251784",
@@ -197,12 +197,17 @@
         {
           "channel": "beIN SPORTS 1",
           "commentator": "حفيظ دراجي"
+        },
+        {
+          "channel": "الجزائرية 1 (أرضي)",
+          "commentator": "غير محدد"
         }
       ],
       "audio": [
-        "الصوتية الأولى — Audio 1 (حفيظ دراجي)"
+        "الصوتية الأولى — Audio 1 (حفيظ دراجي)",
+        "الجزائرية 1 (أرضي) (غير محدد)"
       ],
-      "audio_text": "الصوتية الأولى — Audio 1 (حفيظ دراجي)",
+      "audio_text": "الصوتية الأولى — Audio 1 (حفيظ دراجي) | الجزائرية 1 (أرضي) (غير محدد)",
       "channel_names_mode": "custom",
       "details_status": "ok"
     },
