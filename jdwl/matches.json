@@ -1,489 +1,321 @@
 {
   "source": "https://jdwel.com/today/",
-  "generated_at_utc": "2026-11-13T18:58:04.455890+00:00",
+  "generated_at_utc": "2026-11-14T00:08:55.479602+00:00",
   "matches": [
     {
-      "id": "264371",
-      "competition": "كأس ملك إسبانيا",
-      "home_team": "سالامانكا",
-      "away_team": "سيلتا فيغو",
-      "home_logo": "https://jdwel.com/image/teams/1075.png",
-      "away_logo": "https://jdwel.com/image/teams/1163.png",
-      "match_time": "13 نوفمبر 2026، 23:00",
-      "audio_items": [
-        {
-          "channel": "MBC شاهد",
-          "commentator": "فهد عريشي"
-        }
-      ],
-      "audio": [
-        "MBC شاهد (فهد عريشي)"
-      ],
-      "audio_text": "MBC شاهد (فهد عريشي)",
-      "channel_names_mode": "custom",
-      "details_status": "ok"
-    },
-    {
-      "id": "251830",
+      "id": "251784",
       "competition": "دوري الأمم الأوروبية",
-      "home_team": "مولدوفا",
-      "away_team": "كازاخستان",
-      "home_logo": "https://jdwel.com/image/teams/207.png",
-      "away_logo": "https://jdwel.com/image/teams/209.png",
-      "match_time": "13 نوفمبر 2026، 20:00",
-      "audio_items": [
-        {
-          "channel": "beIN SPORTS 6",
-          "commentator": "محمد السعدي"
-        }
-      ],
-      "audio": [
-        "الصوتية السادسة — Audio 6 (محمد السعدي)"
-      ],
-      "audio_text": "الصوتية السادسة — Audio 6 (محمد السعدي)",
+      "home_team": "كوسوفو",
+      "away_team": "منتخب الكيان",
+      "home_logo": "https://jdwel.com/image/teams/237.png",
+      "away_logo": "https://jdwel.com/image/teams/flag_placeholder.png",
+      "match_time": "14 نوفمبر 2026، 17:00",
+      "audio_items": [],
+      "audio": [],
+      "audio_text": "",
       "channel_names_mode": "custom",
-      "details_status": "ok"
+      "details_status": "unavailable",
+      "details_error": "صفحة المباراة لا تحتوي على عناصر قنوات ضمن قسم البث"
     },
     {
-      "id": "251733",
+      "id": "251732",
       "competition": "دوري الأمم الأوروبية",
-      "home_team": "صربيا",
-      "away_team": "ألمانيا",
-      "home_logo": "https://jdwel.com/image/teams/flag_serbia_v2.png",
-      "away_logo": "https://jdwel.com/image/teams/flag_germany_v2.png",
-      "match_time": "13 نوفمبر 2026، 22:45",
-      "audio_items": [
-        {
-          "channel": "beIN SPORTS 3",
-          "commentator": "عصام الشوالي"
-        }
-      ],
-      "audio": [
-        "الصوتية الثالثة — Audio 3 (عصام الشوالي)"
-      ],
-      "audio_text": "الصوتية الثالثة — Audio 3 (عصام الشوالي)",
+      "home_team": "النرويج",
+      "away_team": "ويلز",
+      "home_logo": "https://jdwel.com/image/teams/41.png",
+      "away_logo": "https://jdwel.com/image/teams/flag_wales.png",
+      "match_time": "14 نوفمبر 2026، 20:00",
+      "audio_items": [],
+      "audio": [],
+      "audio_text": "",
       "channel_names_mode": "custom",
-      "details_status": "ok"
+      "details_status": "unavailable",
+      "details_error": "صفحة المباراة لا تحتوي على عناصر قنوات ضمن قسم البث"
     },
     {
-      "id": "251734",
+      "id": "251783",
       "competition": "دوري الأمم الأوروبية",
-      "home_team": "هولندا",
-      "away_team": "اليونان",
-      "home_logo": "https://jdwel.com/image/teams/flag_netherlands_v2.png",
-      "away_logo": "https://jdwel.com/image/teams/221.png",
-      "match_time": "13 نوفمبر 2026، 22:45",
-      "audio_items": [
-        {
-          "channel": "beIN SPORTS 4",
-          "commentator": "أحمد البلوشي"
-        }
-      ],
-      "audio": [
-        "الصوتية الرابعة — Audio 4 (أحمد البلوشي)"
-      ],
-      "audio_text": "الصوتية الرابعة — Audio 4 (أحمد البلوشي)",
+      "home_team": "جورجيا",
+      "away_team": "المجر",
+      "home_logo": "https://jdwel.com/image/teams/183.png",
+      "away_logo": "https://jdwel.com/image/teams/182.png",
+      "match_time": "14 نوفمبر 2026، 20:00",
+      "audio_items": [],
+      "audio": [],
+      "audio_text": "",
       "channel_names_mode": "custom",
-      "details_status": "ok"
+      "details_status": "unavailable",
+      "details_error": "صفحة المباراة لا تحتوي على عناصر قنوات ضمن قسم البث"
     },
     {
-      "id": "251785",
+      "id": "251731",
       "competition": "دوري الأمم الأوروبية",
-      "home_team": "سلوفينيا",
-      "away_team": "سويسرا",
-      "home_logo": "https://jdwel.com/image/teams/204.png",
-      "away_logo": "https://jdwel.com/image/teams/flag_switzerland_v2.png",
-      "match_time": "13 نوفمبر 2026، 22:45",
-      "audio_items": [
-        {
-          "channel": "beIN SPORTS 6",
-          "commentator": "سمير اليعقوبي"
-        }
-      ],
-      "audio": [
-        "الصوتية السادسة — Audio 6 (سمير اليعقوبي)"
-      ],
-      "audio_text": "الصوتية السادسة — Audio 6 (سمير اليعقوبي)",
+      "home_team": "البرتغال",
+      "away_team": "الدنمارك",
+      "home_logo": "https://jdwel.com/image/teams/2562.png",
+      "away_logo": "https://jdwel.com/image/teams/flag_denmark_v2.png",
+      "match_time": "14 نوفمبر 2026، 22:45",
+      "audio_items": [],
+      "audio": [],
+      "audio_text": "",
       "channel_names_mode": "custom",
-      "details_status": "ok"
+      "details_status": "unavailable",
+      "details_error": "صفحة المباراة لا تحتوي على عناصر قنوات ضمن قسم البث"
     },
     {
-      "id": "251786",
+      "id": "251779",
       "competition": "دوري الأمم الأوروبية",
-      "home_team": "اسكتلندا",
-      "away_team": "شمال مقدونيا",
-      "home_logo": "https://jdwel.com/image/teams/40.png",
-      "away_logo": "https://jdwel.com/image/teams/205.png",
-      "match_time": "13 نوفمبر 2026، 22:45",
-      "audio_items": [
-        {
-          "channel": "beIN SPORTS 5",
-          "commentator": "عبدالله الغامدي"
-        }
-      ],
-      "audio": [
-        "الصوتية الخامسة — Audio 5 (عبدالله الغامدي)"
-      ],
-      "audio_text": "الصوتية الخامسة — Audio 5 (عبدالله الغامدي)",
+      "home_team": "السويد",
+      "away_team": "البوسنة والهرسك",
+      "home_logo": "https://jdwel.com/image/teams/4960.png",
+      "away_logo": "https://jdwel.com/image/teams/172.png",
+      "match_time": "14 نوفمبر 2026، 22:45",
+      "audio_items": [],
+      "audio": [],
+      "audio_text": "",
       "channel_names_mode": "custom",
-      "details_status": "ok"
+      "details_status": "unavailable",
+      "details_error": "صفحة المباراة لا تحتوي على عناصر قنوات ضمن قسم البث"
     },
     {
-      "id": "251827",
+      "id": "251780",
       "competition": "دوري الأمم الأوروبية",
-      "home_team": "لوكسمبورغ",
-      "away_team": "إستونيا",
-      "home_logo": "https://jdwel.com/image/teams/171.png",
-      "away_logo": "https://jdwel.com/image/teams/166.png",
-      "match_time": "13 نوفمبر 2026، 22:45",
-      "audio_items": [
-        {
-          "channel": "beIN SPORTS XTRA 3",
-          "commentator": "عامر الخوذيري"
-        }
-      ],
-      "audio": [
-        "beIN SPORTS XTRA 3 (عامر الخوذيري)"
-      ],
-      "audio_text": "beIN SPORTS XTRA 3 (عامر الخوذيري)",
+      "home_team": "رومانيا",
+      "away_team": "بولندا",
+      "home_logo": "https://jdwel.com/image/teams/flag_romania.png",
+      "away_logo": "https://jdwel.com/image/teams/flag_poland_v2.png",
+      "match_time": "14 نوفمبر 2026، 22:45",
+      "audio_items": [],
+      "audio": [],
+      "audio_text": "",
       "channel_names_mode": "custom",
-      "details_status": "ok"
+      "details_status": "unavailable",
+      "details_error": "صفحة المباراة لا تحتوي على عناصر قنوات ضمن قسم البث"
     },
     {
-      "id": "251828",
+      "id": "251781",
       "competition": "دوري الأمم الأوروبية",
-      "home_team": "بلغاريا",
-      "away_team": "آيسلندا",
-      "home_logo": "https://jdwel.com/image/teams/169.png",
-      "away_logo": "https://jdwel.com/image/teams/4961.png",
-      "match_time": "13 نوفمبر 2026، 22:45",
-      "audio_items": [
-        {
-          "channel": "beIN SPORTS 8",
-          "commentator": "بكر علوان"
-        }
-      ],
-      "audio": [
-        "الصوتية الثامنة — Audio 8 (بكر علوان)"
-      ],
-      "audio_text": "الصوتية الثامنة — Audio 8 (بكر علوان)",
+      "home_team": "النمسا",
+      "away_team": "أيرلندا",
+      "home_logo": "https://jdwel.com/image/teams/flag_austria.png",
+      "away_logo": "https://jdwel.com/image/teams/42.png",
+      "match_time": "14 نوفمبر 2026، 22:45",
+      "audio_items": [],
+      "audio": [],
+      "audio_text": "",
       "channel_names_mode": "custom",
-      "details_status": "ok"
+      "details_status": "unavailable",
+      "details_error": "صفحة المباراة لا تحتوي على عناصر قنوات ضمن قسم البث"
     },
     {
-      "id": "251829",
+      "id": "251782",
       "competition": "دوري الأمم الأوروبية",
-      "home_team": "سلوفاكيا",
-      "away_team": "جزر فارو",
-      "home_logo": "https://jdwel.com/image/teams/flag_slovakia.png",
-      "away_logo": "https://jdwel.com/image/teams/201.png",
-      "match_time": "13 نوفمبر 2026، 22:45",
-      "audio_items": [
-        {
-          "channel": "beIN SPORTS 7",
-          "commentator": "منتصر الأزهري"
-        }
-      ],
-      "audio": [
-        "الصوتية السابعة — Audio 7 (منتصر الأزهري)"
-      ],
-      "audio_text": "الصوتية السابعة — Audio 7 (منتصر الأزهري)",
+      "home_team": "أيرلندا الشمالية",
+      "away_team": "أوكرانيا",
+      "home_logo": "https://jdwel.com/image/teams/flag_northern_ireland.png",
+      "away_logo": "https://jdwel.com/image/teams/flag_ukraine.png",
+      "match_time": "14 نوفمبر 2026، 22:45",
+      "audio_items": [],
+      "audio": [],
+      "audio_text": "",
       "channel_names_mode": "custom",
-      "details_status": "ok"
+      "details_status": "unavailable",
+      "details_error": "صفحة المباراة لا تحتوي على عناصر قنوات ضمن قسم البث"
     },
     {
-      "id": "251869",
-      "competition": "دوري الأمم الأوروبية",
-      "home_team": "ليختنشتاين",
-      "away_team": "أذربيجان",
-      "home_logo": "https://jdwel.com/image/teams/181.png",
-      "away_logo": "https://jdwel.com/image/teams/167.png",
-      "match_time": "13 نوفمبر 2026، 22:45",
-      "audio_items": [
-        {
-          "channel": "beIN SPORTS XTRA 2",
-          "commentator": "حسن العيدروس"
-        }
-      ],
-      "audio": [
-        "beIN SPORTS XTRA 2 (حسن العيدروس)"
-      ],
-      "audio_text": "beIN SPORTS XTRA 2 (حسن العيدروس)",
-      "channel_names_mode": "custom",
-      "details_status": "ok"
-    },
-    {
-      "id": "251870",
-      "competition": "دوري الأمم الأوروبية",
-      "home_team": "أندورا",
-      "away_team": "جبل طارق",
-      "home_logo": "https://jdwel.com/image/teams/224.png",
-      "away_logo": "https://jdwel.com/image/teams/223.png",
-      "match_time": "13 نوفمبر 2026، 22:45",
-      "audio_items": [
-        {
-          "channel": "beIN SPORTS XTRA 1",
-          "commentator": "محمد نضال البكري"
-        }
-      ],
-      "audio": [
-        "beIN SPORTS XTRA 1 (محمد نضال البكري)"
-      ],
-      "audio_text": "beIN SPORTS XTRA 1 (محمد نضال البكري)",
-      "channel_names_mode": "custom",
-      "details_status": "ok"
-    },
-    {
-      "id": "263767",
+      "id": "263771",
       "competition": "تصفيات أمم أفريقيا",
-      "home_team": "موزمبيق",
-      "away_team": "إثيوبيا",
-      "home_logo": "https://jdwel.com/image/teams/199.png",
-      "away_logo": "https://jdwel.com/image/teams/178.png",
-      "match_time": "13 نوفمبر 2026، 16:00",
-      "audio_items": [
-        {
-          "channel": "beIN SPORTS 1",
-          "commentator": "أحمد عبده"
-        }
-      ],
-      "audio": [
-        "الصوتية الأولى — Audio 1 (أحمد عبده)"
-      ],
-      "audio_text": "الصوتية الأولى — Audio 1 (أحمد عبده)",
+      "home_team": "أوغندا",
+      "away_team": "بوتسوانا",
+      "home_logo": "https://jdwel.com/image/teams/219.png",
+      "away_logo": "https://jdwel.com/image/teams/196.png",
+      "match_time": "14 نوفمبر 2026، 19:00",
+      "audio_items": [],
+      "audio": [],
+      "audio_text": "",
       "channel_names_mode": "custom",
-      "details_status": "ok"
+      "details_status": "unavailable",
+      "details_error": "صفحة المباراة لا تحتوي على عناصر قنوات ضمن قسم البث"
     },
     {
-      "id": "263768",
+      "id": "263769",
       "competition": "تصفيات أمم أفريقيا",
-      "home_team": "زامبيا",
-      "away_team": "بوروندي",
-      "home_logo": "https://jdwel.com/image/teams/flag_zambia_v2.png",
-      "away_logo": "https://jdwel.com/image/teams/198.png",
-      "match_time": "13 نوفمبر 2026، 16:00",
-      "audio_items": [
-        {
-          "channel": "beIN SPORTS 2",
-          "commentator": "محمد مبروكي"
-        }
-      ],
-      "audio": [
-        "الصوتية الثانية — Audio 2 (محمد مبروكي)"
-      ],
-      "audio_text": "الصوتية الثانية — Audio 2 (محمد مبروكي)",
+      "home_team": "الجزائر",
+      "away_team": "توغو",
+      "home_logo": "https://jdwel.com/image/teams/flag_algeria_v2.png",
+      "away_logo": "https://jdwel.com/image/teams/195.png",
+      "match_time": "14 نوفمبر 2026، 22:00",
+      "audio_items": [],
+      "audio": [],
+      "audio_text": "",
       "channel_names_mode": "custom",
-      "details_status": "ok"
+      "details_status": "unavailable",
+      "details_error": "صفحة المباراة لا تحتوي على عناصر قنوات ضمن قسم البث"
     },
     {
-      "id": "263772",
+      "id": "263783",
       "competition": "تصفيات أمم أفريقيا",
-      "home_team": "جزر القمر",
-      "away_team": "الكونغو",
-      "home_logo": "https://jdwel.com/image/teams/218.png",
-      "away_logo": "https://jdwel.com/image/teams/48.png",
-      "match_time": "13 نوفمبر 2026، 16:00",
-      "audio_items": [
-        {
-          "channel": "beIN SPORTS 3",
-          "commentator": "حسن العيدروس"
-        }
-      ],
-      "audio": [
-        "الصوتية الثالثة — Audio 3 (حسن العيدروس)"
-      ],
-      "audio_text": "الصوتية الثالثة — Audio 3 (حسن العيدروس)",
+      "home_team": "أنغولا",
+      "away_team": "جنوب السودان",
+      "home_logo": "https://jdwel.com/image/teams/189.png",
+      "away_logo": "https://jdwel.com/image/teams/227.png",
+      "match_time": "14 نوفمبر 2026، 22:00",
+      "audio_items": [],
+      "audio": [],
+      "audio_text": "",
       "channel_names_mode": "custom",
-      "details_status": "ok"
+      "details_status": "unavailable",
+      "details_error": "صفحة المباراة لا تحتوي على عناصر قنوات ضمن قسم البث"
     },
     {
-      "id": "263762",
-      "competition": "تصفيات أمم أفريقيا",
-      "home_team": "نيجيريا",
-      "away_team": "تنزانيا",
-      "home_logo": "https://jdwel.com/image/teams/236.png",
-      "away_logo": "https://jdwel.com/image/teams/85.png",
-      "match_time": "13 نوفمبر 2026، 19:00",
-      "audio_items": [
-        {
-          "channel": "beIN SPORTS 3",
-          "commentator": "محمد بركات"
-        }
-      ],
-      "audio": [
-        "الصوتية الثالثة — Audio 3 (محمد بركات)"
-      ],
-      "audio_text": "الصوتية الثالثة — Audio 3 (محمد بركات)",
+      "id": "244997",
+      "competition": "الدوري الإنجليزي الدرجة الثالثة",
+      "home_team": "إكستر سيتي",
+      "away_team": "تشيلتنهام تاون",
+      "home_logo": "https://jdwel.com/image/teams/3412.png",
+      "away_logo": "https://jdwel.com/image/teams/eng_cheltenham_town.png",
+      "match_time": "14 نوفمبر 2026، 15:30",
+      "audio_items": [],
+      "audio": [],
+      "audio_text": "",
       "channel_names_mode": "custom",
-      "details_status": "ok"
+      "details_status": "unavailable",
+      "details_error": "صفحة المباراة لا تحتوي على عناصر قنوات ضمن قسم البث"
     },
     {
-      "id": "263765",
-      "competition": "تصفيات أمم أفريقيا",
-      "home_team": "الرأس الأخضر",
-      "away_team": "ليبيريا",
-      "home_logo": "https://jdwel.com/image/teams/190.png",
-      "away_logo": "https://jdwel.com/image/teams/45.png",
-      "match_time": "13 نوفمبر 2026، 19:00",
-      "audio_items": [
-        {
-          "channel": "beIN SPORTS 5",
-          "commentator": "محمد مبروكي"
-        }
-      ],
-      "audio": [
-        "الصوتية الخامسة — Audio 5 (محمد مبروكي)"
-      ],
-      "audio_text": "الصوتية الخامسة — Audio 5 (محمد مبروكي)",
+      "id": "244990",
+      "competition": "الدوري الإنجليزي الدرجة الثالثة",
+      "home_team": "سويندون تاون",
+      "away_team": "غريمسبي تاون",
+      "home_logo": "https://jdwel.com/image/teams/3280.png",
+      "away_logo": "https://jdwel.com/image/teams/1759.png",
+      "match_time": "14 نوفمبر 2026، 18:00",
+      "audio_items": [],
+      "audio": [],
+      "audio_text": "",
       "channel_names_mode": "custom",
-      "details_status": "ok"
+      "details_status": "unavailable",
+      "details_error": "صفحة المباراة لا تحتوي على عناصر قنوات ضمن قسم البث"
     },
     {
-      "id": "263770",
-      "competition": "تصفيات أمم أفريقيا",
-      "home_team": "تونس",
-      "away_team": "ليبيا",
-      "home_logo": "https://jdwel.com/image/teams/flag_tunisia_v2.png",
-      "away_logo": "https://jdwel.com/image/teams/38.png",
-      "match_time": "13 نوفمبر 2026، 19:00",
-      "audio_items": [
-        {
-          "channel": "beIN SPORTS 1",
-          "commentator": "حفيظ دراجي"
-        }
-      ],
-      "audio": [
-        "الصوتية الأولى — Audio 1 (حفيظ دراجي)"
-      ],
-      "audio_text": "الصوتية الأولى — Audio 1 (حفيظ دراجي)",
+      "id": "244991",
+      "competition": "الدوري الإنجليزي الدرجة الثالثة",
+      "home_team": "شروزبري تاون",
+      "away_team": "أولدهام أثليتيك",
+      "home_logo": "https://jdwel.com/image/teams/1029.png",
+      "away_logo": "https://jdwel.com/image/teams/3411.png",
+      "match_time": "14 نوفمبر 2026، 18:00",
+      "audio_items": [],
+      "audio": [],
+      "audio_text": "",
       "channel_names_mode": "custom",
-      "details_status": "ok"
+      "details_status": "unavailable",
+      "details_error": "صفحة المباراة لا تحتوي على عناصر قنوات ضمن قسم البث"
     },
     {
-      "id": "263774",
-      "competition": "تصفيات أمم أفريقيا",
-      "home_team": "بوركينا فاسو",
-      "away_team": "موريتانيا",
-      "home_logo": "https://jdwel.com/image/teams/180.png",
-      "away_logo": "https://jdwel.com/image/teams/177.png",
-      "match_time": "13 نوفمبر 2026، 19:00",
-      "audio_items": [
-        {
-          "channel": "beIN SPORTS 2",
-          "commentator": "أحمد سوكو"
-        }
-      ],
-      "audio": [
-        "الصوتية الثانية — Audio 2 (أحمد سوكو)"
-      ],
-      "audio_text": "الصوتية الثانية — Audio 2 (أحمد سوكو)",
+      "id": "244992",
+      "competition": "الدوري الإنجليزي الدرجة الثالثة",
+      "home_team": "سالفورد سيتي",
+      "away_team": "نورثامبتون تاون",
+      "home_logo": "https://jdwel.com/image/teams/7012.png",
+      "away_logo": "https://jdwel.com/image/teams/1088.png",
+      "match_time": "14 نوفمبر 2026، 18:00",
+      "audio_items": [],
+      "audio": [],
+      "audio_text": "",
       "channel_names_mode": "custom",
-      "details_status": "ok"
+      "details_status": "unavailable",
+      "details_error": "صفحة المباراة لا تحتوي على عناصر قنوات ضمن قسم البث"
     },
     {
-      "id": "263778",
-      "competition": "تصفيات أمم أفريقيا",
-      "home_team": "جنوب أفريقيا",
-      "away_team": "كينيا",
-      "home_logo": "https://jdwel.com/image/teams/50.png",
-      "away_logo": "https://jdwel.com/image/teams/192.png",
-      "match_time": "13 نوفمبر 2026، 19:00",
-      "audio_items": [
-        {
-          "channel": "beIN SPORTS 4",
-          "commentator": "نوفل باشي"
-        }
-      ],
-      "audio": [
-        "الصوتية الرابعة — Audio 4 (نوفل باشي)"
-      ],
-      "audio_text": "الصوتية الرابعة — Audio 4 (نوفل باشي)",
+      "id": "244994",
+      "competition": "الدوري الإنجليزي الدرجة الثالثة",
+      "home_team": "روشديل",
+      "away_team": "يورك سيتي",
+      "home_logo": "https://jdwel.com/image/teams/eng_rochdale.png",
+      "away_logo": "https://jdwel.com/image/teams/eng_york_city.png",
+      "match_time": "14 نوفمبر 2026، 18:00",
+      "audio_items": [],
+      "audio": [],
+      "audio_text": "",
       "channel_names_mode": "custom",
-      "details_status": "ok"
+      "details_status": "unavailable",
+      "details_error": "صفحة المباراة لا تحتوي على عناصر قنوات ضمن قسم البث"
     },
     {
-      "id": "263785",
-      "competition": "تصفيات أمم أفريقيا",
-      "home_team": "الغابون",
-      "away_team": "ليسوتو",
-      "home_logo": "https://jdwel.com/image/teams/193.png",
-      "away_logo": "https://jdwel.com/image/teams/194.png",
-      "match_time": "13 نوفمبر 2026، 19:00",
-      "audio_items": [
-        {
-          "channel": "beIN SPORTS XTRA 1",
-          "commentator": "أحمد البلوشي"
-        }
-      ],
-      "audio": [
-        "beIN SPORTS XTRA 1 (أحمد البلوشي)"
-      ],
-      "audio_text": "beIN SPORTS XTRA 1 (أحمد البلوشي)",
+      "id": "244995",
+      "competition": "الدوري الإنجليزي الدرجة الثالثة",
+      "home_team": "بورت فايل",
+      "away_team": "أكرينغتون ستانلي",
+      "home_logo": "https://jdwel.com/image/teams/1108.png",
+      "away_logo": "https://jdwel.com/image/teams/6379.png",
+      "match_time": "14 نوفمبر 2026، 18:00",
+      "audio_items": [],
+      "audio": [],
+      "audio_text": "",
       "channel_names_mode": "custom",
-      "details_status": "ok"
+      "details_status": "unavailable",
+      "details_error": "صفحة المباراة لا تحتوي على عناصر قنوات ضمن قسم البث"
     },
     {
-      "id": "263764",
-      "competition": "تصفيات أمم أفريقيا",
-      "home_team": "مالي",
-      "away_team": "رواندا",
-      "home_logo": "https://jdwel.com/image/teams/35.png",
-      "away_logo": "https://jdwel.com/image/teams/174.png",
-      "match_time": "13 نوفمبر 2026، 22:00",
-      "audio_items": [
-        {
-          "channel": "beIN SPORTS 9",
-          "commentator": "أحمد عبده"
-        }
-      ],
-      "audio": [
-        "الصوتية التاسعة — Audio 9 (أحمد عبده)"
-      ],
-      "audio_text": "الصوتية التاسعة — Audio 9 (أحمد عبده)",
+      "id": "244998",
+      "competition": "الدوري الإنجليزي الدرجة الثالثة",
+      "home_team": "كرو ألكساندرا",
+      "away_team": "نيوبورت كاونتي",
+      "home_logo": "https://jdwel.com/image/teams/eng_crewe_alexandra.png",
+      "away_logo": "https://jdwel.com/image/teams/eng_newport_county.png",
+      "match_time": "14 نوفمبر 2026، 18:00",
+      "audio_items": [],
+      "audio": [],
+      "audio_text": "",
       "channel_names_mode": "custom",
-      "details_status": "ok"
+      "details_status": "unavailable",
+      "details_error": "صفحة المباراة لا تحتوي على عناصر قنوات ضمن قسم البث"
     },
     {
-      "id": "263782",
-      "competition": "تصفيات أمم أفريقيا",
-      "home_team": "مصر",
-      "away_team": "مالاوي",
-      "home_logo": "https://jdwel.com/image/teams/34.png",
-      "away_logo": "https://jdwel.com/image/teams/216.png",
-      "match_time": "13 نوفمبر 2026، 22:00",
-      "audio_items": [
-        {
-          "channel": "beIN SPORTS 2",
-          "commentator": "علي محمد علي"
-        }
-      ],
-      "audio": [
-        "الصوتية الثانية — Audio 2 (علي محمد علي)"
-      ],
-      "audio_text": "الصوتية الثانية — Audio 2 (علي محمد علي)",
+      "id": "244999",
+      "competition": "الدوري الإنجليزي الدرجة الثالثة",
+      "home_team": "كولتشستر يونايتد",
+      "away_team": "غيلينغهام",
+      "home_logo": "https://jdwel.com/image/teams/1090.png",
+      "away_logo": "https://jdwel.com/image/teams/eng_gillingham.png",
+      "match_time": "14 نوفمبر 2026، 18:00",
+      "audio_items": [],
+      "audio": [],
+      "audio_text": "",
       "channel_names_mode": "custom",
-      "details_status": "ok"
+      "details_status": "unavailable",
+      "details_error": "صفحة المباراة لا تحتوي على عناصر قنوات ضمن قسم البث"
     },
     {
-      "id": "263784",
-      "competition": "تصفيات أمم أفريقيا",
-      "home_team": "المغرب",
-      "away_team": "النيجر",
-      "home_logo": "https://jdwel.com/image/teams/3168.png",
-      "away_logo": "https://jdwel.com/image/teams/229.png",
-      "match_time": "13 نوفمبر 2026، 23:00",
-      "audio_items": [
-        {
-          "channel": "beIN SPORTS 1",
-          "commentator": "جواد بدة"
-        }
-      ],
-      "audio": [
-        "الصوتية الأولى — Audio 1 (جواد بدة)"
-      ],
-      "audio_text": "الصوتية الأولى — Audio 1 (جواد بدة)",
+      "id": "245000",
+      "competition": "الدوري الإنجليزي الدرجة الثالثة",
+      "home_team": "بريستول روفرز",
+      "away_team": "تشيسترفيلد",
+      "home_logo": "https://jdwel.com/image/teams/eng_bristol_rovers.png",
+      "away_logo": "https://jdwel.com/image/teams/eng_chesterfield.png",
+      "match_time": "14 نوفمبر 2026، 18:00",
+      "audio_items": [],
+      "audio": [],
+      "audio_text": "",
       "channel_names_mode": "custom",
-      "details_status": "ok"
+      "details_status": "unavailable",
+      "details_error": "صفحة المباراة لا تحتوي على عناصر قنوات ضمن قسم البث"
+    },
+    {
+      "id": "244996",
+      "competition": "الدوري الإنجليزي الدرجة الثالثة",
+      "home_team": "فليتوود تاون",
+      "away_team": "ترانمير روفرز",
+      "home_logo": "https://jdwel.com/image/teams/eng_fleetwood_town.png",
+      "away_logo": "https://jdwel.com/image/teams/1099.png",
+      "match_time": "14 نوفمبر 2026، 20:30",
+      "audio_items": [],
+      "audio": [],
+      "audio_text": "",
+      "channel_names_mode": "custom",
+      "details_status": "unavailable",
+      "details_error": "صفحة المباراة لا تحتوي على عناصر قنوات ضمن قسم البث"
     }
   ]
 }
