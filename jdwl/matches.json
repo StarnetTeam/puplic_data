@@ -1,6 +1,6 @@
 {
   "source": "https://jdwel.com/today/",
-  "generated_at_utc": "2026-11-14T00:08:55.479602+00:00",
+  "generated_at_utc": "2026-11-14T07:13:38.011265+00:00",
   "matches": [
     {
       "id": "251784",
@@ -25,12 +25,18 @@
       "home_logo": "https://jdwel.com/image/teams/41.png",
       "away_logo": "https://jdwel.com/image/teams/flag_wales.png",
       "match_time": "14 نوفمبر 2026، 20:00",
-      "audio_items": [],
-      "audio": [],
-      "audio_text": "",
+      "audio_items": [
+        {
+          "channel": "beIN SPORTS 2",
+          "commentator": "محمد مبروكي"
+        }
+      ],
+      "audio": [
+        "الصوتية الثانية — Audio 2 (محمد مبروكي)"
+      ],
+      "audio_text": "الصوتية الثانية — Audio 2 (محمد مبروكي)",
       "channel_names_mode": "custom",
-      "details_status": "unavailable",
-      "details_error": "صفحة المباراة لا تحتوي على عناصر قنوات ضمن قسم البث"
+      "details_status": "ok"
     },
     {
       "id": "251783",
@@ -40,12 +46,18 @@
       "home_logo": "https://jdwel.com/image/teams/183.png",
       "away_logo": "https://jdwel.com/image/teams/182.png",
       "match_time": "14 نوفمبر 2026، 20:00",
-      "audio_items": [],
-      "audio": [],
-      "audio_text": "",
+      "audio_items": [
+        {
+          "channel": "beIN SPORTS 4",
+          "commentator": "حسن العيدروس"
+        }
+      ],
+      "audio": [
+        "الصوتية الرابعة — Audio 4 (حسن العيدروس)"
+      ],
+      "audio_text": "الصوتية الرابعة — Audio 4 (حسن العيدروس)",
       "channel_names_mode": "custom",
-      "details_status": "unavailable",
-      "details_error": "صفحة المباراة لا تحتوي على عناصر قنوات ضمن قسم البث"
+      "details_status": "ok"
     },
     {
       "id": "251731",
@@ -55,12 +67,18 @@
       "home_logo": "https://jdwel.com/image/teams/2562.png",
       "away_logo": "https://jdwel.com/image/teams/flag_denmark_v2.png",
       "match_time": "14 نوفمبر 2026، 22:45",
-      "audio_items": [],
-      "audio": [],
-      "audio_text": "",
+      "audio_items": [
+        {
+          "channel": "beIN SPORTS 2",
+          "commentator": "محمد بركات"
+        }
+      ],
+      "audio": [
+        "الصوتية الثانية — Audio 2 (محمد بركات)"
+      ],
+      "audio_text": "الصوتية الثانية — Audio 2 (محمد بركات)",
       "channel_names_mode": "custom",
-      "details_status": "unavailable",
-      "details_error": "صفحة المباراة لا تحتوي على عناصر قنوات ضمن قسم البث"
+      "details_status": "ok"
     },
     {
       "id": "251779",
@@ -70,12 +88,18 @@
       "home_logo": "https://jdwel.com/image/teams/4960.png",
       "away_logo": "https://jdwel.com/image/teams/172.png",
       "match_time": "14 نوفمبر 2026، 22:45",
-      "audio_items": [],
-      "audio": [],
-      "audio_text": "",
+      "audio_items": [
+        {
+          "channel": "beIN SPORTS 3",
+          "commentator": "علي محمد علي"
+        }
+      ],
+      "audio": [
+        "الصوتية الثالثة — Audio 3 (علي محمد علي)"
+      ],
+      "audio_text": "الصوتية الثالثة — Audio 3 (علي محمد علي)",
       "channel_names_mode": "custom",
-      "details_status": "unavailable",
-      "details_error": "صفحة المباراة لا تحتوي على عناصر قنوات ضمن قسم البث"
+      "details_status": "ok"
     },
     {
       "id": "251780",
@@ -85,12 +109,18 @@
       "home_logo": "https://jdwel.com/image/teams/flag_romania.png",
       "away_logo": "https://jdwel.com/image/teams/flag_poland_v2.png",
       "match_time": "14 نوفمبر 2026، 22:45",
-      "audio_items": [],
-      "audio": [],
-      "audio_text": "",
+      "audio_items": [
+        {
+          "channel": "beIN SPORTS 5",
+          "commentator": "نوفل باشي"
+        }
+      ],
+      "audio": [
+        "الصوتية الخامسة — Audio 5 (نوفل باشي)"
+      ],
+      "audio_text": "الصوتية الخامسة — Audio 5 (نوفل باشي)",
       "channel_names_mode": "custom",
-      "details_status": "unavailable",
-      "details_error": "صفحة المباراة لا تحتوي على عناصر قنوات ضمن قسم البث"
+      "details_status": "ok"
     },
     {
       "id": "251781",
@@ -100,12 +130,18 @@
       "home_logo": "https://jdwel.com/image/teams/flag_austria.png",
       "away_logo": "https://jdwel.com/image/teams/42.png",
       "match_time": "14 نوفمبر 2026، 22:45",
-      "audio_items": [],
-      "audio": [],
-      "audio_text": "",
+      "audio_items": [
+        {
+          "channel": "beIN SPORTS 4",
+          "commentator": "محمد نضال البكري"
+        }
+      ],
+      "audio": [
+        "الصوتية الرابعة — Audio 4 (محمد نضال البكري)"
+      ],
+      "audio_text": "الصوتية الرابعة — Audio 4 (محمد نضال البكري)",
       "channel_names_mode": "custom",
-      "details_status": "unavailable",
-      "details_error": "صفحة المباراة لا تحتوي على عناصر قنوات ضمن قسم البث"
+      "details_status": "ok"
     },
     {
       "id": "251782",
@@ -115,12 +151,18 @@
       "home_logo": "https://jdwel.com/image/teams/flag_northern_ireland.png",
       "away_logo": "https://jdwel.com/image/teams/flag_ukraine.png",
       "match_time": "14 نوفمبر 2026، 22:45",
-      "audio_items": [],
-      "audio": [],
-      "audio_text": "",
+      "audio_items": [
+        {
+          "channel": "beIN SPORTS 6",
+          "commentator": "جواد بدة"
+        }
+      ],
+      "audio": [
+        "الصوتية السادسة — Audio 6 (جواد بدة)"
+      ],
+      "audio_text": "الصوتية السادسة — Audio 6 (جواد بدة)",
       "channel_names_mode": "custom",
-      "details_status": "unavailable",
-      "details_error": "صفحة المباراة لا تحتوي على عناصر قنوات ضمن قسم البث"
+      "details_status": "ok"
     },
     {
       "id": "263771",
@@ -130,12 +172,18 @@
       "home_logo": "https://jdwel.com/image/teams/219.png",
       "away_logo": "https://jdwel.com/image/teams/196.png",
       "match_time": "14 نوفمبر 2026، 19:00",
-      "audio_items": [],
-      "audio": [],
-      "audio_text": "",
+      "audio_items": [
+        {
+          "channel": "beIN SPORTS XTRA 1",
+          "commentator": "أحمد عبده"
+        }
+      ],
+      "audio": [
+        "beIN SPORTS XTRA 1 (أحمد عبده)"
+      ],
+      "audio_text": "beIN SPORTS XTRA 1 (أحمد عبده)",
       "channel_names_mode": "custom",
-      "details_status": "unavailable",
-      "details_error": "صفحة المباراة لا تحتوي على عناصر قنوات ضمن قسم البث"
+      "details_status": "ok"
     },
     {
       "id": "263769",
@@ -145,12 +193,18 @@
       "home_logo": "https://jdwel.com/image/teams/flag_algeria_v2.png",
       "away_logo": "https://jdwel.com/image/teams/195.png",
       "match_time": "14 نوفمبر 2026، 22:00",
-      "audio_items": [],
-      "audio": [],
-      "audio_text": "",
+      "audio_items": [
+        {
+          "channel": "beIN SPORTS 1",
+          "commentator": "حفيظ دراجي"
+        }
+      ],
+      "audio": [
+        "الصوتية الأولى — Audio 1 (حفيظ دراجي)"
+      ],
+      "audio_text": "الصوتية الأولى — Audio 1 (حفيظ دراجي)",
       "channel_names_mode": "custom",
-      "details_status": "unavailable",
-      "details_error": "صفحة المباراة لا تحتوي على عناصر قنوات ضمن قسم البث"
+      "details_status": "ok"
     },
     {
       "id": "263783",
@@ -160,12 +214,18 @@
       "home_logo": "https://jdwel.com/image/teams/189.png",
       "away_logo": "https://jdwel.com/image/teams/227.png",
       "match_time": "14 نوفمبر 2026، 22:00",
-      "audio_items": [],
-      "audio": [],
-      "audio_text": "",
+      "audio_items": [
+        {
+          "channel": "beIN SPORTS 9",
+          "commentator": "منتصر الأزهري"
+        }
+      ],
+      "audio": [
+        "الصوتية التاسعة — Audio 9 (منتصر الأزهري)"
+      ],
+      "audio_text": "الصوتية التاسعة — Audio 9 (منتصر الأزهري)",
       "channel_names_mode": "custom",
-      "details_status": "unavailable",
-      "details_error": "صفحة المباراة لا تحتوي على عناصر قنوات ضمن قسم البث"
+      "details_status": "ok"
     },
     {
       "id": "244997",
@@ -175,12 +235,18 @@
       "home_logo": "https://jdwel.com/image/teams/3412.png",
       "away_logo": "https://jdwel.com/image/teams/eng_cheltenham_town.png",
       "match_time": "14 نوفمبر 2026، 15:30",
-      "audio_items": [],
-      "audio": [],
-      "audio_text": "",
+      "audio_items": [
+        {
+          "channel": "beIN SPORTS 2",
+          "commentator": "بكر علوان"
+        }
+      ],
+      "audio": [
+        "الصوتية الثانية — Audio 2 (بكر علوان)"
+      ],
+      "audio_text": "الصوتية الثانية — Audio 2 (بكر علوان)",
       "channel_names_mode": "custom",
-      "details_status": "unavailable",
-      "details_error": "صفحة المباراة لا تحتوي على عناصر قنوات ضمن قسم البث"
+      "details_status": "ok"
     },
     {
       "id": "244990",
@@ -310,12 +376,18 @@
       "home_logo": "https://jdwel.com/image/teams/eng_fleetwood_town.png",
       "away_logo": "https://jdwel.com/image/teams/1099.png",
       "match_time": "14 نوفمبر 2026، 20:30",
-      "audio_items": [],
-      "audio": [],
-      "audio_text": "",
+      "audio_items": [
+        {
+          "channel": "beIN SPORTS 5",
+          "commentator": "سمير اليعقوبي"
+        }
+      ],
+      "audio": [
+        "الصوتية الخامسة — Audio 5 (سمير اليعقوبي)"
+      ],
+      "audio_text": "الصوتية الخامسة — Audio 5 (سمير اليعقوبي)",
       "channel_names_mode": "custom",
-      "details_status": "unavailable",
-      "details_error": "صفحة المباراة لا تحتوي على عناصر قنوات ضمن قسم البث"
+      "details_status": "ok"
     }
   ]
 }
