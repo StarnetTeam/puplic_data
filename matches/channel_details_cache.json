@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-14T12:00:25+00:00",
-  "channel_count": 398,
+  "last_updated": "2026-11-15T12:36:26+00:00",
+  "channel_count": 400,
   "channels": {
     "20mediaset hd": {
       "name": "20Mediaset HD",
@@ -487,6 +487,25 @@
         ]
       },
       "cached_at": "2026-09-06T09:15:10+00:00"
+    },
+    "atv avrupa": {
+      "name": "atv avrupa",
+      "details": {
+        "transponders": [
+          {
+            "Name": "TURKSAT 2A, 3A",
+            "Position": "42.0E",
+            "Frequency": "11833.00",
+            "Polarisation": "V",
+            "SR": "7500",
+            "FEC": "2/3",
+            "System": "DVB-S2",
+            "Modulation": "8PSK",
+            "Crypt": "not available"
+          }
+        ]
+      },
+      "cached_at": "2026-11-15T12:36:26+00:00"
     },
     "atv turkey hd": {
       "name": "ATV Turkey HD",
@@ -7710,6 +7729,25 @@
         ]
       },
       "cached_at": "2026-08-18T05:27:10+00:00"
+    },
+    "vtm hd": {
+      "name": "VTM HD",
+      "details": {
+        "transponders": [
+          {
+            "Name": "ASTRA 1E,3A",
+            "Position": "23.5E",
+            "Frequency": "11856.00",
+            "Polarisation": "V",
+            "SR": "29900",
+            "FEC": "3/4",
+            "System": "DVB-S2",
+            "Modulation": "8PSK",
+            "Crypt": "Seca/Mediaguard ; Viaccess ; Nagravision 3"
+          }
+        ]
+      },
+      "cached_at": "2026-11-15T12:36:26+00:00"
     },
     "wdr aachen hd": {
       "name": "WDR Aachen HD",
