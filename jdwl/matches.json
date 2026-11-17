@@ -1,6 +1,6 @@
 {
   "source": "https://jdwel.com/today/",
-  "generated_at_utc": "2026-11-17T04:54:00.552944+00:00",
+  "generated_at_utc": "2026-11-17T14:00:07.029370+00:00",
   "matches": [
     {
       "id": "251723",
@@ -133,13 +133,13 @@
       "audio_items": [
         {
           "channel": "beIN SPORTS 5",
-          "commentator": "غير محدد"
+          "commentator": "محمد مبروكي"
         }
       ],
       "audio": [
-        "الصوتية الخامسة — Audio 5 (غير محدد)"
+        "الصوتية الخامسة — Audio 5 (محمد مبروكي)"
       ],
-      "audio_text": "الصوتية الخامسة — Audio 5 (غير محدد)",
+      "audio_text": "الصوتية الخامسة — Audio 5 (محمد مبروكي)",
       "channel_names_mode": "custom",
       "details_status": "ok"
     },
