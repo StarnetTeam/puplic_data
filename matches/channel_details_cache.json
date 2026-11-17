@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-16T13:28:30+00:00",
-  "channel_count": 400,
+  "last_updated": "2026-11-17T14:14:26+00:00",
+  "channel_count": 402,
   "channels": {
     "20mediaset hd": {
       "name": "20Mediaset HD",
@@ -1090,6 +1090,25 @@
         ]
       },
       "cached_at": "2026-09-16T09:48:36+00:00"
+    },
+    "cielo hd": {
+      "name": "Cielo HD",
+      "details": {
+        "transponders": [
+          {
+            "Name": "HOTBIRD 6,7A,8",
+            "Position": "13.0E",
+            "Frequency": "12073.00",
+            "Polarisation": "V",
+            "SR": "29900",
+            "FEC": "3/4",
+            "System": "DVB-S2",
+            "Modulation": "8PSK",
+            "Crypt": "Nagravision 3 ; NDS VideoGuard"
+          }
+        ]
+      },
+      "cached_at": "2026-11-17T14:14:25+00:00"
     },
     "club rtl belgium": {
       "name": "Club RTL Belgium",
@@ -4436,6 +4455,25 @@
         ]
       },
       "cached_at": "2026-11-12T13:38:15+00:00"
+    },
+    "rtp 1 hd": {
+      "name": "RTP 1 HD",
+      "details": {
+        "transponders": [
+          {
+            "Name": "HISPASAT 1C, 1D",
+            "Position": "30.0W",
+            "Frequency": "12130.00",
+            "Polarisation": "H",
+            "SR": "27500",
+            "FEC": "3/4",
+            "System": "DVB-S2",
+            "Modulation": "8PSK",
+            "Crypt": "Nagravision 3"
+          }
+        ]
+      },
+      "cached_at": "2026-11-17T14:14:25+00:00"
     },
     "rtp1": {
       "name": "RTP1",
