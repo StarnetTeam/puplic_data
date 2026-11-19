@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-18T13:45:39+00:00",
-  "channel_count": 402,
+  "last_updated": "2026-11-19T14:14:54+00:00",
+  "channel_count": 403,
   "channels": {
     "20mediaset hd": {
       "name": "20Mediaset HD",
@@ -4474,6 +4474,25 @@
         ]
       },
       "cached_at": "2026-11-17T14:14:25+00:00"
+    },
+    "rtp 2 hd": {
+      "name": "RTP 2 HD",
+      "details": {
+        "transponders": [
+          {
+            "Name": "HISPASAT 1C, 1D",
+            "Position": "30.0W",
+            "Frequency": "12130.00",
+            "Polarisation": "H",
+            "SR": "27500",
+            "FEC": "3/4",
+            "System": "DVB-S2",
+            "Modulation": "8PSK",
+            "Crypt": "Nagravision 3"
+          }
+        ]
+      },
+      "cached_at": "2026-11-19T14:14:54+00:00"
     },
     "rtp1": {
       "name": "RTP1",
