@@ -1,35 +1,74 @@
 {
-  "last_updated": "2026-11-18T13:45:39+00:00",
+  "last_updated": "2026-11-19T14:14:54+00:00",
   "matches": [
     {
-      "league": "International, CONCACAF Nations League",
-      "homeTeam": "USA",
-      "awayTeam": "Haiti",
-      "homeFlag": "https://www.sporteventz.com/components/com_magictable/flags/us.png",
-      "awayFlag": "https://www.sporteventz.com/components/com_magictable/flags/ht.png",
-      "time": "Wednesday, 18 November 2026 00:00",
+      "league": "Slovakia, Slovensky Pohar",
+      "homeTeam": "Lokomotiva Zvolen",
+      "awayTeam": "FK Kosice",
+      "homeFlag": "https://www.sporteventz.com/components/com_magictable/flags/sk.png",
+      "awayFlag": "https://www.sporteventz.com/components/com_magictable/flags/sk.png",
+      "time": "Thursday, 19 November 2026 12:00",
       "channels": [
         {
-          "name": "Sport TV 1 Portugal HD",
+          "name": "RTVS Sport HD",
           "details": {
             "transponders": [
               {
-                "Name": "HISPASAT 1C, 1D",
-                "Position": "30.0W",
-                "Frequency": "12360.00",
+                "Name": "INTELSAT 10-2, THOR 2,3,5",
+                "Position": "0.8W",
+                "Frequency": "11747.00",
                 "Polarisation": "H",
-                "SR": "27500",
+                "SR": "30000",
                 "FEC": "3/4",
                 "System": "DVB-S2",
                 "Modulation": "8PSK",
-                "Crypt": "Nagravision 3"
+                "Crypt": "Nagravision 3 ; Cryptoworks ; Irdeto ; Conax"
               },
               {
-                "Name": "HISPASAT 1C, 1D",
-                "Position": "30.0W",
-                "Frequency": "12246.00",
-                "Polarisation": "H",
+                "Name": "EUTELSAT W2",
+                "Position": "16.0E",
+                "Frequency": "11094.00",
+                "Polarisation": "V",
                 "SR": "27500",
+                "FEC": "4/5",
+                "System": "DVB-S2",
+                "Modulation": "QPSK",
+                "Crypt": "Conax"
+              },
+              {
+                "Name": "ASTRA 1E,3A",
+                "Position": "23.5E",
+                "Frequency": "12012.00",
+                "Polarisation": "V",
+                "SR": "29900",
+                "FEC": "3/4",
+                "System": "DVB-S2",
+                "Modulation": "8PSK",
+                "Crypt": "Irdeto ; Nagravision 3 ; Conax ; Viaccess"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "league": "Slovenia, Slovenia Cup",
+      "homeTeam": "ND Beltinci",
+      "awayTeam": "Celje",
+      "homeFlag": "https://www.sporteventz.com/components/com_magictable/flags/si.png",
+      "awayFlag": "https://www.sporteventz.com/components/com_magictable/flags/si.png",
+      "time": "Thursday, 19 November 2026 12:30",
+      "channels": [
+        {
+          "name": "Sportklub 1 Croatia HD",
+          "details": {
+            "transponders": [
+              {
+                "Name": "EUTELSAT 16A",
+                "Position": "16.0E",
+                "Frequency": "11595.00",
+                "Polarisation": "H",
+                "SR": "30000",
                 "FEC": "3/4",
                 "System": "DVB-S2",
                 "Modulation": "8PSK",
@@ -41,38 +80,27 @@
       ]
     },
     {
-      "league": "International, CONCACAF Nations League",
-      "homeTeam": "Mexico",
-      "awayTeam": "Jamaica",
-      "homeFlag": "https://www.sporteventz.com/components/com_magictable/flags/mx.png",
-      "awayFlag": "https://www.sporteventz.com/components/com_magictable/flags/jm.png",
-      "time": "Wednesday, 18 November 2026 02:30",
+      "league": "International Youth, U17 FIFA World Cup",
+      "homeTeam": "France U17",
+      "awayTeam": "Haiti U17",
+      "homeFlag": "https://www.sporteventz.com/components/com_magictable/flags/fr.png",
+      "awayFlag": "https://www.sporteventz.com/components/com_magictable/flags/ht.png",
+      "time": "Thursday, 19 November 2026 13:00",
       "channels": [
         {
-          "name": "Sport TV 1 Portugal HD",
+          "name": "L'EQUIPE HD",
           "details": {
             "transponders": [
               {
-                "Name": "HISPASAT 1C, 1D",
-                "Position": "30.0W",
-                "Frequency": "12360.00",
-                "Polarisation": "H",
-                "SR": "27500",
-                "FEC": "3/4",
+                "Name": "ASTRA 1F,1G,1H,1KR,1L",
+                "Position": "19.2E",
+                "Frequency": "11895.00",
+                "Polarisation": "V",
+                "SR": "29700",
+                "FEC": "2/3",
                 "System": "DVB-S2",
                 "Modulation": "8PSK",
-                "Crypt": "Nagravision 3"
-              },
-              {
-                "Name": "HISPASAT 1C, 1D",
-                "Position": "30.0W",
-                "Frequency": "12246.00",
-                "Polarisation": "H",
-                "SR": "27500",
-                "FEC": "3/4",
-                "System": "DVB-S2",
-                "Modulation": "8PSK",
-                "Crypt": "Nagravision 3"
+                "Crypt": "Nagravision 3 ; Viaccess"
               }
             ]
           }
@@ -81,37 +109,164 @@
     },
     {
       "league": "International Clubs, UEFA Champions League Women",
-      "homeTeam": "Chelsea (W)",
-      "awayTeam": "Paris SG (W)",
-      "homeFlag": "https://www.sporteventz.com/components/com_magictable/flags/gb.png",
-      "awayFlag": "https://www.sporteventz.com/components/com_magictable/flags/fr.png",
-      "time": "Wednesday, 18 November 2026 20:00",
+      "homeTeam": "Austria Wien (W)",
+      "awayTeam": "Bayern Munich (W)",
+      "homeFlag": "https://www.sporteventz.com/components/com_magictable/flags/at.png",
+      "awayFlag": "https://www.sporteventz.com/components/com_magictable/flags/de.png",
+      "time": "Thursday, 19 November 2026 17:45",
       "channels": [
         {
-          "name": "CT sport HD",
+          "name": "ORF Sport Plus HD",
           "details": {
             "transponders": [
               {
-                "Name": "INTELSAT 10-2, THOR 2,3,5",
-                "Position": "0.8W",
-                "Frequency": "12456.00",
+                "Name": "ASTRA 1F,1G,1H,1KR,1L",
+                "Position": "19.2E",
+                "Frequency": "11273.00",
+                "Polarisation": "H",
+                "SR": "22000",
+                "FEC": "2/3",
+                "System": "DVB-S2",
+                "Modulation": "8PSK",
+                "Crypt": "Cryptoworks:Irdeto2;Viaccess5.0;VideoGuard"
+              }
+            ]
+          }
+        },
+        {
+          "name": "ORF1 HD",
+          "details": {
+            "transponders": [
+              {
+                "Name": "ASTRA 1F,1G,1H,1KR,1L",
+                "Position": "19.2E",
+                "Frequency": "11303.00",
+                "Polarisation": "H",
+                "SR": "22000",
+                "FEC": "2/3",
+                "System": "DVB-S2",
+                "Modulation": "8PSK",
+                "Crypt": "Irdeto ; Cryptoworks ; Viaccess ; NDS VideoGuard"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "league": "International Clubs, UEFA Champions League Women",
+      "homeTeam": "Barcelona (W)",
+      "awayTeam": "Servette Geneva (W)",
+      "homeFlag": "https://www.sporteventz.com/components/com_magictable/flags/es.png",
+      "awayFlag": "https://www.sporteventz.com/components/com_magictable/flags/ch.png",
+      "time": "Thursday, 19 November 2026 20:00",
+      "channels": [
+        {
+          "name": "RTS 2 HD",
+          "details": {
+            "transponders": [
+              {
+                "Name": "HOTBIRD 6,7A,8",
+                "Position": "13.0E",
+                "Frequency": "10971.00",
+                "Polarisation": "H",
+                "SR": "29700",
+                "FEC": "2/3",
+                "System": "DVB-S2",
+                "Modulation": "8PSK",
+                "Crypt": "Viaccess ; CAID 0x4afc"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "league": "International Clubs, UEFA Champions League Women",
+      "homeTeam": "Arsenal (W)",
+      "awayTeam": "Lyon (W)",
+      "homeFlag": "https://www.sporteventz.com/components/com_magictable/flags/gb.png",
+      "awayFlag": "https://www.sporteventz.com/components/com_magictable/flags/fr.png",
+      "time": "Thursday, 19 November 2026 20:00",
+      "channels": [
+        {
+          "name": "L'EQUIPE HD",
+          "details": {
+            "transponders": [
+              {
+                "Name": "ASTRA 1F,1G,1H,1KR,1L",
+                "Position": "19.2E",
+                "Frequency": "11895.00",
+                "Polarisation": "V",
+                "SR": "29700",
+                "FEC": "2/3",
+                "System": "DVB-S2",
+                "Modulation": "8PSK",
+                "Crypt": "Nagravision 3 ; Viaccess"
+              }
+            ]
+          }
+        },
+        {
+          "name": "TRT Spor HD",
+          "details": {
+            "transponders": [
+              {
+                "Name": "TURKSAT 2A, 3A",
+                "Position": "42.0E",
+                "Frequency": "11054.00",
                 "Polarisation": "V",
                 "SR": "30000",
                 "FEC": "3/4",
                 "System": "DVB-S2",
                 "Modulation": "8PSK",
-                "Crypt": "Nagravision 3 ; Irdeto ; Cryptoworks ; Conax"
-              },
+                "Crypt": "Frei"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "league": "International Clubs, UEFA Champions League Women",
+      "homeTeam": "Benfica (W)",
+      "awayTeam": "AS Roma (W)",
+      "homeFlag": "https://www.sporteventz.com/components/com_magictable/flags/pt.png",
+      "awayFlag": "https://www.sporteventz.com/components/com_magictable/flags/it.png",
+      "time": "Thursday, 19 November 2026 20:00",
+      "channels": [
+        {
+          "name": "Benfica TV",
+          "details": {
+            "transponders": [
               {
-                "Name": "ASTRA 1E,3A",
-                "Position": "23.5E",
-                "Frequency": "12343.00",
+                "Name": "HISPASAT 1C, 1D",
+                "Position": "30.0W",
+                "Frequency": "12360.00",
                 "Polarisation": "H",
-                "SR": "29900",
+                "SR": "27500",
                 "FEC": "3/4",
                 "System": "DVB-S2",
                 "Modulation": "8PSK",
-                "Crypt": "not available"
+                "Crypt": "Nagravision 3"
+              }
+            ]
+          }
+        },
+        {
+          "name": "RTP 2 HD",
+          "details": {
+            "transponders": [
+              {
+                "Name": "HISPASAT 1C, 1D",
+                "Position": "30.0W",
+                "Frequency": "12130.00",
+                "Polarisation": "H",
+                "SR": "27500",
+                "FEC": "3/4",
+                "System": "DVB-S2",
+                "Modulation": "8PSK",
+                "Crypt": "Nagravision 3"
               }
             ]
           }
@@ -120,11 +275,11 @@
     },
     {
       "league": "Brazil, Brasileiro Serie A",
-      "homeTeam": "Cruzeiro MG",
-      "awayTeam": "Palmeiras",
+      "homeTeam": "Vasco Da Gama",
+      "awayTeam": "Internacional RS",
       "homeFlag": "https://www.sporteventz.com/components/com_magictable/flags/br.png",
       "awayFlag": "https://www.sporteventz.com/components/com_magictable/flags/br.png",
-      "time": "Wednesday, 18 November 2026 23:30",
+      "time": "Thursday, 19 November 2026 22:30",
       "channels": [
         {
           "name": "Canal 11 HD",
