@@ -1,5 +1,95 @@
 {
   "source": "https://jdwel.com/today/",
-  "generated_at_utc": "2026-11-19T19:17:36.912863+00:00",
-  "matches": []
+  "generated_at_utc": "2026-11-20T01:32:02.422286+00:00",
+  "matches": [
+    {
+      "id": "241155",
+      "competition": "الدوري الإسباني",
+      "home_team": "أتلتيك بيلباو",
+      "away_team": "إسبانيول",
+      "home_logo": "https://jdwel.com/image/teams/2033.png",
+      "away_logo": "https://jdwel.com/image/teams/1164.png",
+      "match_time": "20 نوفمبر 2026، 23:00",
+      "audio_items": [
+        {
+          "channel": "beIN SPORTS 1",
+          "commentator": "عبدالله الغامدي"
+        }
+      ],
+      "audio": [
+        "الصوتية الأولى — Audio 1 (عبدالله الغامدي)"
+      ],
+      "audio_text": "الصوتية الأولى — Audio 1 (عبدالله الغامدي)",
+      "channel_names_mode": "custom",
+      "details_status": "ok"
+    },
+    {
+      "id": "254983",
+      "competition": "دوري روشن السعودي",
+      "home_team": "الأهلي",
+      "away_team": "النصر",
+      "home_logo": "https://jdwel.com/image/teams/3404.png",
+      "away_logo": "https://jdwel.com/image/teams/3169.png",
+      "match_time": "20 نوفمبر 2026، 20:30",
+      "audio_items": [
+        {
+          "channel": "ثمانية 1",
+          "commentator": "سعد يحيى"
+        },
+        {
+          "channel": "ثمانية (اشتراك)",
+          "commentator": "مشاري القرني"
+        }
+      ],
+      "audio": [
+        "Thamanya 1 — ثمانية 1 (سعد يحيى)",
+        "Thamanya — ثمانية (اشتراك) (مشاري القرني)"
+      ],
+      "audio_text": "Thamanya 1 — ثمانية 1 (سعد يحيى) | Thamanya — ثمانية (اشتراك) (مشاري القرني)",
+      "channel_names_mode": "custom",
+      "details_status": "ok"
+    },
+    {
+      "id": "240423",
+      "competition": "الدوري الفرنسي",
+      "home_team": "تروا",
+      "away_team": "لوهافر",
+      "home_logo": "https://jdwel.com/image/teams/6492.png",
+      "away_logo": "https://jdwel.com/image/teams/3189.png",
+      "match_time": "20 نوفمبر 2026، 22:45",
+      "audio_items": [
+        {
+          "channel": "beIN SPORTS 3",
+          "commentator": "محمد بركات"
+        }
+      ],
+      "audio": [
+        "الصوتية الثالثة — Audio 3 (محمد بركات)"
+      ],
+      "audio_text": "الصوتية الثالثة — Audio 3 (محمد بركات)",
+      "channel_names_mode": "custom",
+      "details_status": "ok"
+    },
+    {
+      "id": "242670",
+      "competition": "الدوري الألماني",
+      "home_team": "بايرن ميونخ",
+      "away_team": "كولن",
+      "home_logo": "https://jdwel.com/image/teams/1300.png",
+      "away_logo": "https://jdwel.com/image/teams/2148.png",
+      "match_time": "20 نوفمبر 2026، 22:30",
+      "audio_items": [
+        {
+          "channel": "MBC شاهد",
+          "commentator": "محمد حسين"
+        }
+      ],
+      "audio": [
+        "MBC شاهد (محمد حسين)"
+      ],
+      "audio_text": "MBC شاهد (محمد حسين)",
+      "channel_names_mode": "custom",
+      "details_status": "ok"
+    }
+  ]
 }
