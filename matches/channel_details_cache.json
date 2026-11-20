@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-19T14:14:54+00:00",
-  "channel_count": 403,
+  "last_updated": "2026-11-20T13:55:22+00:00",
+  "channel_count": 404,
   "channels": {
     "20mediaset hd": {
       "name": "20Mediaset HD",
@@ -995,6 +995,25 @@
         ]
       },
       "cached_at": "2026-11-08T11:48:56+00:00"
+    },
+    "canal+ sport 2 hd": {
+      "name": "CANAL+ SPORT 2 HD",
+      "details": {
+        "transponders": [
+          {
+            "Name": "HOTBIRD 6,7A,8",
+            "Position": "13.0E",
+            "Frequency": "11449.00",
+            "Polarisation": "H",
+            "SR": "27500",
+            "FEC": "5/6",
+            "System": "DVB-S2",
+            "Modulation": "8PSK",
+            "Crypt": "not available"
+          }
+        ]
+      },
+      "cached_at": "2026-11-20T13:55:22+00:00"
     },
     "canal+ sport 3 hd": {
       "name": "CANAL+ SPORT 3 HD",
