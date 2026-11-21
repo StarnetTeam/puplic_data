@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-20T13:55:22+00:00",
-  "channel_count": 404,
+  "last_updated": "2026-11-21T13:19:44+00:00",
+  "channel_count": 405,
   "channels": {
     "20mediaset hd": {
       "name": "20Mediaset HD",
@@ -2406,6 +2406,36 @@
         ]
       },
       "cached_at": "2026-11-08T11:48:58+00:00"
+    },
+    "joj sport 2 hd": {
+      "name": "JOJ Sport 2 HD",
+      "details": {
+        "transponders": [
+          {
+            "Name": "EUTELSAT W2",
+            "Position": "16.0E",
+            "Frequency": "11471.00",
+            "Polarisation": "V",
+            "SR": "30000",
+            "FEC": "5/6",
+            "System": "DVB-S2",
+            "Modulation": "8PSK",
+            "Crypt": "Conax"
+          },
+          {
+            "Name": "ASTRA 1E,3A",
+            "Position": "23.5E",
+            "Frequency": "12090.00",
+            "Polarisation": "V",
+            "SR": "29900",
+            "FEC": "3/4",
+            "System": "DVB-S2",
+            "Modulation": "8PSK",
+            "Crypt": "Irdeto ; Nagravision 3 ; Conax ; Viaccess"
+          }
+        ]
+      },
+      "cached_at": "2026-11-21T13:19:44+00:00"
     },
     "joj sport hd": {
       "name": "JOJ Sport HD",
