@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-26T14:54:41+00:00",
-  "channel_count": 405,
+  "last_updated": "2026-11-27T14:51:54+00:00",
+  "channel_count": 406,
   "channels": {
     "20mediaset hd": {
       "name": "20Mediaset HD",
@@ -2273,6 +2273,25 @@
         ]
       },
       "cached_at": "2026-11-04T12:52:32+00:00"
+    },
+    "france 4 hd": {
+      "name": "FRANCE 4 HD",
+      "details": {
+        "transponders": [
+          {
+            "Name": "ASTRA 1F,1G,1H,1KR,1L",
+            "Position": "19.2E",
+            "Frequency": "12168.00",
+            "Polarisation": "V",
+            "SR": "29700",
+            "FEC": "2/3",
+            "System": "DVB-S2",
+            "Modulation": "8PSK",
+            "Crypt": "Seca/Mediaguard ; Nagravision 3 ; Viaccess"
+          }
+        ]
+      },
+      "cached_at": "2026-11-27T14:51:54+00:00"
     },
     "hrt 2 croatia hd": {
       "name": "HRT 2 Croatia HD",
